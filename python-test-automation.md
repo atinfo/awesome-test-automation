@@ -30,7 +30,7 @@ Also:
 
 ## xUnit frameworks
 
-* [unittest](https://docs.python.org/library/unittest.html) - Out of the box library to make unit testing.
+* [unittest](https://docs.python.org/library/unittest.html) - is a library to make unit testing distributed with python out of the box.
 * [unittest2](https://pypi.python.org/pypi/unittest2) - is a backport of the new features added to the unittest testing framework in Python 2.7 and onwards.
 * [pytest](http://pytest.org/) - is a mature full-featured Python testing tool that helps you write better programs.
 * [nosetests](https://nose.readthedocs.org/en/latest/) - is a nicer testing for python.
