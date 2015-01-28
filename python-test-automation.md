@@ -4,7 +4,7 @@ A comprehensive curated list of python test automation frameworks, tools, librar
 
 Table of content:
 
-- [xUnit frameworks](#xUnit-frameworks)
+- [xUnit frameworks](#xunit-frameworks)
 - [TDD \ ATTD \ BDD](#tdd--atdd--bdd)
 - [Code Analysis](#code-analysis)
 - [Web UI test automation](#web-ui-test-automation)
@@ -17,8 +17,10 @@ Table of content:
 - [Continuous Integration](#continuous-integration)
 - [Reporting](#reporting)
 - [Documentation generation](#documentation-generation)
-- [Editors, IDE and consoles](#editors-ide-and-consoles)
+- [Editors, IDE and consoles](#editors-ide-consoles)
 - [Useful libs](#useful-libs)
+
+Also:
 
 - [Resources](#resources)
 - [Other Awesome Test Automation Lists](#other-awesome-lists)
