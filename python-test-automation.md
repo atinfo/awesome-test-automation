@@ -116,14 +116,11 @@ Also:
 
 * [Multi-Mechanize](http://testutils.org/multi-mechanize/) - An open source framework for performance and load testing.
 * [locust](https://github.com/locustio/locust) - Scalable user load testing tool written in Python.
-* []() - 
-* []() - 
-* []() - 
-* []() - 
+* [Yandex.Tank](https://github.com/yandex/yandex-tank) - Load and performance benchmark tool.
 
 ## Security checking
 
-[Contribute to this section](https://github.com/atinfo/awesome-test-automation/blob/master/CONTRIBUTING.md)
+* [sparta](http://sparta.secforce.com/) - A GUI application which simplifies network infrastructure penetration testing by aiding the penetration tester in the scanning and enumeration phase. 
 
 ## Continuous Integration
 
