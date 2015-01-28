@@ -6,6 +6,7 @@ Table of content:
 
 - [xUnit frameworks](#xunit-frameworks)
 - [TDD \ ATTD \ BDD](#tdd--atdd--bdd)
+- [Test Data manipulation](#test-data-manipulation)
 - [Code Analysis](#code-analysis)
 - [Web UI test automation](#web-ui-test-automation)
 - [Windows UI test automation](#windows-ui-test-automation)
@@ -30,21 +31,40 @@ Also:
 
 ## xUnit frameworks
 
-* [unittest](https://docs.python.org/library/unittest.html) - is a library to make unit testing distributed with python out of the box.
-* [unittest2](https://pypi.python.org/pypi/unittest2) - is a backport of the new features added to the unittest testing framework in Python 2.7 and onwards.
-* [pytest](http://pytest.org/) - is a mature full-featured Python testing tool that helps you write better programs.
-* [nosetests](https://nose.readthedocs.org/en/latest/) - is a nicer testing for python.
-* [proboscis](https://pythonhosted.org/proboscis/) -  is a Python test framework that extends Python’s built-in unittest module and Nose with features from TestNG.
+- frameworks 
+    * [unittest](https://docs.python.org/library/unittest.html) - is a library to make unit testing distributed with python out of the box.
+    * [unittest2](https://pypi.python.org/pypi/unittest2) - is a backport of the new features added to the unittest testing framework in Python 2.7 and onwards.
+    * [pytest](http://pytest.org/) - is a mature full-featured Python testing tool that helps you write better programs.
+    * [nosetests](https://nose.readthedocs.org/en/latest/) - is a nicer testing for python.
+- extensions
+    * [proboscis](https://pythonhosted.org/proboscis/) -  is a Python test framework that extends Python’s built-in unittest module and Nose with features from TestNG.
+    * [grails](https://github.com/wgnet/grail) - A library which allows test script creation based on steps.
 
 ## TDD \ ATDD \ BDD
 
-* [behave](https://pypi.python.org/pypi/behave) - BDD tool
-* [lettuce](http://lettuce.it/) - BDD tool
-* [contexts](https://github.com/benjamin-hodgson/Contexts) - Descriptive testing for Python.
-* [mamba](http://nestorsalceda.github.io/mamba/) - The definitive testing tool for Python. Born under the banner of Behavior Driven Development.
-* [pyvows](http://heynemann.github.io/pyvows/) - Asynchronous behaviour driven development for Python.
-* [pyshould](https://github.com/drslump/pyshould) - Should style asserts based on pyhamcrest.
-* [pyhamcrest](https://github.com/hamcrest/PyHamcrest) - Hamcrest matchers for Python.
+- BDD
+    * [behave](https://pypi.python.org/pypi/behave) - BDD tool
+    * [lettuce](http://lettuce.it/) - BDD tool
+    * [contexts](https://github.com/benjamin-hodgson/Contexts) - Descriptive testing for Python.
+    * [mamba](http://nestorsalceda.github.io/mamba/) - The definitive testing tool for Python. Born under the banner of Behavior Driven Development.
+    * [pyvows](http://heynemann.github.io/pyvows/) - Asynchronous behaviour driven development for Python.
+- Assertions
+    * [pyshould](https://github.com/drslump/pyshould) - Should style asserts based on pyhamcrest.
+    * [pyhamcrest](https://github.com/hamcrest/PyHamcrest) - Hamcrest matchers for Python.
+- Mocking
+    * [mock](https://pypi.python.org/pypi/mock) - A Python Mocking and Patching Library for Testing.
+    * [responses](https://github.com/dropbox/responses) - A utility library for mocking out the requests Python library.
+    * [doublex](https://pypi.python.org/pypi/doublex) - Powerful test doubles framework for Python.
+    * [freezegun](https://github.com/spulec/freezegun) - Travel through time by mocking the datetime module.
+    * [httpretty](http://falcao.it/HTTPretty/) - HTTP request mock tool for Python.
+    * [httmock](https://github.com/patrys/httmock) - A mocking library for requests for Python 2.6+ and 3.2+.
+
+## Test Data manipulation
+
+* [faker](http://www.joke2k.net/faker/) - A Python package that generates fake data.
+* [fake2db](https://github.com/emirozer/fake2db) - Fake database generator.
+* [ForgeryPy](https://pypi.python.org/pypi/ForgeryPy) - An easy to use forged data generator for Python. It's a port of forgery.
+* [radar](https://pypi.python.org/pypi/radar) - Generate random datetime / time.
 
 ## Code analysis
 * [pysonar2](https://github.com/yinwang0/pysonar2) - A type inferencer and indexer for Python.
@@ -59,6 +79,7 @@ Also:
 - libraries
     * [selenium webdriver](https://pypi.python.org/pypi/selenium) - Browser automation tool.
     * [splinter](https://github.com/cobrateam/splinter) - A tool for test web applications with a simple for find elements, form actions, and others browser actions.
+    * [mechanize](https://pypi.python.org/pypi/mechanize/) - Stateful programmatic web browsing in Python.
 - frameworks and wrappers
     * [py.saunter](https://github.com/element-34/py.saunter) - An opinionated automation framework for use with the Selenium RC and WebDriver libraries.
     * [moz-web-qa](https://github.com/davehunt/pytest-mozwebqa) - A plugin for py.test that provides additional features needed for Mozilla's WebQA projects.
@@ -67,7 +88,7 @@ Also:
     * [holmium.core](https://github.com/alisaifee/holmium.core) - Page objects & Utilities for writing selenium test cases.
     * [robotframework-selenium2library](https://github.com/rtomac/robotframework-selenium2library) - Web testing library for Robot Framework.
     * [gocept.selenium](https://pypi.python.org/pypi/gocept.selenium) - An API for the Selenium remote control that is suited for writing tests and integrates this with your test suite for any WSGI, Plone, Zope 2, ZTK, or Grok application.
-    * [webium](https://github.com/wgnet/webium1) - A Page Object pattern implementation library for Python
+    * [webium](https://github.com/wgnet/webium) - A Page Object pattern implementation library for Python
 - extensions
     * [pytest_splinter](https://github.com/pytest-dev/pytest-splinter) - pytest spinter and selenium integration for anyone interested in browser interaction in tests.
     * [lettuce_webdriver](https://github.com/bbangert/lettuce_webdriver) - Selenium webdriver for lettuce.
@@ -78,7 +99,7 @@ Also:
 
 ## Unix \ Linux UI test automation 
 
-[Contribute to this section](https://github.com/atinfo/awesome-test-automation/blob/master/CONTRIBUTING.md)
+* [ldtp](https://pypi.python.org/pypi/ldtp) - Cross Platform Linux Desktop (GUI Application) Testing Project.
 
 ## MacOS UI test automation 
 
@@ -89,10 +110,16 @@ Also:
 * [virtualenv](https://pypi.python.org/pypi/virtualenv) - A tool to create isolated Python environments.
 * [virtualenvwrapper](https://virtualenvwrapper.readthedocs.org/en/latest/) - A set of extensions to Ian Bicking’s virtualenv tool.
 * [tox](https://pypi.python.org/pypi/tox) - A generic virtualenv management and test command line tool to test code on different python versions.
+* [PyVirtualDisplay](https://pypi.python.org/pypi/PyVirtualDisplay) - A python wrapper for Xvfb, Xephyr and Xvnc for GUI testing and\or automatic GUI screenshot.
 
 ## Performance & stress & load
 
-[Contribute to this section](https://github.com/atinfo/awesome-test-automation/blob/master/CONTRIBUTING.md)
+* [Multi-Mechanize](http://testutils.org/multi-mechanize/) - An open source framework for performance and load testing.
+* [locust](https://github.com/locustio/locust) - Scalable user load testing tool written in Python.
+* []() - 
+* []() - 
+* []() - 
+* []() - 
 
 ## Security checking
 
