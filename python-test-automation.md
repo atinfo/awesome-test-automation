@@ -111,6 +111,10 @@ Also:
 * [virtualenvwrapper](https://virtualenvwrapper.readthedocs.org/en/latest/) - A set of extensions to Ian Bicking’s virtualenv tool.
 * [tox](https://pypi.python.org/pypi/tox) - A generic virtualenv management and test command line tool to test code on different python versions.
 * [PyVirtualDisplay](https://pypi.python.org/pypi/PyVirtualDisplay) - A python wrapper for Xvfb, Xephyr and Xvnc for GUI testing and\or automatic GUI screenshot.
+* [pew](https://pypi.python.org/pypi/pew/) - A set of tools to manage multiple virtual environments.
+* [Vex](https://github.com/sashahart/vex) - Run a command in the named virtualenv.
+* [PyRun](https://www.egenix.com/products/python/PyRun/) - A one-file, no-installation-needed version of Python.
+* [pyenv](https://github.com/yyuu/pyenv) - Simple Python version management.
 
 ## Performance & stress & load
 
