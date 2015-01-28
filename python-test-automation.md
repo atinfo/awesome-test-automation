@@ -96,7 +96,10 @@ Also:
 
 ## Editors, IDE, consoles
 
-[Contribute to this section](https://github.com/atinfo/awesome-test-automation/blob/master/CONTRIBUTING.md)
+* [pycharm](https://www.jetbrains.com/pycharm/) - Smart code editor provides first-class support for Python
+* [pydev](http://pydev.org/) - Full featured python ide based on eclipse
+* [sublime](http://sublimetext.com/) - A sophisticated text editor for code, markup and prose.
+* [ipython](http://ipython.org/) - A command shell for interactive computing in multiple programming languages, originally developed for the Python programming language
 
 ## Useful libs
 
