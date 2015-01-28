@@ -66,11 +66,11 @@ Also:
     * [wtframework](https://github.com/wiredrive/wtframework) - Framework for configurable Web Tests in Python.
     * [holmium.core](https://github.com/alisaifee/holmium.core) - Page objects & Utilities for writing selenium test cases.
     * [robotframework-selenium2library](https://github.com/rtomac/robotframework-selenium2library) - Web testing library for Robot Framework.
-    * [gocept.selenium])(https://pypi.python.org/pypi/gocept.selenium) - An API for the Selenium remote control that is suited for writing tests and integrates this with your test suite for any WSGI, Plone, Zope 2, ZTK, or Grok application.
+    * [gocept.selenium](https://pypi.python.org/pypi/gocept.selenium) - An API for the Selenium remote control that is suited for writing tests and integrates this with your test suite for any WSGI, Plone, Zope 2, ZTK, or Grok application.
     * [webium](https://github.com/wgnet/webium1) - A Page Object pattern implementation library for Python
 - extensions
-    * pytest_splinter https://github.com/pytest-dev/pytest-splinter
-    * lettuce_webdriver https://github.com/bbangert/lettuce_webdriver24
+    * [pytest_splinter](https://github.com/pytest-dev/pytest-splinter) - pytest spinter and selenium integration for anyone interested in browser interaction in tests.
+    * [lettuce_webdriver](https://github.com/bbangert/lettuce_webdriver) - Selenium webdriver for lettuce.
 
 ## Windows UI test automation 
 
