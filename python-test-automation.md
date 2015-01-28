@@ -57,9 +57,8 @@ Also:
 ## Web UI test automation
 
 - libraries
-    - [selenium webdriver](https://pypi.python.org/pypi/selenium) - Browser automation tool.
-    - [splinter](https://github.com/cobrateam/splinter) - A tool for test web applications with a simple for find elements, form actions, and others browser actions.
-    - 
+    * [selenium webdriver](https://pypi.python.org/pypi/selenium) - Browser automation tool.
+    * [splinter](https://github.com/cobrateam/splinter) - A tool for test web applications with a simple for find elements, form actions, and others browser actions.
 - frameworks and wrappers
     * [py.saunter](https://github.com/element-34/py.saunter) - An opinionated automation framework for use with the Selenium RC and WebDriver libraries.
     * [moz-web-qa](https://github.com/davehunt/pytest-mozwebqa) - A plugin for py.test that provides additional features needed for Mozilla's WebQA projects.
