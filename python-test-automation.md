@@ -56,7 +56,22 @@ Also:
 
 ## Web UI test automation
 
-[Contribute to this section](https://github.com/atinfo/awesome-test-automation/blob/master/CONTRIBUTING.md)
+- libraries
+    - [selenium webdriver](https://pypi.python.org/pypi/selenium) - Browser automation tool.
+    - [splinter](https://github.com/cobrateam/splinter) - A tool for test web applications with a simple for find elements, form actions, and others browser actions.
+    - 
+- frameworks and wrappers
+    * [py.saunter](https://github.com/element-34/py.saunter) - An opinionated automation framework for use with the Selenium RC and WebDriver libraries.
+    * [moz-web-qa](https://github.com/davehunt/pytest-mozwebqa) - A plugin for py.test that provides additional features needed for Mozilla's WebQA projects.
+    * [testutils sst](http://testutils.org/sst) - A web test framework that uses Python to generate functional browser-based tests.
+    * [wtframework](https://github.com/wiredrive/wtframework) - Framework for configurable Web Tests in Python.
+    * [holmium.core](https://github.com/alisaifee/holmium.core) - Page objects & Utilities for writing selenium test cases.
+    * [robotframework-selenium2library](https://github.com/rtomac/robotframework-selenium2library) - Web testing library for Robot Framework.
+    * [gocept.selenium])(https://pypi.python.org/pypi/gocept.selenium) - An API for the Selenium remote control that is suited for writing tests and integrates this with your test suite for any WSGI, Plone, Zope 2, ZTK, or Grok application.
+    * [webium](https://github.com/wgnet/webium1) - A Page Object pattern implementation library for Python
+- extensions
+    * pytest_splinter https://github.com/pytest-dev/pytest-splinter
+    * lettuce_webdriver https://github.com/bbangert/lettuce_webdriver24
 
 ## Windows UI test automation 
 
@@ -72,7 +87,9 @@ Also:
 
 ## Virtual environments
 
-[Contribute to this section](https://github.com/atinfo/awesome-test-automation/blob/master/CONTRIBUTING.md)
+* [virtualenv](https://pypi.python.org/pypi/virtualenv) - A tool to create isolated Python environments.
+* [virtualenvwrapper](https://virtualenvwrapper.readthedocs.org/en/latest/) - A set of extensions to Ian Bicking’s virtualenv tool.
+* [tox](https://pypi.python.org/pypi/tox) - A generic virtualenv management and test command line tool to test code on different python versions.
 
 ## Performance & stress & load
 
