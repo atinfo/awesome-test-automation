@@ -10,4 +10,4 @@ A curated list of awesome test automation frameworks, tools, libraries, and soft
 
 # [Contribution](https://github.com/atinfo/awesome-test-automation/blob/master/CONTRIBUTING.md)
 
-Feel free to add new content! Your contributions are always welcome! 
+Feel free to fork and add new content! Your contributions are always welcome! 
