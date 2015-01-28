@@ -12,7 +12,7 @@ Table of content:
 
 ## xUnit frameworks
 
-[Contribute to this section](https://github.com/vinta/awesome-test-automation/blob/master/CONTRIBUTING.md)
+[Contribute to this section](https://github.com/atinfo/awesome-test-automation/blob/master/CONTRIBUTING.md)
 
 ## TDD \ ATDD \ BDD
 
