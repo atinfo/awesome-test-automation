@@ -59,5 +59,5 @@ Where to discover new libraries, information, tools, etc.
 * [php test automation](https://github.com/atinfo/awesome-test-automation/blob/master/php-test-automation.md)
 * [javascript test automation](https://github.com/atinfo/awesome-test-automation/blob/master/javascript-test-automation.md)
 
-# [Contributing](https://github.com/vinta/awesome-test-automation/blob/master/CONTRIBUTING.md)
+# [Contributing](https://github.com/atinfo/awesome-test-automation/blob/master/CONTRIBUTING.md)
 Your contributions are always welcome!
