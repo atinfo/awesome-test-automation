@@ -38,19 +38,21 @@ Also:
 
 ## TDD \ ATDD \ BDD
 
-* [behave](https://pypi.python.org/pypi/behave)
-* [lettuce](http://lettuce.it/)
+* [behave](https://pypi.python.org/pypi/behave) - BDD tool
+* [lettuce](http://lettuce.it/) - BDD tool
 * [contexts](https://github.com/benjamin-hodgson/Contexts) - Descriptive testing for Python.
 * [mamba](http://nestorsalceda.github.io/mamba/) - The definitive testing tool for Python. Born under the banner of Behavior Driven Development.
 * [pyvows](http://heynemann.github.io/pyvows/) - Asynchronous behaviour driven development for Python.
 * [pyshould](https://github.com/drslump/pyshould) - Should style asserts based on pyhamcrest.
 * [pyhamcrest](https://github.com/hamcrest/PyHamcrest) - Hamcrest matchers for Python.
 
-
-## Code analysis 
-
+## Code analysis
+* [pysonar2](https://github.com/yinwang0/pysonar2) - A type inferencer and indexer for Python.
 * [coverage](https://pypi.python.org/pypi/coverage) - Code coverage measurement
-* 
+* [pycallgraph](https://github.com/gak/pycallgraph) - A library that visualises the flow (call graph) of your Python application.
+* [Flake8](https://pypi.python.org/pypi/flake8) - The modular source code checker: pep8, pyflakes and co.
+* [pylama](https://pylama.readthedocs.org/) - Code audit tool for Python and JavaScript.
+* [Pylint](http://www.pylint.org/) - A source code analyzer. 
 
 ## Web UI test automation
 
