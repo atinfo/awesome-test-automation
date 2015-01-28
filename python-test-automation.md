@@ -30,6 +30,12 @@ Also:
 
 ## xUnit frameworks
 
+* [unittest](https://docs.python.org/library/unittest.html) - Out of the box library to make unit testing.
+* [unittest2](https://pypi.python.org/pypi/unittest2) - is a backport of the new features added to the unittest testing framework in Python 2.7 and onwards.
+* [pytest](http://pytest.org/) - is a mature full-featured Python testing tool that helps you write better programs.
+* [nosetests](https://nose.readthedocs.org/en/latest/) - is a nicer testing for python.
+* [proboscis](https://pythonhosted.org/proboscis/) -  is a Python test framework that extends Python’s built-in unittest module and Nose with features from TestNG.
+
 [Contribute to this section](https://github.com/atinfo/awesome-test-automation/blob/master/CONTRIBUTING.md)
 
 ## TDD \ ATDD \ BDD
