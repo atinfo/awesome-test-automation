@@ -4,15 +4,29 @@ A comprehensive curated list of python test automation frameworks, tools, librar
 
 Table of content:
 
+- [xUnit frameworks](#xUnit-frameworks)
+- [TDD \ ATTD \ BDD](#tdd--atdd--bdd)
+- [Code Analysis](#code-analysis)
+- [Web UI test automation](#web-ui-test-automation)
+- [Windows UI test automation](#windows-ui-test-automation)
+- [Unix \ Linux UI test automation](#unix--linux-ui-test-automation)
+- [MacOS UI test automation](#macos-ui-test-automation)
+- [Virtual environments](#virtual-environments)
+- [Performance & stress & load](#performance--stress--load)
+- [Security checking](#security-checking)
+- [Continuous Integration](#continuous-integration)
+- [Reporting](#reporting)
+- [Documentation generation](#documentation-generation)
+- [Editors, IDE and consoles](#editors-ide-and-consoles)
+- [Useful libs](#useful-libs)
+
 - [Resources](#resources)
-- [Other Awesome Lists](#other-awesome-lists)
+- [Other Awesome Test Automation Lists](#other-awesome-lists)
 - [Contributing](#contributing)
 
 ---
 
 ## xUnit frameworks
-
-* [project-name](http://example.com/) - A short description ends with a dot.
 
 [Contribute to this section](https://github.com/atinfo/awesome-test-automation/blob/master/CONTRIBUTING.md)
 
@@ -60,15 +74,15 @@ Table of content:
 
 [Contribute to this section](https://github.com/atinfo/awesome-test-automation/blob/master/CONTRIBUTING.md)
 
-## Project documentation generation
+## Documentation generation
 
 [Contribute to this section](https://github.com/atinfo/awesome-test-automation/blob/master/CONTRIBUTING.md)
 
-## Editors, IDE and consoles
+## Editors, IDE, consoles
 
 [Contribute to this section](https://github.com/atinfo/awesome-test-automation/blob/master/CONTRIBUTING.md)
 
-## Useful libs upon necessity and domain
+## Useful libs
 
 [Contribute to this section](https://github.com/atinfo/awesome-test-automation/blob/master/CONTRIBUTING.md)
 
