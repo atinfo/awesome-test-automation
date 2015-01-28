@@ -48,6 +48,7 @@ Also:
     * [contexts](https://github.com/benjamin-hodgson/Contexts) - Descriptive testing for Python.
     * [mamba](http://nestorsalceda.github.io/mamba/) - The definitive testing tool for Python. Born under the banner of Behavior Driven Development.
     * [pyvows](http://heynemann.github.io/pyvows/) - Asynchronous behaviour driven development for Python.
+    * [robotframework](http://robotframework.org/) - A generic test automation framework for acceptance testing and acceptance test-driven development (ATDD)
 - Assertions
     * [pyshould](https://github.com/drslump/pyshould) - Should style asserts based on pyhamcrest.
     * [pyhamcrest](https://github.com/hamcrest/PyHamcrest) - Hamcrest matchers for Python.
