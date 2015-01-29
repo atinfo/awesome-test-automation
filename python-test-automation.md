@@ -36,9 +36,10 @@ Also:
     * [unittest2](https://pypi.python.org/pypi/unittest2) - is a backport of the new features added to the unittest testing framework in Python 2.7 and onwards.
     * [pytest](http://pytest.org/) - is a mature full-featured Python testing tool that helps you write better programs.
     * [nosetests](https://nose.readthedocs.org/en/latest/) - is a nicer testing for python.
+    * [slash](https://github.com/slash-testing/slash) - is a testing framework written in Python.
 - extensions
     * [proboscis](https://pythonhosted.org/proboscis/) -  is a Python test framework that extends Python’s built-in unittest module and Nose with features from TestNG.
-    * [grails](https://github.com/wgnet/grail) - A library which allows test script creation based on steps.
+    * [grail](https://github.com/wgnet/grail) - is a library which allows test script creation based on steps.
 
 ## TDD \ ATDD \ BDD
 
@@ -59,6 +60,7 @@ Also:
     * [freezegun](https://github.com/spulec/freezegun) - Travel through time by mocking the datetime module.
     * [httpretty](http://falcao.it/HTTPretty/) - HTTP request mock tool for Python.
     * [httmock](https://github.com/patrys/httmock) - A mocking library for requests for Python 2.6+ and 3.2+.
+    * [pretenders](https://github.com/pretenders/pretenders) - fake servers for testing.
 
 ## Test Data manipulation
 
@@ -151,8 +153,8 @@ Also:
 
 ## Useful libs
 
-[Contribute to this section](https://github.com/atinfo/awesome-test-automation/blob/master/CONTRIBUTING.md)
-
+* [waiting](https://github.com/vmalloc/waiting) - python utility library for waiting for predicates.
+* [Comcast](https://github.com/tylertreat/Comcast/) - simulating shitty network connections so you can build better systems.
 
 # Resources
 Where to discover new libraries, information, tools, etc.
