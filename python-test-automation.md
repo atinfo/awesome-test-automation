@@ -36,9 +36,10 @@ Also:
     * [unittest2](https://pypi.python.org/pypi/unittest2) - is a backport of the new features added to the unittest testing framework in Python 2.7 and onwards.
     * [pytest](http://pytest.org/) - is a mature full-featured Python testing tool that helps you write better programs.
     * [nosetests](https://nose.readthedocs.org/en/latest/) - is a nicer testing for python.
+    * [slash](https://github.com/slash-testing/slash) - is a testing framework written in Python.
 - extensions
     * [proboscis](https://pythonhosted.org/proboscis/) -  is a Python test framework that extends Python’s built-in unittest module and Nose with features from TestNG.
-    * [grails](https://github.com/wgnet/grail) - A library which allows test script creation based on steps.
+    * [grail](https://github.com/wgnet/grail) - is a library which allows test script creation based on steps.
 
 ## TDD \ ATDD \ BDD
 
@@ -59,6 +60,7 @@ Also:
     * [freezegun](https://github.com/spulec/freezegun) - Travel through time by mocking the datetime module.
     * [httpretty](http://falcao.it/HTTPretty/) - HTTP request mock tool for Python.
     * [httmock](https://github.com/patrys/httmock) - A mocking library for requests for Python 2.6+ and 3.2+.
+    * [pretenders](https://github.com/pretenders/pretenders) - fake servers for testing.
 
 ## Test Data manipulation
 
@@ -68,6 +70,7 @@ Also:
 * [radar](https://pypi.python.org/pypi/radar) - Generate random datetime / time.
 
 ## Code analysis
+
 * [pysonar2](https://github.com/yinwang0/pysonar2) - A type inferencer and indexer for Python.
 * [coverage](https://pypi.python.org/pypi/coverage) - Code coverage measurement
 * [pycallgraph](https://github.com/gak/pycallgraph) - A library that visualises the flow (call graph) of your Python application.
@@ -158,7 +161,8 @@ Libraries that may help you to build better test automation.
 * [suds](https://fedorahosted.org/suds/) - A lightweight SOAP python client for consuming Web Services.
 * [fabric](http://www.fabfile.org/) - A Python library and command-line tool for streamlining the use of SSH for application deployment or systems administration tasks.
 * [BeautifulSoup](http://www.crummy.com/software/BeautifulSoup/) - Package for parsing HTML documents (including having malformed markup, i.e. non-closed tags, so named after Tag soup). It creates a parse tree for parsed pages that can be used to extract data from HTML, which is useful for web scraping.
-
+* [waiting](https://github.com/vmalloc/waiting) - python utility library for waiting for predicates.
+* [Comcast](https://github.com/tylertreat/Comcast/) - simulating shitty network connections so you can build better systems.
 
 # Resources
 Where to discover new libraries, information, tools, etc.
