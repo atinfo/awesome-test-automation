@@ -105,6 +105,7 @@ Also:
 ## Unix \ Linux UI test automation 
 
 * [ldtp](https://pypi.python.org/pypi/ldtp) - Cross Platform Linux Desktop (GUI Application) Testing Project.
+* [fMBT](https://github.com/01org/fMBT) - Python libraries for multiplatform GUI testing.
 
 ## MacOS UI test automation 
 
