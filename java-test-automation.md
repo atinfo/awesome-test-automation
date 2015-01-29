@@ -14,6 +14,7 @@ Table of content:
 - [Virtual environments](#virtual-environments)
 - [Performance & stress & load](#performance--stress--load)
 - [Security checking](#security-checking)
+- [Build Tools](#build-tools)
 - [Continuous Integration](#continuous-integration)
 - [Reporting](#reporting)
 - [Documentation generation](#documentation-generation)
@@ -65,6 +66,10 @@ Also:
 [Contribute to this section](https://github.com/atinfo/awesome-test-automation/blob/master/CONTRIBUTING.md)
 
 ## Security checking
+
+[Contribute to this section](https://github.com/atinfo/awesome-test-automation/blob/master/CONTRIBUTING.md)
+
+## Build Tools
 
 [Contribute to this section](https://github.com/atinfo/awesome-test-automation/blob/master/CONTRIBUTING.md)
 
