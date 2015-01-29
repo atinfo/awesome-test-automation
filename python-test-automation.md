@@ -9,6 +9,7 @@ Table of content:
 - [Test Data manipulation](#test-data-manipulation)
 - [Code Analysis](#code-analysis)
 - [Web UI test automation](#web-ui-test-automation)
+- [Mobile test automation](#mobile-test-automation)
 - [Windows UI test automation](#windows-ui-test-automation)
 - [Unix \ Linux UI test automation](#unix--linux-ui-test-automation)
 - [MacOS UI test automation](#macos-ui-test-automation)
@@ -93,14 +94,25 @@ Also:
     * [robotframework-selenium2library](https://github.com/rtomac/robotframework-selenium2library) - Web testing library for Robot Framework.
     * [gocept.selenium](https://pypi.python.org/pypi/gocept.selenium) - An API for the Selenium remote control that is suited for writing tests and integrates this with your test suite for any WSGI, Plone, Zope 2, ZTK, or Grok application.
     * [webium](https://github.com/wgnet/webium) - A Page Object pattern implementation library for Python
+    * [robotframework-anywherelibrary](https://github.com/luisxiaomai/robotframework-anywherelibrary) - A cross platform(desktop browser,android,ios) testing library for Robot Framework that leverages the Selenium 2(WebDriver) libraries internally to control a web browser and appium as mobile test automation framework for use with native and hybrid app.
 - extensions
     * [pytest_splinter](https://github.com/pytest-dev/pytest-splinter) - pytest spinter and selenium integration for anyone interested in browser interaction in tests.
     * [lettuce_webdriver](https://github.com/bbangert/lettuce_webdriver) - Selenium webdriver for lettuce.
     * [Browsermob Proxy](https://github.com/AutomatedTester/browsermob-proxy-py) - A python wrapper for Browsermob Proxy.
 
+## Mobile test automation
+
+* [appium](http://appium.io/) - An open source test automation framework for use with native, hybrid and mobile web apps. It drives iOS and Android apps using the WebDriver protocol.
+* [robotframework-androidlibrary](https://github.com/lovelysystems/robotframework-androidlibrary) - A Robot Framework test library for all your Android automation needs.
+* [robotframework-appiumlibrary](https://github.com/jollychang/robotframework-appiumlibrary) - An appium testing library for RobotFramework.
+* [robotframework-ioslibrary](https://github.com/lovelysystems/robotframework-ioslibrary) - A Robot Framework test library for all your iOS automation needs.
+
 ## Windows UI test automation 
 
-[Contribute to this section](https://github.com/atinfo/awesome-test-automation/blob/master/CONTRIBUTING.md)
+* [PyAutoGUI](https://pypi.python.org/pypi/PyAutoGUI) - A cross-platform module for GUI automation for human beings. Control the keyboard and mouse from a Python script.
+* [robotframework-autoitlibrary](https://code.google.com/p/robotframework-autoitlibrary/) - A Windows GUI testing library for Robot Framework
+* [autopy](https://github.com/msanders/autopy) - A simple, cross-platform GUI automation toolkit for Python.
+* [UISoup](https://pypi.python.org/pypi/UISoup/) - This library supports UI-related testing using Python on Windows and Mac OS. (Only Python x86 is supported)
 
 ## Unix \ Linux UI test automation 
 
@@ -109,7 +121,7 @@ Also:
 
 ## MacOS UI test automation 
 
-[Contribute to this section](https://github.com/atinfo/awesome-test-automation/blob/master/CONTRIBUTING.md)
+* [PyAutoGUI](https://pypi.python.org/pypi/PyAutoGUI) - A cross-platform module for GUI automation for human beings. Control the keyboard and mouse from a Python script.
 
 ## Virtual environments
 
@@ -134,7 +146,8 @@ Also:
 
 ## Continuous Integration
 
-[Contribute to this section](https://github.com/atinfo/awesome-test-automation/blob/master/CONTRIBUTING.md)
+* [buildbot](https://pypi.python.org/pypi/buildbot/) - A system to automate the compile/test cycle required by most software projects to validate code changes.
+* [jenkins](http://jenkins-ci.org/) - An extensible open source continuous integration server.
 
 ## Reporting
 
@@ -144,7 +157,9 @@ Also:
 
 ## Documentation generation
 
-[Contribute to this section](https://github.com/atinfo/awesome-test-automation/blob/master/CONTRIBUTING.md)
+* [Sphinx](http://sphinx-doc.org/) - Python Documentation generator.
+* [MkDocs](http://www.mkdocs.org/) - Markdown friendly documentation generator.
+* [Pycco](http://fitzgen.github.io/pycco/) - The original quick-and-dirty, hundred-line-long, literate-programming-style documentation generator.
 
 ## Editors, IDE, consoles
 
@@ -164,6 +179,8 @@ Libraries that may help you to build better test automation.
 * [BeautifulSoup](http://www.crummy.com/software/BeautifulSoup/) - Package for parsing HTML documents (including having malformed markup, i.e. non-closed tags, so named after Tag soup). It creates a parse tree for parsed pages that can be used to extract data from HTML, which is useful for web scraping.
 * [waiting](https://github.com/vmalloc/waiting) - python utility library for waiting for predicates.
 * [Comcast](https://github.com/tylertreat/Comcast/) - simulating shitty network connections so you can build better systems.
+* [dateutil](https://pypi.python.org/pypi/python-dateutil) - Extensions to the standard Python datetime module.
+* [python-tesseract](https://code.google.com/p/python-tesseract/) - Wrapper class for tesseract OCR (Linux & Mac & Windows)
 
 # Resources
 Where to discover new libraries, information, tools, etc.

@@ -8,6 +8,7 @@ Table of content:
 - [TDD \ ATTD \ BDD](#tdd--atdd--bdd)
 - [Code Analysis](#code-analysis)
 - [Web UI test automation](#web-ui-test-automation)
+- [Mobile test automation](#mobile-test-automation)
 - [Windows UI test automation](#windows-ui-test-automation)
 - [Unix \ Linux UI test automation](#unix--linux-ui-test-automation)
 - [MacOS UI test automation](#macos-ui-test-automation)
@@ -44,6 +45,11 @@ Also:
 ## Web UI test automation
 
 [Contribute to this section](https://github.com/atinfo/awesome-test-automation/blob/master/CONTRIBUTING.md)
+
+## Mobile test automation
+
+* [appium](http://appium.io/) - An open source test automation framework for use with native, hybrid and mobile web apps. It drives iOS and Android apps using the WebDriver protocol.
+* [Calabash](http://calaba.sh/) - Enables you to write and execute automated acceptance tests of mobile apps.
 
 ## Windows UI test automation 
 

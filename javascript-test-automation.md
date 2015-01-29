@@ -8,6 +8,7 @@ Table of content:
 - [TDD \ ATTD \ BDD](#tdd--atdd--bdd)
 - [Code Analysis](#code-analysis)
 - [Web UI test automation](#web-ui-test-automation)
+- [Mobile test automation](#mobile-test-automation)
 - [Windows UI test automation](#windows-ui-test-automation)
 - [Unix \ Linux UI test automation](#unix--linux-ui-test-automation)
 - [MacOS UI test automation](#macos-ui-test-automation)
@@ -41,6 +42,10 @@ Also:
 [Contribute to this section](https://github.com/atinfo/awesome-test-automation/blob/master/CONTRIBUTING.md)
 
 ## Web UI test automation
+
+[Contribute to this section](https://github.com/atinfo/awesome-test-automation/blob/master/CONTRIBUTING.md)
+
+## Mobile test automation
 
 [Contribute to this section](https://github.com/atinfo/awesome-test-automation/blob/master/CONTRIBUTING.md)
 
