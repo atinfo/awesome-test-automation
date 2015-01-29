@@ -151,7 +151,13 @@ Also:
 
 ## Useful libs
 
-[Contribute to this section](https://github.com/atinfo/awesome-test-automation/blob/master/CONTRIBUTING.md)
+Libraries that may help you to build better test automation.
+
+* [requests](https://pypi.python.org/pypi/requests/) - An Apache2 Licensed HTTP library, written in Python, for human beings.
+* [lxml](http://lxml.de/) - Most feature-rich and easy-to-use library for processing XML and HTML in the Python language.
+* [suds](https://fedorahosted.org/suds/) - A lightweight SOAP python client for consuming Web Services.
+* [fabric](http://www.fabfile.org/) - A Python library and command-line tool for streamlining the use of SSH for application deployment or systems administration tasks.
+* [BeautifulSoup](http://www.crummy.com/software/BeautifulSoup/) - Package for parsing HTML documents (including having malformed markup, i.e. non-closed tags, so named after Tag soup). It creates a parse tree for parsed pages that can be used to extract data from HTML, which is useful for web scraping.
 
 
 # Resources
