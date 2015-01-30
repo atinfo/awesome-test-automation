@@ -31,15 +31,21 @@ Also:
 
 ## xUnit frameworks
 
-[Contribute to this section](https://github.com/atinfo/awesome-test-automation/blob/master/CONTRIBUTING.md)
+* NUnit Framework
+* MSTest/Visual Studio Test
+* [xUnit](https://github.com/xunit/xunit)
 
 ## TDD \ ATDD \ BDD
 
-[Contribute to this section](https://github.com/atinfo/awesome-test-automation/blob/master/CONTRIBUTING.md)
+* Specflow
+* BDDfy
 
 ## Code analysis 
 
-[Contribute to this section](https://github.com/atinfo/awesome-test-automation/blob/master/CONTRIBUTING.md)
+*NCover
+*OpenCover
+http://stackoverflow.com/questions/276829/code-coverage-for-c-net
+
 
 ## Web UI test automation
 
