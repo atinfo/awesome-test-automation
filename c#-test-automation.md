@@ -49,7 +49,10 @@ http://stackoverflow.com/questions/276829/code-coverage-for-c-net
 
 ## Web UI test automation
 
-[Contribute to this section](https://github.com/atinfo/awesome-test-automation/blob/master/CONTRIBUTING.md)
+* Selenium WebDriver
+* Coded UI ($$$) (Internet Explorer only)
+* WatiN
+
 
 ## Mobile test automation
 
@@ -57,15 +60,18 @@ http://stackoverflow.com/questions/276829/code-coverage-for-c-net
 
 ## Windows UI test automation 
 
-[Contribute to this section](https://github.com/atinfo/awesome-test-automation/blob/master/CONTRIBUTING.md)
+* Teststack White
+* Coded UI ($$$)
+* AutoIt (COM bindings)
+
 
 ## Unix \ Linux UI test automation 
 
-[Contribute to this section](https://github.com/atinfo/awesome-test-automation/blob/master/CONTRIBUTING.md)
+N/A
 
 ## MacOS UI test automation 
 
-[Contribute to this section](https://github.com/atinfo/awesome-test-automation/blob/master/CONTRIBUTING.md)
+N/A
 
 ## Virtual environments
 
