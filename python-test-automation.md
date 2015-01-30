@@ -54,6 +54,7 @@ Also:
 - Assertions
     * [pyshould](https://github.com/drslump/pyshould) - Should style asserts based on pyhamcrest.
     * [pyhamcrest](https://github.com/hamcrest/PyHamcrest) - Hamcrest matchers for Python.
+    * [sure](https://github.com/gabrielfalcao/sure) - A testing library for python with powerful and flexible assertions.
 - Mocking
     * [mock](https://pypi.python.org/pypi/mock) - A Python Mocking and Patching Library for Testing.
     * [responses](https://github.com/dropbox/responses) - A utility library for mocking out the requests Python library.
