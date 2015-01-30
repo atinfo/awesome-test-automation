@@ -32,11 +32,15 @@ Also:
 
 ## xUnit frameworks
 
-[Contribute to this section](https://github.com/atinfo/awesome-test-automation/blob/master/CONTRIBUTING.md)
+* [JUnit](http://junit.org/) - Common testing framework.
+* [TestNG](http://testng.org/) - TestNG - Testing framework.
 
 ## TDD \ ATDD \ BDD
 
-[Contribute to this section](https://github.com/atinfo/awesome-test-automation/blob/master/CONTRIBUTING.md)
+* [JBehave](http://jbehave.org/) - A framework for Behaviour-Driven Development (BDD). BDD is an evolution of test-driven development (TDD) and acceptance-test driven design, and is intended to make these practices more accessible and intuitive to newcomers and experts alike.
+* [Cucumber-JVM](https://github.com/cucumber/cucumber-jvm) - A pure Java implementation of Cucumber that supports the most popular programming languages for the JVM.
+* [easyb](http://easyb.org/) - A behavior driven development framework for the Java platform. By using a specification based Domain Specific Language, easyb aims to enable executable, yet readable documentation.
+* [robotframework](http://robotframework.org/) - A generic test automation framework for acceptance testing and acceptance test-driven development (ATDD)
 
 ## Code analysis 
 
@@ -44,7 +48,13 @@ Also:
 
 ## Web UI test automation
 
-[Contribute to this section](https://github.com/atinfo/awesome-test-automation/blob/master/CONTRIBUTING.md)
+- libraries
+    * [Selenium](http://docs.seleniumhq.org/) - Portable software testing framework for web applications.
+- frameworks and wrappers
+    * [Selenide](http://selenide.org/) - Concise API around Selenium to write stable and readable UI tests.
+    * [thucydides](http://www.thucydides.info/) - An innovative open source library that helps you write more effective automated acceptance tests, and uses these acceptance tests to generates rich documentation and reports about your product and project.
+- extensions
+    *  
 
 ## Mobile test automation
 
@@ -69,7 +79,7 @@ Also:
 
 ## Performance & stress & load
 
-[Contribute to this section](https://github.com/atinfo/awesome-test-automation/blob/master/CONTRIBUTING.md)
+* [Apache JMeter](http://jmeter.apache.org/) - Functional testing and performance measurements.
 
 ## Security checking
 
