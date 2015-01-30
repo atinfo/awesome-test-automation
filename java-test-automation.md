@@ -124,7 +124,7 @@ Where to discover new libraries, information, tools, etc.
 * [python test automation](https://github.com/atinfo/awesome-test-automation/blob/master/python-test-automation.md)
 * [java test automation](https://github.com/atinfo/awesome-test-automation/blob/master/java-test-automation.md)
 * [ruby test automation](https://github.com/atinfo/awesome-test-automation/blob/master/ruby-test-automation.md)
-* [c# test automation](https://github.com/atinfo/awesome-test-automation/blob/master/c#-test-automation.md)
+* [c# test automation](https://github.com/atinfo/awesome-test-automation/blob/master/c%23-test-automation.md)
 * [php test automation](https://github.com/atinfo/awesome-test-automation/blob/master/php-test-automation.md)
 * [javascript test automation](https://github.com/atinfo/awesome-test-automation/blob/master/javascript-test-automation.md)
 
