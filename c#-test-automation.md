@@ -48,7 +48,7 @@ actual.Should().StartWith("AB").And.EndWith("HI").And.Contain("EF").And.HaveLeng
 ## Code analysis 
 
 * [**NCover**](https://www.ncover.com/) ― really good code coverage tool, but $$
-* [**OpenCover](https://github.com/OpenCover/opencover) is a code coverage tool for .NET 2 and above, support for 32 and 64 processes with both branch and sequence points
+* [**OpenCover**](https://github.com/OpenCover/opencover) is a code coverage tool for .NET 2 and above, support for 32 and 64 processes with both branch and sequence points
 * See also: [Code Coverage for C#/.NET](http://stackoverflow.com/questions/276829/code-coverage-for-c-net)
 
 ## Web UI test automation
@@ -60,7 +60,11 @@ actual.Should().StartWith("AB").And.EndWith("HI").And.Contain("EF").And.HaveLeng
 
 ## Mobile test automation
 
-[Contribute to this section](https://github.com/atinfo/awesome-test-automation/blob/master/CONTRIBUTING.md)
+* [**Coded UI**](https://msdn.microsoft.com/en-us/library/dn747198.aspx) supports some level of the mobile test automation 
+for Windows Phone
+* [**Xamarin.UITest**](http://developer.xamarin.com/guides/testcloud/uitest/) is a library that comes with Xamarin Forms and allows you to automate the applications built with Xamarin
+technology on Windows Phone, iOS and Android
+* [**Appium**](http://appium.io/) supports cross platform test automation for Native and Hybrid mobile applications
 
 ## Windows UI test automation 
 
