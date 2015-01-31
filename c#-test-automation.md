@@ -118,8 +118,8 @@ Visual Studio Professional is became free for small teams.
 
 ## Useful libs
 
-[Contribute to this section](https://github.com/atinfo/awesome-test-automation/blob/master/CONTRIBUTING.md)
-
+* [Json.NET](https://www.nuget.org/packages/Newtonsoft.Json/) is a popular high-performance JSON framework for .NET
+* [RestSharp](https://www.nuget.org/packages/RestSharp/) ― simple REST and HTTP API Client
 
 # Resources
 Where to discover new libraries, information, tools, etc.
