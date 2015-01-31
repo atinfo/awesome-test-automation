@@ -68,18 +68,11 @@ technology on Windows Phone, iOS and Android
 
 ## Windows UI test automation 
 
-* Teststack White
-* Coded UI ($$$)
-* AutoIt (COM bindings)
+* [**Teststack White**](https://github.com/TestStack/White) is one of the most popular and stable open source UI test automation library 
+  for Windows (WinAPI / WPF / Silverlight / Windows Forms).
+* Coded UI ($$$) does a pretty good job for Windows UI automation. Pricey... because it comes with Visual Studio Premium and Ultimate.  
+* [**AutoIt (COM bindings)**](https://www.autoitscript.com/autoit3/docs/intro/ComRef.htm) ― since it implements COM+ interface, autoit can be available from any language on windows, including C#.
 
-
-## Unix \ Linux UI test automation 
-
-N/A
-
-## MacOS UI test automation 
-
-N/A
 
 ## Virtual environments
 
@@ -95,7 +88,17 @@ N/A
 
 ## Continuous Integration
 
-[Contribute to this section](https://github.com/atinfo/awesome-test-automation/blob/master/CONTRIBUTING.md)
+* [**Jenkins**](http://jenkins-ci.org/) ― can be easily configured to support C# continuous integration process:
+	1. Use NUnit as your test runner with [Jenkins NUnit Plugin](https://wiki.jenkins-ci.org/display/JENKINS/NUnit+Plugin)
+	2. Use [Microsoft Build Tools](http://www.microsoft.com/en-us/search/result.aspx?q=%22Microsoft%20Build%20Tools%22&form=DLC) to build the project without Visual Studio
+	3. Use Windows Batch files and / or Powershell to perform any system configuration tasks
+	4. Use `msdeploy` from [Web Deploy Toolkit](http://www.iis.net/downloads/microsoft/web-deploy) in order to perform the remote 
+	   deployment and configuration tasks.
+	   
+* [**Temacity**](https://www.jetbrains.com/teamcity/) is a free and simple Build and Continuous integration server. You can 
+run the C# tests just out of the box
+* [Team Foundation Server] ― well... the marketing guys say that it can also build something for you
+
 
 ## Reporting
 
@@ -103,11 +106,15 @@ N/A
 
 ## Documentation generation
 
-[Contribute to this section](https://github.com/atinfo/awesome-test-automation/blob/master/CONTRIBUTING.md)
+[Doxygen](http://www.stack.nl/~dimitri/doxygen/) is a free and open source documentation generation platform, that supports multiple languages. 
+You may write a standard C# XML documentation ― and Doxygen will process it correctly; Yo may use markdown and include images ― Doxygen can handle even more.
+Grab and modify this [Doxyfile for C#](https://github.com/dzharii/SWD.Starter/blob/master/Doxyfile)
 
 ## Editors, IDE, consoles
 
-[Contribute to this section](https://github.com/atinfo/awesome-test-automation/blob/master/CONTRIBUTING.md)
+* [Free Visual Studio Community Edition](http://www.visualstudio.com/en-us/news/vs2013-community-vs.aspx) ― starting from VS2013, 
+Visual Studio Professional is became free for small teams. 
+* [Sharpdevelop](http://www.icsharpcode.net/opensource/sd/) is a free and open source IDE for C#
 
 ## Useful libs
 
