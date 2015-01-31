@@ -47,7 +47,7 @@ Also:
 
 ## Code analysis 
 
- * [SonarQube](http://www.sonarqube.org/) - Open source project to manage code quality.
+* [SonarQube](http://www.sonarqube.org/) - Open source project to manage code quality.
 
 ## Web UI test automation
 
@@ -66,7 +66,7 @@ Also:
 
 ## Windows UI test automation 
 
- * [SikuliX](http://www.sikulix.com/) - SikuliX automates anything you see on the screen of your desktop computer running Windows, Mac or some Linux/Unix. It uses image recognition powered by OpenCV to identify and control GUI components.
+* [SikuliX](http://www.sikulix.com/) - SikuliX automates anything you see on the screen of your desktop computer running Windows, Mac or some Linux/Unix. It uses image recognition powered by OpenCV to identify and control GUI components.
 
 ## Unix \ Linux UI test automation 
 
@@ -90,18 +90,18 @@ Also:
 
 ## Build Tools
 
- * [Apache Ant](http://ant.apache.org/) - Apache Ant is a Java library and command-line tool whose mission is to drive processes described in build files as targets and extension points dependent upon each other. The main known usage of Ant is the build of Java applications.
- * [Apache Maven](http://maven.apache.org/) - Apache Maven is a software project management and comprehension tool. Based on the concept of a project object model (POM), Maven can manage a project's build, reporting and documentation from a central piece of information.
- * [Gradle](https://gradle.org/) - Gradle is an open source build automation system. Gradle can automate the building, testing, publishing, deployment and more of software packages or other types of projects such as generated static websites, generated documentation or indeed anything else.
+* [Apache Ant](http://ant.apache.org/) - Apache Ant is a Java library and command-line tool whose mission is to drive processes described in build files as targets and extension points dependent upon each other. The main known usage of Ant is the build of Java applications.
+* [Apache Maven](http://maven.apache.org/) - Apache Maven is a software project management and comprehension tool. Based on the concept of a project object model (POM), Maven can manage a project's build, reporting and documentation from a central piece of information.
+* [Gradle](https://gradle.org/) - Gradle is an open source build automation system. Gradle can automate the building, testing, publishing, deployment and more of software packages or other types of projects such as generated static websites, generated documentation or indeed anything else.
 
 ## Continuous Integration
 
- * [Jenkins](http://jenkins-ci.org/) - Jenkins is an award-winning application that monitors executions of repeated jobs, such as building a software project or jobs run by cron.
+* [Jenkins](http://jenkins-ci.org/) - Jenkins is an award-winning application that monitors executions of repeated jobs, such as building a software project or jobs run by cron.
 
 ## Reporting
 
- * [ReportNG](http://reportng.uncommons.org/) - ReportNG is a simple HTML reporting plug-in for the TestNG unit-testing framework.
- * [Allure](http://allure.qatools.ru/) - Open-source framework designed to create test execution reports clear to everyone in the team.
+* [ReportNG](http://reportng.uncommons.org/) - ReportNG is a simple HTML reporting plug-in for the TestNG unit-testing framework.
+* [Allure](http://allure.qatools.ru/) - Open-source framework designed to create test execution reports clear to everyone in the team.
 
 ## Documentation generation
 
