@@ -31,27 +31,31 @@ Also:
 
 ## xUnit frameworks
 
-* NUnit Framework
-* MSTest/Visual Studio Test
-* [xUnit](https://github.com/xunit/xunit)
+* [**NUnit**](http://www.nunit.org/) ― The most known, extensible and portable(yes, you can run your tests on Mono for Linux and Mac) unit-testing framework in the .Net world. It comes with descent test adapters for Visual Studio 2013 - ... as well as standalone GUI and command line runners
+* [**MSTest** (Visual Studio Test)](http://en.wikipedia.org/wiki/Visual_Studio_Unit_Testing_Framework) ― the most conservative and slow evolving unit testing framework with only one good thing: it is built-in to the Visual Studio. So, you can always rely it is there.
+* [**xUnit**](http://xunit.github.io/) ― the "bleeding edge" unit testing framework, beloved by many developers, even from Microsoft. This is community based open source project, written by the original inventor of NUnit 2.0 
+* [**Gallio Icarus and MbUnit**](https://code.google.com/p/mb-unit/) ― the most feature reach Test Runner, Test Reporter and Unit testing framework. It is still popular in many .NET shops, especially for running Selenium WebDriver UI tests... Unfortunately, it is not being maintained since 2012. :skull:
 
 ## TDD \ ATDD \ BDD
-
-* Specflow
-* BDDfy
+* [**Fluent Assertions**](http://www.fluentassertions.com/) is a set of .NET extension methods that allow you to more naturally specify the expected outcome of a TDD or BDD-style test.
+``` csharp
+string actual = "ABCDEFGHI";
+actual.Should().StartWith("AB").And.EndWith("HI").And.Contain("EF").And.HaveLength(9);
+```
+* [**Specflow**](http://www.specflow.org/) ― the most popular and feature reach "Cucumber for .NET": BDD and Keywork-driven testing Editor, Runner and Reporter.
+* [**BDDfy**](http://docs.teststack.net/bddfy/)  is the simplest BDD framework for .Net EVER! The name comes from the fact that it allows you to turn your tests into BDD behaviors simply.
 
 ## Code analysis 
 
-*NCover
-*OpenCover
-http://stackoverflow.com/questions/276829/code-coverage-for-c-net
-
+* [**NCover**](https://www.ncover.com/) ― really good code coverage tool, but $$
+* [**OpenCover](https://github.com/OpenCover/opencover) is a code coverage tool for .NET 2 and above, support for 32 and 64 processes with both branch and sequence points
+* See also: [Code Coverage for C#/.NET](http://stackoverflow.com/questions/276829/code-coverage-for-c-net)
 
 ## Web UI test automation
 
-* Selenium WebDriver
-* Coded UI ($$$) (Internet Explorer only)
-* WatiN
+* [**Selenium WebDriver**](https://www.nuget.org/packages/Selenium.WebDriver) ― Yes! [WebDriver](http://www.seleniumhq.org/) is everywhere! This is the best and the most popular UI test automation library and infrastructure.
+* Coded UI ($$$) (Internet Explorer only) ― Okay... it is integrated into the Visual Studio Premium+ and supports Record&Playback "automation". 
+* [WatiN](http://watin.org/) ― Before the Selenium Webdriver appeared on the market, WatiN was one of the best Web UI automation frameworks for .NET.  Now it is not maintained. :skull:
 
 
 ## Mobile test automation
