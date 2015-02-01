@@ -20,6 +20,7 @@ Table of content:
 - [Reporting](#reporting)
 - [Documentation generation](#documentation-generation)
 - [Editors, IDE and consoles](#editors-ide-consoles)
+- [ORM frameworks and libraries](#orm-frameworks-and-libraries)
 - [Useful libs](#useful-libs)
 
 Also:
@@ -113,9 +114,14 @@ Also:
 * [Eclipse](https://eclipse.org/ide/) - Eclipse is famous for our Java Integrated Development Environment (IDE), C/C++ IDE and PHP IDE.
 * [NetBeans](https://netbeans.org/features/index.html) - NetBeans IDE is the official IDE for Java 8. With its editors, code analyzers, and converters, you can quickly and smoothly upgrade your applications to use new Java 8 language constructs, such as lambdas, functional operations, and method references.
 
+## ORM frameworks and libraries
+
+ * [Hibernate](http://hibernate.org/orm/) - Hibernate ORM enables developers to more easily write applications whose data outlives the application process. As an Object/Relational Mapping (ORM) framework, Hibernate is concerned with data persistence as it applies to relational databases (via JDBC).
+ * [Morphia](https://github.com/mongodb/morphia) - Morphia is a lightweight type-safe library for mapping Java objects to/from MongoDB. Morphia provides a typesafe, and fluent Query API support with (runtime) validation. Morphia uses annotations so there are no XML files to manage or update. Morphia should feel very comfortable for any developer with JPA experience.
+
 ## Useful libs
 
-[Contribute to this section](https://github.com/atinfo/awesome-test-automation/blob/master/CONTRIBUTING.md)
+ * [AspectJ](https://eclipse.org/aspectj/) - Seamless aspect-oriented extension to the Java. AspectJ enables clean modularization of crosscutting concerns, such as error checking and handling, synchronization, context-sensitive behavior, performance optimizations, monitoring and logging, debugging support, and multi-object protocols.
 
 
 # Resources
