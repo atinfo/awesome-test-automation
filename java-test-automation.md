@@ -54,10 +54,10 @@ Also:
 
 - libraries
     * [Selenium](http://docs.seleniumhq.org/) - Portable software testing framework for web applications.
+    * [SikuliX](http://www.sikulix.com/) - SikuliX automates anything you see on the screen of your desktop computer running Windows, Mac or some Linux/Unix. It uses image recognition powered by OpenCV to identify and control GUI components. This is handy in cases when there is no easy access to a GUI's internals or the source code of the application or web page you want to act on.
 - frameworks and wrappers
     * [Selenide](http://selenide.org/) - Concise API around Selenium to write stable and readable UI tests.
     * [Thucydides](http://www.thucydides.info/) - An innovative open source library that helps you write more effective automated acceptance tests, and uses these acceptance tests to generates rich documentation and reports about your product and project.
-    * [SikuliX](http://www.sikulix.com/) - SikuliX automates anything you see on the screen of your desktop computer running Windows, Mac or some Linux/Unix. It uses image recognition powered by OpenCV to identify and control GUI components. This is handy in cases when there is no easy access to a GUI's internals or the source code of the application or web page you want to act on.
 - extensions
     *  
 
