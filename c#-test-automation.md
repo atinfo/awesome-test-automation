@@ -48,7 +48,7 @@ actual.Should().StartWith("AB").And.EndWith("HI").And.Contain("EF").And.HaveLeng
 ## Code analysis 
 
 * [**NCover**](https://www.ncover.com/) ― really good code coverage tool, but $$
-* [**OpenCover](https://github.com/OpenCover/opencover) is a code coverage tool for .NET 2 and above, support for 32 and 64 processes with both branch and sequence points
+* [**OpenCover**](https://github.com/OpenCover/opencover) is a code coverage tool for .NET 2 and above, support for 32 and 64 processes with both branch and sequence points
 * See also: [Code Coverage for C#/.NET](http://stackoverflow.com/questions/276829/code-coverage-for-c-net)
 
 ## Web UI test automation
@@ -60,22 +60,19 @@ actual.Should().StartWith("AB").And.EndWith("HI").And.Contain("EF").And.HaveLeng
 
 ## Mobile test automation
 
-[Contribute to this section](https://github.com/atinfo/awesome-test-automation/blob/master/CONTRIBUTING.md)
+* [**Coded UI**](https://msdn.microsoft.com/en-us/library/dn747198.aspx) supports some level of the mobile test automation 
+for Windows Phone
+* [**Xamarin.UITest**](http://developer.xamarin.com/guides/testcloud/uitest/) is a library that comes with Xamarin Forms and allows you to automate the applications built with Xamarin
+technology on Windows Phone, iOS and Android
+* [**Appium**](http://appium.io/) supports cross platform test automation for Native and Hybrid mobile applications
 
 ## Windows UI test automation 
 
-* Teststack White
-* Coded UI ($$$)
-* AutoIt (COM bindings)
+* [**Teststack White**](https://github.com/TestStack/White) is one of the most popular and stable open source UI test automation library 
+  for Windows (WinAPI / WPF / Silverlight / Windows Forms).
+* Coded UI ($$$) does a pretty good job for Windows UI automation. Pricey... because it comes with Visual Studio Premium and Ultimate.  
+* [**AutoIt (COM bindings)**](https://www.autoitscript.com/autoit3/docs/intro/ComRef.htm) ― since it implements COM+ interface, autoit can be available from any language on windows, including C#.
 
-
-## Unix \ Linux UI test automation 
-
-N/A
-
-## MacOS UI test automation 
-
-N/A
 
 ## Virtual environments
 
@@ -91,7 +88,17 @@ N/A
 
 ## Continuous Integration
 
-[Contribute to this section](https://github.com/atinfo/awesome-test-automation/blob/master/CONTRIBUTING.md)
+* [**Jenkins**](http://jenkins-ci.org/) ― can be easily configured to support C# continuous integration process:
+	1. Use NUnit as your test runner with [Jenkins NUnit Plugin](https://wiki.jenkins-ci.org/display/JENKINS/NUnit+Plugin)
+	2. Use [Microsoft Build Tools](http://www.microsoft.com/en-us/search/result.aspx?q=%22Microsoft%20Build%20Tools%22&form=DLC) to build the project without Visual Studio
+	3. Use Windows Batch files and / or Powershell to perform any system configuration tasks
+	4. Use `msdeploy` from [Web Deploy Toolkit](http://www.iis.net/downloads/microsoft/web-deploy) in order to perform the remote 
+	   deployment and configuration tasks.
+	   
+* [**Temacity**](https://www.jetbrains.com/teamcity/) is a free and simple Build and Continuous integration server. You can 
+run the C# tests just out of the box
+* [Team Foundation Server] ― well... the marketing guys say that it can also build something for you
+
 
 ## Reporting
 
@@ -99,16 +106,20 @@ N/A
 
 ## Documentation generation
 
-[Contribute to this section](https://github.com/atinfo/awesome-test-automation/blob/master/CONTRIBUTING.md)
+[Doxygen](http://www.stack.nl/~dimitri/doxygen/) is a free and open source documentation generation platform, that supports multiple languages. 
+You may write a standard C# XML documentation ― and Doxygen will process it correctly; Yo may use markdown and include images ― Doxygen can handle even more.
+Grab and modify this [Doxyfile for C#](https://github.com/dzharii/SWD.Starter/blob/master/Doxyfile)
 
 ## Editors, IDE, consoles
 
-[Contribute to this section](https://github.com/atinfo/awesome-test-automation/blob/master/CONTRIBUTING.md)
+* [Free Visual Studio Community Edition](http://www.visualstudio.com/en-us/news/vs2013-community-vs.aspx) ― starting from VS2013, 
+Visual Studio Professional is became free for small teams. 
+* [Sharpdevelop](http://www.icsharpcode.net/opensource/sd/) is a free and open source IDE for C#
 
 ## Useful libs
 
-[Contribute to this section](https://github.com/atinfo/awesome-test-automation/blob/master/CONTRIBUTING.md)
-
+* [Json.NET](https://www.nuget.org/packages/Newtonsoft.Json/) is a popular high-performance JSON framework for .NET
+* [RestSharp](https://www.nuget.org/packages/RestSharp/) ― simple REST and HTTP API Client
 
 # Resources
 Where to discover new libraries, information, tools, etc.
