@@ -126,7 +126,8 @@ Also:
 * [AspectJ](https://eclipse.org/aspectj/) - Seamless aspect-oriented extension to the Java. AspectJ enables clean modularization of crosscutting concerns, such as error checking and handling, synchronization, context-sensitive behavior, performance optimizations, monitoring and logging, debugging support, and multi-object protocols.
 
 # Resources
-Where to discover new libraries, information, tools, etc.
+* [Thucydides libraries](http://thucydides.info/docs/thucydides-one-page/thucydides.html)
+* [Automation tests structure](http://habrahabr.ru/post/168451/)
 
 ## Websites
 
