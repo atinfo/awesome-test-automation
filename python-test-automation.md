@@ -100,6 +100,7 @@ Also:
     * [pytest_splinter](https://github.com/pytest-dev/pytest-splinter) - pytest spinter and selenium integration for anyone interested in browser interaction in tests.
     * [lettuce_webdriver](https://github.com/bbangert/lettuce_webdriver) - Selenium webdriver for lettuce.
     * [Browsermob Proxy](https://github.com/AutomatedTester/browsermob-proxy-py) - A python wrapper for Browsermob Proxy.
+    * [FireRobot](https://github.com/joao-carloto/FireRobot) - A Firefox extension that allows you to create Robot Framework/Selenium tests, in a more efficient way.
 
 ## Mobile test automation
 
