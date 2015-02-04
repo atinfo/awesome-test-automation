@@ -88,6 +88,7 @@ Also:
 ## Performance & stress & load
 
 * [Apache JMeter](http://jmeter.apache.org/) - Functional testing and performance measurements.
+* [WAPT](http://www.loadtestingtool.com/) - Load, stress and performance testing.
 
 ## Security checking
 
