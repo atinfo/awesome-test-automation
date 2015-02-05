@@ -100,6 +100,7 @@ Where to discover new libraries, information, tools, etc.
 ## Websites
 
 * [automated-testing.info](http://automated-testing.info) - Test automation community
+* [atinfo.github.io/at.info-knowledge-base](http://atinfo.github.io/at.info-knowledge-base/)  - Knowledge base for test automation examples on different tools and technologies
 
 # Other Awesome Test Automation Lists
 
