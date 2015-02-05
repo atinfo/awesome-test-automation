@@ -143,6 +143,7 @@ Also:
 * [Yandex.Tank](https://github.com/yandex/yandex-tank) - Load and performance benchmark tool.
 * [pytest-benchmark](https://github.com/ionelmc/pytest-benchmark) - A py.test fixture for benchmarking code.
 * [Airspeed Velocity](https://github.com/spacetelescope/asv) - A simple Python benchmarking tool with web-based reporting
+* [The Grinder](http://grinder.sourceforge.net/) - Load testing framework that makes it easy to run a distributed test using many load injector machines. This includes common cases such as HTTP web servers, SOAP and REST web services, and application servers (CORBA, RMI, JMS, EJBs), as well as custom protocols. Flexible Scripting Test scripts are written in the powerful Jython and Clojure languages.
 
 ## Security checking
 

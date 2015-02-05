@@ -88,6 +88,7 @@ Also:
 ## Performance & stress & load
 
 * [Apache JMeter](http://jmeter.apache.org/) - Functional testing and performance measurements.
+* [The Grinder](http://grinder.sourceforge.net/) - Load testing framework that makes it easy to run a distributed test using many load injector machines. 
 
 ## Security checking
 
