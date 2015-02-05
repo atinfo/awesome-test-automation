@@ -6,6 +6,7 @@ Table of content:
 
 - [xUnit frameworks](#xunit-frameworks)
 - [TDD \ ATTD \ BDD](#tdd--atdd--bdd)
+- [Model-Based Testing](#model-based-testing)
 - [Code Analysis](#code-analysis)
 - [Web UI test automation](#web-ui-test-automation)
 - [Mobile test automation](#mobile-test-automation)
@@ -45,6 +46,10 @@ Also:
     * [Robot Framework](http://robotframework.org/) - A generic test automation framework for acceptance testing and acceptance test-driven development (ATDD).
 - extensions
     * [cucumber-report-db](https://github.com/porscheinformatik/cucumber-report-db) - Stores results of BDD tests with Cucumber-JVM in a database and provides reporting capabilities.
+
+## Model-Based Testing
+
+- [GraphWalker](http://graphwalker.org/) - A framework for Model-Based Testing. The tool reads models i various formats like graphml, dot or json, and then generate tests from the models.
 
 ## Code analysis 
 
@@ -88,7 +93,6 @@ Also:
 ## Performance & stress & load
 
 * [Apache JMeter](http://jmeter.apache.org/) - Functional testing and performance measurements.
-* [The Grinder](http://grinder.sourceforge.net/) - Load testing framework that makes it easy to run a distributed test using many load injector machines. 
 
 ## Security checking
 
