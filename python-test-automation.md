@@ -96,6 +96,7 @@ Also:
     * [gocept.selenium](https://pypi.python.org/pypi/gocept.selenium) - An API for the Selenium remote control that is suited for writing tests and integrates this with your test suite for any WSGI, Plone, Zope 2, ZTK, or Grok application.
     * [webium](https://github.com/wgnet/webium) - A Page Object pattern implementation library for Python
     * [robotframework-anywherelibrary](https://github.com/luisxiaomai/robotframework-anywherelibrary) - A cross platform(desktop browser,android,ios) testing library for Robot Framework that leverages the Selenium 2(WebDriver) libraries internally to control a web browser and appium as mobile test automation framework for use with native and hybrid app.
+    * [robotframework-pageobjects](https://github.com/ncbi/robotframework-pageobjects) - Nice implementation of the Page Object pattern with robotframework and selenium, that can work even outside of robotframework. More on this [blog post](http://kahunacohen.com/2014/12/03/new-testing-paradigm-robotframework-pageobjects/)
 - extensions
     * [pytest_splinter](https://github.com/pytest-dev/pytest-splinter) - pytest spinter and selenium integration for anyone interested in browser interaction in tests.
     * [lettuce_webdriver](https://github.com/bbangert/lettuce_webdriver) - Selenium webdriver for lettuce.
