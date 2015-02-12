@@ -77,6 +77,8 @@ Also:
     * [API Taster](https://github.com/fredwu/api_taster) - A quick and easy way to visually test your Rails application's API.
     * [Watir](https://github.com/watir/watir/) - Web application testing in Ruby.
     * [Watir-webdriver](http://watirwebdriver.com/) - The most elegant way to use WebDriver with ruby.
+    * [Poltergeist](https://github.com/teampoltergeist/poltergeist) - Poltergeist is a driver for Capybara. It allows you to run your Capybara tests on a headless WebKit browser, provided by PhantomJS.
+    * [PhantomJS](http://phantomjs.org/) - is a headless WebKit scriptable with a JavaScript API. It has fast and native support for various web standards: DOM handling, CSS selector, JSON, Canvas, and SVG.
 - Frameworks
     * [Capybara](http://jnicklas.github.io/capybara) - Acceptance test framework for web applications.
     * [Konacha](https://github.com/jfirebaugh/konacha) - Test your Rails application's JavaScript with the mocha test framework and chai assertion library.
@@ -102,7 +104,8 @@ Also:
 
 ## Virtual environments
 
-[Contribute to this section](https://github.com/atinfo/awesome-test-automation/blob/master/CONTRIBUTING.md)
+* [RVM](https://rvm.io/) - Ruby Version Manager (RVM) is a unix command-line tool which allows you to easily install, manage, and work with multiple ruby environments from interpreters to sets of gems.
+* [Pik](http://rubyinstaller.org/add-ons/pik/) - Multi-Ruby Manager for Windows
 
 ## Performance & stress & load
 
@@ -126,11 +129,11 @@ Also:
 
 ## Editors, IDE, consoles
 
-[Contribute to this section](https://github.com/atinfo/awesome-test-automation/blob/master/CONTRIBUTING.md)
+[Contribute to this section](https://github.com/grosser/parallel_tests)
 
 ## Useful libs
 
-[Contribute to this section](https://github.com/atinfo/awesome-test-automation/blob/master/CONTRIBUTING.md)
+ * [parallel_tests](https://github.com/grosser/parallel_tests) - Speedup Test::Unit + RSpec + Cucumber by running parallel on multiple CPUs (or cores). ParallelTests splits tests into even groups(by number of tests or runtime) and runs each group in a single process with its own database.
 
 
 # Resources
