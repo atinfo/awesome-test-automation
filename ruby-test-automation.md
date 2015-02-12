@@ -7,6 +7,7 @@ Table of content:
 - [xUnit frameworks](#xunit-frameworks)
 - [TDD \ ATTD \ BDD](#tdd--atdd--bdd)
 - [Code Analysis](#code-analysis)
+- [Test Data](#test-data)
 - [Web UI test automation](#web-ui-test-automation)
 - [Mobile test automation](#mobile-test-automation)
 - [Windows UI test automation](#windows-ui-test-automation)
@@ -34,19 +35,51 @@ Also:
 * [MiniTest](https://github.com/CapnKernul/minitest-reporters#readme) - becomes available on attaching the minitest-reporters gem. The minitests are added to the Test::Unit framework.
 
 ## TDD \ ATDD \ BDD
-- Assertions
+- TDD
+    * [RR](https://github.com/rr/rr) - A test double framework that features a rich selection of double techniques and a terse syntax.
+- BDD
     * [RSpec](http://rspec.info/) - Behaviour Driven Development for Ruby. RSpec becomes available in Ruby projects on attaching the rspec gem. For the Rails applications, rspec-rails gem is also required.
     * [Cucumber](http://cukes.info/) - This testing tool supports BDD, and enables using features and scenarios written in a human-readable language, either English or any other language specified in the # language: comment. Cucumber becomes available in project upon installing and activating the cucumber gem.
+    * [Bacon](https://github.com/chneukirchen/bacon) - A small RSpec clone.
+    * [minitest](https://github.com/seattlerb/minitest) - minitest provides a complete suite of testing facilities supporting TDD, BDD, mocking, and benchmarking.
+    * [Spinach](https://github.com/codegram/spinach) - Spinach is a high-level BDD framework that leverages the expressive Gherkin language (used by Cucumber) to help you define executable specifications of your application or library's acceptance criteria.
 - Assertions
     * [Shoulda](https://github.com/thoughtbot/shoulda) - is intended for unit testing, and becomes available in Ruby projects on attaching the shoulda gem. So doing, the Shoulda tests are added on to the Test::Unit framework.
+    * [shoulda-matchers](https://github.com/thoughtbot/shoulda-matchers) - Provides Test::Unit- and RSpec-compatible one-liners that test common Rails functionality. These tests would otherwise be much longer, more complex, and error-prone.
+- Mocking
+    * [ActiveMocker](https://github.com/zeisler/active_mocker) - Generate mocks from ActiveRecord models for unit tests that run fast because they don’t need to load Rails or a database.
+    * [TestXml](https://github.com/alovak/test_xml) - TestXml is a small extension for testing XML/HTML.
+    * [WebMock](https://github.com/bblimke/webmock) - Library for stubbing and setting expectations on HTTP requests.
+- Extensions
+    * [Cutest](https://github.com/djanowski/cutest) - Isolated tests in Ruby. Each test file is run in a forked process to avoid shared state. Once a failure is found, you get a report detailing what failed and how to locate the error and the rest of the file is skipped.
+    * [Spork](https://github.com/sporkrb/spork) - A DRb server for testing frameworks (RSpec / Cucumber currently).
+
 
 ## Code analysis
 
 [Contribute to this section](https://github.com/atinfo/awesome-test-automation/blob/master/CONTRIBUTING.md)
 
+## Test data
+
+* [Fabrication](http://fabricationgem.org/) - A simple and powerful object generation library.
+* [factory_girl](https://github.com/thoughtbot/factory_girl) - A library for setting up Ruby objects as test data.
+* [Fake Person](https://github.com/adamcooke/fake-person) - Uses some of the most popular given & surnames in the US & UK.
+* [faker](https://github.com/stympy/faker) - A library for generating fake data such as names, addresses, and phone numbers.
+* [ffaker](https://github.com/EmmanuelOga/ffaker) - A faster Faker, generates dummy data, rewrite of faker.
+* [Forgery](https://github.com/sevenwire/forgery) - Easy and customizable generation of forged data.
+* [Machinist](https://github.com/notahat/machinist) - Fixtures aren't fun. Machinist is.
+
+
 ## Web UI test automation
 
-[Contribute to this section](https://github.com/atinfo/awesome-test-automation/blob/master/CONTRIBUTING.md)
+- Libraries
+    * [Selenium WebDriver](http://selenium.googlecode.com/git/docs/api/rb/index.html) - This gem provides Ruby bindings for WebDriver.
+    * [API Taster](https://github.com/fredwu/api_taster) - A quick and easy way to visually test your Rails application's API.
+    * [Watir](https://github.com/watir/watir/) - Web application testing in Ruby.
+- Frameworks
+    * [Capybara](http://jnicklas.github.io/capybara) - Acceptance test framework for web applications.
+    * [Konacha](https://github.com/jfirebaugh/konacha) - Test your Rails application's JavaScript with the mocha test framework and chai assertion library.
+
 
 ## Mobile test automation
 
