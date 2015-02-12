@@ -13,6 +13,7 @@ Table of content:
 - [Windows UI test automation](#windows-ui-test-automation)
 - [Unix \ Linux UI test automation](#unix--linux-ui-test-automation)
 - [MacOS UI test automation](#macos-ui-test-automation)
+- [Server side test automation](#server-side-test-automation)
 - [Virtual environments](#virtual-environments)
 - [Performance & stress & load](#performance--stress--load)
 - [Security checking](#security-checking)
@@ -87,6 +88,10 @@ Also:
 
 * [SikuliX](http://www.sikulix.com/) - SikuliX automates anything you see on the screen of your desktop computer running Windows, Mac or some Linux/Unix. It uses image recognition powered by OpenCV to identify and control GUI components. This is handy in cases when there is no easy access to a GUI's internals or the source code of the application or web page you want to act on.
 
+## Server side test automation
+
+* [Citrus](https://github.com/christophd/citrus) - Test framework written in Java that is able to create fully automated end-to-end use case tests for enterprise SOA applications. Citrus simulates surrounding interface partners supporting a huge set of different transports and protocols like Http, JMS, TCP/IP, FTP, SOAP, XML and JSON.
+
 ## Virtual environments
 
 [Contribute to this section](https://github.com/atinfo/awesome-test-automation/blob/master/CONTRIBUTING.md)
@@ -134,7 +139,8 @@ Also:
 ## Useful libs
 
 * [AspectJ](https://eclipse.org/aspectj/) - Seamless aspect-oriented extension to the Java. AspectJ enables clean modularization of crosscutting concerns, such as error checking and handling, synchronization, context-sensitive behavior, performance optimizations, monitoring and logging, debugging support, and multi-object protocols.
-* [aShot](https://github.com/yandex-qatools/ashot) - WebDriver Screenshot utility. Take screenshots, crop, prettify, compare
+* [aShot](https://github.com/yandex-qatools/ashot) - WebDriver Screenshot utility. Take screenshots, crop, prettify, compare.
+* [rest-assured](https://code.google.com/p/rest-assured/) - Testing and validating REST services in Java is harder than in dynamic languages such as Ruby and Groovy. REST Assured brings the simplicity of using these languages into the Java domain.
 
 # Resources
 * [Thucydides libraries](http://thucydides.info/docs/thucydides-one-page/thucydides.html)
