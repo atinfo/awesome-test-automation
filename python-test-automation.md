@@ -1,4 +1,4 @@
-# Python test automation 
+# Python test automation
 
 A comprehensive curated list of python test automation frameworks, tools, libraries and software to help software engineers easily bootstrap test automation on python.
 
@@ -32,7 +32,7 @@ Also:
 
 ## xUnit frameworks
 
-- frameworks 
+- frameworks
     * [unittest](https://docs.python.org/library/unittest.html) - is a library to make unit testing distributed with python out of the box.
     * [unittest2](https://pypi.python.org/pypi/unittest2) - is a backport of the new features added to the unittest testing framework in Python 2.7 and onwards.
     * [pytest](http://pytest.org/) - is a mature full-featured Python testing tool that helps you write better programs.
@@ -78,7 +78,7 @@ Also:
 * [pycallgraph](https://github.com/gak/pycallgraph) - A library that visualises the flow (call graph) of your Python application.
 * [Flake8](https://pypi.python.org/pypi/flake8) - The modular source code checker: pep8, pyflakes and co.
 * [pylama](https://pylama.readthedocs.org/) - Code audit tool for Python and JavaScript.
-* [Pylint](http://www.pylint.org/) - A source code analyzer. 
+* [Pylint](http://www.pylint.org/) - A source code analyzer.
 
 ## Web UI test automation
 
@@ -110,19 +110,19 @@ Also:
 * [robotframework-appiumlibrary](https://github.com/jollychang/robotframework-appiumlibrary) - An appium testing library for RobotFramework.
 * [robotframework-ioslibrary](https://github.com/lovelysystems/robotframework-ioslibrary) - A Robot Framework test library for all your iOS automation needs.
 
-## Windows UI test automation 
+## Windows UI test automation
 
 * [PyAutoGUI](https://pypi.python.org/pypi/PyAutoGUI) - A cross-platform module for GUI automation for human beings. Control the keyboard and mouse from a Python script.
 * [robotframework-autoitlibrary](https://code.google.com/p/robotframework-autoitlibrary/) - A Windows GUI testing library for Robot Framework
 * [autopy](https://github.com/msanders/autopy) - A simple, cross-platform GUI automation toolkit for Python.
 * [UISoup](https://pypi.python.org/pypi/UISoup/) - This library supports UI-related testing using Python on Windows and Mac OS. (Only Python x86 is supported)
 
-## Unix \ Linux UI test automation 
+## Unix \ Linux UI test automation
 
 * [ldtp](https://pypi.python.org/pypi/ldtp) - Cross Platform Linux Desktop (GUI Application) Testing Project.
 * [fMBT](https://github.com/01org/fMBT) - Python libraries for multiplatform GUI testing.
 
-## MacOS UI test automation 
+## MacOS UI test automation
 
 * [PyAutoGUI](https://pypi.python.org/pypi/PyAutoGUI) - A cross-platform module for GUI automation for human beings. Control the keyboard and mouse from a Python script.
 
@@ -148,7 +148,7 @@ Also:
 
 ## Security checking
 
-* [sparta](http://sparta.secforce.com/) - A GUI application which simplifies network infrastructure penetration testing by aiding the penetration tester in the scanning and enumeration phase. 
+* [sparta](http://sparta.secforce.com/) - A GUI application which simplifies network infrastructure penetration testing by aiding the penetration tester in the scanning and enumeration phase.
 * [OWASP ZAP](https://code.google.com/p/zaproxy/wiki/ApiPython) - An API for the usage of OWASP ZAP-features from a Python-script.
 
 ## Continuous Integration
@@ -180,6 +180,7 @@ Also:
 Libraries that may help you to build better test automation.
 
 * [requests](https://pypi.python.org/pypi/requests/) - An Apache2 Licensed HTTP library, written in Python, for human beings.
+* [WebTest](http://webtest.readthedocs.org/en/latest/) - WebTest helps you test your WSGI-based web applications.
 * [lxml](http://lxml.de/) - Most feature-rich and easy-to-use library for processing XML and HTML in the Python language.
 * [suds](https://fedorahosted.org/suds/) - A lightweight SOAP python client for consuming Web Services.
 * [fabric](http://www.fabfile.org/) - A Python library and command-line tool for streamlining the use of SSH for application deployment or systems administration tasks.

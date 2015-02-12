@@ -76,10 +76,13 @@ Also:
     * [Selenium WebDriver](http://selenium.googlecode.com/git/docs/api/rb/index.html) - This gem provides Ruby bindings for WebDriver.
     * [API Taster](https://github.com/fredwu/api_taster) - A quick and easy way to visually test your Rails application's API.
     * [Watir](https://github.com/watir/watir/) - Web application testing in Ruby.
+    * [Watir-webdriver](http://watirwebdriver.com/) - The most elegant way to use WebDriver with ruby.
 - Frameworks
     * [Capybara](http://jnicklas.github.io/capybara) - Acceptance test framework for web applications.
     * [Konacha](https://github.com/jfirebaugh/konacha) - Test your Rails application's JavaScript with the mocha test framework and chai assertion library.
-
+- Page Objects
+    * [page-object](https://github.com/cheezy/page-object) - Gem to implement PageObject pattern in watir-webdriver and selenium-webdriver.
+    * [watirsome](https://github.com/p0deje/watirsome) - Awesome page objects with Watir.
 
 ## Mobile test automation
 
