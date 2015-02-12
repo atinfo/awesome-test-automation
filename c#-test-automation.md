@@ -72,6 +72,7 @@ technology on Windows Phone, iOS and Android
   for Windows (WinAPI / WPF / Silverlight / Windows Forms).
 * Coded UI ($$$) does a pretty good job for Windows UI automation. Pricey... because it comes with Visual Studio Premium and Ultimate.  
 * [**AutoIt (COM bindings)**](https://www.autoitscript.com/autoit3/docs/intro/ComRef.htm) ― since it implements COM+ interface, autoit can be available from any language on windows, including C#.
+* [WebAii Testing Framework](http://www.telerik.com/teststudio/testing-framework) - Framework for cross-browser testing with native support for Telerik UI for ASP.NET AJAX, Silverlight, WPF, HTML5 and XAML applications, etc.
 
 
 ## Virtual environments
