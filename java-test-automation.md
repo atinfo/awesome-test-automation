@@ -63,6 +63,7 @@ Also:
 - frameworks and wrappers
     * [Selenide](http://selenide.org/) - Concise API around Selenium to write stable and readable UI tests.
     * [Thucydides](http://www.thucydides.info/) - An innovative open source library that helps you write more effective automated acceptance tests, and uses these acceptance tests to generates rich documentation and reports about your product and project.
+    * [htmlelements](https://github.com/yandex-qatools/htmlelements) - A Java framework providing easy-to-use way of interaction with web-page elements in web-page tests.
 - extensions
     *  
 
@@ -133,6 +134,7 @@ Also:
 ## Useful libs
 
 * [AspectJ](https://eclipse.org/aspectj/) - Seamless aspect-oriented extension to the Java. AspectJ enables clean modularization of crosscutting concerns, such as error checking and handling, synchronization, context-sensitive behavior, performance optimizations, monitoring and logging, debugging support, and multi-object protocols.
+* [aShot](https://github.com/yandex-qatools/ashot) - WebDriver Screenshot utility. Take screenshots, crop, prettify, compare
 
 # Resources
 * [Thucydides libraries](http://thucydides.info/docs/thucydides-one-page/thucydides.html)
