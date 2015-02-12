@@ -1,4 +1,4 @@
-# Ruby test automation 
+# Ruby test automation
 
 A comprehensive curated list of Ruby test automation frameworks, tools, libraries and software to help software engineers easily bootstrap test automation on Ruby.
 
@@ -22,7 +22,6 @@ Table of content:
 - [Useful libs](#useful-libs)
 
 Also:
-
 - [Resources](#resources)
 - [Other Awesome Test Automation Lists](#other-awesome-lists)
 - [Contributing](#contributing)
@@ -34,10 +33,14 @@ Also:
 [Contribute to this section](https://github.com/atinfo/awesome-test-automation/blob/master/CONTRIBUTING.md)
 
 ## TDD \ ATDD \ BDD
+* [RSpec](http://rspec.info/) - Behaviour Driven Development for Ruby. RSpec becomes available in Ruby projects on attaching the rspec gem. For the Rails applications, rspec-rails gem is also required.
+* [Cucumber](http://cukes.info/) - This testing tool supports BDD, and enables using features and scenarios written in a human-readable language, either English or any other language specified in the # language: comment. Cucumber becomes available in project upon installing and activating the cucumber gem.
+* [Test::Unit](http://ruby-doc.org//stdlib-2.1.5//libdoc/test/unit/rdoc/Test/Unit.html) - is intended for unit testing and comes bundled with Ruby.
+* [Shoulda](https://github.com/thoughtbot/shoulda) - is intended for unit testing, and becomes available in Ruby projects on attaching the shoulda gem. So doing, the Shoulda tests are added on to the Test::Unit framework.
+* [MiniTest](https://github.com/CapnKernul/minitest-reporters#readme) - becomes available on attaching the minitest-reporters gem. The minitests are added to the Test::Unit framework.
 
-[Contribute to this section](https://github.com/atinfo/awesome-test-automation/blob/master/CONTRIBUTING.md)
 
-## Code analysis 
+## Code analysis
 
 [Contribute to this section](https://github.com/atinfo/awesome-test-automation/blob/master/CONTRIBUTING.md)
 
@@ -49,15 +52,15 @@ Also:
 
 [Contribute to this section](https://github.com/atinfo/awesome-test-automation/blob/master/CONTRIBUTING.md)
 
-## Windows UI test automation 
+## Windows UI test automation
 
 [Contribute to this section](https://github.com/atinfo/awesome-test-automation/blob/master/CONTRIBUTING.md)
 
-## Unix \ Linux UI test automation 
+## Unix \ Linux UI test automation
 
 [Contribute to this section](https://github.com/atinfo/awesome-test-automation/blob/master/CONTRIBUTING.md)
 
-## MacOS UI test automation 
+## MacOS UI test automation
 
 [Contribute to this section](https://github.com/atinfo/awesome-test-automation/blob/master/CONTRIBUTING.md)
 
