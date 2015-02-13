@@ -47,6 +47,7 @@ Also:
 - BDD
     * [behave](https://pypi.python.org/pypi/behave) - BDD tool
     * [lettuce](http://lettuce.it/) - BDD tool
+        * [lettuce-tools](https://github.com/telefonicaid/lettuce-tools) - Lettuce Tools are a set of tools and utilities that extend the lettuce out of the box features fill some of the gaps detected in the projects.
     * [contexts](https://github.com/benjamin-hodgson/Contexts) - Descriptive testing for Python.
     * [mamba](http://nestorsalceda.github.io/mamba/) - The definitive testing tool for Python. Born under the banner of Behavior Driven Development.
     * [pyvows](http://heynemann.github.io/pyvows/) - Asynchronous behaviour driven development for Python.
