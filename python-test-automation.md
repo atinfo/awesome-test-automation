@@ -189,6 +189,7 @@ Libraries that may help you to build better test automation.
 * [Comcast](https://github.com/tylertreat/Comcast/) - simulating shitty network connections so you can build better systems.
 * [dateutil](https://pypi.python.org/pypi/python-dateutil) - Extensions to the standard Python datetime module.
 * [python-tesseract](https://code.google.com/p/python-tesseract/) - Wrapper class for tesseract OCR (Linux & Mac & Windows)
+* [pywinrm](https://github.com/diyan/pywinrm/) - A Python client for Windows Remote Management (WinRM). This allows you to invoke commands on target Windows machines from any machine that can run Python. WinRM allows you to call native objects in Windows. These include, but are not limited to, running batch scripts, powershell scripts and fetching WMI variables. For more information on WinRM, please visit Microsoft's WinRM site.
 
 # Resources
 Where to discover new libraries, information, tools, etc.
