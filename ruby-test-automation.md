@@ -133,7 +133,8 @@ Also:
 
 ## Useful libs
 
- * [parallel_tests](https://github.com/grosser/parallel_tests) - Speedup Test::Unit + RSpec + Cucumber by running parallel on multiple CPUs (or cores). ParallelTests splits tests into even groups(by number of tests or runtime) and runs each group in a single process with its own database.
+* [parallel_tests](https://github.com/grosser/parallel_tests) - Speedup Test::Unit + RSpec + Cucumber by running parallel on multiple CPUs (or cores). ParallelTests splits tests into even groups(by number of tests or runtime) and runs each group in a single process with its own database.
+* [headless](https://github.com/leonid-shevtsov/headless) - Is the Ruby interface for Xvfb. It allows you to create a headless display straight from Ruby code, hiding some low-level action. It can also capture images and video from the virtual framebuffer.  
 
 
 # Resources
