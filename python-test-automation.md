@@ -126,6 +126,7 @@ Also:
 ## MacOS UI test automation
 
 * [PyAutoGUI](https://pypi.python.org/pypi/PyAutoGUI) - A cross-platform module for GUI automation for human beings. Control the keyboard and mouse from a Python script.
+* [ATOMac](https://github.com/pyatom/pyatom) - Python library to fully enable GUI testing of Mac applications via the Apple Accessibility API
 
 ## Virtual environments
 
