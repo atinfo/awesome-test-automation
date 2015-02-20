@@ -30,8 +30,14 @@ Also:
 ---
 
 ## xUnit frameworks
+* [PHPUnit](https://phpunit.de/) - Most known testing frameworks based on xUnit architecture. Full line coverage, pathc coverage, extended reports and even hhvm are pre-built.
+* [Atoum](https://github.com/atoum/atoum) - Lightweight PHP unit testing framework with simple report generation.
 
-[Contribute to this section](https://github.com/atinfo/awesome-test-automation/blob/master/CONTRIBUTING.md)
+## Mock frameworks
+* [vfsStream](https://github.com/mikey179/vfsStream) - A stream wrapper for a virtual file system that may be helpful in unit tests to mock the real file system. It can be used with any unit test framework, like PHPUnit or SimpleTest.
+* [Prophecy](https://github.com/phpspec/prophecy) - Object mocking framework for PHP.
+* [Phake](https://github.com/mlively/Phake) - Mock php objects, test doubles and method stubs, inspired by Mockito for Java.
+* [Codeception's AspectMock](https://github.com/Codeception/AspectMock) - AspectMock allows you to stub and mock practically anything in your PHP code.
 
 ## TDD \ ATDD \ BDD
 
@@ -44,7 +50,10 @@ Also:
 [Contribute to this section](https://github.com/atinfo/awesome-test-automation/blob/master/CONTRIBUTING.md)
 
 ## Web UI test automation
-
+* [Facebook php-webdriver](https://github.com/facebook/php-webdriver) - Facebook supported PHP webdriver bindings
+* [Element-34 php-webdriver](https://github.com/facebook/php-webdriver) - Fork of Facebook PHP webdriver with  WebDriverWait implementation and available via PEAR
+* [BeHat's Mink](http://mink.behat.org/en/latest/) - An open source browser controller/emulator for web applications
+   
 ## Mobile test automation
 
 [Contribute to this section](https://github.com/atinfo/awesome-test-automation/blob/master/CONTRIBUTING.md)
@@ -76,8 +85,8 @@ Also:
 [Contribute to this section](https://github.com/atinfo/awesome-test-automation/blob/master/CONTRIBUTING.md)
 
 ## Continuous Integration
-
-[Contribute to this section](https://github.com/atinfo/awesome-test-automation/blob/master/CONTRIBUTING.md)
+    * [PHPCI](https://www.phptesting.org/) - Free and open source continuous integration tool specifically designed for PHP.
+    * [Jenkins PHP project template](http://jenkins-php.org/) - The goal of this project is to provide a standard template for Jenkins jobs for PHP projects.
 
 ## Reporting
 
@@ -88,8 +97,9 @@ Also:
 [Contribute to this section](https://github.com/atinfo/awesome-test-automation/blob/master/CONTRIBUTING.md)
 
 ## Editors, IDE, consoles
-
-[Contribute to this section](https://github.com/atinfo/awesome-test-automation/blob/master/CONTRIBUTING.md)
+    * [PhpStorm](https://www.jetbrains.com/phpstorm/) - PHP IDE with highlighting, code analyzer, debugging features, all kinds of repositories and many others.
+    * [ZendStudio](http://www.zend.com/en/products/studio) - PHP IDE from PHP creators' company, multiply features + different js frameworks supports.
+    * [NetBeans](https://netbeans.org/features/php/) - Open source free PHP IDE.
 
 ## Useful libs
 

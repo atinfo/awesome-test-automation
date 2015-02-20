@@ -35,19 +35,33 @@ Also:
 
 ## TDD \ ATDD \ BDD
 
-[Contribute to this section](https://github.com/atinfo/awesome-test-automation/blob/master/CONTRIBUTING.md)
+- BDD/TDD
+    * [WebdriverIO](http://webdriver.io/) - Nodejs webdriver bindings implementation, based on JsonWire protocol. Requires selenium server running. Includes promises, extended syntax, asynchronus calls with callbacks etc. Also supports SauceLabs, BrowserStack and many other online tools.
+    * [WebdriverJS](https://code.google.com/p/selenium/wiki/WebDriverJs) - webdriver nodejs implemetations from authors of selenium, includes all basic features and commands.
+    * [MochaJS](http://mochajs.org/) - feature-rich JavaScript test framework running on node.js and the browser.
+- TDD
+    * [Karma](http://mochajs.org/) - test runner for making TDD much easier by pre-build test envitronments.
+- BDD
+    * [Jasmine](http://jasmine.github.io/) - Behavior Driven Development testing framework for JavaScript. It does not rely on browsers, DOM, or any JavaScript framework. Thus it's suited for websites, Node.js projects, or anywhere that JavaScript can run.
+
+## Mock frameworks
+* [Sinon.JS](http://sinonjs.org/) - Standalone test spies, stubs and mocks for JavaScript.
+No dependencies, works with any unit testing framework.
+* [JSMockito](http://jsmockito.org/) - JsMockito is a JavaScript stub/mock framework heavily inspired by java's Mockito.
 
 ## Code analysis 
-
-[Contribute to this section](https://github.com/atinfo/awesome-test-automation/blob/master/CONTRIBUTING.md)
+* [HintJS](http://jshint.com/) - Community driving js code analysis tool supported by twitter, facebook, wiki, jquery, mozilla, yahoo and others.
+* [JsLint](http://www.jslint.com/) - JavaScript syntax checker and validator.
 
 ## Web UI test automation
-
-[Contribute to this section](https://github.com/atinfo/awesome-test-automation/blob/master/CONTRIBUTING.md)
+* [WebdriverIO](http://webdriver.io/) - Nodejs webdriver bindings implementation, based on JsonWire protocol. Requires selenium server running. Includes promises, extended syntax, asynchronus calls with callbacks etc. Also supports SauceLabs, BrowserStack and many other online tools.
+* [WebdriverJS](https://code.google.com/p/selenium/wiki/WebDriverJs) - webdriver nodejs implemetations from authors of selenium, includes all basic features and commands.
+* [Protractor](http://angular.github.io/protractor/) - End-to-end test framework for AngularJS applications.
+* [Nightwatch.js](http://nightwatchjs.org/) - Easy to use Node.js based End-to-End (E2E) testing solution for browser based apps and websites.
+* [Dalek.js](http://dalekjs.com/) - Automated cross browser testing with JavaScript.
 
 ## Mobile test automation
-
-[Contribute to this section](https://github.com/atinfo/awesome-test-automation/blob/master/CONTRIBUTING.md)
+* [WebdriverIO's Appium implementation](http://webdriver.io/api/appium/backgroundApp.html) - nodejs bindings implemeting Appium commands.
 
 ## Windows UI test automation 
 
@@ -74,20 +88,23 @@ Also:
 [Contribute to this section](https://github.com/atinfo/awesome-test-automation/blob/master/CONTRIBUTING.md)
 
 ## Continuous Integration
-
-[Contribute to this section](https://github.com/atinfo/awesome-test-automation/blob/master/CONTRIBUTING.md)
+* [Strider CD](https://github.com/Strider-CD/strider) - Open Source Continuous Deployment / Continuous Integration platform written in NodeJS.
+* [Gulp](http://gulpjs.com/) - Streaming building system/task runner in nodejs. Based on streaming data flow conception (https://github.com/substack/stream-handbook).
+* [Grunt](http://gruntjs.com/) - Streaming building system/task runner in nodejs. Can't do anything without plugins, but there are many of them for all kinds of purposes.
 
 ## Reporting
-
-[Contribute to this section](https://github.com/atinfo/awesome-test-automation/blob/master/CONTRIBUTING.md)
+* [Istanbul](https://github.com/gotwarlost/istanbul) - JS coverage tool for unit tests, server side functional tests and browser tests.
+* [Blanket](http://blanketjs.org/) - JavaScript code coverage library that works both in-browser and with nodejs.
 
 ## Documentation generation
 
 [Contribute to this section](https://github.com/atinfo/awesome-test-automation/blob/master/CONTRIBUTING.md)
 
 ## Editors, IDE, consoles
-
-[Contribute to this section](https://github.com/atinfo/awesome-test-automation/blob/master/CONTRIBUTING.md)
+* [WebStorm](https://www.jetbrains.com/webstorm/) - PhpStorm without php support. One of thee most powerfull JS/HTML IDE.
+* [Brackets](http://brackets.io/) - Open source newly released IDE for JS/HTML from Adobe. 
+* [Komodo](http://komodoide.com/) - Cross platform IDE for multiply languages, strongly supporting JS.
+* [Cloud9](https://c9.io/) - Cloud based nodejs IDE supporting multiply features, eg. pair programming, preview in a ny browser, built-in image editor, terminal and many others
 
 ## Useful libs
 
