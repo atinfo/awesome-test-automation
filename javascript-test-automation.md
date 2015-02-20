@@ -44,6 +44,11 @@ Also:
 - BDD
     * [Jasmine](http://jasmine.github.io/) - Behavior Driven Development testing framework for JavaScript. It does not rely on browsers, DOM, or any JavaScript framework. Thus it's suited for websites, Node.js projects, or anywhere that JavaScript can run.
 
+## Mock frameworks
+* [Sinon.JS](http://sinonjs.org/) - Standalone test spies, stubs and mocks for JavaScript.
+No dependencies, works with any unit testing framework.
+* [JSMockito](http://jsmockito.org/) - JsMockito is a JavaScript stub/mock framework heavily inspired by java's Mockito.
+
 ## Code analysis 
 * [HintJS](http://jshint.com/) - Community driving js code analysis tool supported by twitter, facebook, wiki, jquery, mozilla, yahoo and others.
 * [JsLint](http://www.jslint.com/) - JavaScript syntax checker and validator.
