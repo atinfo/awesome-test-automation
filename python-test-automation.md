@@ -157,6 +157,7 @@ Also:
 
 * [buildbot](https://pypi.python.org/pypi/buildbot/) - A system to automate the compile/test cycle required by most software projects to validate code changes.
 * [jenkins](http://jenkins-ci.org/) - An extensible open source continuous integration server.
+* [travis-ci](https://travis-ci.org) - Free Hosted Continuous Integration Platform.
 
 ## Reporting
 
