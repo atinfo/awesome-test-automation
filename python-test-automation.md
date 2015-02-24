@@ -71,6 +71,7 @@ Also:
 * [fake2db](https://github.com/emirozer/fake2db) - Fake database generator.
 * [ForgeryPy](https://pypi.python.org/pypi/ForgeryPy) - An easy to use forged data generator for Python. It's a port of forgery.
 * [radar](https://pypi.python.org/pypi/radar) - Generate random datetime / time.
+* [robotframework-faker](https://github.com/guykisel/robotframework-faker) - Robot Framework wrapper for faker.
 
 ## Code analysis
 
