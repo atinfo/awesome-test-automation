@@ -1,12 +1,13 @@
 # Awesome Test Automation
 A curated list of awesome test automation frameworks, tools, libraries, and software for different programming languages to help software engineers easily bootstrap test automation upon necessity. Inspired by [awesome-php](https://github.com/ziadoz/awesome-php)
 
-* [python test automation](https://github.com/atinfo/awesome-test-automation/blob/master/python-test-automation.md) (_in progress_, ~90 items added)
+* [python test automation](https://github.com/atinfo/awesome-test-automation/blob/master/python-test-automation.md) (_in progress_, ~100 items added)
 * [java test automation](https://github.com/atinfo/awesome-test-automation/blob/master/java-test-automation.md) (_in progress_, ~40 items added)
 * [ruby test automation](https://github.com/atinfo/awesome-test-automation/blob/master/ruby-test-automation.md) (_in progress_, ~20 items added)
 * [c# test automation](https://github.com/atinfo/awesome-test-automation/blob/master/c%23-test-automation.md) (_in progress_, ~20 items added)
-* [php test automation](https://github.com/atinfo/awesome-test-automation/blob/master/php-test-automation.md) (_in progress_, ~10 items added)
-* [javascript test automation](https://github.com/atinfo/awesome-test-automation/blob/master/javascript-test-automation.md) (_to be started soon_)
+* [php test automation](https://github.com/atinfo/awesome-test-automation/blob/master/php-test-automation.md) (_in progress_, ~20 items added)
+* [javascript test automation](https://github.com/atinfo/awesome-test-automation/blob/master/javascript-test-automation.md) (_in progress_, ~20 items added)
+* [test automation and software testing as services](https://github.com/atinfo/awesome-test-automation/blob/master/automation-and-testing-as-service.md) (_in progress_, ~10 items added)
 
 # Notifications
 Press [like](https://github.com/atinfo/awesome-test-automation/stargazers) to support us and [watch](https://github.com/atinfo/awesome-test-automation/subscription) repository to receive updates.
