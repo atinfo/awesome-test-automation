@@ -126,6 +126,7 @@ Also:
 ## MacOS UI test automation
 
 * [PyAutoGUI](https://pypi.python.org/pypi/PyAutoGUI) - A cross-platform module for GUI automation for human beings. Control the keyboard and mouse from a Python script.
+* [ATOMac](https://github.com/pyatom/pyatom) - Python library to fully enable GUI testing of Mac applications via the Apple Accessibility API
 
 ## Virtual environments
 
@@ -156,6 +157,7 @@ Also:
 
 * [buildbot](https://pypi.python.org/pypi/buildbot/) - A system to automate the compile/test cycle required by most software projects to validate code changes.
 * [jenkins](http://jenkins-ci.org/) - An extensible open source continuous integration server.
+* [travis-ci](https://travis-ci.org) - Free Hosted Continuous Integration Platform.
 
 ## Reporting
 
