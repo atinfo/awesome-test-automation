@@ -85,6 +85,7 @@ Also:
 - Page Objects
     * [page-object](https://github.com/cheezy/page-object) - Gem to implement PageObject pattern in watir-webdriver and selenium-webdriver.
     * [watirsome](https://github.com/p0deje/watirsome) - Awesome page objects with Watir.
+    * [widgeon](https://github.com/yashaka/widgeon) - Yet another 'page objects for Capybara' gem with ability to create custom loadable elements akka 'widgets'
 
 ## Mobile test automation
 
