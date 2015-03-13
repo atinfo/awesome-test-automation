@@ -41,6 +41,17 @@ Also:
 - extensions
     * [proboscis](https://pythonhosted.org/proboscis/) -  is a Python test framework that extends Python’s built-in unittest module and Nose with features from TestNG.
     * [grail](https://github.com/wgnet/grail) - is a library which allows test script creation based on steps.
+    * [testify](https://github.com/Yelp/Testify/) - unit test framework, provides Enhanced test fixture setup, Split test suites into buckets for easy parallelization, PEP8 naming conventions & Fancy color test runner with lots of logging / reporting option.
+    * [trial](http://twistedmatrix.com/trac/wiki/TwistedTrial) - Extension of unittest to support writing asynchronous unit tests using Deferreds and new result types ('skip' and 'todo'). Includes a command-line program that does test discovery and integrates with doctest and coverage.
+    * [subunit](https://launchpad.net/subunit) - Transparently adds support for running unittest test cases/suites in a separate process : prevents system wide changes by a test destabilising the test runner. It also allows reporting from tests in another process into the unittest framework, giving a single integrated test environment.
+    * [testresources](https://launchpad.net/testresources) - Provides a mechanism for managing 'resources' - expensive bits of infrastructure - that are needed by multiple tests. Resources are constructed and free on demand, but with an optional TestSuite?, the test run order is optimised to reduce the number of resource constructions and releases needed. Compatible with unittest.
+    * [testtools](https://launchpad.net/testtools) - Useful extensions to unittest derived from custom extensions by projects such as Twisted and Bazaar.
+    * [Sancho](https://www.mems-exchange.org/software/DurusWorks/) - Sancho 2.1 runs tests, and provides output for tests that fail; Sancho 2.1 does not count tests passed or failed; targets projects that do not maintain failing tests
+    * [zope.testing](https://pypi.python.org/pypi/zope.testing) - Powerful test runner that includes support for post-mortem debugging of test failures. Also includes profiling and coverage reporting. This is a standalone package that has no dependencies on Zope and works just fine with projects that don't use Zope.
+    * [pythoscope](http://pythoscope.org/) - Tool that will automatically, or semi-automatically, generate unit tests for legacy systems written in Python.
+    * [testlib](http://www.logilab.org/project/logilab-common/) - Gives more power to standard unittest. More assert* methods; support for module level setup/teardown; skip test feature...
+    * [dutest](https://pypi.python.org/pypi/dutest) - An object oriented interface to retrieve unittest test cases out of doctests. Hides initialization from doctests by allowing setUp and tearDown for each interactive example. Allows control over all the options provided by doctest. Specialized classes allow selective test discovery across a package hierarchy.
+
 
 ## TDD \ ATDD \ BDD
 
