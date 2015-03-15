@@ -50,7 +50,7 @@ Also:
 
 ## Model-Based Testing
 
-- [GraphWalker](http://graphwalker.org/) - A framework for Model-Based Testing. The tool reads models i various formats like graphml, dot or json, and then generate tests from the models.
+- [GraphWalker](http://graphwalker.org/) - A framework for Model-Based Testing. The tool reads models in various formats like graphml, dot or json, and then generates tests from the models.
 
 ## Code analysis 
 
@@ -91,7 +91,7 @@ Also:
 
 ## Server side test automation
 
-* [Citrus](https://github.com/christophd/citrus) - Test framework written in Java that is able to create fully automated end-to-end use case tests for enterprise SOA applications. Citrus simulates surrounding interface partners supporting a huge set of different transports and protocols like Http, JMS, TCP/IP, FTP, SOAP, XML and JSON.
+* [Citrus](https://github.com/christophd/citrus) - Test framework written in Java that is able to create fully automated end-to-end use case tests for enterprise SOA applications. Citrus simulates surrounding interface partners supporting a huge set of different transports and protocols like HTTP, JMS, TCP/IP, FTP, SOAP, XML and JSON.
 
 ## Virtual environments
 
@@ -128,7 +128,7 @@ Also:
 
 ## Editors, IDE, consoles
 
-* [Intellij Idea](https://www.jetbrains.com/idea/) - A free and open-source IDE for Java, Groovy, Scala and Android development.
+* [IntelliJ IDEA](https://www.jetbrains.com/idea/) - A free and open-source IDE for Java, Groovy, Scala and Android development.
 * [Eclipse](https://eclipse.org/ide/) - Eclipse is famous for our Java Integrated Development Environment (IDE), C/C++ IDE and PHP IDE.
 * [NetBeans](https://netbeans.org/features/index.html) - NetBeans IDE is the official IDE for Java 8. With its editors, code analyzers, and converters, you can quickly and smoothly upgrade your applications to use new Java 8 language constructs, such as lambdas, functional operations, and method references.
 
