@@ -37,6 +37,13 @@ Also:
 
 * [Browsershots](http://browsershots.org/) -  Makes screenshots of your web design in different browsers. It is a free open-source online service created by Johann C. Rocholl. When you submit your web address, it will be added to the job queue. A number of distributed computers will open your website in their browser. Then they will make screenshots and upload them to the central server here.
 
+* [Codespeed](https://github.com/tobami/codespeed/) - web application to monitor and analyze the performance of your code.
+
+* [Perfomatic](https://wiki.mozilla.org/Perfomatic) - Mozilla graph server is used to understand how multiple performance metrics change over time. It is a web application for creating graphs of performance test results for a user-configurable combination of branch, operating system and machine. [Example](http://graphs.mozilla.org/graph.html).
+
+* [Tapper](https://tapper.github.io/Tapper/) - all-embracing test infrastructure.
+
+* [Xperior](https://github.com/Xyratex/xperior) - script system for automated testing of distributed filesystems. [Testing Lustre with Xperior](http://www.eofs.eu/fileadmin/lad2014/slides/08_Roman_Grigoryev_Xperior__LAD14_Seagate.pdf).
 
 # Resources
 Where to discover new libraries, information, tools, etc.
