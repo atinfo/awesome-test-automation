@@ -152,6 +152,8 @@ Also:
 * [Vex](https://github.com/sashahart/vex) - Run a command in the named virtualenv.
 * [PyRun](https://www.egenix.com/products/python/PyRun/) - A one-file, no-installation-needed version of Python.
 * [pyenv](https://github.com/yyuu/pyenv) - Simple Python version management.
+* [Tapper](https://tapper.github.io/Tapper/) - all-embracing test infrastructure.
+
 
 ## Performance & stress & load
 
