@@ -1,1 +1,8 @@
 *.html
+
+# IDE files
+
+.idea
+nbproject
+.project
+.settings

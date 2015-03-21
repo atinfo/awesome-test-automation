@@ -34,7 +34,11 @@ Also:
 * [Atoum](https://github.com/atoum/atoum) - Lightweight PHP unit testing framework with simple report generation.
 
 ## Mock frameworks
+
+* [php-vfs](http://thornag.github.io/php-vfs/) - Virtual filesystem provider
+* [adlawson/vfs](https://github.com/adlawson/php-vfs) - Another virtual filesystem provider
 * [vfsStream](https://github.com/mikey179/vfsStream) - A stream wrapper for a virtual file system that may be helpful in unit tests to mock the real file system. It can be used with any unit test framework, like PHPUnit or SimpleTest.
+* [Mockery](https://github.com/padraic/mockery) - Objects mocking and method call assertions framework
 * [Prophecy](https://github.com/phpspec/prophecy) - Object mocking framework for PHP.
 * [Phake](https://github.com/mlively/Phake) - Mock php objects, test doubles and method stubs, inspired by Mockito for Java.
 * [Codeception's AspectMock](https://github.com/Codeception/AspectMock) - AspectMock allows you to stub and mock practically anything in your PHP code.
@@ -43,9 +47,21 @@ Also:
 
 - BDD
     * [Behat](https://github.com/Behat/Behat) - BDD framework for PHP to help you test business expectations.
-    * [Codeception](http://codeception.com/) - BDD-styled PHP testing framework; Selenium WebDriver integration, Symfony2, Laravel4, Yii, Phalcon, Zend Framework support; PageObjects and StepObjects included, BDD-style readable tests, powered by PHPUnit, API testing: REST,SOAP,XML-RPC; Facebook API testing; Data Cleanup; HTML, XML, TAP, JSON reports; CodeCoverage and Remote CodeCoverage; Parallel Execution, etc
+    * [Codeception](http://codeception.com) - BDD-styled PHP testing framework; Selenium WebDriver integration, Symfony2, Laravel4, Yii, Phalcon, Zend Framework support; PageObjects and StepObjects included, BDD-style readable tests, powered by PHPUnit, API testing: REST,SOAP,XML-RPC; Facebook API testing; Data Cleanup; HTML, XML, TAP, JSON reports; CodeCoverage and Remote CodeCoverage; Parallel Execution, etc
 
 ## Code analysis 
+
+* [PHP Mess Detector](http://phpmd.org/) - Static analysis tool that finds long
+method names, methods with excessive cyclomatic complexity, etc. 
+* [PHP Code Sniffer](https://github.com/squizlabs/PHP_CodeSniffer) - Standard/convention
+violation checker
+* [PHP Dead Code Detector](https://github.com/sebastianbergmann/phpdcd) - Unused
+code locator
+* [PHP DocBlock Checker](https://github.com/Block8/php-docblock-checker) -
+Simple tool that checks focblock presence
+* [PHP Parallel Lint](https://github.com/JakubOnderka/PHP-Parallel-Lint) - Simple lint checker
+* [PDepend](http://pdepend.org/) - Complex metrics analyzer
+* [PHP Lines Of Code](https://github.com/sebastianbergmann/phploc) - Project sizing analyzer
 
 [Contribute to this section](https://github.com/atinfo/awesome-test-automation/blob/master/CONTRIBUTING.md)
 
@@ -56,8 +72,6 @@ Also:
 * [saunter.php](https://github.com/Element-34/saunter.php) - Selenium Page Objects implementation in PHP
    
 ## Mobile test automation
-
-[Contribute to this section](https://github.com/atinfo/awesome-test-automation/blob/master/CONTRIBUTING.md)
 
 [Contribute to this section](https://github.com/atinfo/awesome-test-automation/blob/master/CONTRIBUTING.md)
 
@@ -75,7 +89,8 @@ Also:
 
 ## Virtual environments
 
-[Contribute to this section](https://github.com/atinfo/awesome-test-automation/blob/master/CONTRIBUTING.md)
+* [Vagrant](https://vagrantup.com) - configuration-driven virtual machines
+* [Docker](https://www.docker.com/) - ultimate containerization tool 
 
 ## Performance & stress & load
 
@@ -86,26 +101,32 @@ Also:
 [Contribute to this section](https://github.com/atinfo/awesome-test-automation/blob/master/CONTRIBUTING.md)
 
 ## Continuous Integration
-    * [PHPCI](https://www.phptesting.org/) - Free and open source continuous integration tool specifically designed for PHP.
-    * [Jenkins PHP project template](http://jenkins-php.org/) - The goal of this project is to provide a standard template for Jenkins jobs for PHP projects.
+
+* [PHPCI](https://www.phptesting.org/) - Free and open source continuous integration tool specifically designed for PHP.
+* [Jenkins PHP project template](http://jenkins-php.org/) - The goal of this project is to provide a standard template for Jenkins jobs for PHP projects.
 
 ## Reporting
 
-[Contribute to this section](https://github.com/atinfo/awesome-test-automation/blob/master/CONTRIBUTING.md)
+* [Allure Framework](http://allure.qatools.ru/) - Allure Framework is a framework that provides rich and
+beautiful reports with extended possibilities like screenshot capturing. Allure
+provides plugins for [Codeception](https://github.com/allure-framework/allure-codeception)
+and [PHPUnit](https://github.com/allure-framework/allure-phpunit).
 
 ## Documentation generation
 
 [Contribute to this section](https://github.com/atinfo/awesome-test-automation/blob/master/CONTRIBUTING.md)
 
 ## Editors, IDE, consoles
-    * [PhpStorm](https://www.jetbrains.com/phpstorm/) - PHP IDE with highlighting, code analyzer, debugging features, all kinds of repositories and many others.
-    * [ZendStudio](http://www.zend.com/en/products/studio) - PHP IDE from PHP creators' company, multiply features + different js frameworks supports.
-    * [NetBeans](https://netbeans.org/features/php/) - Open source free PHP IDE.
+
+* [PhpStorm](https://www.jetbrains.com/phpstorm/) - PHP IDE with highlighting, code analyzer, debugging features, all kinds of repositories and many others.
+* [ZendStudio](http://www.zend.com/en/products/studio) - PHP IDE from PHP creators' company, multiply features + different js frameworks supports.
+* [NetBeans](https://netbeans.org/features/php/) - Open source free PHP IDE.
+* [Aptana](http://www.aptana.com/) - Another free IDE.
 
 ## Useful libs
 
-[Contribute to this section](https://github.com/atinfo/awesome-test-automation/blob/master/CONTRIBUTING.md)
-
+* [PHP CS Fixer](http://cs.sensiolabs.org/) - tool for automatic convention
+violations correction
 
 # Resources
 Where to discover new libraries, information, tools, etc.
@@ -114,6 +135,8 @@ Where to discover new libraries, information, tools, etc.
 
 * [automated-testing.info](http://automated-testing.info) - Test automation community
 * [atinfo.github.io/at.info-knowledge-base](http://atinfo.github.io/at.info-knowledge-base/)  - Knowledge base for test automation examples on different tools and technologies
+* [PHP QA Toolchain](http://phpqatools.org/) -
+website with reference of most frequently used QA tools
 
 # Other Awesome Test Automation Lists
 
