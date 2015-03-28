@@ -51,6 +51,7 @@ Also:
     * [pythoscope](http://pythoscope.org/) - Tool that will automatically, or semi-automatically, generate unit tests for legacy systems written in Python.
     * [testlib](http://www.logilab.org/project/logilab-common/) - Gives more power to standard unittest. More assert* methods; support for module level setup/teardown; skip test feature...
     * [dutest](https://pypi.python.org/pypi/dutest) - An object oriented interface to retrieve unittest test cases out of doctests. Hides initialization from doctests by allowing setUp and tearDown for each interactive example. Allows control over all the options provided by doctest. Specialized classes allow selective test discovery across a package hierarchy.
+    * [green](https://github.com/CleanCut/green) - Green is a clean, colorful test runner for Python unit tests. Compare it to nose or trial.
 
 
 ## TDD \ ATDD \ BDD
