@@ -68,6 +68,7 @@ technology on Windows Phone, iOS and Android
 
 ## Windows UI test automation 
 
+* [**Winium.Cruciatus**](https://github.com/2gis/Winium.Cruciatus) is an open source C# Framework for automated testing of Windows application based on WinForms and WPF platforms.
 * [**Teststack White**](https://github.com/TestStack/White) is one of the most popular and stable open source UI test automation library 
   for Windows (WinAPI / WPF / Silverlight / Windows Forms).
 * Coded UI ($$$) does a pretty good job for Windows UI automation. Pricey... because it comes with Visual Studio Premium and Ultimate.  
