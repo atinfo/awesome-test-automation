@@ -122,6 +122,7 @@ Also:
 ## Mobile test automation
 
 * [appium](http://appium.io/) - An open source test automation framework for use with native, hybrid and mobile web apps. It drives iOS and Android apps using the WebDriver protocol.
+* [Winium.StoreApps](https://github.com/2gis/Winium.StoreApps/) - An open source test automation tool for Windows Store apps, tested on emulators. It is Selenium Remote WebDriver implementation.
 * [robotframework-androidlibrary](https://github.com/lovelysystems/robotframework-androidlibrary) - A Robot Framework test library for all your Android automation needs.
 * [robotframework-appiumlibrary](https://github.com/jollychang/robotframework-appiumlibrary) - An appium testing library for RobotFramework.
 * [robotframework-ioslibrary](https://github.com/lovelysystems/robotframework-ioslibrary) - A Robot Framework test library for all your iOS automation needs.
@@ -129,6 +130,7 @@ Also:
 
 ## Windows UI test automation
 
+* [Winium.Desktop](https://github.com/2gis/Winium.Desktop/) - An open source test automation tool for automated testing of Windows application based on WinForms and WPF platforms. It is Selenium Remote WebDriver implementation.
 * [PyAutoGUI](https://pypi.python.org/pypi/PyAutoGUI) - A cross-platform module for GUI automation for human beings. Control the keyboard and mouse from a Python script.
 * [robotframework-autoitlibrary](https://code.google.com/p/robotframework-autoitlibrary/) - A Windows GUI testing library for Robot Framework
 * [autopy](https://github.com/msanders/autopy) - A simple, cross-platform GUI automation toolkit for Python.
