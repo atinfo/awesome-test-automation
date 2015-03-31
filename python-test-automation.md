@@ -125,6 +125,7 @@ Also:
 * [robotframework-androidlibrary](https://github.com/lovelysystems/robotframework-androidlibrary) - A Robot Framework test library for all your Android automation needs.
 * [robotframework-appiumlibrary](https://github.com/jollychang/robotframework-appiumlibrary) - An appium testing library for RobotFramework.
 * [robotframework-ioslibrary](https://github.com/lovelysystems/robotframework-ioslibrary) - A Robot Framework test library for all your iOS automation needs.
+* [uiautomator](https://github.com/xiaocong/uiautomator) - Python wrapper of Android uiautomator test tool, it works on Android 4.1+ simply with Android device attached via adb.
 
 ## Windows UI test automation
 
@@ -212,6 +213,7 @@ Libraries that may help you to build better test automation.
 * [pywinrm](https://github.com/diyan/pywinrm/) - A Python client for Windows Remote Management (WinRM). This allows you to invoke commands on target Windows machines from any machine that can run Python. WinRM allows you to call native objects in Windows. These include, but are not limited to, running batch scripts, powershell scripts and fetching WMI variables. For more information on WinRM, please visit Microsoft's WinRM site.
 * [fig](http://www.fig.sh/) - Fast, isolated development environments using [Docker](https://www.docker.com/).
 * [gitapi](http://bitbucket.org/haard/gitapi) - Pure-Python API for git.
+* [Pyro4](https://github.com/irmen/Pyro4) - Pyro enables you to build applications in which objects can talk to each other over the network, with minimal programming effort.
 
 # Resources
 Where to discover new libraries, information, tools, etc.
