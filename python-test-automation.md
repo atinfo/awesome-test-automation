@@ -70,6 +70,7 @@ Also:
     * [sure](https://github.com/gabrielfalcao/sure) - A testing library for python with powerful and flexible assertions.
 - Mocking
     * [mock](https://pypi.python.org/pypi/mock) - A Python Mocking and Patching Library for Testing.
+    * [Ludibrio](http://github.com/nsigustavo/ludibrio/) - Elegant test doubles framework in Python (mocks, stubs, spy, and dummies).
     * [responses](https://github.com/dropbox/responses) - A utility library for mocking out the requests Python library.
     * [doublex](https://pypi.python.org/pypi/doublex) - Powerful test doubles framework for Python.
     * [freezegun](https://github.com/spulec/freezegun) - Travel through time by mocking the datetime module.
@@ -119,6 +120,7 @@ Also:
     * [Browsermob Proxy](https://github.com/AutomatedTester/browsermob-proxy-py) - A python wrapper for Browsermob Proxy.
     * [FireRobot](https://github.com/joao-carloto/FireRobot) - A Firefox extension that allows you to create Robot Framework/Selenium tests, in a more efficient way.
     * [pytractor](https://github.com/kpodl/pytractor) - Python selenium extensions for testing angular.js apps
+    * [Selenium-Requests](https://github.com/cryzed/Selenium-Requests) - Extends Selenium WebDriver classes to include the request function from the Requests library, while doing all the needed cookie and request headers handling.
 
 ## Mobile test automation
 
@@ -209,6 +211,7 @@ Libraries that may help you to build better test automation.
 * [suds](https://fedorahosted.org/suds/) - A lightweight SOAP python client for consuming Web Services.
 * [fabric](http://www.fabfile.org/) - A Python library and command-line tool for streamlining the use of SSH for application deployment or systems administration tasks.
 * [BeautifulSoup](http://www.crummy.com/software/BeautifulSoup/) - Package for parsing HTML documents (including having malformed markup, i.e. non-closed tags, so named after Tag soup). It creates a parse tree for parsed pages that can be used to extract data from HTML, which is useful for web scraping.
+* [Soupy](https://github.com/ChrisBeaumont/soupy) - It is a wrapper around BeautifulSoup that makes it easier to build complex queries when wrangling web data.
 * [waiting](https://github.com/vmalloc/waiting) - python utility library for waiting for predicates.
 * [Comcast](https://github.com/tylertreat/Comcast/) - simulating shitty network connections so you can build better systems.
 * [dateutil](https://pypi.python.org/pypi/python-dateutil) - Extensions to the standard Python datetime module.
