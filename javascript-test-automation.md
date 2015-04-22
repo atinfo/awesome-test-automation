@@ -60,6 +60,7 @@ No dependencies, works with any unit testing framework.
 * [Protractor](http://angular.github.io/protractor/) - End-to-end test framework for AngularJS applications.
 * [Nightwatch.js](http://nightwatchjs.org/) - Easy to use Node.js based End-to-End (E2E) testing solution for browser based apps and websites.
 * [Dalek.js](http://dalekjs.com/) - Automated cross browser testing with JavaScript.
+* [Nemo](https://github.com/paypal/nemo) - Nemo provides a simple way to add selenium automation to your NodeJS web projects. With a powerful configuration ability provided by krakenjs/confit, and plugin architecture, Nemo is flexible enough to handle any browser/device automation need.
 
 ## Mobile test automation
 * [WebdriverIO's Appium implementation](http://webdriver.io/api/appium/backgroundApp.html) - nodejs bindings implemeting Appium commands.
