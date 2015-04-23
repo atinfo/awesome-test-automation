@@ -2,6 +2,8 @@
 
 A comprehensive curated list of Ruby test automation frameworks, tools, libraries and software to help software engineers easily bootstrap test automation on Ruby.
 
+[![Have questions\issues\problems, join the chat at https://gitter.im/atinfo/awesome-test-automation](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/atinfo/awesome-test-automation)
+
 Table of content:
 
 - [xUnit frameworks](#xunit-frameworks)

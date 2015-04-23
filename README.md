@@ -1,5 +1,8 @@
 # Awesome Test Automation
+
 A curated list of awesome test automation frameworks, tools, libraries, and software for different programming languages to help software engineers easily bootstrap test automation upon necessity. Inspired by [awesome-php](https://github.com/ziadoz/awesome-php)
+
+[![Have questions\issues\problems, join the chat at https://gitter.im/atinfo/awesome-test-automation](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/atinfo/awesome-test-automation)
 
 * [python test automation](https://github.com/atinfo/awesome-test-automation/blob/master/python-test-automation.md) (_in progress_, ~100 items added)
 * [java test automation](https://github.com/atinfo/awesome-test-automation/blob/master/java-test-automation.md) (_in progress_, ~50 items added)

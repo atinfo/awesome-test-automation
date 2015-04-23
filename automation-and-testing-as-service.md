@@ -2,6 +2,8 @@
 
 A comprehensive curated list of test automation and software testing as online services to help software engineers easily bootstrap test automation and software testing.
 
+[![Have questions\issues\problems, join the chat at https://gitter.im/atinfo/awesome-test-automation](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/atinfo/awesome-test-automation)
+
 Table of content:
 
 - [Web test automation and testing](#web-test-automation-and-testing)

@@ -2,6 +2,8 @@
 
 Your contributions are always welcome!
 
+[![Have questions\issues\problems, join the chat at https://gitter.im/atinfo/awesome-test-automation](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/atinfo/awesome-test-automation)
+
 ## Guidelines
 
 * [Fork repository](https://github.com/atinfo/awesome-test-automation/fork)
