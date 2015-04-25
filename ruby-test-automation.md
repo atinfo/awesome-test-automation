@@ -35,6 +35,7 @@ Also:
 
 * [Test::Unit](http://ruby-doc.org//stdlib-2.1.5//libdoc/test/unit/rdoc/Test/Unit.html) - is intended for unit testing and comes bundled with Ruby.
 * [MiniTest](https://github.com/CapnKernul/minitest-reporters#readme) - becomes available on attaching the minitest-reporters gem. The minitests are added to the Test::Unit framework.
+* [yard-doctest](https://github.com/p0deje/yard-doctest) - allows to use YARD examples as tests
 
 ## TDD \ ATDD \ BDD
 - TDD
