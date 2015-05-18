@@ -109,9 +109,9 @@ No dependencies, works with any unit testing framework.
 ## Editors, IDE, consoles
 * [WebStorm](https://www.jetbrains.com/webstorm/) - PhpStorm without php support. One of thee most powerfull JS/HTML IDE.
 * [Brackets](http://brackets.io/) - Open source newly released IDE for JS/HTML from Adobe. 
-* [Komodo](http://komodoide.com/) - Cross platform IDE for multiply languages, strongly supporting JS.
-* [Cloud9](https://c9.io/) - Cloud based nodejs IDE supporting multiply features, eg. pair programming, preview in a ny browser, built-in image editor, terminal and many others
-
+* [Komodo](http://komodoide.com/) - Cross platform IDE for multiple languages, strongly supporting JS.
+* [Cloud9](https://c9.io/) - Cloud based nodejs IDE supporting multiple features, eg. pair programming, preview in a new browser, built-in image editor, terminal and many others
+* [Visual Studio Code](https://code.visualstudio.com/) - Cross platform editor from Microsoft, with integrated Node.js debugger and hooks for taskrunners such as Gulp
 ## Useful libs
 
 [Contribute to this section](https://github.com/atinfo/awesome-test-automation/blob/master/CONTRIBUTING.md)
