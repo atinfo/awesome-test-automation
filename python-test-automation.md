@@ -142,6 +142,7 @@ Also:
 * [robotframework-autoitlibrary](https://code.google.com/p/robotframework-autoitlibrary/) - A Windows GUI testing library for Robot Framework
 * [autopy](https://github.com/msanders/autopy) - A simple, cross-platform GUI automation toolkit for Python.
 * [UISoup](https://pypi.python.org/pypi/UISoup/) - This library supports UI-related testing using Python on Windows and Mac OS. (Only Python x86 is supported)
+* [pywinauto](http://pywinauto.github.io/) - Very pythonic object-oriented Windows GUI automation library. Now it supports 64-bit Py2 and Py3.
 
 ## Unix \ Linux UI test automation
 
