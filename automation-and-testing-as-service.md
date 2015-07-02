@@ -24,6 +24,7 @@ Also:
 * [SauceLabs](https://saucelabs.com/) - Provides the world's largest automation cloud for testing web and native/hybrid mobile applications. Founded by the original creator of Selenium, Sauce Labs helps companies accelerate software development cycles, improve application quality and deploy with confidence across 450+ browser / OS platforms, including Windows, Linux, iOS, Android & Mac OS X. 
 * [Browserstack](http://www.browserstack.com/) - Online tool which allows users to test their website from different browsers. The list of supported browsers includes Google Chrome, Internet Explorer, Opera and Safari. This even includes different browser versions as well including the beta versions as well. With Browserstack, you can test every aspect of your website like flash, CSS, Java and more.
 * [BackTrac](http://backtrac.io/) Help organizations to keep an eye on their websites to identify broken pages fast and effortless. Automatically create a screenshots of pages and be notified about visual changes happened.
+* [AppliTools](https://applitools.com/) Automating visual software testing 
 
 ## Performance and load testing
 
