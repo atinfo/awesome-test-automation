@@ -89,6 +89,7 @@ Also:
 * [radar](https://pypi.python.org/pypi/radar) - Generate random datetime / time.
 * [robotframework-faker](https://github.com/guykisel/robotframework-faker) - Robot Framework wrapper for faker.
 * [hypothesis](https://github.com/DRMacIver/hypothesis) - Library for property based testing in Python, based on the Haskell library Quickcheck. 
+* [ddt](https://github.com/txels/ddt) - Data-Driven tests.
 
 ## Code analysis
 
@@ -98,6 +99,7 @@ Also:
 * [Flake8](https://pypi.python.org/pypi/flake8) - The modular source code checker: pep8, pyflakes and co.
 * [pylama](https://pylama.readthedocs.org/) - Code audit tool for Python and JavaScript.
 * [Pylint](http://www.pylint.org/) - A source code analyzer.
+* [hacking](https://github.com/openstack-dev/hacking) - OpenStack Hacking Style Checks (`flake8` plugins).
 
 ## Web UI test automation
 
