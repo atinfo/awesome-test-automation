@@ -54,6 +54,7 @@ Also:
     * [testlib](http://www.logilab.org/project/logilab-common/) - Gives more power to standard unittest. More assert* methods; support for module level setup/teardown; skip test feature...
     * [dutest](https://pypi.python.org/pypi/dutest) - An object oriented interface to retrieve unittest test cases out of doctests. Hides initialization from doctests by allowing setUp and tearDown for each interactive example. Allows control over all the options provided by doctest. Specialized classes allow selective test discovery across a package hierarchy.
     * [green](https://github.com/CleanCut/green) - Green is a clean, colorful test runner for Python unit tests. Compare it to nose or trial.
+    * [ddt](https://github.com/txels/ddt) - Data-Driven tests with unittest
 
 
 ## TDD \ ATDD \ BDD
@@ -89,7 +90,6 @@ Also:
 * [radar](https://pypi.python.org/pypi/radar) - Generate random datetime / time.
 * [robotframework-faker](https://github.com/guykisel/robotframework-faker) - Robot Framework wrapper for faker.
 * [hypothesis](https://github.com/DRMacIver/hypothesis) - Library for property based testing in Python, based on the Haskell library Quickcheck. 
-* [ddt](https://github.com/txels/ddt) - Data-Driven tests.
 
 ## Code analysis
 
