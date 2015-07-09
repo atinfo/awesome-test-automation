@@ -120,6 +120,7 @@ Also:
     * [robotframework-pageobjects](https://github.com/ncbi/robotframework-pageobjects) - Nice implementation of the Page Object pattern with robotframework and selenium, that can work even outside of robotframework. More on this [blog post](http://kahunacohen.com/2014/12/03/new-testing-paradigm-robotframework-pageobjects/)
     * [elementium](https://github.com/actmd/elementium) - jQuery-style syntactic sugar for highly reliable automated browser testing in Python
     * [slickqa](http://www.slickqa.com/webdriver/python/) - The slick-webdriver-python project is a wrapper around the python webdriver client bindings.
+    * [selene](https://github.com/yashaka/selene/) - Concise UI tests in Python + Ajax support + PageObjects + Widgets
 - extensions
     * [pytest_splinter](https://github.com/pytest-dev/pytest-splinter) - pytest spinter and selenium integration for anyone interested in browser interaction in tests.
     * [lettuce_webdriver](https://github.com/bbangert/lettuce_webdriver) - Selenium webdriver for lettuce.
