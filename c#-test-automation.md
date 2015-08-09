@@ -107,7 +107,7 @@ run the C# tests just out of the box
 
 ## Reporting
 
-[Contribute to this section](https://github.com/atinfo/awesome-test-automation/blob/master/CONTRIBUTING.md)
+* ExtentReports - HTML reporting library for .NET and Java which is extremely easy to use and creates beautiful execution reports. It shows test and step summary, test steps and status in a toggle view for quick analysis.
 
 ## Documentation generation
 
