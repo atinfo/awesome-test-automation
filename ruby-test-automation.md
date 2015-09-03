@@ -75,22 +75,24 @@ Also:
 
 ## Web UI test automation
 
-- Libraries
+- libraries
     * [Selenium WebDriver](http://selenium.googlecode.com/git/docs/api/rb/index.html) - This gem provides Ruby bindings for WebDriver.
     * [API Taster](https://github.com/fredwu/api_taster) - A quick and easy way to visually test your Rails application's API.
     * [Watir](https://github.com/watir/watir/) - Web application testing in Ruby.
     * [Watir-webdriver](http://watirwebdriver.com/) - The most elegant way to use WebDriver with ruby.
     * [Poltergeist](https://github.com/teampoltergeist/poltergeist) - Poltergeist is a driver for Capybara. It allows you to run your Capybara tests on a headless WebKit browser, provided by PhantomJS.
     * [PhantomJS](http://phantomjs.org/) - is a headless WebKit scriptable with a JavaScript API. It has fast and native support for various web standards: DOM handling, CSS selector, JSON, Canvas, and SVG.
-- Frameworks
+- frameworks
     * [Capybara](http://jnicklas.github.io/capybara) - Acceptance test framework for web applications.
     * [Konacha](https://github.com/jfirebaugh/konacha) - Test your Rails application's JavaScript with the mocha test framework and chai assertion library.
     * [chemistrykit](https://github.com/chemistrykit/chemistrykit) - Simple and opinionated web testing framework for Selenium WebDriver that follows convention over configuration and integrates with SauceLabs for cross-browser execution in the cloud.
     * [howitzer](https://github.com/strongqa/howitzer) - is a Ruby-based framework for acceptance testing. It was originally developed for testing web applications, but you can also use it for API testing and web service testing.The framework was built with modern patterns, techniques, and tools in automated testing.
-- Page Objects
+- page objects
     * [page-object](https://github.com/cheezy/page-object) - Gem to implement PageObject pattern in watir-webdriver and selenium-webdriver.
     * [watirsome](https://github.com/p0deje/watirsome) - Awesome page objects with Watir.
     * [widgeon](https://github.com/yashaka/widgeon) - Yet another 'page objects for Capybara' gem with ability to create custom loadable elements akka 'widgets'
+- extensions
+    * [Selenium-Grid-Extras](https://github.com/groupon/Selenium-Grid-Extras) - Simplify the managment of the Selenium Grid Nodes and stabilize said nodes by cleaning up the test environment after the build has been completed
 
 ## Mobile test automation
 
