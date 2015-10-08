@@ -104,6 +104,7 @@ technology on Windows Phone, iOS and Android
 run the C# tests just out of the box
 * [Team Foundation Server] ― well... the marketing guys say that it can also build something for you
 
+* [**Appveyor**](http://www.appveyor.com/) is free for open source projects and easy to use.
 
 ## Reporting
 
