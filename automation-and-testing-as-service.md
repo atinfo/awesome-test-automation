@@ -25,6 +25,7 @@ Also:
 * [Browserstack](http://www.browserstack.com/) - Online tool which allows users to test their website from different browsers. The list of supported browsers includes Google Chrome, Internet Explorer, Opera and Safari. This even includes different browser versions as well including the beta versions as well. With Browserstack, you can test every aspect of your website like flash, CSS, Java and more.
 * [BackTrac](http://backtrac.io/) Help organizations to keep an eye on their websites to identify broken pages fast and effortless. Automatically create a screenshots of pages and be notified about visual changes happened.
 * [AppliTools](https://applitools.com/) Automating visual software testing 
+* [CrossBrowserTesting](https://crossbrowsertesting.com/) Another one cloud platform for automated testing of web applications. Provides a wide range of browsers, systems and more. 
 
 ## Performance and load testing
 
