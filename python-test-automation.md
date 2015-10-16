@@ -81,6 +81,7 @@ Also:
     * [httmock](https://github.com/patrys/httmock) - A mocking library for requests for Python 2.6+ and 3.2+.
     * [pretenders](https://github.com/pretenders/pretenders) - fake servers for testing.
     * [mock-server](https://github.com/tomashanacek/mock-server) - Simple mock server for REST and XML-RPC API with admin panel based on tornado. 
+    * [VCR.py](https://github.com/kevin1024/vcrpy) - Automatically mock your HTTP interactions to simplify and speed up testing.
 
 ## Test Data manipulation
 
