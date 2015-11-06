@@ -100,10 +100,11 @@ technology on Windows Phone, iOS and Android
 	4. Use `msdeploy` from [Web Deploy Toolkit](http://www.iis.net/downloads/microsoft/web-deploy) in order to perform the remote 
 	   deployment and configuration tasks.
 	   
-* [**Temacity**](https://www.jetbrains.com/teamcity/) is a free and simple Build and Continuous integration server. You can 
+* [**Teamcity**](https://www.jetbrains.com/teamcity/) is a free and simple Build and Continuous integration server. You can 
 run the C# tests just out of the box
 * [Team Foundation Server] ― well... the marketing guys say that it can also build something for you
 
+* [**Appveyor**](http://www.appveyor.com/) is free for open source projects and easy to use.
 
 ## Reporting
 

@@ -53,6 +53,7 @@ Also:
     * [ActiveMocker](https://github.com/zeisler/active_mocker) - Generate mocks from ActiveRecord models for unit tests that run fast because they don’t need to load Rails or a database.
     * [TestXml](https://github.com/alovak/test_xml) - TestXml is a small extension for testing XML/HTML.
     * [WebMock](https://github.com/bblimke/webmock) - Library for stubbing and setting expectations on HTTP requests.
+    * [vcr](https://github.com/vcr/vcr) - Record your test suite's HTTP interactions and replay them during future test runs for fast, deterministic, accurate tests.
 - Extensions
     * [Cutest](https://github.com/djanowski/cutest) - Isolated tests in Ruby. Each test file is run in a forked process to avoid shared state. Once a failure is found, you get a report detailing what failed and how to locate the error and the rest of the file is skipped.
     * [Spork](https://github.com/sporkrb/spork) - A DRb server for testing frameworks (RSpec / Cucumber currently).
