@@ -108,6 +108,7 @@ Also:
 
 * [Apache JMeter](http://jmeter.apache.org/) - Functional testing and performance measurements.
 * [The Grinder](http://grinder.sourceforge.net/) - Load testing framework that makes it easy to run a distributed test using many load injector machines. 
+* [Lightning](https://github.com/automatictester/lightning) -  Enable JMeter performance testing integration with Continuous Integration infrastructure.
 
 ## Security checking
 
