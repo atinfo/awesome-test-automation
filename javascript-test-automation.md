@@ -42,6 +42,7 @@ Also:
     * [WebdriverJS](https://code.google.com/p/selenium/wiki/WebDriverJs) - webdriver nodejs implemetations from authors of selenium, includes all basic features and commands.
     * [MochaJS](http://mochajs.org/) - feature-rich JavaScript test framework running on node.js and the browser.
     * [Intern](https://theintern.github.io/) - is a complete test stack for JavaScript designed to help you write and run consistent, high-quality test cases for your JavaScript libraries and applications. It can be used to test any JavaScript code. Its functional testing capabilities can even be used to test non-JavaScript Web and mobile apps, if you really want.
+    * [CodeceptJS](http://codecept.io/) - Modern era acceptance testing for NodeJS
 - TDD
     * [Karma](http://mochajs.org/) - test runner for making TDD much easier by pre-build test envitronments.
 - BDD
