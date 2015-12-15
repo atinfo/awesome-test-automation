@@ -108,7 +108,7 @@ run the C# tests just out of the box
 
 ## Reporting
 
-[Contribute to this section](https://github.com/atinfo/awesome-test-automation/blob/master/CONTRIBUTING.md)
+* [ExtentReports](http://extentreports.relevantcodes.com) - An open-source reporting library for test automation.
 
 ## Documentation generation
 
