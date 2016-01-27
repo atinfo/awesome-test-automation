@@ -15,6 +15,7 @@ Table of content:
 - [Windows UI test automation](#windows-ui-test-automation)
 - [Unix \ Linux UI test automation](#unix--linux-ui-test-automation)
 - [MacOS UI test automation](#macos-ui-test-automation)
+- [REST API Testing](#rest-api-testing)
 - [Virtual environments](#virtual-environments)
 - [Performance & stress & load](#performance--stress--load)
 - [Security checking](#security-checking)
@@ -157,6 +158,11 @@ Also:
 
 * [PyAutoGUI](https://pypi.python.org/pypi/PyAutoGUI) - A cross-platform module for GUI automation for human beings. Control the keyboard and mouse from a Python script.
 * [ATOMac](https://github.com/pyatom/pyatom) - Python library to fully enable GUI testing of Mac applications via the Apple Accessibility API
+
+## REST API Testing
+* [Rester](https://github.com/chitamoor/rester) - Framework for testing (RESTful) HTTP APIs
+* [pyresttest](https://github.com/svanoort/pyresttest) - A REST testing and API microbenchmarking tool
+* [siesta](http://scastillo.github.com/siesta) - Python REST Client
 
 ## Virtual environments
 
