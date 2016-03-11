@@ -27,6 +27,9 @@ Also:
 * [AppliTools](https://applitools.com/) Automating visual software testing 
 * [CrossBrowserTesting](https://crossbrowsertesting.com/) Another one cloud platform for automated testing of web applications. Provides a wide range of browsers, systems and more. 
 
+## Mobile test automation
+* [Hive CI](http://bbc.github.io/hive-ci/) is a CI system built around devices. Connect your physical devices to a hive and run your tests on the same platforms as your users
+
 ## Performance and load testing
 
 * [Loader.io](https://loader.io/) - A FREE load testing service that allows you to stress test your web-apps & apis with thousands of concurrent connections.
