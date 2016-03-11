@@ -14,7 +14,7 @@ Table of content:
 Also:
 
 - [Resources](#resources)
-- [Other Awesome Test Automation Lists](#Other-Awesome-Test-Automation-Lists)
+- [Other Awesome Test Automation Lists](#other-awesome-test-automation-lists)
 - [Contributing](#contributing)
 
 ---

@@ -16,7 +16,7 @@ Make a pull request to add new chapter
 Also:
 
 - [Resources](#resources)
-- [Other Awesome Test Automation Lists](#Other-Awesome-Test-Automation-Lists)
+- [Other Awesome Test Automation Lists](#other-awesome-test-automation-lists)
 - [Contributing](#contributing)
 
 ---
