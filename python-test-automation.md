@@ -243,6 +243,7 @@ Libraries that may help you to build better test automation.
 
 # Resources
 Where to discover new libraries, information, tools, etc.
+* [python books](https://github.com/Junnplus/awesome-python-books)
 
 ## Websites
 
