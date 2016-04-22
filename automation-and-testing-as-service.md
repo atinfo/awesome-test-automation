@@ -43,8 +43,6 @@ Also:
 * [Hacktarget.com](https://hackertarget.com/) - Simplify the security assessment process with hosted vulnerability scanning tools.
 * [Scan My Server](https://www.scanmyserver.com/) - Free tool for Web Security scanning.
 
-[Contribute to this section](https://github.com/atinfo/awesome-test-automation/blob/master/CONTRIBUTING.md)
-
 ## Reporting
 
 * [Browsershots](http://browsershots.org/) -  Makes screenshots of your web design in different browsers. It is a free open-source online service created by Johann C. Rocholl. When you submit your web address, it will be added to the job queue. A number of distributed computers will open your website in their browser. Then they will make screenshots and upload them to the central server here.
@@ -70,4 +68,4 @@ Where to discover new libraries, information, tools, etc.
 * [mobile, tablet and tv test automation](https://github.com/atinfo/awesome-test-automation/blob/master/mobile-test-automation.md)
 
 # [Contributing](https://github.com/atinfo/awesome-test-automation/blob/master/CONTRIBUTING.md)
-Your contributions are always welcome!
+Your contributions are always welcome! [Contribute](https://github.com/atinfo/awesome-test-automation/blob/master/CONTRIBUTING.md)
