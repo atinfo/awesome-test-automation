@@ -126,6 +126,7 @@ Also:
     * [slickqa](http://www.slickqa.com/webdriver/python/) - The slick-webdriver-python project is a wrapper around the python webdriver client bindings.
     * [selene](https://github.com/yashaka/selene/) - Concise UI tests in Python + Ajax support + PageObjects + Widgets
     * [hitch](http://hitchtest.com/) - A high level integration testing framework for service based applications.
+    * [Needle](http://needle.readthedocs.org/en/latest/) - Needle is a tool for testing visuals with Selenium and nose. It checks that CSS renders correctly by taking screenshots of portions of a website and comparing them against known good screenshots. It also provides tools for testing calculated CSS values and the position of HTML elements.                                                                                                                                                                                                                     
 - extensions
     * [pytest_splinter](https://github.com/pytest-dev/pytest-splinter) - pytest spinter and selenium integration for anyone interested in browser interaction in tests.
     * [lettuce_webdriver](https://github.com/bbangert/lettuce_webdriver) - Selenium webdriver for lettuce.
