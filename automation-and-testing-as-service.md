@@ -38,6 +38,10 @@ Also:
 * [Loadsophia](https://loadosophia.org/) - is the service for storing and analysing performance test results. It supports analyzing output from Apache JMeter, Apache Benchmark and Yandex.Tank performance testing tools.
 
 ## Security testing
+* [Netcraft](http://www.netcraft.com/security-testing/web-application/) - Web Application Security testing by Netcraft.
+* [WebSecurify](http://www.websecurify.com/) - One of the famous Web Application Security Scanner
+* [Hacktarget.com](https://hackertarget.com/) - Simplify the security assessment process with hosted vulnerability scanning tools.
+* [Scan My Server](https://www.scanmyserver.com/) - Free tool for Web Security scanning.
 
 [Contribute to this section](https://github.com/atinfo/awesome-test-automation/blob/master/CONTRIBUTING.md)
 
