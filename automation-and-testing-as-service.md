@@ -71,3 +71,5 @@ Where to discover new libraries, information, tools, etc.
 
 # [Contributing](https://github.com/atinfo/awesome-test-automation/blob/master/CONTRIBUTING.md)
 Your contributions are always welcome!
+
+* [Automation and testing as a service](https://github.com/jassics/awesome-test-automation/blob/master/automation-and-testing-as-service.md) - Contributed from my side. Nice repo.
