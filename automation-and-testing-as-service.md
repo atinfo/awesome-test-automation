@@ -26,6 +26,7 @@ Also:
 * [BackTrac](http://backtrac.io/) Help organizations to keep an eye on their websites to identify broken pages fast and effortless. Automatically create a screenshots of pages and be notified about visual changes happened.
 * [AppliTools](https://applitools.com/) Automating visual software testing 
 * [CrossBrowserTesting](https://crossbrowsertesting.com/) Another one cloud platform for automated testing of web applications. Provides a wide range of browsers, systems and more. 
+* [TestAnywhere](https://testanywhere.co/) - Test Anywhere is a cloud service that helps test your website or web application continuously and catch bugs in the early stages
 
 ## Mobile test automation
 * [Hive CI](http://bbc.github.io/hive-ci/) is a CI system built around devices. Connect your physical devices to a hive and run your tests on the same platforms as your users
