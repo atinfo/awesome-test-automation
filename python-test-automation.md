@@ -244,6 +244,7 @@ Libraries that may help you to build better test automation.
 
 # Resources
 Where to discover new libraries, information, tools, etc.
+* [python books](https://github.com/Junnplus/awesome-python-books)
 
 ## Websites
 
@@ -260,6 +261,7 @@ Where to discover new libraries, information, tools, etc.
 * [javascript test automation](https://github.com/atinfo/awesome-test-automation/blob/master/javascript-test-automation.md)
 * [test automation and software testing as services](https://github.com/atinfo/awesome-test-automation/blob/master/automation-and-testing-as-service.md)
 * [mobile, tablet and tv test automation](https://github.com/atinfo/awesome-test-automation/blob/master/mobile-test-automation.md)
+* [general purpose test automation tools](https://github.com/atinfo/awesome-test-automation/blob/master/general-purpose-test-automation-tools.md)
 
 # [Contributing](https://github.com/atinfo/awesome-test-automation/blob/master/CONTRIBUTING.md)
 Your contributions are always welcome!
