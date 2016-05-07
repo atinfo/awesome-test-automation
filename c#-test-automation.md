@@ -1,6 +1,6 @@
 # C# test automation 
 
-A comprehensive curated list of C# test automation frameworks, tools, libraries and software to help software engineers easily bootstrap test automation on C#.
+A comprehensive curated list of C# test automation frameworks, tools, libraries and software to help software engineers easily bootstrap test automation on C#. Sponsored by http://sdclabs.com
 
 [![Have questions\issues\problems, join the chat at https://gitter.im/atinfo/awesome-test-automation](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/atinfo/awesome-test-automation)
 
