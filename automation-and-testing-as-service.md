@@ -1,6 +1,6 @@
 # Test automation and software testing as services
 
-A comprehensive curated list of test automation and software testing as online services to help software engineers easily bootstrap test automation and software testing.
+A comprehensive curated list of test automation and software testing as online services to help software engineers easily bootstrap test automation and software testing. Sponsored by http://sdclabs.com
 
 [![Have questions\issues\problems, join the chat at https://gitter.im/atinfo/awesome-test-automation](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/atinfo/awesome-test-automation)
 
