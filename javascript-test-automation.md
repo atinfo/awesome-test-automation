@@ -69,6 +69,7 @@ No dependencies, works with any unit testing framework.
 
 ## Mobile test automation
 * [WebdriverIO's Appium implementation](http://webdriver.io/api/appium/backgroundApp.html) - nodejs bindings implemeting Appium commands.
+* [Macaca](https://macacajs.github.io/macaca/) - Solution for Automation Test with Ease. Both Mobile, Desktop Platforms Supported, native, Hybrid, Mobile Web Multi-applications Supported, Command line tools & CI Solution provided.
 
 ## Windows UI test automation 
 
