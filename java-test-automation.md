@@ -113,6 +113,7 @@ Also:
 * [Apache JMeter](http://jmeter.apache.org/) - Functional testing and performance measurements.
 * [The Grinder](http://grinder.sourceforge.net/) - Load testing framework that makes it easy to run a distributed test using many load injector machines. 
 * [Lightning](http://automatictester.github.io/lightning/) - Integrate JMeter non-functional tests with CI/CD server.
+* [Tsung](http://tsung.erlang-projects.org/) - Erlang based multi-protocol distributed load testing tool.
 
 ## Security checking
 
