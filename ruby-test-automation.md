@@ -97,7 +97,7 @@ Also:
 
 ## Mobile test automation
 
-[Contribute to this section](https://github.com/atinfo/awesome-test-automation/blob/master/CONTRIBUTING.md)
+* [Calabash](http://calaba.sh/) - Calabash enables you to write and execute automated acceptance tests on mobile apps. It's cross-platform, supporting Android and iOS native apps. 
 
 ## Windows UI test automation
 
