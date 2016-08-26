@@ -56,6 +56,7 @@ No dependencies, works with any unit testing framework.
 * [apimocker](https://github.com/gstroup/apimocker) - This is a node.js module to run a simple http server, which can serve up mock service responses. Responses can be JSON or XML to simulate REST or SOAP services.
 
 ## Code analysis 
+* [ESLint](http://eslint.org/) - Pluggable JavaScript linting tool. Custom rules can be added to extend the existing functionality.
 * [HintJS](http://jshint.com/) - Community driving js code analysis tool supported by twitter, facebook, wiki, jquery, mozilla, yahoo and others.
 * [JsLint](http://www.jslint.com/) - JavaScript syntax checker and validator.
 
