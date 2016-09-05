@@ -94,8 +94,7 @@ No dependencies, works with any unit testing framework.
 [Contribute to this section](https://github.com/atinfo/awesome-test-automation/blob/master/CONTRIBUTING.md)
 
 ## Security checking
-
-[Contribute to this section](https://github.com/atinfo/awesome-test-automation/blob/master/CONTRIBUTING.md)
+* [npm vulnerability scanner](https://github.com/ellerbrock/travis-vulnerability-scanner) - Vulnerability Scanner for npm Modules with Travis CI and the Node Security Platform CLI Tool.
 
 ## Continuous Integration
 * [Strider CD](https://github.com/Strider-CD/strider) - Open Source Continuous Deployment / Continuous Integration platform written in NodeJS.
