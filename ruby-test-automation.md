@@ -83,6 +83,7 @@ Also:
     * [Watir-webdriver](http://watirwebdriver.com/) - The most elegant way to use WebDriver with ruby.
     * [Poltergeist](https://github.com/teampoltergeist/poltergeist) - Poltergeist is a driver for Capybara. It allows you to run your Capybara tests on a headless WebKit browser, provided by PhantomJS.
     * [PhantomJS](http://phantomjs.org/) - is a headless WebKit scriptable with a JavaScript API. It has fast and native support for various web standards: DOM handling, CSS selector, JSON, Canvas, and SVG.
+    * [unobtainium](https://github.com/jfinkhaeuser/unobtainium) - configuration driven wrapper for Selenium WebDriver and [appium](http://appium.io/), with PhantomJS support.
 - frameworks
     * [Capybara](http://jnicklas.github.io/capybara) - Acceptance test framework for web applications.
     * [Konacha](https://github.com/jfirebaugh/konacha) - Test your Rails application's JavaScript with the mocha test framework and chai assertion library.
