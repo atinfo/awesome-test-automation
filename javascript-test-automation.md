@@ -70,6 +70,8 @@ No dependencies, works with any unit testing framework.
 * [Frisby](https://github.com/vlucas/frisby) - Is a REST API testing framework built on node.js and Jasmine that makes testing API endpoints easy, fast, and fun.
 * [TestCafe](https://github.com/DevExpress/testcafe) - Automated browser testing for the modern web development stack.
 * [Nightmare](https://github.com/segmentio/nightmare) - A high-level browser automation library.
+* [Gemini](https://gemini-testing.github.io) — Is an open-source utility for automating visual regression testing of web pages. Gemini takes a screenshot of elements on a page and compares it with baseline images of these elements. If the images don't match, the differences are shown in a report. 
+* [Hermione](https://github.com/gemini-testing/hermione#hermione) — Is the utility for integration testing of web pages using [WebdriverIO](http://webdriver.io/) and [Mocha](https://mochajs.org).
 
 ## Mobile test automation
 * [WebdriverIO's Appium implementation](http://webdriver.io/api/appium/backgroundApp.html) - nodejs bindings implemeting Appium commands.
