@@ -234,6 +234,7 @@ Libraries that may help you to build better test automation.
 * [fabric](http://www.fabfile.org/) - A Python library and command-line tool for streamlining the use of SSH for application deployment or systems administration tasks.
 * [BeautifulSoup](http://www.crummy.com/software/BeautifulSoup/) - Package for parsing HTML documents (including having malformed markup, i.e. non-closed tags, so named after Tag soup). It creates a parse tree for parsed pages that can be used to extract data from HTML, which is useful for web scraping.
 * [Soupy](https://github.com/ChrisBeaumont/soupy) - It is a wrapper around BeautifulSoup that makes it easier to build complex queries when wrangling web data.
+* [PyQuery](https://pythonhosted.org/pyquery/) - Pyquery allows you to make jquery queries on xml documents. The API is as much as possible the similar to jquery. pyquery uses lxml for fast xml and html manipulation.
 * [waiting](https://github.com/vmalloc/waiting) - python utility library for waiting for predicates.
 * [Comcast](https://github.com/tylertreat/Comcast/) - simulating shitty network connections so you can build better systems.
 * [dateutil](https://pypi.python.org/pypi/python-dateutil) - Extensions to the standard Python datetime module.
