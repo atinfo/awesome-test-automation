@@ -114,6 +114,7 @@ Also:
 * [The Grinder](http://grinder.sourceforge.net/) - Load testing framework that makes it easy to run a distributed test using many load injector machines. 
 * [Lightning](http://automatictester.github.io/lightning/) - Integrate JMeter non-functional tests with CI/CD server.
 * [Tsung](http://tsung.erlang-projects.org/) - Erlang based multi-protocol distributed load testing tool.
+* [Gatling](http://gatling.io/) - Gatling is an open-source load testing framework based on Scala, Akka and Netty
 
 ## Security checking
 
