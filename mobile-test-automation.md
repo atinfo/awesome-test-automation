@@ -34,6 +34,7 @@ Also:
 
 ## iOS
 * [EarlGrey](https://github.com/google/EarlGrey) is a native iOS UI automation test framework that enables you to write clear, concise tests. With the EarlGrey framework, you have access to enhanced synchronization features. EarlGrey automatically synchronizes with the UI, network requests, and various queues; but still allows you to manually implement customized timings, if needed.
+* [bluepill](https://github.com/linkedin/bluepill) is a reliable iOS testing tool that runs UI tests using multiple simulators on a single machine.
 
 ## Environment
 
