@@ -6,7 +6,8 @@ A comprehensive curated list of Java test automation frameworks, tools, librarie
 
 Table of content:
 
-- [xUnit frameworks](#xunit-frameworks)
+- [General Purpose](#general-purpose)
+- [xUnit frameworks](#xunit-framewor1ks)
 - [TDD \ ATTD \ BDD](#tdd--atdd--bdd)
 - [Model-Based Testing](#model-based-testing)
 - [Code Analysis](#code-analysis)
@@ -34,6 +35,12 @@ Also:
 - [Contributing](#contributing)
 
 ---
+
+## General Purpose
+
+* [Ranorex](http://www.ranorex.com/) - Ranorex is a GUI test automation framework for testing of desktop, web-based and mobile applications. Ranorex is provided by Ranorex GmbH, a software development company for innovative software test automation solutions.
+* [TestComplete](https://smartbear.com/product/testcomplete/overview/) - TestComplete is a functional automated testing platform developed by SmartBear Software. TestComplete gives testers the ability to create automated tests for Microsoft Windows, Web, Android (operating system), and iOS applications.
+* [HP Unified Functional Testing (UFT), formerly known as (QTP)](http://www8.hp.com/us/en/software-solutions/unified-functional-automated-testing/index.html) - HP Unified Functional Testing is automated testing software designed for testing various software applications and environments.
 
 ## xUnit frameworks
 
