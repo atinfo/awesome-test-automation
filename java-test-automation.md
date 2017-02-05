@@ -106,7 +106,7 @@ Also:
 
 ## Virtual environments
 
-[Contribute to this section](https://github.com/atinfo/awesome-test-automation/blob/master/CONTRIBUTING.md)
+[Vagrant](https://www.vagrantup.com/) - Easy to configure, reliable tool for building and maintaining portable virtual development environments.
 
 ## Performance & stress & load
 
