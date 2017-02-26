@@ -43,6 +43,7 @@ Also:
     * [MochaJS](http://mochajs.org/) - feature-rich JavaScript test framework running on node.js and the browser.
     * [Intern](https://theintern.github.io/) - is a complete test stack for JavaScript designed to help you write and run consistent, high-quality test cases for your JavaScript libraries and applications. It can be used to test any JavaScript code. Its functional testing capabilities can even be used to test non-JavaScript Web and mobile apps, if you really want.
     * [CodeceptJS](http://codecept.io/) - Modern era acceptance testing for NodeJS
+	* [Chai](http://chaijs.com/) - Chai is a BDD / TDD assertion library for node and the browser that can be delightfully paired with any javascript testing framework
 - TDD
     * [Karma](http://mochajs.org/) - test runner for making TDD much easier by pre-build test envitronments.
 - BDD
@@ -78,6 +79,7 @@ No dependencies, works with any unit testing framework.
 * [Macaca](https://macacajs.github.io/macaca/) - Solution for Automation Test with Ease. Both Mobile, Desktop Platforms Supported, native, Hybrid, Mobile Web Multi-applications Supported, Command line tools & CI Solution provided.
 
 ## Windows UI test automation 
+* [RobotJS] (http://robotjs.io/) - The Node.js Desktop Automation Library
 
 [Contribute to this section](https://github.com/atinfo/awesome-test-automation/blob/master/CONTRIBUTING.md)
 
@@ -110,6 +112,10 @@ No dependencies, works with any unit testing framework.
 * [Blanket](http://blanketjs.org/) - JavaScript code coverage library that works both in-browser and with nodejs.
 
 ## Documentation generation
+* [JSdoc3] (http://usejsdoc.org/) - An API documentation generator for JavaScript
+* [Docco] (http://jashkenas.github.io/docco/) - Docco is a quick-and-dirty documentation generator, written in Literate CoffeeScript
+* [MrDoc] (https://mr-doc.github.io/mr-doc/) - A personal source documenter
+* [YUIDocs] (http://yui.github.io/yuidoc/) - YUI's JavaScript Documentation engine
 
 [Contribute to this section](https://github.com/atinfo/awesome-test-automation/blob/master/CONTRIBUTING.md)
 
