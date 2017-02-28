@@ -113,6 +113,7 @@ No dependencies, works with any unit testing framework.
 
 ## Documentation generation
 * [JSdoc3] (http://usejsdoc.org/) - An API documentation generator for JavaScript
+* [jsdoc-to-markdown] (https://github.com/jsdoc2md/jsdoc-to-markdown) - Generates markdown API documentation from jsdoc annotated source code.
 * [Docco] (http://jashkenas.github.io/docco/) - Docco is a quick-and-dirty documentation generator, written in Literate CoffeeScript
 * [MrDoc] (https://mr-doc.github.io/mr-doc/) - A personal source documenter
 * [YUIDocs] (http://yui.github.io/yuidoc/) - YUI's JavaScript Documentation engine
