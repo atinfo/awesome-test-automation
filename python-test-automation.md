@@ -75,6 +75,7 @@ Also:
     * [pyshould](https://github.com/drslump/pyshould) - Should style asserts based on pyhamcrest.
     * [pyhamcrest](https://github.com/hamcrest/PyHamcrest) - Hamcrest matchers for Python.
     * [sure](https://github.com/gabrielfalcao/sure) - A testing library for python with powerful and flexible assertions.
+    * [assertpy](https://github.com/ActivisionGameScience/assertpy) - Dead simple assertions library for unit testing in Python with a nice fluent API. Supports both Python 2 and 3.
 - Mocking
     * [mock](https://pypi.python.org/pypi/mock) - A Python Mocking and Patching Library for Testing.
     * [Ludibrio](http://github.com/nsigustavo/ludibrio/) - Elegant test doubles framework in Python (mocks, stubs, spy, and dummies).
