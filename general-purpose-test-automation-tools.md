@@ -19,7 +19,9 @@ Also:
 ---
 
 ## Functional testing
-
+* [gauge](http://getgauge.io) Light weight cross-platform test automation 
+* [STAF](http://staf.sourceforge.net/) The Software Testing Automation Framework (STAF) is an open source, multi-platform, multi-language framework designed around the idea of reusable components, called services (such as process invocation, resource management, logging, and monitoring). STAF removes the tedium of building an automation infrastructure, thus enabling you to focus on building your automation solution. The STAF framework provides the foundation upon which to build higher level solutions, and provides a pluggable approach supported across a large variety of platforms and languages.
+* [RobotFramework](http://robotframework.org/) Robot Framework is a generic test automation framework for acceptance testing and acceptance test-driven development (ATDD).
 * [Ranorex](http://www.ranorex.com/) - Ranorex is a GUI test automation framework for testing of desktop, web-based and mobile applications. Ranorex is provided by Ranorex GmbH, a software development company for innovative software test automation solutions.
 * [TestComplete](https://smartbear.com/product/testcomplete/overview/) - TestComplete is a functional automated testing platform developed by SmartBear Software. TestComplete gives testers the ability to create automated tests for Microsoft Windows, Web, Android (operating system), and iOS applications.
 * [HP Unified Functional Testing (UFT), formerly known as (QTP)](http://www8.hp.com/us/en/software-solutions/unified-functional-automated-testing/index.html) - HP Unified Functional Testing is automated testing software designed for testing various software applications and environments.
