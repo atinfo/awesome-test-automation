@@ -245,6 +245,7 @@ Libraries that may help you to build better test automation.
 * [fig](http://www.fig.sh/) - Fast, isolated development environments using [Docker](https://www.docker.com/).
 * [gitapi](http://bitbucket.org/haard/gitapi) - Pure-Python API for git.
 * [Pyro4](https://github.com/irmen/Pyro4) - Pyro enables you to build applications in which objects can talk to each other over the network, with minimal programming effort.
+* [keyboard](https://github.com/boppreh/keyboard) - Hook and simulate global keyboard events on Windows and Linux.
 
 # Resources
 Where to discover new libraries, information, tools, etc.
