@@ -55,5 +55,10 @@ Where to discover new libraries, information, tools, etc.
 * [mobile, tablet and tv test automation](https://github.com/atinfo/awesome-test-automation/blob/master/mobile-test-automation.md)
 * [general purpose test automation tools](https://github.com/atinfo/awesome-test-automation/blob/master/general-purpose-test-automation-tools.md)
 
+Also we are supporting and looking for contribution for project:
+
+* [practical test automation by examples](https://github.com/atinfo/at.info-knowledge-base)
+
+
 # [Contributing](https://github.com/atinfo/awesome-test-automation/blob/master/CONTRIBUTING.md)
 Your contributions are always welcome! [Contribute](https://github.com/atinfo/awesome-test-automation/blob/master/CONTRIBUTING.md)
