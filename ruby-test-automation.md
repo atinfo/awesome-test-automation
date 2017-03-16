@@ -145,7 +145,7 @@ Also:
 
 * [parallel_tests](https://github.com/grosser/parallel_tests) - Speedup Test::Unit + RSpec + Cucumber by running parallel on multiple CPUs (or cores). ParallelTests splits tests into even groups(by number of tests or runtime) and runs each group in a single process with its own database.
 * [headless](https://github.com/leonid-shevtsov/headless) - Is the Ruby interface for Xvfb. It allows you to create a headless display straight from Ruby code, hiding some low-level action. It can also capture images and video from the virtual framebuffer.  
-* [watir-jquery](https://github.com/eugene-tkachenko/watir-jquery) - Watir-jquery gem allows you to use the jQuery syntax to find page elements and returns Watir-object type (e.x. "#<Watir::Div:0x..").
+* [watir-jquery](https://github.com/eugene-tkachenko/watir-jquery) - Watir-jquery gem allows you to use the jQuery syntax to find page elements and returns Watir-object type.
 
 
 # Resources
@@ -167,6 +167,11 @@ Where to discover new libraries, information, tools, etc.
 * [test automation and software testing as services](https://github.com/atinfo/awesome-test-automation/blob/master/automation-and-testing-as-service.md)
 * [mobile, tablet and tv test automation](https://github.com/atinfo/awesome-test-automation/blob/master/mobile-test-automation.md)
 * [general purpose test automation tools](https://github.com/atinfo/awesome-test-automation/blob/master/general-purpose-test-automation-tools.md)
+
+Also we are supporting and looking for contribution for project:
+
+* [practical test automation by examples](https://github.com/atinfo/at.info-knowledge-base)
+
 
 # [Contributing](https://github.com/atinfo/awesome-test-automation/blob/master/CONTRIBUTING.md)
 Your contributions are always welcome!
