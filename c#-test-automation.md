@@ -33,30 +33,30 @@ Also:
 
 ## xUnit frameworks
 
-* [**NUnit**](http://www.nunit.org/) ― The most known, extensible and portable(yes, you can run your tests on Mono for Linux and Mac) unit-testing framework in the .Net world. It comes with descent test adapters for Visual Studio 2013 - ... as well as standalone GUI and command line runners
-* [**MSTest** (Visual Studio Test)](http://en.wikipedia.org/wiki/Visual_Studio_Unit_Testing_Framework) ― the most conservative and slow evolving unit testing framework with only one good thing: it is built-in to the Visual Studio. So, you can always rely it is there.
-* [**xUnit**](http://xunit.github.io/) ― the "bleeding edge" unit testing framework, beloved by many developers, even from Microsoft. This is community based open source project, written by the original inventor of NUnit 2.0 
-* [**Gallio Icarus and MbUnit**](https://code.google.com/p/mb-unit/) ― the most feature reach Test Runner, Test Reporter and Unit testing framework. It is still popular in many .NET shops, especially for running Selenium WebDriver UI tests... Unfortunately, it is not being maintained since 2012. :skull:
+* [NUnit](http://www.nunit.org/) ― The most known, extensible and portable(yes, you can run your tests on Mono for Linux and Mac) unit-testing framework in the .Net world. It comes with descent test adapters for Visual Studio 2013 - ... as well as standalone GUI and command line runners
+* [MSTest** (Visual Studio Test)](http://en.wikipedia.org/wiki/Visual_Studio_Unit_Testing_Framework) ― the most conservative and slow evolving unit testing framework with only one good thing: it is built-in to the Visual Studio. So, you can always rely it is there.
+* [xUnit](http://xunit.github.io/) ― the "bleeding edge" unit testing framework, beloved by many developers, even from Microsoft. This is community based open source project, written by the original inventor of NUnit 2.0 
+* [Gallio Icarus and MbUnit](https://code.google.com/p/mb-unit/) ― the most feature reach Test Runner, Test Reporter and Unit testing framework. It is still popular in many .NET shops, especially for running Selenium WebDriver UI tests... Unfortunately, it is not being maintained since 2012. :skull:
 
 ## TDD \ ATDD \ BDD
-* [**Fluent Assertions**](http://www.fluentassertions.com/) is a set of .NET extension methods that allow you to more naturally specify the expected outcome of a TDD or BDD-style test.
+* [Fluent Assertions](http://www.fluentassertions.com/) is a set of .NET extension methods that allow you to more naturally specify the expected outcome of a TDD or BDD-style test.
 ``` csharp
 string actual = "ABCDEFGHI";
 actual.Should().StartWith("AB").And.EndWith("HI").And.Contain("EF").And.HaveLength(9);
 ```
-* [**Specflow**](http://www.specflow.org/) ― the most popular and feature reach "Cucumber for .NET": BDD and Keywork-driven testing Editor, Runner and Reporter.
-* [**BDDfy**](http://docs.teststack.net/bddfy/)  is the simplest BDD framework for .Net EVER! The name comes from the fact that it allows you to turn your tests into BDD behaviors simply.
+* [Specflow](http://www.specflow.org/) ― the most popular and feature reach "Cucumber for .NET": BDD and Keywork-driven testing Editor, Runner and Reporter.
+* [BDDfy](http://docs.teststack.net/bddfy/)  is the simplest BDD framework for .Net EVER! The name comes from the fact that it allows you to turn your tests into BDD behaviors simply.
 
 ## Code analysis 
 
-* [**NCover**](https://www.ncover.com/) ― really good code coverage tool, but $$
-* [**OpenCover**](https://github.com/OpenCover/opencover) is a code coverage tool for .NET 2 and above, support for 32 and 64 processes with both branch and sequence points
+* [NCover](https://www.ncover.com/) ― really good code coverage tool, but $$
+* [OpenCover](https://github.com/OpenCover/opencover) is a code coverage tool for .NET 2 and above, support for 32 and 64 processes with both branch and sequence points
 * See also: [Code Coverage for C#/.NET](http://stackoverflow.com/questions/276829/code-coverage-for-c-net)
 
 ## Web UI test automation
 
-* [**Selenium WebDriver**](https://www.nuget.org/packages/Selenium.WebDriver) ― Yes! [WebDriver](http://www.seleniumhq.org/) is everywhere! This is the best and the most popular UI test automation library and infrastructure.
-* [**Atata**](https://atata-framework.github.io/) ― An open source C#/.NET test automation full featured framework based on Selenium WebDriver. It uses fluent page object pattern with built-in logging. Atata Framework is extensible and contains a set of components, triggers and much more.
+* [Selenium WebDriver](https://www.nuget.org/packages/Selenium.WebDriver) ― Yes! [WebDriver](http://www.seleniumhq.org/) is everywhere! This is the best and the most popular UI test automation library and infrastructure.
+* [Atata](https://atata-framework.github.io/) ― An open source C#/.NET test automation full featured framework based on Selenium WebDriver. It uses fluent page object pattern with built-in logging. Atata Framework is extensible and contains a set of components, triggers and much more.
 * Coded UI ($$$) (Internet Explorer only) ― Okay... it is integrated into the Visual Studio Premium+ and supports Record&Playback "automation". 
 * [WatiN](http://watin.org/) ― Before the Selenium Webdriver appeared on the market, WatiN was one of the best Web UI automation frameworks for .NET.  Now it is not maintained. :skull:
 * [Golem](https://github.com/ProtoTest/ProtoTest.Golem) Object Oriented C# Automated Testing Framework. Golem was created to simplify the process of creating enterprise-scale automated testing suites. It wraps around Gallio/MbUnit and a number of automation tools (such as Selenium-WebDriver) to provide the tester with a simple process for creating automated tests no matter what the tool. The inclusion of advanced features, diagnostic information, easy configuration, and enhanced API's helps Golem make automating in code-based automation tools much more practical. A standard test structure is enforced throughout the Golem framework to make the code readable and easy to reuse. Company behind it (ProtoTest) is in the process of winding down. Last commit was done in May, 2015.
@@ -64,21 +64,21 @@ actual.Should().StartWith("AB").And.EndWith("HI").And.Contain("EF").And.HaveLeng
 
 ## Mobile test automation
 
-* [**Coded UI**](https://msdn.microsoft.com/en-us/library/dn747198.aspx) supports some level of the mobile test automation 
+* [Coded UI](https://msdn.microsoft.com/en-us/library/dn747198.aspx) supports some level of the mobile test automation 
 for Windows Phone
-* [**Xamarin.UITest**](http://developer.xamarin.com/guides/testcloud/uitest/) is a library that comes with Xamarin Forms and allows you to automate the applications built with Xamarin
+* [Xamarin.UITest](http://developer.xamarin.com/guides/testcloud/uitest/) is a library that comes with Xamarin Forms and allows you to automate the applications built with Xamarin
 technology on Windows Phone, iOS and Android
-* [**Appium**](http://appium.io/) supports cross platform test automation for Native and Hybrid mobile applications
+* [Appium](http://appium.io/) supports cross platform test automation for Native and Hybrid mobile applications
 
 ## Windows UI test automation 
 
-* [**FlaUI**](https://github.com/Roemer/FlaUI) UI automation library for .Net. Rewritten White with UIA3, UIA2, MSAA support
-* [**Winium.Cruciatus**](https://github.com/2gis/Winium.Cruciatus) is an open source C# Framework for automated testing of Windows application based on WinForms and WPF platforms.
-* [**Teststack White**](https://github.com/TestStack/White) is one of the most popular and stable open source UI test automation library 
+* [Winium.Cruciatus](https://github.com/2gis/Winium.Cruciatus) is an open source C# Framework for automated testing of Windows application based on WinForms and WPF platforms.
+* [Teststack White](https://github.com/TestStack/White) is one of the most popular and stable open source UI test automation library 
   for Windows (WinAPI / WPF / Silverlight / Windows Forms).
 * Coded UI ($$$) does a pretty good job for Windows UI automation. Pricey... because it comes with Visual Studio Premium and Ultimate.  
-* [**AutoIt (COM bindings)**](https://www.autoitscript.com/autoit3/docs/intro/ComRef.htm) ― since it implements COM+ interface, autoit can be available from any language on windows, including C#.
+* [AutoIt (COM bindings)](https://www.autoitscript.com/autoit3/docs/intro/ComRef.htm) ― since it implements COM+ interface, autoit can be available from any language on windows, including C#.
 * [WebAii Testing Framework](http://www.telerik.com/teststudio/testing-framework) - Framework for cross-browser testing with native support for Telerik UI for ASP.NET AJAX, Silverlight, WPF, HTML5 and XAML applications, etc.
+* [FlaUI](https://github.com/Roemer/FlaUI) UI automation library for .Net. Rewritten White with UIA3, UIA2, MSAA support
 
 
 ## Virtual environments
@@ -95,18 +95,18 @@ technology on Windows Phone, iOS and Android
 
 ## Continuous Integration
 
-* [**Jenkins**](http://jenkins-ci.org/) ― can be easily configured to support C# continuous integration process:
-	1. Use NUnit as your test runner with [Jenkins NUnit Plugin](https://wiki.jenkins-ci.org/display/JENKINS/NUnit+Plugin)
-	2. Use [Microsoft Build Tools](http://www.microsoft.com/en-us/search/result.aspx?q=%22Microsoft%20Build%20Tools%22&form=DLC) to build the project without Visual Studio
-	3. Use Windows Batch files and / or Powershell to perform any system configuration tasks
-	4. Use `msdeploy` from [Web Deploy Toolkit](http://www.iis.net/downloads/microsoft/web-deploy) in order to perform the remote 
-	   deployment and configuration tasks.
-	   
-* [**Teamcity**](https://www.jetbrains.com/teamcity/) is a free and simple Build and Continuous integration server. You can 
+* [Jenkins](http://jenkins-ci.org/) ― can be easily configured to support C# continuous integration process:
+    1. Use NUnit as your test runner with [Jenkins NUnit Plugin](https://wiki.jenkins-ci.org/display/JENKINS/NUnit+Plugin)
+    2. Use [Microsoft Build Tools](http://www.microsoft.com/en-us/search/result.aspx?q=%22Microsoft%20Build%20Tools%22&form=DLC) to build the project without Visual Studio
+    3. Use Windows Batch files and / or Powershell to perform any system configuration tasks
+    4. Use `msdeploy` from [Web Deploy Toolkit](http://www.iis.net/downloads/microsoft/web-deploy) in order to perform the remote 
+       deployment and configuration tasks.
+       
+* [Teamcity](https://www.jetbrains.com/teamcity/) is a free and simple Build and Continuous integration server. You can 
 run the C# tests just out of the box
 * [Team Foundation Server] ― well... the marketing guys say that it can also build something for you
 
-* [**Appveyor**](http://www.appveyor.com/) is free for open source projects and easy to use.
+* [Appveyor](http://www.appveyor.com/) is free for open source projects and easy to use.
 
 ## Reporting
 
