@@ -72,6 +72,7 @@ technology on Windows Phone, iOS and Android
 
 ## Windows UI test automation 
 
+* [**FlaUI**](https://github.com/Roemer/FlaUI) UI automation library for .Net. Rewritten White with UIA3, UIA2, MSAA support
 * [**Winium.Cruciatus**](https://github.com/2gis/Winium.Cruciatus) is an open source C# Framework for automated testing of Windows application based on WinForms and WPF platforms.
 * [**Teststack White**](https://github.com/TestStack/White) is one of the most popular and stable open source UI test automation library 
   for Windows (WinAPI / WPF / Silverlight / Windows Forms).
