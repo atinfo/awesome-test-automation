@@ -112,6 +112,7 @@ Also:
 
 - libraries
     * [selenium webdriver](https://pypi.python.org/pypi/selenium) - Browser automation tool.
+    * [webdriver_manager](https://github.com/SergeyPirogov/webdriver_manager) - The main idea is to simplify managemet of binary drivers for different browsers.
     * [splinter](https://github.com/cobrateam/splinter) - A tool for test web applications with a simple for find elements, form actions, and others browser actions.
     * [mechanize](https://pypi.python.org/pypi/mechanize/) - Stateful programmatic web browsing in Python.
 - frameworks and wrappers
