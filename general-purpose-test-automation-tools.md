@@ -26,10 +26,9 @@ Also:
 * [TestComplete](https://smartbear.com/product/testcomplete/overview/) - TestComplete is a functional automated testing platform developed by SmartBear Software. TestComplete gives testers the ability to create automated tests for Microsoft Windows, Web, Android (operating system), and iOS applications.
 * [HP Unified Functional Testing (UFT), formerly known as (QTP)](http://www8.hp.com/us/en/software-solutions/unified-functional-automated-testing/index.html) - HP Unified Functional Testing is automated testing software designed for testing various software applications and environments.
 
-
 ## Performance and load testing
-
-Your contributions are always welcome! [Contribute](https://github.com/atinfo/awesome-test-automation/blob/master/CONTRIBUTING.md)
+* [k6](https://github.com/loadimpact/k6) - Like unit testing, for performance. A modern load testing tool, using Go and JavaScript.
+* [Load Impact](https://loadimpact.com/) - Nothing to install, easy config: instant load testing SaaS for developers and devops.
 
 ## Security testing
 

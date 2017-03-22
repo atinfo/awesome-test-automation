@@ -96,8 +96,7 @@ No dependencies, works with any unit testing framework.
 [Contribute to this section](https://github.com/atinfo/awesome-test-automation/blob/master/CONTRIBUTING.md)
 
 ## Performance & stress & load
-
-[Contribute to this section](https://github.com/atinfo/awesome-test-automation/blob/master/CONTRIBUTING.md)
+* [k6](https://github.com/loadimpact/k6) - Like unit testing, for performance. A modern load testing tool, using Go and JavaScript.
 
 ## Security checking
 * [npm vulnerability scanner](https://github.com/ellerbrock/travis-vulnerability-scanner) - Vulnerability Scanner for npm Modules with Travis CI and the Node Security Platform CLI Tool.
