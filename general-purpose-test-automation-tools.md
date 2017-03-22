@@ -28,7 +28,6 @@ Also:
 
 ## Performance and load testing
 * [k6](https://github.com/loadimpact/k6) - Like unit testing, for performance. A modern load testing tool, using Go and JavaScript.
-* [Load Impact](https://loadimpact.com/) - Nothing to install, easy config: instant load testing SaaS for developers and devops.
 
 ## Security testing
 
