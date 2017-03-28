@@ -112,6 +112,10 @@ run the C# tests just out of the box
 
 * [ExtentReports](http://extentreports.relevantcodes.com) - An open-source reporting library for test automation.
 
+* [GHPReporter](http://ghpreporter.github.io/) - An open-source .NET test reporting tool for several testing frameworks (supports NUnit 3, MSTest and SpecFlow).
+
+* [Allure](http://allure.qatools.ru) - An open-source reporting library for test automation (NUnit 2 and MSTest adapters).
+
 ## Documentation generation
 
 [Doxygen](http://www.stack.nl/~dimitri/doxygen/) is a free and open source documentation generation platform, that supports multiple languages. 
