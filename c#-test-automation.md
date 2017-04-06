@@ -125,6 +125,7 @@ Grab and modify this [Doxyfile for C#](https://github.com/dzharii/SWD.Starter/bl
 * [Free Visual Studio Community Edition](http://www.visualstudio.com/en-us/news/vs2013-community-vs.aspx) ― starting from VS2013, 
 Visual Studio Professional is became free for small teams. 
 * [Sharpdevelop](http://www.icsharpcode.net/opensource/sd/) is a free and open source IDE for C#
+* [Visual Studio Code](https://code.visualstudio.com/) is a free and cross-platform IDE 
 
 ## Useful libs
 
