@@ -9,6 +9,7 @@ Table of content:
 - [Functional Testing](#funcitonal-testing)
 - [Performance and load testing](#performance-and-load-testing)
 - [Security testing](#security-testing)
+- [Test design](#test-design)
 
 Also:
 
@@ -32,6 +33,10 @@ Also:
 ## Security testing
 
 Your contributions are always welcome! [Contribute](https://github.com/atinfo/awesome-test-automation/blob/master/CONTRIBUTING.md)
+
+## Test design
+
+* [PICT (Pairwise Independent Combinatorial Testing)](https://github.com/Microsoft/pict) - PICT generates test cases and test configurations. With PICT, you can generate tests that are more effective than manually generated tests and in a fraction of the time required by hands-on test case design.
 
 # Resources
 Where to discover new libraries, information, tools, etc.
