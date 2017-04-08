@@ -73,6 +73,7 @@ No dependencies, works with any unit testing framework.
 * [Nightmare](https://github.com/segmentio/nightmare) - A high-level browser automation library.
 * [Gemini](https://gemini-testing.github.io) — Is an open-source utility for automating visual regression testing of web pages. Gemini takes a screenshot of elements on a page and compares it with baseline images of these elements. If the images don't match, the differences are shown in a report. 
 * [Hermione](https://github.com/gemini-testing/hermione#hermione) — Is the utility for integration testing of web pages using [WebdriverIO](http://webdriver.io/) and [Mocha](https://mochajs.org).
+* [Gremlins.js](https://github.com/marmelab/gremlins.js) - gremlins.js is a monkey testing library written in JavaScript, for Node.js and the browser. Use it to check the robustness of web applications by unleashing a horde of undisciplined gremlins.
 
 ## Mobile test automation
 * [WebdriverIO's Appium implementation](http://webdriver.io/api/appium/backgroundApp.html) - nodejs bindings implemeting Appium commands.
