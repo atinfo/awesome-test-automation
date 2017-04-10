@@ -28,6 +28,7 @@ Also:
 * [HP Unified Functional Testing (UFT), formerly known as (QTP)](http://www8.hp.com/us/en/software-solutions/unified-functional-automated-testing/index.html) - HP Unified Functional Testing is automated testing software designed for testing various software applications and environments.
 
 ## Web UI test automation
+* [Ggr](https://github.com/aandryashin/ggr) - active load balancer to create scalable and highly-available Selenium cluster.
 * [Selenoid](https://github.com/aandryashin/selenoid) - alternative Selenium Hub running browsers within containers.
 
 ## Performance and load testing
