@@ -20,7 +20,7 @@ Also:
 ---
 
 ## Functional testing
-* [gauge](http://getgauge.io) Light weight cross-platform test automation 
+* [gauge](http://getgauge.io) Light weight cross-platform test automation
 * [STAF](http://staf.sourceforge.net/) The Software Testing Automation Framework (STAF) is an open source, multi-platform, multi-language framework designed around the idea of reusable components, called services (such as process invocation, resource management, logging, and monitoring). STAF removes the tedium of building an automation infrastructure, thus enabling you to focus on building your automation solution. The STAF framework provides the foundation upon which to build higher level solutions, and provides a pluggable approach supported across a large variety of platforms and languages.
 * [RobotFramework](http://robotframework.org/) Robot Framework is a generic test automation framework for acceptance testing and acceptance test-driven development (ATDD).
 * [Ranorex](http://www.ranorex.com/) - Ranorex is a GUI test automation framework for testing of desktop, web-based and mobile applications. Ranorex is provided by Ranorex GmbH, a software development company for innovative software test automation solutions.
@@ -36,7 +36,7 @@ Also:
 
 ## Security testing
 
-Your contributions are always welcome! [Contribute](https://github.com/atinfo/awesome-test-automation/blob/master/CONTRIBUTING.md)
+* [OWASP Glue](https://github.com/OWASP/glue) - Glue is a framework for running a series of tools. Generally, it is intended as a backbone for automating a security analysis pipeline of tools.
 
 ## Test design
 
