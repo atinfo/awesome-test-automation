@@ -36,7 +36,7 @@ Also:
 
 ## Security testing
 
-[OWASP Glue](https://github.com/OWASP/glue) - Glue is a framework for running a series of tools. Generally, it is intended as a backbone for automating a security analysis pipeline of tools.
+* [OWASP Glue](https://github.com/OWASP/glue) - Glue is a framework for running a series of tools. Generally, it is intended as a backbone for automating a security analysis pipeline of tools.
 
 ## Test design
 
