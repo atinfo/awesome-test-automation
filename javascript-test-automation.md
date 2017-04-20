@@ -117,6 +117,7 @@ No dependencies, works with any unit testing framework.
 * [Docco] (http://jashkenas.github.io/docco/) - Docco is a quick-and-dirty documentation generator, written in Literate CoffeeScript
 * [MrDoc] (https://mr-doc.github.io/mr-doc/) - A personal source documenter
 * [YUIDocs] (http://yui.github.io/yuidoc/) - YUI's JavaScript Documentation engine
+* [ESDoc] (https://esdoc.org/) - Configurble documentation generator with good ES6/ES7 support
 
 [Contribute to this section](https://github.com/atinfo/awesome-test-automation/blob/master/CONTRIBUTING.md)
 
