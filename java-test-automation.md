@@ -74,7 +74,6 @@ Also:
     * [Satisfy](http://satisfy.tapack.io) - An open source Java framework based on Thucydides + Jbehave. Supports to work with WebUI, SOAP, REST, emails, files and generate random data out of the box.
     * [JDI UI Test Automation Framework](https://github.com/epam/JDI/) - is the test Framework for UI test automation. It extends the Page Objects design pattern and introduces many additional elements along with implementation of its common usages.
     * [Geb Framework](http://gebish.org/) - A groovy test automation framework designed for the use with the Webdriver Page Object model and the Spock Framework for (BDD).
-    * [Video Recorder Java](https://github.com/SergeyPirogov/video-recorder-java) - This library allows easily record video of your UI tests by just putting couple annotations.
     * [FluentLenium](https://github.com/FluentLenium/FluentLenium) - FluentLenium helps you writing readable, reusable, reliable and resilient UI functional tests for the browser. FluentLenium provides a Java fluent interface to Selenium, and brings some magic to avoid common issues faced by Selenium users.
 - extensions
     * [BrowserMob Proxy](https://github.com/lightbody/browsermob-proxy) - Is a simple utility that makes it easy to capture performance data from browsers, typically written using automation toolkits such as Selenium and Watir.
@@ -82,6 +81,7 @@ Also:
     * [Selenium Grid Extensions](https://github.com/sterodium/selenium-grid-extensions) - Extend Selenium grid with extra functionality. Execute Sikuli tests in combination with Selenium.
     * [Selenium Grid Router](https://github.com/seleniumkit/gridrouter) is a lightweight server that routes and proxies Selenium Wedriver requests to multiple Selenium hubs.
     * [Docker Selenium Grid](https://github.com/atinfo/awesome-test-automation.git) - A project to provide native video recording support for Selenium Grid and was initially designed to be used with docker-selenium project.
+    * [Video Recorder Java](https://github.com/SergeyPirogov/video-recorder-java) - This library allows easily record video of your UI tests by just putting couple annotations.
 
 
 ## Mobile test automation
@@ -111,7 +111,7 @@ Also:
 
 ## Virtual environments
 
-[Vagrant](https://www.vagrantup.com/) - Easy to configure, reliable tool for building and maintaining portable virtual development environments.
+* [Vagrant](https://www.vagrantup.com/) - Easy to configure, reliable tool for building and maintaining portable virtual development environments.
 
 ## Performance & stress & load
 
