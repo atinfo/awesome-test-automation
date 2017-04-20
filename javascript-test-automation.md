@@ -45,7 +45,7 @@ Also:
     * [CodeceptJS](http://codecept.io/) - Modern era acceptance testing for NodeJS
 	* [Chai](http://chaijs.com/) - Chai is a BDD / TDD assertion library for node and the browser that can be delightfully paired with any javascript testing framework
 - TDD
-    * [Karma](http://mochajs.org/) - test runner for making TDD much easier by pre-build test envitronments.
+    * [Karma](http://mochajs.org/) - test runner for making TDD much easier by pre-build test environments.
 - BDD
     * [Jasmine](http://jasmine.github.io/) - Behavior Driven Development testing framework for JavaScript. It does not rely on browsers, DOM, or any JavaScript framework. Thus it's suited for websites, Node.js projects, or anywhere that JavaScript can run.
     * [CucumberJS](https://github.com/cucumber/cucumber-js) - Cucumber is a tool for running automated tests written in plain language.Cucumber.js is the JavaScript implementation of Cucumber and runs on both Node.js and modern web browsers.
