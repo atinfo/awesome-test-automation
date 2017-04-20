@@ -1,4 +1,4 @@
-# Java test automation 
+# Java test automation
 
 A comprehensive curated list of Java test automation frameworks, tools, libraries and software to help software engineers easily bootstrap test automation on Java. Sponsored by http://sdclabs.com
 
@@ -55,7 +55,7 @@ Also:
 
 - [GraphWalker](http://graphwalker.org/) - A framework for Model-Based Testing. The tool reads models in various formats like graphml, dot or json, and then generates tests from the models.
 
-## Code analysis 
+## Code analysis
 
 * [SonarQube](http://www.sonarqube.org/) - Open source project to manage code quality.
 
@@ -69,7 +69,7 @@ Also:
     * [Serenity BDD (Thucydides)](http://www.thucydides.info/) - An innovative open source library that helps you write more effective automated acceptance tests, and uses these acceptance tests to generates rich documentation and reports about your product and project.
     * [htmlelements](https://github.com/yandex-qatools/htmlelements) - A Java framework providing easy-to-use way of interaction with web-page elements in web-page tests.
     * [atlassian-selenium](https://bitbucket.org/atlassian/atlassian-selenium) - An open-source (BSD) project that aims at facilitating development of functional tests in Selenium/WebDriver libraries.
-    * [stevia](https://github.com/persado/stevia) - Open Source QA Automation Testing Framework by Persado 
+    * [stevia](https://github.com/persado/stevia) - Open Source QA Automation Testing Framework by Persado
     * [darcy](https://github.com/darcy-framework) - An open source Java 8 framework for modeling user interfaces as page objects with a declarative, automation-library-agnostic DSL
     * [Satisfy](http://satisfy.tapack.io) - An open source Java framework based on Thucydides + Jbehave. Supports to work with WebUI, SOAP, REST, emails, files and generate random data out of the box.
     * [JDI UI Test Automation Framework](https://github.com/epam/JDI/) - is the test Framework for UI test automation. It extends the Page Objects design pattern and introduces many additional elements along with implementation of its common usages.
@@ -79,6 +79,12 @@ Also:
     * [Selenium-Grid-Extras](https://github.com/groupon/Selenium-Grid-Extras) - Simplify the management of the Selenium Grid Nodes and stabilize said nodes by cleaning up the test environment after the build has been completed
     * [Selenium Grid Extensions](https://github.com/sterodium/selenium-grid-extensions) - Extend Selenium grid with extra functionality. Execute Sikuli tests in combination with Selenium.
     * [Selenium Grid Router](https://github.com/seleniumkit/gridrouter) is a lightweight server that routes and proxies Selenium Wedriver requests to multiple Selenium hubs.
+    * [Docker Selenium Grid](https://github.com/atinfo/awesome-test-automation.git) - A project to provide native video recording support for Selenium Grid and was initially designed to be used with docker-selenium project.
+    * [Video Recorder Java](https://github.com/SergeyPirogov/video-recorder-java) - This library allows easily record video of your UI tests by just putting couple annotations.
+    * [FluentLenium] (https://github.com/FluentLenium/FluentLenium) - FluentLenium helps you writing readable, reusable, reliable and resilient UI functional tests for the browser. FluentLenium provides a Java fluent interface to Selenium, and brings some magic to avoid common issues faced by Selenium users.
+
+
+
 
 ## Mobile test automation
 
@@ -88,16 +94,16 @@ Also:
 * [UIautomator](http://developer.android.com/tools/help/uiautomator/index.html) - Provides an efficient way to test UIs. It creates automated functional test cases that can be executed against apps on real Android devices and emulators. It includes a viewer, which is a GUI tool to scan and analyze the UI components of an Android app.
 * [Espresso](https://code.google.com/p/android-test-kit/wiki/Espresso) - A pretty new test automation framework that got open-sourced just last year, making it available for developers and testers to hammer out their UIs. Espresso has an API that is small, predictable, easy to learn and built on top of the Android instrumentation framework. You can quickly write concise and reliable Android UI tests with it.
 
-## Windows UI test automation 
+## Windows UI test automation
 
 * [SikuliX](http://www.sikulix.com/) - SikuliX automates anything you see on the screen of your desktop computer running Windows, Mac or some Linux/Unix. It uses image recognition powered by OpenCV to identify and control GUI components. This is handy in cases when there is no easy access to a GUI's internals or the source code of the application or web page you want to act on.
 * [Winium for Desktop](https://github.com/2gis/Winium.Desktop/) - Winium.Desktop is an open source test automation tool for automated testing of Windows application based on WinFroms and WPF platforms.
 
-## Unix \ Linux UI test automation 
+## Unix \ Linux UI test automation
 
 * [SikuliX](http://www.sikulix.com/) - SikuliX automates anything you see on the screen of your desktop computer running Windows, Mac or some Linux/Unix. It uses image recognition powered by OpenCV to identify and control GUI components. This is handy in cases when there is no easy access to a GUI's internals or the source code of the application or web page you want to act on.
 
-## MacOS UI test automation 
+## MacOS UI test automation
 
 * [SikuliX](http://www.sikulix.com/) - SikuliX automates anything you see on the screen of your desktop computer running Windows, Mac or some Linux/Unix. It uses image recognition powered by OpenCV to identify and control GUI components. This is handy in cases when there is no easy access to a GUI's internals or the source code of the application or web page you want to act on.
 
@@ -112,14 +118,14 @@ Also:
 ## Performance & stress & load
 
 * [Apache JMeter](http://jmeter.apache.org/) - Functional testing and performance measurements.
-* [The Grinder](http://grinder.sourceforge.net/) - Load testing framework that makes it easy to run a distributed test using many load injector machines. 
+* [The Grinder](http://grinder.sourceforge.net/) - Load testing framework that makes it easy to run a distributed test using many load injector machines.
 * [Lightning](http://automatictester.github.io/lightning/) - Integrate JMeter non-functional tests with CI/CD server.
 * [Tsung](http://tsung.erlang-projects.org/) - Erlang based multi-protocol distributed load testing tool.
 * [Gatling](http://gatling.io/) - Gatling is an open-source load testing framework based on Scala, Akka and Netty. Is a highly capable load testing tool. It is designed for ease of use, maintainability and high performance. Based on an expressive DSL, the scenarios are self explanatory. They are easy to maintain and can be kept in a version control system. Gatling  architecture lets implement virtual users as messages instead of dedicated threads, making them very resource cheap. Thus, running thousands of concurrent virtual users is not an issue.
 
 
 
- 
+
 
 ## Security checking
 
@@ -141,6 +147,7 @@ Also:
 * [ExtentReports](http://relevantcodes.com/extentreports-for-selenium/) - HTML reporting library for .NET and Java which is extremely easy to use and creates beautiful execution reports. It shows test and step summary, test steps and status in a toggle view for quick analysis.
 * [ReportNG](http://reportng.uncommons.org/) - ReportNG is a simple HTML reporting plug-in for the TestNG unit-testing framework.
 * [Allure](http://allure.qatools.ru/) - Open-source framework designed to create test execution reports clear to everyone in the team.
+* [Gradle Allure Plugin](https://github.com/d10xa/gradle-allure-plugin) - Gradle Allure Plugin allows you to integrate Allure into spock, testing and junit tests.
 
 ## Documentation generation
 
@@ -167,6 +174,7 @@ Also:
 * [WireMock](http://wiremock.org/) is a flexible library for stubbing and mocking web services. Unlike general purpose mocking tools it works by creating an actual HTTP server that your code under test can connect to as it would a real web service.
 * [MockServer](http://www.mock-server.com/) can be used for mocking any system you integrate with via HTTP or HTTPS (i.e. services, web sites, etc).
 * [XMLUnit](http://www.xmlunit.org/) - testing and comparing XML output for Java and .NET
+* [Awaitility](https://github.com/awaitility/awaitility) - Awaitility is a DSL that allows you to express expectations of an asynchronous system in a concise and easy to read manner.
 
 # Resources
 * [Serenity BDD (Thucydides) libraries](http://thucydides.info/docs/thucydides-one-page/thucydides.html)
