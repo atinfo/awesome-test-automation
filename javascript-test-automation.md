@@ -39,7 +39,7 @@ Also:
 
 - BDD/TDD
     * [WebdriverIO](http://webdriver.io/) - Nodejs webdriver bindings implementation, based on JsonWire protocol. Requires selenium server running. Includes promises, extended syntax, asynchronus calls with callbacks etc. Also supports SauceLabs, BrowserStack and many other online tools.
-    * [WebdriverJS](https://code.google.com/p/selenium/wiki/WebDriverJs) - webdriver nodejs implemetations from authors of selenium, includes all basic features and commands.
+    * [WebdriverJS](https://github.com/SeleniumHQ/selenium/wiki/WebDriverJs) - webdriver nodejs implemetations from authors of selenium, includes all basic features and commands.
     * [MochaJS](http://mochajs.org/) - feature-rich JavaScript test framework running on node.js and the browser.
     * [Intern](https://theintern.github.io/) - is a complete test stack for JavaScript designed to help you write and run consistent, high-quality test cases for your JavaScript libraries and applications. It can be used to test any JavaScript code. Its functional testing capabilities can even be used to test non-JavaScript Web and mobile apps, if you really want.
     * [CodeceptJS](http://codecept.io/) - Modern era acceptance testing for NodeJS
@@ -63,24 +63,24 @@ No dependencies, works with any unit testing framework.
 
 ## Web UI test automation
 * [WebdriverIO](http://webdriver.io/) - Nodejs webdriver bindings implementation, based on JsonWire protocol. Requires selenium server running. Includes promises, extended syntax, asynchronus calls with callbacks etc. Also supports SauceLabs, BrowserStack and many other online tools.
-* [WebdriverJS](https://code.google.com/p/selenium/wiki/WebDriverJs) - webdriver nodejs implemetations from authors of selenium, includes all basic features and commands.
-* [Protractor](http://angular.github.io/protractor/) - End-to-end test framework for AngularJS applications.
+* [WebdriverJS](https://github.com/SeleniumHQ/selenium/wiki/WebDriverJs) - webdriver nodejs implemetations from authors of selenium, includes all basic features and commands.
+* [Protractor](http://www.protractortest.org/#/) - End-to-end test framework for AngularJS applications.
 * [Nightwatch.js](http://nightwatchjs.org/) - Easy to use Node.js based End-to-End (E2E) testing solution for browser based apps and websites.
 * [Dalek.js](http://dalekjs.com/) - Automated cross browser testing with JavaScript.
-* [Nemo](https://github.com/paypal/nemo) - Nemo provides a simple way to add selenium automation to your NodeJS web projects. With a powerful configuration ability provided by krakenjs/confit, and plugin architecture, Nemo is flexible enough to handle any browser/device automation need.
-* [Frisby](https://github.com/vlucas/frisby) - Is a REST API testing framework built on node.js and Jasmine that makes testing API endpoints easy, fast, and fun.
-* [TestCafe](https://github.com/DevExpress/testcafe) - Automated browser testing for the modern web development stack.
-* [Nightmare](https://github.com/segmentio/nightmare) - A high-level browser automation library.
-* [Gemini](https://gemini-testing.github.io) — Is an open-source utility for automating visual regression testing of web pages. Gemini takes a screenshot of elements on a page and compares it with baseline images of these elements. If the images don't match, the differences are shown in a report. 
-* [Hermione](https://github.com/gemini-testing/hermione#hermione) — Is the utility for integration testing of web pages using [WebdriverIO](http://webdriver.io/) and [Mocha](https://mochajs.org).
+* [Nemo](http://nemo.js.org/) - Nemo provides a simple way to add selenium automation to your NodeJS web projects. With a powerful configuration ability provided by krakenjs/confit, and plugin architecture, Nemo is flexible enough to handle any browser/device automation need.
+* [Frisby](http://frisbyjs.com/) - Is a REST API testing framework built on node.js and Jasmine that makes testing API endpoints easy, fast, and fun.
+* [TestCafe](https://devexpress.github.io/testcafe/) - Automated browser testing for the modern web development stack.
+* [Nightmare](http://www.nightmarejs.org/) - A high-level browser automation library.
+* [Gemini](https://gemini-testing.github.io) - Is an open-source utility for automating visual regression testing of web pages. Gemini takes a screenshot of elements on a page and compares it with baseline images of these elements. If the images don't match, the differences are shown in a report. 
+* [Hermione](https://github.com/gemini-testing/hermione#hermione) - Is the utility for integration testing of web pages using [WebdriverIO](http://webdriver.io/) and [Mocha](https://mochajs.org).
 * [Gremlins.js](https://github.com/marmelab/gremlins.js) - gremlins.js is a monkey testing library written in JavaScript, for Node.js and the browser. Use it to check the robustness of web applications by unleashing a horde of undisciplined gremlins.
 
 ## Mobile test automation
 * [WebdriverIO's Appium implementation](http://webdriver.io/api/appium/backgroundApp.html) - nodejs bindings implemeting Appium commands.
-* [Macaca](https://macacajs.github.io/macaca/) - Solution for Automation Test with Ease. Both Mobile, Desktop Platforms Supported, native, Hybrid, Mobile Web Multi-applications Supported, Command line tools & CI Solution provided.
+* [Macaca](https://macacajs.com/) - Solution for Automation Test with Ease. Both Mobile, Desktop Platforms Supported, native, Hybrid, Mobile Web Multi-applications Supported, Command line tools & CI Solution provided.
 
 ## Windows UI test automation 
-* [RobotJS] (http://robotjs.io/) - The Node.js Desktop Automation Library
+* [RobotJS](https://robotjs.io/) - The Node.js Desktop Automation Library
 
 [Contribute to this section](https://github.com/atinfo/awesome-test-automation/blob/master/CONTRIBUTING.md)
 
@@ -103,9 +103,9 @@ No dependencies, works with any unit testing framework.
 * [npm vulnerability scanner](https://github.com/ellerbrock/travis-vulnerability-scanner) - Vulnerability Scanner for npm Modules with Travis CI and the Node Security Platform CLI Tool.
 
 ## Continuous Integration
-* [Strider CD](https://github.com/Strider-CD/strider) - Open Source Continuous Deployment / Continuous Integration platform written in NodeJS.
+* [Strider CD](http://strider-cd.github.io/) - Open Source Continuous Deployment / Continuous Integration platform written in NodeJS.
 * [Gulp](http://gulpjs.com/) - Streaming building system/task runner in nodejs. Based on streaming data flow conception (https://github.com/substack/stream-handbook).
-* [Grunt](http://gruntjs.com/) - Streaming building system/task runner in nodejs. Can't do anything without plugins, but there are many of them for all kinds of purposes.
+* [Grunt](https://gruntjs.com/) - Streaming building system/task runner in nodejs. Can't do anything without plugins, but there are many of them for all kinds of purposes.
 
 ## Reporting
 * [Istanbul](https://github.com/gotwarlost/istanbul) - JS coverage tool for unit tests, server side functional tests and browser tests.
@@ -114,19 +114,19 @@ No dependencies, works with any unit testing framework.
 * [Allure](http://allure.qatools.ru/) - a universal reporter for any testing framework. Supports [Mocha](https://docs.qameta.io/allure/2.0/#_mocha) and [Jasmine (and Protractor)](https://docs.qameta.io/allure/2.0/#_jasmine)
 
 ## Documentation generation
-* [JSdoc3] (http://usejsdoc.org/) - An API documentation generator for JavaScript
-* [jsdoc-to-markdown] (https://github.com/jsdoc2md/jsdoc-to-markdown) - Generates markdown API documentation from jsdoc annotated source code.
-* [Docco] (http://jashkenas.github.io/docco/) - Docco is a quick-and-dirty documentation generator, written in Literate CoffeeScript
-* [MrDoc] (https://mr-doc.github.io/mr-doc/) - A personal source documenter
-* [YUIDocs] (http://yui.github.io/yuidoc/) - YUI's JavaScript Documentation engine
-* [ESDoc] (https://esdoc.org/) - Configurble documentation generator with good ES6/ES7 support
+* [JSdoc3](http://usejsdoc.org/) - An API documentation generator for JavaScript
+* [jsdoc-to-markdown](https://github.com/jsdoc2md/jsdoc-to-markdown) - Generates markdown API documentation from jsdoc annotated source code.
+* [Docco](http://jashkenas.github.io/docco/) - Docco is a quick-and-dirty documentation generator, written in Literate CoffeeScript
+* [MrDoc](https://mr-doc.github.io/mr-doc/) - A personal source documenter
+* [YUIDocs](http://yui.github.io/yuidoc/) - YUI's JavaScript Documentation engine
+* [ESDoc](https://esdoc.org/) - Configurble documentation generator with good ES6/ES7 support
 
 [Contribute to this section](https://github.com/atinfo/awesome-test-automation/blob/master/CONTRIBUTING.md)
 
 ## Editors, IDE, consoles
 * [WebStorm](https://www.jetbrains.com/webstorm/) - PhpStorm without php support. One of thee most powerfull JS/HTML IDE.
 * [Brackets](http://brackets.io/) - Open source newly released IDE for JS/HTML from Adobe. 
-* [Komodo](http://komodoide.com/) - Cross platform IDE for multiple languages, strongly supporting JS.
+* [Komodo](https://www.activestate.com/komodo-ide) - Cross platform IDE for multiple languages, strongly supporting JS.
 * [Cloud9](https://c9.io/) - Cloud based nodejs IDE supporting multiple features, eg. pair programming, preview in a new browser, built-in image editor, terminal and many others
 * [Visual Studio Code](https://code.visualstudio.com/) - Cross platform editor from Microsoft, with integrated Node.js debugger and hooks for taskrunners such as Gulp
 * [Atom](https://atom.io) - Full-featured, right out of the box text editor that's modern, approachable, yet hackable to the core from Github
