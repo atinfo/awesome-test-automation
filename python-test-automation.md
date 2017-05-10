@@ -108,6 +108,7 @@ Also:
 * [pylama](https://pylama.readthedocs.org/) - Code audit tool for Python and JavaScript.
 * [Pylint](http://www.pylint.org/) - A source code analyzer.
 * [hacking](https://github.com/openstack-dev/hacking) - OpenStack Hacking Style Checks (`flake8` plugins).
+* [prospector](https://github.com/landscapeio/prospector) - A tool to analyse Python code and output information about errors, potential problems, convention violations and complexity.
 
 ## Web UI test automation
 
