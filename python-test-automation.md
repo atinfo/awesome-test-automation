@@ -96,7 +96,8 @@ Also:
 * [ForgeryPy](https://pypi.python.org/pypi/ForgeryPy) - An easy to use forged data generator for Python. It's a port of forgery.
 * [radar](https://pypi.python.org/pypi/radar) - Generate random datetime / time.
 * [robotframework-faker](https://github.com/guykisel/robotframework-faker) - Robot Framework wrapper for faker.
-* [hypothesis](https://github.com/DRMacIver/hypothesis) - Library for property based testing in Python, based on the Haskell library Quickcheck. 
+* [hypothesis](https://github.com/DRMacIver/hypothesis) - Library for property based testing in Python, based on the Haskell library Quickcheck.
+* [factory_boy](https://github.com/FactoryBoy/factory_boy) - A fixtures replacement based on thoughtbot’s [factory_girl](https://github.com/thoughtbot/factory_girl).
 
 ## Code analysis
 
@@ -107,6 +108,7 @@ Also:
 * [pylama](https://pylama.readthedocs.org/) - Code audit tool for Python and JavaScript.
 * [Pylint](http://www.pylint.org/) - A source code analyzer.
 * [hacking](https://github.com/openstack-dev/hacking) - OpenStack Hacking Style Checks (`flake8` plugins).
+* [prospector](https://github.com/landscapeio/prospector) - A tool to analyse Python code and output information about errors, potential problems, convention violations and complexity.
 
 ## Web UI test automation
 
