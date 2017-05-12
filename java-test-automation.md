@@ -45,6 +45,7 @@ Also:
 - tools
     * [JBehave](http://jbehave.org/) - A framework for Behaviour-Driven Development (BDD). BDD is an evolution of test-driven development (TDD) and acceptance-test driven design, and is intended to make these practices more accessible and intuitive to newcomers and experts alike.
     * [Cucumber-JVM](https://github.com/cucumber/cucumber-jvm) - A pure Java implementation of Cucumber that supports the most popular programming languages for the JVM.
+    * [JGiven](https://github.com/TNG/JGiven) - A developer-friendly and pragmatic BDD tool for Java. Developers write scenarios in plain Java using a fluent, domain-specific API, JGiven generates reports that are readable by domain experts.
     * [easyb](http://easyb.org/) - A behavior driven development framework for the Java platform. By using a specification based Domain Specific Language, easyb aims to enable executable, yet readable documentation.
     * [Robot Framework](http://robotframework.org/) - A generic test automation framework for acceptance testing and acceptance test-driven development (ATDD).
         * [awesome-robotframework](https://github.com/fkromer/awesome-robotframework) - A curated list of awesome Robot Framework resources and libraries
