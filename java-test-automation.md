@@ -144,6 +144,7 @@ Also:
 
 ## Reporting
 
+* [ReportPortal](https://github.com/reportportal/reportportal) - powerful server-client reporting tool. Reduce the effort to work with results. Providing historical data (statues) of executions in on click, logs, screenshost and any binary attachement. Trends, flaky test, most failed, longest test via custom widgets and dashboards, which give visibility to the team, leads, managers and falcon-eye view for VPs. Provide ability to categorize fails by custom defect types and utilize power of Machine Learning to detect fails, based on collected patterns. Give benefits of real-time integration: no need to wait execution ending.  Any language, any platform. Free, Open Sourced.
 * [ExtentReports](http://relevantcodes.com/extentreports-for-selenium/) - HTML reporting library for .NET and Java which is extremely easy to use and creates beautiful execution reports. It shows test and step summary, test steps and status in a toggle view for quick analysis.
 * [ReportNG](http://reportng.uncommons.org/) - ReportNG is a simple HTML reporting plug-in for the TestNG unit-testing framework.
 * [Allure](http://allure.qatools.ru/) - Open-source framework designed to create test execution reports clear to everyone in the team.
