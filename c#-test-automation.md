@@ -69,6 +69,7 @@ for Windows Phone
 * [Xamarin.UITest](http://developer.xamarin.com/guides/testcloud/uitest/) is a library that comes with Xamarin Forms and allows you to automate the applications built with Xamarin
 technology on Windows Phone, iOS and Android
 * [Appium](http://appium.io/) supports cross platform test automation for Native and Hybrid mobile applications
+* [Testura.Android](https://github.com/Testura/Testura.Android) A lightweight test automation framework to test android applications. Easy to start and require minimum set up.
 
 ## Windows UI test automation 
 
