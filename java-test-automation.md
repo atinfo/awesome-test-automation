@@ -85,6 +85,7 @@ Also:
     * [Selenium Grid Router](https://github.com/seleniumkit/gridrouter) is a lightweight server that routes and proxies Selenium Wedriver requests to multiple Selenium hubs.
     * [Docker Selenium Grid](https://github.com/atinfo/awesome-test-automation.git) - A project to provide native video recording support for Selenium Grid and was initially designed to be used with docker-selenium project.
     * [Video Recorder Java](https://github.com/SergeyPirogov/video-recorder-java) - This library allows easily record video of your UI tests by just putting couple annotations.
+    * [Zalenium](https://github.com/zalando/zalenium) - Allows anyone to have a disposable and flexible Docker-based Selenium Grid infrastructure featuring video recording, live preview and online/offline dashboards.
 
 
 ## Mobile test automation
