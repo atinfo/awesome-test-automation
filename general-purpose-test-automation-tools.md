@@ -6,7 +6,7 @@ A comprehensive curated list of general purpose test automation tools (or 'unive
 
 Table of content:
 
-- [Functional Testing](#funcitonal-testing)
+- [Functional Testing](#functional-testing)
 - [Performance and load testing](#performance-and-load-testing)
 - [Security testing](#security-testing)
 - [Test design](#test-design)
