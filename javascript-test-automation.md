@@ -74,6 +74,12 @@ No dependencies, works with any unit testing framework.
 * [Gemini](https://gemini-testing.github.io) - Is an open-source utility for automating visual regression testing of web pages. Gemini takes a screenshot of elements on a page and compares it with baseline images of these elements. If the images don't match, the differences are shown in a report.
 * [Hermione](https://github.com/gemini-testing/hermione#hermione) - Is the utility for integration testing of web pages using [WebdriverIO](http://webdriver.io/) and [Mocha](https://mochajs.org).
 * [Gremlins.js](https://github.com/marmelab/gremlins.js) - gremlins.js is a monkey testing library written in JavaScript, for Node.js and the browser. Use it to check the robustness of web applications by unleashing a horde of undisciplined gremlins.
+* [Chromeless](https://github.com/graphcool/chromeless) - Works with AWS Lambda to deploy parallel testing in a serverless setup. Compared to incumbents, API is basic for now but it’s trending like a rocket now. Contributors and maintainers can shape it into a great tool.
+* [Chrominator](https://github.com/jesg/chrominator) - Made by PhantomJS GhostDriver maintainer so the API is extensive. It covers many edge cases that users expect from mature headless browsers frameworks such as NightmareJS/Electron or CasperJS/PhantomJS.
+* [Chromy](https://github.com/OnetapInc/chromy) - Possibly the earliest that shipped to market, releasing in early May a thoughtful set of high-level API that works with headless Chrome. Rapid improvements since then and actively explored by BackstopJS maintainer.
+* [Navalia](https://github.com/joelgriffith/navalia) - Pretty refreshing approach by supporting the popular GraphQL language, which is normally meant for querying API endpoints. Looks to have a mature API set and most importantly it is well-documented.
+* [Lambdium](https://github.com/smithclay/lambdium) - Deployments on AWS Lambda using Selenium WebDriver. This is a very interesting proposition, because for the existing large Selenium code base in market, it has the potential for very easy migration to this tool.
+* [GhostJS](https://github.com/KevinGrandon/ghostjs) - Interesting project base on modern JavaScript that works on a multitude of browsers such as Chrome, Firefox, PhantomJS, plus expressive API. Released some time back, development seems to be picking up speed.
 
 ## Mobile test automation
 * [WebdriverIO's Appium implementation](http://webdriver.io/api/appium/backgroundApp.html) - nodejs bindings implemeting Appium commands.
