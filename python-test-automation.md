@@ -262,6 +262,7 @@ Libraries that may help you to build better test automation.
 * [tappy](https://github.com/python-tap/tappy) - tappy is a set of tools for working with the Test Anything Protocol (TAP) in Python. TAP is a line based test protocol for recording test data in a standard way.
 * [pyscreenshot](https://github.com/ponty/pyscreenshot) - The pyscreenshot module can be used to copy the contents of the screen to a PIL or Pillow image memory using various back-ends. Replacement for the ImageGrab Module, which works on Windows only, so Windows users don't need this library.
 * [TBVaccine](https://github.com/skorokithakis/tbvaccine) - TBVaccine is a utility that pretty-prints Python tracebacks. It automatically highlights lines you care about and deemphasizes lines you don't, and colorizes the various elements in a traceback to make it easier to parse.
+* [PyPattyrn](https://github.com/tylerlaberge/PyPattyrn) - PyPattyrn is a python package aiming to make it easier and faster to implement design patterns into your own projects.
 
 # Resources
 Where to discover new libraries, information, tools, etc.
