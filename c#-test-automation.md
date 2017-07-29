@@ -80,6 +80,7 @@ technology on Windows Phone, iOS and Android
 * [AutoIt (COM bindings)](https://www.autoitscript.com/autoit3/docs/intro/ComRef.htm) ― since it implements COM+ interface, autoit can be available from any language on windows, including C#.
 * [WebAii Testing Framework](http://www.telerik.com/teststudio/testing-framework) - Framework for cross-browser testing with native support for Telerik UI for ASP.NET AJAX, Silverlight, WPF, HTML5 and XAML applications, etc.
 * [FlaUI](https://github.com/Roemer/FlaUI) UI automation library for .Net. Rewritten White with UIA3, UIA2, MSAA support
+* [Windows Application Driver](https://github.com/Microsoft/WinAppDriver) - Windows Application Driver is a service to support UI Test Automation of Windows Applications. The service design subscribes to the Mobile JSON Wire Protocol standard.
 
 
 ## Virtual environments
