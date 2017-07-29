@@ -9,7 +9,7 @@ Table of content:
 - [xUnit frameworks](#xunit-frameworks)
 - [TDD \ ATTD \ BDD](#tdd--atdd--bdd)
 - [Model-Based Testing](#model-based-testing)
-- [Code Analysis](#code-analysis)
+- [Code Analysis and Coverage](#code-analysis-and-coverage)
 - [Web UI test automation](#web-ui-test-automation)
 - [Mobile test automation](#mobile-test-automation)
 - [Windows UI test automation](#windows-ui-test-automation)
@@ -39,6 +39,7 @@ Also:
 
 * [JUnit](http://junit.org/) - Common testing framework.
 * [TestNG](http://testng.org/) - TestNG - Testing framework.
+    * [Test Data Supplier](https://github.com/sskorol/test-data-supplier) - TestNG DataProvider wrapper which helps to supply test data in a more flexible way.
 
 ## TDD \ ATDD \ BDD
 
@@ -56,9 +57,12 @@ Also:
 
 - [GraphWalker](http://graphwalker.org/) - A framework for Model-Based Testing. The tool reads models in various formats like graphml, dot or json, and then generates tests from the models.
 
-## Code analysis
+## Code analysis and coverage
 
-* [SonarQube](http://www.sonarqube.org/) - Open source project to manage code quality.
+* [SonarQube](http://www.sonarqube.org) - Open source project to manage code quality.
+* [Gradle Quality Plugin](https://github.com/xvik/gradle-quality-plugin) - Static code analysis for Java and Groovy projects using Checkstyle, PMD, FindBugs and CodeNarc. Plugin implements unified console output for all quality plugins which greatly simplifies developer workflow: only console is required for working with violations and makes it feel the same as java compiler errors.
+* [Qulice](https://github.com/teamed/qulice) - Qulice is a static analysis quality control instrument for Java projects. It combines all the best static analysis instruments and pre-configure them. You don't need to use and configure them individually any more.
+* [JaCoCo](https://github.com/jacoco/jacoco) - JaCoCo is a free code coverage library for Java, which has been created by the EclEmma team based on the lessons learned from using and integration existing libraries for many years.
 
 ## Web UI test automation
 
@@ -83,7 +87,7 @@ Also:
     * [Selenium-Grid-Extras](https://github.com/groupon/Selenium-Grid-Extras) - Simplify the management of the Selenium Grid Nodes and stabilize said nodes by cleaning up the test environment after the build has been completed
     * [Selenium Grid Extensions](https://github.com/sterodium/selenium-grid-extensions) - Extend Selenium grid with extra functionality. Execute Sikuli tests in combination with Selenium.
     * [Selenium Grid Router](https://github.com/seleniumkit/gridrouter) is a lightweight server that routes and proxies Selenium Wedriver requests to multiple Selenium hubs.
-    * [Docker Selenium Grid](https://github.com/atinfo/awesome-test-automation.git) - A project to provide native video recording support for Selenium Grid and was initially designed to be used with docker-selenium project.
+    * [Docker Selenium Grid](https://github.com/sskorol/docker-selenium-grid) - A project to provide native video recording support for Selenium Grid and was initially designed to be used with docker-selenium project.
     * [Video Recorder Java](https://github.com/SergeyPirogov/video-recorder-java) - This library allows easily record video of your UI tests by just putting couple annotations.
     * [Zalenium](https://github.com/zalando/zalenium) - Allows anyone to have a disposable and flexible Docker-based Selenium Grid infrastructure featuring video recording, live preview and online/offline dashboards.
 
@@ -116,6 +120,7 @@ Also:
 ## Virtual environments
 
 * [Vagrant](https://www.vagrantup.com/) - Easy to configure, reliable tool for building and maintaining portable virtual development environments.
+* [Docker](https://www.docker.com) - Docker is the world’s leading software container platform. Developers use Docker to eliminate “works on my machine” problems when collaborating on code with co-workers. Operators use Docker to run and manage apps side-by-side in isolated containers to get better compute density. Enterprises use Docker to build agile software delivery pipelines to ship new features faster, more securely and with confidence for both Linux and Windows Server apps.
 
 ## Performance & stress & load
 
@@ -124,10 +129,6 @@ Also:
 * [Lightning](http://automatictester.github.io/lightning/) - Integrate JMeter non-functional tests with CI/CD server.
 * [Tsung](http://tsung.erlang-projects.org/) - Erlang based multi-protocol distributed load testing tool.
 * [Gatling](http://gatling.io/) - Gatling is an open-source load testing framework based on Scala, Akka and Netty. Is a highly capable load testing tool. It is designed for ease of use, maintainability and high performance. Based on an expressive DSL, the scenarios are self explanatory. They are easy to maintain and can be kept in a version control system. Gatling  architecture lets implement virtual users as messages instead of dedicated threads, making them very resource cheap. Thus, running thousands of concurrent virtual users is not an issue.
-
-
-
-
 
 ## Security checking
 
@@ -147,10 +148,10 @@ Also:
 ## Reporting
 
 * [ReportPortal](https://github.com/reportportal/reportportal) - powerful server-client reporting tool. Reduce the effort to work with results. Providing historical data (statues) of executions in on click, logs, screenshost and any binary attachement. Trends, flaky test, most failed, longest test via custom widgets and dashboards, which give visibility to the team, leads, managers and falcon-eye view for VPs. Provide ability to categorize fails by custom defect types and utilize power of Machine Learning to detect fails, based on collected patterns. Give benefits of real-time integration: no need to wait execution ending.  Any language, any platform. Free, Open Sourced.
+* [Allure](https://docs.qameta.io/allure/latest) - Open-source framework designed to create test execution reports clear to everyone in the team.
+* [Gradle Allure Plugin](https://github.com/d10xa/gradle-allure-plugin) - 3rd-party Gradle Allure Plugin allows you to integrate Allure into spock, testing and junit tests.
 * [ExtentReports](http://relevantcodes.com/extentreports-for-selenium/) - HTML reporting library for .NET and Java which is extremely easy to use and creates beautiful execution reports. It shows test and step summary, test steps and status in a toggle view for quick analysis.
 * [ReportNG](http://reportng.uncommons.org/) - ReportNG is a simple HTML reporting plug-in for the TestNG unit-testing framework.
-* [Allure](http://allure.qatools.ru/) - Open-source framework designed to create test execution reports clear to everyone in the team.
-* [Gradle Allure Plugin](https://github.com/d10xa/gradle-allure-plugin) - Gradle Allure Plugin allows you to integrate Allure into spock, testing and junit tests.
 
 ## Documentation generation
 
@@ -168,10 +169,14 @@ Also:
 
 * [Hibernate](http://hibernate.org/orm/) - Hibernate ORM enables developers to more easily write applications whose data outlives the application process. As an Object/Relational Mapping (ORM) framework, Hibernate is concerned with data persistence as it applies to relational databases (via JDBC).
 * [Morphia](https://github.com/mongodb/morphia) - Morphia is a lightweight type-safe library for mapping Java objects to/from MongoDB. Morphia provides a typesafe, and fluent Query API support with (runtime) validation. Morphia uses annotations so there are no XML files to manage or update. Morphia should feel very comfortable for any developer with JPA experience.
+* [MyBatis](http://www.mybatis.org/mybatis-3) - MyBatis is a first class persistence framework with support for custom SQL, stored procedures and advanced mappings. MyBatis eliminates almost all of the JDBC code and manual setting of parameters and retrieval of results. MyBatis can use simple XML or Annotations for configuration and map primitives, Map interfaces and Java POJOs (Plain Old Java Objects) to database records.
 
 ## Useful libs
 
-* [AspectJ](https://eclipse.org/aspectj/) - Seamless aspect-oriented extension to the Java. AspectJ enables clean modularization of crosscutting concerns, such as error checking and handling, synchronization, context-sensitive behavior, performance optimizations, monitoring and logging, debugging support, and multi-object protocols.
+* [StreamEx](https://github.com/amaembo/streamex) - Common Java 8 Streams enhancement library.
+* [Vavr](https://github.com/vavr-io/vavr) - Vavr is an object-functional language extension to Java 8, which aims to reduce the lines of code and increase code quality. It provides persistent collections, functional abstractions for error handling, concurrent programming, pattern matching and much more.
+* [Lombok](https://projectlombok.org) - Project Lombok makes Java a spicier language by adding 'handlers' that know how to build and compile simple, boilerplate-free, not-quite-java code.
+* [AspectJ](https://eclipse.org/aspectj) - Seamless aspect-oriented extension to the Java. AspectJ enables clean modularization of crosscutting concerns, such as error checking and handling, synchronization, context-sensitive behavior, performance optimizations, monitoring and logging, debugging support, and multi-object protocols.
 * [aShot](https://github.com/yandex-qatools/ashot) - WebDriver Screenshot utility. Take screenshots, crop, prettify, compare.
 * [rest-assured](https://code.google.com/p/rest-assured/) - Testing and validating REST services in Java is harder than in dynamic languages such as Ruby and Groovy. REST Assured brings the simplicity of using these languages into the Java domain.
 * [WireMock](http://wiremock.org/) is a flexible library for stubbing and mocking web services. Unlike general purpose mocking tools it works by creating an actual HTTP server that your code under test can connect to as it would a real web service.
