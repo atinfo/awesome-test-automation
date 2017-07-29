@@ -42,6 +42,7 @@ Also:
 * [Hive CI](http://bbc.github.io/hive-ci/) is a CI system built around devices. Connect your physical devices to a hive and run your tests on the same platforms as your users
 * [STF](https://github.com/openstf/stf) - STF (or Smartphone Test Farm) is a web application for debugging smartphones, smartwatches and other gadgets remotely, from the comfort of your browser.
 * [spoon](https://github.com/square/spoon) - Distributing instrumentation tests to all your Androids. 
+* [Genymotion](https://www.genymotion.com/) - Genymotion is one of the best free Android emulators on the market. The software, which is both powerful and easy to use, will be of interest to the naturally curious, as well as for Android developers.
 
 # Resources
 Where to discover new libraries, information, tools, etc.
