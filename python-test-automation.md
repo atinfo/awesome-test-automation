@@ -256,6 +256,7 @@ Libraries that may help you to build better test automation.
 * [Pyro4](https://github.com/irmen/Pyro4) - Pyro enables you to build applications in which objects can talk to each other over the network, with minimal programming effort.
 * [keyboard](https://github.com/boppreh/keyboard) - Hook and simulate global keyboard events on Windows and Linux.
 * [Errbot](http://errbot.io/en/latest/) - Errbot is a chatbot, a daemon that connects to your favorite chat service and brings your tools into the conversation.
+* [tappy](https://github.com/python-tap/tappy) - tappy is a set of tools for working with the Test Anything Protocol (TAP) in Python. TAP is a line based test protocol for recording test data in a standard way.
 
 # Resources
 Where to discover new libraries, information, tools, etc.
