@@ -264,6 +264,7 @@ Libraries that may help you to build better test automation.
 * [TBVaccine](https://github.com/skorokithakis/tbvaccine) - TBVaccine is a utility that pretty-prints Python tracebacks. It automatically highlights lines you care about and deemphasizes lines you don't, and colorizes the various elements in a traceback to make it easier to parse.
 * [PyPattyrn](https://github.com/tylerlaberge/PyPattyrn) - PyPattyrn is a python package aiming to make it easier and faster to implement design patterns into your own projects.
 * [Spyne](http://spyne.io/) - Spyne is a Python RPC toolkit that makes it easy to expose online services that have a well-defined API using multiple protocols and transports.
+* [Pexpect](https://pexpect.readthedocs.io/en/stable/) - Pexpect makes Python a better tool for controlling other applications.
 
 # Resources
 Where to discover new libraries, information, tools, etc.
