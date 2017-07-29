@@ -38,19 +38,15 @@ Also:
 ## TDD \ ATDD \ BDD
 
 - BDD/TDD
-    * [WebdriverIO](http://webdriver.io/) - Nodejs webdriver bindings implementation, based on JsonWire protocol. Requires selenium server running. Includes promises, extended syntax, asynchronus calls with callbacks etc. Also supports SauceLabs, BrowserStack and many other online tools.
-    * [WebdriverJS](https://github.com/SeleniumHQ/selenium/wiki/WebDriverJs) - webdriver nodejs implemetations from authors of selenium, includes all basic features and commands.
     * [MochaJS](http://mochajs.org/) - feature-rich JavaScript test framework running on node.js and the browser.
+    * [Jasmine](http://jasmine.github.io/) - Behavior Driven Development testing framework for JavaScript. It does not rely on browsers, DOM, or any JavaScript framework. Thus it's suited for websites, Node.js projects, or anywhere that JavaScript can run.
     * [Intern](https://theintern.github.io/) - is a complete test stack for JavaScript designed to help you write and run consistent, high-quality test cases for your JavaScript libraries and applications. It can be used to test any JavaScript code. Its functional testing capabilities can even be used to test non-JavaScript Web and mobile apps, if you really want.
-    * [CodeceptJS](http://codecept.io/) - Modern era acceptance testing for NodeJS
 	* [Chai](http://chaijs.com/) - Chai is a BDD / TDD assertion library for node and the browser that can be delightfully paired with any javascript testing framework
     * [Chakram](http://dareid.github.io/chakram/) - Chakram is a REST API testing framework offering a BDD testing style and fully exploiting promises
-- TDD
-    * [Karma](http://mochajs.org/) - test runner for making TDD much easier by pre-build test environments.
 - BDD
-    * [Jasmine](http://jasmine.github.io/) - Behavior Driven Development testing framework for JavaScript. It does not rely on browsers, DOM, or any JavaScript framework. Thus it's suited for websites, Node.js projects, or anywhere that JavaScript can run.
     * [CucumberJS](https://github.com/cucumber/cucumber-js) - Cucumber is a tool for running automated tests written in plain language.Cucumber.js is the JavaScript implementation of Cucumber and runs on both Node.js and modern web browsers.
 - Runners
+    * [Karma](http://mochajs.org/) - test runner for making TDD much easier by pre-build test environments.
     * [Wallaby.js](https://wallabyjs.com/) - Wallaby.js runs your JavaScript tests immediately as you type and displays execution results in your code editor. It also provides live test execution and code coverage reports.
     * [Jest](https://facebook.github.io/jest/) - Jest is used by Facebook to test all JavaScript code including React applications. One of Jest's philosophies is to provide an integrated "zero-configuration" experience. We observed that when engineers are provided with ready-to-use tools, they end up writing more tests, which in turn results in more stable and healthy code bases.
 
@@ -66,9 +62,10 @@ No dependencies, works with any unit testing framework.
 * [JsLint](http://www.jslint.com/) - JavaScript syntax checker and validator.
 
 ## Web UI test automation
-* [WebdriverIO](http://webdriver.io/) - Nodejs webdriver bindings implementation, based on JsonWire protocol. Requires selenium server running. Includes promises, extended syntax, asynchronus calls with callbacks etc. Also supports SauceLabs, BrowserStack and many other online tools.
-* [WebdriverJS](https://github.com/SeleniumHQ/selenium/wiki/WebDriverJs) - webdriver nodejs implemetations from authors of selenium, includes all basic features and commands.
-* [Protractor](http://www.protractortest.org/#/) - End-to-end test framework for AngularJS applications.
+* [WebdriverJS](https://github.com/SeleniumHQ/selenium/wiki/WebDriverJs) - Nodejs webdriver language bindings official implementation from authors of selenium, includes only basic features and commands. Uses Control Flow to syncrhonize async actions.
+* [WebdriverIO](http://webdriver.io/) - Nodejs webdriver language bindings unofficial implementation developed by SauceLabs. Has own handling of async actions using FibersJS and rich set of features
+* [Protractor](http://www.protractortest.org/#/) - End-to-end test framework for Angular applications, comes with JasmineWD included, and built on top of WebdriverJS
+* [CodeceptJS](http://codecept.io/) - Modern era acceptance testing for NodeJS
 * [Nightwatch.js](http://nightwatchjs.org/) - Easy to use Node.js based End-to-End (E2E) testing solution for browser based apps and websites.
 * [Dalek.js](http://dalekjs.com/) - Automated cross browser testing with JavaScript.
 * [Nemo](http://nemo.js.org/) - Nemo provides a simple way to add selenium automation to your NodeJS web projects. With a powerful configuration ability provided by krakenjs/confit, and plugin architecture, Nemo is flexible enough to handle any browser/device automation need.
