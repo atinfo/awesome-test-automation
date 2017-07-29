@@ -44,6 +44,7 @@ Also:
     * [Intern](https://theintern.github.io/) - is a complete test stack for JavaScript designed to help you write and run consistent, high-quality test cases for your JavaScript libraries and applications. It can be used to test any JavaScript code. Its functional testing capabilities can even be used to test non-JavaScript Web and mobile apps, if you really want.
     * [CodeceptJS](http://codecept.io/) - Modern era acceptance testing for NodeJS
 	* [Chai](http://chaijs.com/) - Chai is a BDD / TDD assertion library for node and the browser that can be delightfully paired with any javascript testing framework
+    * [Chakram](http://dareid.github.io/chakram/) - Chakram is a REST API testing framework offering a BDD testing style and fully exploiting promises
 - TDD
     * [Karma](http://mochajs.org/) - test runner for making TDD much easier by pre-build test environments.
 - BDD
