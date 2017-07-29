@@ -16,6 +16,7 @@ Table of content:
     * [Selenium](http://docs.seleniumhq.org/) - Portable software testing framework for web applications.
 - frameworks and wrappers
     * [Balin](https://github.com/EPadronU/balin) - Balin is a browser automation library for Kotlin. It's basically a Selenium-WebDriver wrapper library inspired by Geb.
+    * [SeleniumBuilder](https://github.com/qwertukg/SeleniumBuilder) - Kotlin DSL for Selenium 2.0. Provide a possibility to write tests in Kotlin type-safe builders style
 
 
 ## Editors, IDE, consoles
