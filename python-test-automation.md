@@ -258,6 +258,7 @@ Libraries that may help you to build better test automation.
 * [Errbot](http://errbot.io/en/latest/) - Errbot is a chatbot, a daemon that connects to your favorite chat service and brings your tools into the conversation.
 * [tappy](https://github.com/python-tap/tappy) - tappy is a set of tools for working with the Test Anything Protocol (TAP) in Python. TAP is a line based test protocol for recording test data in a standard way.
 * [pyscreenshot](https://github.com/ponty/pyscreenshot) - The pyscreenshot module can be used to copy the contents of the screen to a PIL or Pillow image memory using various back-ends. Replacement for the ImageGrab Module, which works on Windows only, so Windows users don't need this library.
+* [TBVaccine](https://github.com/skorokithakis/tbvaccine) - TBVaccine is a utility that pretty-prints Python tracebacks. It automatically highlights lines you care about and deemphasizes lines you don't, and colorizes the various elements in a traceback to make it easier to parse.
 
 # Resources
 Where to discover new libraries, information, tools, etc.
