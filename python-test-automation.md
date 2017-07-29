@@ -254,6 +254,7 @@ Libraries that may help you to build better test automation.
 * [gitapi](http://bitbucket.org/haard/gitapi) - Pure-Python API for git.
 * [Pyro4](https://github.com/irmen/Pyro4) - Pyro enables you to build applications in which objects can talk to each other over the network, with minimal programming effort.
 * [keyboard](https://github.com/boppreh/keyboard) - Hook and simulate global keyboard events on Windows and Linux.
+* [Errbot](http://errbot.io/en/latest/) - Errbot is a chatbot, a daemon that connects to your favorite chat service and brings your tools into the conversation.
 
 # Resources
 Where to discover new libraries, information, tools, etc.
