@@ -10,6 +10,14 @@ Table of content:
 - [Editors, IDE and consoles](#editors-ide-consoles)
 - [Useful libs](#useful-libs)
 
+Also:
+
+- [Resources](#resources)
+- [Other Awesome Test Automation Lists](#other-awesome-test-automation-lists)
+- [Contributing](#contributing)
+
+---
+
 ## Web UI test automation
 
 - libraries
