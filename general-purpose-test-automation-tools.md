@@ -30,6 +30,7 @@ Also:
 ## Web UI test automation
 * [Ggr](https://github.com/aandryashin/ggr) - active load balancer to create scalable and highly-available Selenium cluster.
 * [Selenoid](https://github.com/aandryashin/selenoid) - alternative Selenium Hub running browsers within containers.
+* [RedwoodHQ](https://github.com/dmolchanenko/RedwoodHQ) - RedwoodHQ is a free Open Source test automation framework that allows multiple users to develop automation code, create readable action/keyword driven test cases and execute them all under a single Web interface.
 
 ## Performance and load testing
 * [k6](https://github.com/loadimpact/k6) - Like unit testing, for performance. A modern load testing tool, using Go and JavaScript.
