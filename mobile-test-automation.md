@@ -39,6 +39,7 @@ Also:
 ## Environment
 
 * [Hive CI](http://bbc.github.io/hive-ci/) is a CI system built around devices. Connect your physical devices to a hive and run your tests on the same platforms as your users
+* [STF](https://github.com/openstf/stf) - STF (or Smartphone Test Farm) is a web application for debugging smartphones, smartwatches and other gadgets remotely, from the comfort of your browser.
 
 # Resources
 Where to discover new libraries, information, tools, etc.
