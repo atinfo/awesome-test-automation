@@ -265,6 +265,7 @@ Libraries that may help you to build better test automation.
 * [PyPattyrn](https://github.com/tylerlaberge/PyPattyrn) - PyPattyrn is a python package aiming to make it easier and faster to implement design patterns into your own projects.
 * [Spyne](http://spyne.io/) - Spyne is a Python RPC toolkit that makes it easy to expose online services that have a well-defined API using multiple protocols and transports.
 * [Pexpect](https://pexpect.readthedocs.io/en/stable/) - Pexpect makes Python a better tool for controlling other applications.
+* [devtools-proxy](https://github.com/bayandin/devtools-proxy) - Proxy for Chrome DevTools. Fully compatible with Selenium and ChromeDriver
 
 # Resources
 Where to discover new libraries, information, tools, etc.
@@ -277,14 +278,14 @@ Where to discover new libraries, information, tools, etc.
 
 # Other Awesome Test Automation Lists
 
-* [python test automation](https://github.com/atinfo/awesome-test-automation/blob/master/python-test-automation.md) 
-* [java test automation](https://github.com/atinfo/awesome-test-automation/blob/master/java-test-automation.md) 
-* [ruby test automation](https://github.com/atinfo/awesome-test-automation/blob/master/ruby-test-automation.md) 
-* [c# test automation](https://github.com/atinfo/awesome-test-automation/blob/master/c%23-test-automation.md) 
-* [php test automation](https://github.com/atinfo/awesome-test-automation/blob/master/php-test-automation.md) 
-* [javascript test automation](https://github.com/atinfo/awesome-test-automation/blob/master/javascript-test-automation.md) 
-* [kotlin test automation](https://github.com/atinfo/awesome-test-automation/blob/master/kotlin-test-automation.md) 
-* [test automation and software testing as services](https://github.com/atinfo/awesome-test-automation/blob/master/automation-and-testing-as-service.md) 
+* [python test automation](https://github.com/atinfo/awesome-test-automation/blob/master/python-test-automation.md)
+* [java test automation](https://github.com/atinfo/awesome-test-automation/blob/master/java-test-automation.md)
+* [ruby test automation](https://github.com/atinfo/awesome-test-automation/blob/master/ruby-test-automation.md)
+* [c# test automation](https://github.com/atinfo/awesome-test-automation/blob/master/c%23-test-automation.md)
+* [php test automation](https://github.com/atinfo/awesome-test-automation/blob/master/php-test-automation.md)
+* [javascript test automation](https://github.com/atinfo/awesome-test-automation/blob/master/javascript-test-automation.md)
+* [kotlin test automation](https://github.com/atinfo/awesome-test-automation/blob/master/kotlin-test-automation.md)
+* [test automation and software testing as services](https://github.com/atinfo/awesome-test-automation/blob/master/automation-and-testing-as-service.md)
 * [mobile, tablet and tv test automation](https://github.com/atinfo/awesome-test-automation/blob/master/mobile-test-automation.md)
 * [general purpose test automation tools](https://github.com/atinfo/awesome-test-automation/blob/master/general-purpose-test-automation-tools.md)
 
