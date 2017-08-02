@@ -33,7 +33,7 @@ Also:
 
 ## Useful libs
 
-- 
+-
 
 # Resources
 
@@ -43,6 +43,8 @@ Also:
 
 * [automated-testing.info](http://automated-testing.info) - Test automation community
 * [atinfo.github.io/at.info-knowledge-base](http://atinfo.github.io/at.info-knowledge-base/)  - Knowledge base for test automation examples on different tools and technologies
+* [superkotlin.com](https://superkotlin.com/) - SuperKotlin is the website dedicated to the Kotlin language and its community. It contains tutorials, guides, reviews of libraries, interviews to developers.
+* [kotlin.link](https://kotlin.link/) - Kotlin awesome list
 
 # Other Awesome Test Automation Lists
 
