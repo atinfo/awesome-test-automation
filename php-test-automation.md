@@ -32,6 +32,7 @@ Also:
 ---
 
 ## xUnit frameworks
+
 * [PHPUnit](https://phpunit.de/) - Most known testing frameworks based on xUnit architecture. Full line coverage, pathc coverage, extended reports and even hhvm are pre-built.
 * [Atoum](https://github.com/atoum/atoum) - Lightweight PHP unit testing framework with simple report generation.
 
@@ -65,9 +66,8 @@ Simple tool that checks focblock presence
 * [PDepend](http://pdepend.org/) - Complex metrics analyzer
 * [PHP Lines Of Code](https://github.com/sebastianbergmann/phploc) - Project sizing analyzer
 
-[Contribute to this section](https://github.com/atinfo/awesome-test-automation/blob/master/CONTRIBUTING.md)
-
 ## Web UI test automation
+
 * [Facebook php-webdriver](https://github.com/facebook/php-webdriver) - Facebook supported PHP webdriver bindings
 * [Element-34 php-webdriver](https://github.com/facebook/php-webdriver) - Fork of Facebook PHP webdriver with  WebDriverWait implementation and available via PEAR
 * [BeHat's Mink](http://mink.behat.org/en/latest/) - An open source browser controller/emulator for web applications
@@ -105,6 +105,7 @@ Simple tool that checks focblock presence
 ## Continuous Integration
 
 * [PHPCI](https://www.phptesting.org/) - Free and open source continuous integration tool specifically designed for PHP.
+* [PHP Censor](https://github.com/php-censor/php-censor) - Open source self-hosted continuous integration server for PHP projects.
 * [Jenkins PHP project template](http://jenkins-php.org/) - The goal of this project is to provide a standard template for Jenkins jobs for PHP projects.
 
 ## Reporting
@@ -131,14 +132,14 @@ and [PHPUnit](https://github.com/allure-framework/allure-phpunit).
 violations correction
 
 # Resources
+
 Where to discover new libraries, information, tools, etc.
 
 ## Websites
 
 * [automated-testing.info](http://automated-testing.info) - Test automation community
 * [atinfo.github.io/at.info-knowledge-base](http://atinfo.github.io/at.info-knowledge-base/)  - Knowledge base for test automation examples on different tools and technologies
-* [PHP QA Toolchain](http://phpqatools.org/) -
-website with reference of most frequently used QA tools
+* [PHP QA Toolchain](http://phpqatools.org/) - website with reference of most frequently used QA tools
 
 # Other Awesome Test Automation Lists
 
