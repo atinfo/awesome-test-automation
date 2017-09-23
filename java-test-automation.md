@@ -190,6 +190,7 @@ Also:
 * [MockServer](http://www.mock-server.com/) can be used for mocking any system you integrate with via HTTP or HTTPS (i.e. services, web sites, etc).
 * [XMLUnit](http://www.xmlunit.org/) - testing and comparing XML output for Java and .NET
 * [Awaitility](https://github.com/awaitility/awaitility) - Awaitility is a DSL that allows you to express expectations of an asynchronous system in a concise and easy to read manner.
+* [Beanmother](https://github.com/keepcosmos/beanmother) - A library for setting up Java Bean as test data.
 
 # Resources
 * [Serenity BDD (Thucydides) libraries](http://thucydides.info/docs/thucydides-one-page/thucydides.html)
