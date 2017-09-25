@@ -119,9 +119,10 @@ run the C# tests just out of the box
 
 ## Documentation generation
 
-[Doxygen](http://www.stack.nl/~dimitri/doxygen/) is a free and open source documentation generation platform, that supports multiple languages. 
+* [Doxygen](http://www.stack.nl/~dimitri/doxygen/) is a free and open source documentation generation platform, that supports multiple languages. 
 You may write a standard C# XML documentation ― and Doxygen will process it correctly; Yo may use markdown and include images ― Doxygen can handle even more.
 Grab and modify this [Doxyfile for C#](https://github.com/dzharii/SWD.Starter/blob/master/Doxyfile)
+* [Wyam](https://wyam.io/) Static site generator with built-in capability to generate API documentation from .NET library metadata and XML documentation.
 
 ## Editors, IDE, consoles
 
