@@ -99,6 +99,7 @@ Also:
 * [robotframework-faker](https://github.com/guykisel/robotframework-faker) - Robot Framework wrapper for faker.
 * [hypothesis](https://github.com/DRMacIver/hypothesis) - Library for property based testing in Python, based on the Haskell library Quickcheck.
 * [factory_boy](https://github.com/FactoryBoy/factory_boy) - A fixtures replacement based on thoughtbot’s [factory_girl](https://github.com/thoughtbot/factory_girl).
+* [fauxfactory](https://github.com/omaciel/fauxfactory) - Random Data Generator
 
 ## Code analysis
 
@@ -135,6 +136,11 @@ Also:
     * [Needle](http://needle.readthedocs.org/en/latest/) - Needle is a tool for testing visuals with Selenium and nose. It checks that CSS renders correctly by taking screenshots of portions of a website and comparing them against known good screenshots. It also provides tools for testing calculated CSS values and the position of HTML elements.
     * [PyPOM](https://github.com/mozilla/PyPOM) - PyPOM is a Python Page Object Model library for Selenium and Splinter tests.
     * [POM](https://github.com/schipiga/pom) - POM is Page-Object-Model microframework to develop web UI tests easy, quickly and with pleasure.
+    * [websmith](https://github.com/omaciel/websmith) - A Domain Specific Language (DSL) for Web Testing.
+    * [pages](https://github.com/Skyscanner/pages) -  lightweight page object and component Python library for UI tests.
+    * [widgetastic](https://github.com/nextQE/widgetastic.core) - RedHat UI widget components framework
+    * [navmazing](https://github.com/nextQE/navmazing) - PageObjects based navigation from RedHat
+    * [nightwatch](https://github.com/nextQE/nightwatch) - UI Automated Testing Framework using Python and Selenium. Influenced by nightwatch.js
 - extensions
     * [webdriver_manager](https://github.com/SergeyPirogov/webdriver_manager) - The main idea is to simplify managemet of binary drivers for different browsers.
     * [pytest_splinter](https://github.com/pytest-dev/pytest-splinter) - pytest spinter and selenium integration for anyone interested in browser interaction in tests.
@@ -144,7 +150,6 @@ Also:
     * [pytractor](https://github.com/kpodl/pytractor) - Python selenium extensions for testing angular.js apps
     * [Selenium-Requests](https://github.com/cryzed/Selenium-Requests) - Extends Selenium WebDriver classes to include the request function from the Requests library, while doing all the needed cookie and request headers handling.
     * [selenium-respectful](https://github.com/SerpentAI/selenium-respectful) - Minimalist Selenium WebDriver wrapper to work within rate limits of any amount of websites simultaneously. Parallel processing friendly.
-
 ## Mobile test automation
 
 * [appium](http://appium.io/) - An open source test automation framework for use with native, hybrid and mobile web apps. It drives iOS and Android apps using the WebDriver protocol.
