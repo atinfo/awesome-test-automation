@@ -35,6 +35,7 @@ Also:
 
 * [PHPUnit](https://phpunit.de/) - Most known testing frameworks based on xUnit architecture. Full line coverage, pathc coverage, extended reports and even hhvm are pre-built.
 * [Atoum](https://github.com/atoum/atoum) - Lightweight PHP unit testing framework with simple report generation.
+* [Infection](https://infection.github.io/) - AST based PHP Mutation Testing Framework.
 
 ## Mock frameworks
 
