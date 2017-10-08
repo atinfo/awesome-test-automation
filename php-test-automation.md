@@ -107,6 +107,7 @@ Simple tool that checks focblock presence
 * [PHPCI](https://www.phptesting.org/) - Free and open source continuous integration tool specifically designed for PHP.
 * [PHP Censor](https://github.com/php-censor/php-censor) - Open source self-hosted continuous integration server for PHP projects.
 * [Jenkins PHP project template](http://jenkins-php.org/) - The goal of this project is to provide a standard template for Jenkins jobs for PHP projects.
+* [Sismo](https://sismo.symfony.com/) - Unlike more "advanced" Continuous Integration Servers (like Jenkins), Sismo does not try to do more than getting your code, running your tests, and send you notifications.
 
 ## Reporting
 
