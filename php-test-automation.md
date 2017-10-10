@@ -56,14 +56,10 @@ Also:
 
 ## Code analysis 
 
-* [PHP Mess Detector](http://phpmd.org/) - Static analysis tool that finds long
-method names, methods with excessive cyclomatic complexity, etc. 
-* [PHP Code Sniffer](https://github.com/squizlabs/PHP_CodeSniffer) - Standard/convention
-violation checker
-* [PHP Dead Code Detector](https://github.com/sebastianbergmann/phpdcd) - Unused
-code locator
-* [PHP DocBlock Checker](https://github.com/Block8/php-docblock-checker) -
-Simple tool that checks focblock presence
+* [PHP Mess Detector](http://phpmd.org/) - Static analysis tool that finds long method names, methods with excessive cyclomatic complexity, etc. 
+* [PHP Code Sniffer](https://github.com/squizlabs/PHP_CodeSniffer) - Standard/convention violation checker
+* [PHP Dead Code Detector](https://github.com/sebastianbergmann/phpdcd) - Unused code locator
+* [PHP DocBlock Checker](https://github.com/Block8/php-docblock-checker) - Simple tool that checks focblock presence
 * [PHP Parallel Lint](https://github.com/JakubOnderka/PHP-Parallel-Lint) - Simple lint checker
 * [PDepend](http://pdepend.org/) - Complex metrics analyzer
 * [PHP Lines Of Code](https://github.com/sebastianbergmann/phploc) - Project sizing analyzer
@@ -93,8 +89,8 @@ Simple tool that checks focblock presence
 
 ## Virtual environments
 
-* [Vagrant](https://vagrantup.com) - configuration-driven virtual machines
-* [Docker](https://www.docker.com/) - ultimate containerization tool 
+* [Vagrant](https://vagrantup.com) - Configuration-driven virtual machines
+* [Docker](https://www.docker.com/) - Ultimate containerization tool 
 
 ## Performance & stress & load
 
@@ -102,7 +98,9 @@ Simple tool that checks focblock presence
 
 ## Security checking
 
-[Contribute to this section](https://github.com/atinfo/awesome-test-automation/blob/master/CONTRIBUTING.md)
+* [SensioLabs Security Checker](https://github.com/sensiolabs/security-checker) - Command line tool that checks if 
+your application uses dependencies with known security vulnerabilities. It uses the [SensioLabs Security Check Web 
+service](http://security.sensiolabs.org/) and the [Security Advisories Database](https://github.com/FriendsOfPHP/security-advisories).
 
 ## Continuous Integration
 
@@ -130,8 +128,7 @@ and [PHPUnit](https://github.com/allure-framework/allure-phpunit).
 
 ## Useful libs
 
-* [PHP CS Fixer](http://cs.sensiolabs.org/) - tool for automatic convention
-violations correction
+* [PHP CS Fixer](http://cs.sensiolabs.org/) - tool for automatic convention violations correction
 
 # Resources
 
