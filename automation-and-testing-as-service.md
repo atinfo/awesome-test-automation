@@ -28,6 +28,7 @@ Also:
 * [CrossBrowserTesting](https://crossbrowsertesting.com/) Another one cloud platform for automated testing of web applications. Provides a wide range of browsers, systems and more. 
 * [TestAnywhere](https://testanywhere.co/) - Test Anywhere is a cloud service that helps test your website or web application continuously and catch bugs in the early stages
 * [Assertible](https://assertible.com/) - Assertible is an API and website testing service for teams and individuals. Create tests for your business logic, run them on a schedule or after deployments, and get alerted of failures as they occur.
+* [Mailosaur](https://mailosaur.com/) - Allows you to automate email testing. Perform end-to-end tests on password reset, email verification and any area where you send email.
 
 ## Mobile test automation
 * [Hive CI](http://bbc.github.io/hive-ci/) is a CI system built around devices. Connect your physical devices to a hive and run your tests on the same platforms as your users
