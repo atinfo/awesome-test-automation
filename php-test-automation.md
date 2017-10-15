@@ -70,6 +70,7 @@ Also:
 * [Element-34 php-webdriver](https://github.com/facebook/php-webdriver) - Fork of Facebook PHP webdriver with  WebDriverWait implementation and available via PEAR
 * [BeHat's Mink](http://mink.behat.org/en/latest/) - An open source browser controller/emulator for web applications
 * [saunter.php](https://github.com/Element-34/saunter.php) - Selenium Page Objects implementation in PHP
+* [Mailosaur](https://github.com/mailosaur/mailosaur-php) - PHP client for email testing/automation via Mailosaur.
    
 ## Mobile test automation
 
