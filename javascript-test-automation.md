@@ -83,6 +83,7 @@ No dependencies, works with any unit testing framework.
 * [Lambdium](https://github.com/smithclay/lambdium) - Deployments on AWS Lambda using Selenium WebDriver. This is a very interesting proposition, because for the existing large Selenium code base in market, it has the potential for very easy migration to this tool.
 * [GhostJS](https://github.com/KevinGrandon/ghostjs) - Interesting project base on modern JavaScript that works on a multitude of browsers such as Chrome, Firefox, PhantomJS, plus expressive API. Released some time back, development seems to be picking up speed.
 * [CasperJS](http://casperjs.org/) - CasperJS is a navigation scripting & testing utility for PhantomJS and SlimerJS (still experimental). It eases the process of defining a full navigation scenario and provides useful high-level functions, methods & syntactic sugar for doing common tasks
+* [Mailosaur](https://github.com/mailosaur/mailosaur-node) - Node.js client for email testing/automation via Mailosaur.
 
 ## Mobile test automation
 * [WebdriverIO's Appium implementation](http://webdriver.io/api/appium/backgroundApp.html) - nodejs bindings implemeting Appium commands.

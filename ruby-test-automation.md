@@ -95,6 +95,7 @@ Also:
     * [widgeon](https://github.com/yashaka/widgeon) - Yet another 'page objects for Capybara' gem with ability to create custom loadable elements akka 'widgets'
 - extensions
     * [Selenium-Grid-Extras](https://github.com/groupon/Selenium-Grid-Extras) - Simplify the managment of the Selenium Grid Nodes and stabilize said nodes by cleaning up the test environment after the build has been completed
+    * [Mailosaur](https://github.com/mailosaur/mailosaur-ruby) - Ruby client for email testing/automation via Mailosaur.
 
 ## Mobile test automation
 
