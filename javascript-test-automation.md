@@ -46,7 +46,7 @@ Also:
 - BDD
     * [CucumberJS](https://github.com/cucumber/cucumber-js) - Cucumber is a tool for running automated tests written in plain language. Cucumber.js is the JavaScript implementation of Cucumber and runs on both Node.js and modern web browsers.
 - Runners
-    * [AVA](https://github.com/avajs/ava) - 🚀 A test runner
+    * [AVA](https://github.com/avajs/ava) - 🚀 A test runner which takes advantage of NodeJS's asynchronous nature to parallelize IO, and run tests concurrently.
     * [Jest](https://facebook.github.io/jest/) - Jest is used by Facebook to test all JavaScript code including React applications. One of Jest's philosophies is to provide an integrated "zero-configuration" experience. We observed that when engineers are provided with ready-to-use tools, they end up writing more tests, which in turn results in more stable and healthy code bases.
     * [Karma](http://karma-runner.github.io/1.0/index.html) - test runner for making TDD much easier by pre-build test environments.
     * [Wallaby.js](https://wallabyjs.com/) - Wallaby.js runs your JavaScript tests immediately as you type and displays execution results in your code editor. It also provides live test execution and code coverage reports.
