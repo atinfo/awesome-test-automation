@@ -35,6 +35,7 @@ Also:
 
 * [PHPUnit](https://phpunit.de/) - Most known testing frameworks based on xUnit architecture. Full line coverage, pathc coverage, extended reports and even hhvm are pre-built.
 * [Atoum](https://github.com/atoum/atoum) - Lightweight PHP unit testing framework with simple report generation.
+* [Infection](https://infection.github.io/) - AST based PHP Mutation Testing Framework.
 
 ## Mock frameworks
 
@@ -51,17 +52,14 @@ Also:
 - BDD
     * [Behat](https://github.com/Behat/Behat) - BDD framework for PHP to help you test business expectations.
     * [Codeception](http://codeception.com) - BDD-styled PHP testing framework; Selenium WebDriver integration, Symfony2, Laravel4, Yii, Phalcon, Zend Framework support; PageObjects and StepObjects included, BDD-style readable tests, powered by PHPUnit, API testing: REST,SOAP,XML-RPC; Facebook API testing; Data Cleanup; HTML, XML, TAP, JSON reports; CodeCoverage and Remote CodeCoverage; Parallel Execution, etc
+    * [phpspec](http://www.phpspec.net/en/stable/) - Tool which can help you write clean and working PHP code using behaviour driven development or BDD.
 
 ## Code analysis 
 
-* [PHP Mess Detector](http://phpmd.org/) - Static analysis tool that finds long
-method names, methods with excessive cyclomatic complexity, etc. 
-* [PHP Code Sniffer](https://github.com/squizlabs/PHP_CodeSniffer) - Standard/convention
-violation checker
-* [PHP Dead Code Detector](https://github.com/sebastianbergmann/phpdcd) - Unused
-code locator
-* [PHP DocBlock Checker](https://github.com/Block8/php-docblock-checker) -
-Simple tool that checks focblock presence
+* [PHP Mess Detector](http://phpmd.org/) - Static analysis tool that finds long method names, methods with excessive cyclomatic complexity, etc. 
+* [PHP Code Sniffer](https://github.com/squizlabs/PHP_CodeSniffer) - Standard/convention violation checker
+* [PHP Dead Code Detector](https://github.com/sebastianbergmann/phpdcd) - Unused code locator
+* [PHP DocBlock Checker](https://github.com/Block8/php-docblock-checker) - Simple tool that checks focblock presence
 * [PHP Parallel Lint](https://github.com/JakubOnderka/PHP-Parallel-Lint) - Simple lint checker
 * [PDepend](http://pdepend.org/) - Complex metrics analyzer
 * [PHP Lines Of Code](https://github.com/sebastianbergmann/phploc) - Project sizing analyzer
@@ -72,6 +70,7 @@ Simple tool that checks focblock presence
 * [Element-34 php-webdriver](https://github.com/facebook/php-webdriver) - Fork of Facebook PHP webdriver with  WebDriverWait implementation and available via PEAR
 * [BeHat's Mink](http://mink.behat.org/en/latest/) - An open source browser controller/emulator for web applications
 * [saunter.php](https://github.com/Element-34/saunter.php) - Selenium Page Objects implementation in PHP
+* [Mailosaur](https://github.com/mailosaur/mailosaur-php) - PHP client for email testing/automation via Mailosaur.
    
 ## Mobile test automation
 
@@ -91,8 +90,8 @@ Simple tool that checks focblock presence
 
 ## Virtual environments
 
-* [Vagrant](https://vagrantup.com) - configuration-driven virtual machines
-* [Docker](https://www.docker.com/) - ultimate containerization tool 
+* [Vagrant](https://vagrantup.com) - Configuration-driven virtual machines
+* [Docker](https://www.docker.com/) - Ultimate containerization tool 
 
 ## Performance & stress & load
 
@@ -100,13 +99,16 @@ Simple tool that checks focblock presence
 
 ## Security checking
 
-[Contribute to this section](https://github.com/atinfo/awesome-test-automation/blob/master/CONTRIBUTING.md)
+* [SensioLabs Security Checker](https://github.com/sensiolabs/security-checker) - Command line tool that checks if 
+your application uses dependencies with known security vulnerabilities. It uses the [SensioLabs Security Check Web 
+service](http://security.sensiolabs.org/) and the [Security Advisories Database](https://github.com/FriendsOfPHP/security-advisories).
 
 ## Continuous Integration
 
 * [PHPCI](https://www.phptesting.org/) - Free and open source continuous integration tool specifically designed for PHP.
 * [PHP Censor](https://github.com/php-censor/php-censor) - Open source self-hosted continuous integration server for PHP projects.
 * [Jenkins PHP project template](http://jenkins-php.org/) - The goal of this project is to provide a standard template for Jenkins jobs for PHP projects.
+* [Sismo](https://sismo.symfony.com/) - Unlike more "advanced" Continuous Integration Servers (like Jenkins), Sismo does not try to do more than getting your code, running your tests, and send you notifications.
 
 ## Reporting
 
@@ -128,8 +130,7 @@ and [PHPUnit](https://github.com/allure-framework/allure-phpunit).
 
 ## Useful libs
 
-* [PHP CS Fixer](http://cs.sensiolabs.org/) - tool for automatic convention
-violations correction
+* [PHP CS Fixer](http://cs.sensiolabs.org/) - tool for automatic convention violations correction
 
 # Resources
 
