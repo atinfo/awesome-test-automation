@@ -61,7 +61,7 @@ Also:
 
 ## Code analysis
 
-[Contribute to this section](https://github.com/atinfo/awesome-test-automation/blob/master/CONTRIBUTING.md)
+* [Rubocop](https://github.com/bbatsov/rubocop) - A Ruby static code analyzer, based on the community Ruby style guide.
 
 ## Test data
 
@@ -93,6 +93,7 @@ Also:
     * [page-object](https://github.com/cheezy/page-object) - Gem to implement PageObject pattern in watir-webdriver and selenium-webdriver.
     * [watirsome](https://github.com/p0deje/watirsome) - Awesome page objects with Watir.
     * [widgeon](https://github.com/yashaka/widgeon) - Yet another 'page objects for Capybara' gem with ability to create custom loadable elements akka 'widgets'
+    * [Site Prism](https://github.com/natritmeyer/site_prism) - A Page Object Model DSL for Capybara
 - extensions
     * [Selenium-Grid-Extras](https://github.com/groupon/Selenium-Grid-Extras) - Simplify the managment of the Selenium Grid Nodes and stabilize said nodes by cleaning up the test environment after the build has been completed
 
