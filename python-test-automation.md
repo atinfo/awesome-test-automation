@@ -226,6 +226,7 @@ Also:
 
 ## Reporting
 
+* [ReportPortal.io](http://ReportPortal.io) - [pytest, RobotFramework, etc.](https://github.com/reportportal?utf8=✓&q=agent-python) powerfull results management and analytics for test automation reports. Powered with Machine Learning. Real-time integration and reports, visualization of trends and statistics, custom dashboards and widgets, gives you real visibility into the state of test automation. Integral part of CI/CD with TA and Continous Testing. Server-client application, can be used for any type of automated tests. Free and OpenSourced, [GitHub link](https://github.com/reportportal).
 * [allure pytest](https://github.com/allure-framework/allure-python) - Allure adapter for PyTest framework.
 * [HTMLTestRunner](http://tungwaiyip.info/software/HTMLTestRunner.html) - An extension to the Python standard library's unittest module. It generates easy to use HTML test reports.
 * [unittest-xml-reporting](https://github.com/xmlrunner/unittest-xml-reporting) - A unittest test runner that can save test results to XML files that can be consumed by a wide range of tools, such as build systems, IDEs and continuous integration servers.
