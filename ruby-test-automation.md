@@ -133,7 +133,7 @@ Also:
 
 ## Reporting
 
-[Contribute to this section](https://github.com/atinfo/awesome-test-automation/blob/master/CONTRIBUTING.md)
+* [ReportPortal.io](http://ReportPortal.io) - [Ruby Cucumber + RSpec](https://github.com/reportportal?utf8=✓&q=agent-ruby&type=&language=) powerfull results management and analytics for test automation reports. Powered with Machine Learning. Real-time integration and reports, visualization of trends and statistics, custom dashboards and widgets, gives you real visibility into the state of test automation. Integral part of CI/CD with TA and Continous Testing. Server-client application, can be used for any type of automated tests. Free and OpenSourced, [GitHub link](https://github.com/reportportal).
 
 ## Documentation generation
 
