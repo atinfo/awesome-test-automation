@@ -112,6 +112,7 @@ service](http://security.sensiolabs.org/) and the [Security Advisories Database]
 
 ## Reporting
 
+* [ReportPortal.io](http://ReportPortal.io) - [BeHat](https://github.com/reportportal/agent-php-Behat) powerfull results management and analytics for test automation reports. Powered with Machine Learning. Real-time integration and reports, visualization of trends and statistics, custom dashboards and widgets, gives you real visibility into the state of test automation. Integral part of CI/CD with TA and Continous Testing. Server-client application, can be used for any type of automated tests. Free and OpenSourced, [GitHub link](https://github.com/reportportal).
 * [Allure Framework](http://allure.qatools.ru/) - Allure Framework is a framework that provides rich and
 beautiful reports with extended possibilities like screenshot capturing. Allure
 provides plugins for [Codeception](https://github.com/allure-framework/allure-codeception)
