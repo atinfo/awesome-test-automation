@@ -122,6 +122,7 @@ No dependencies, works with any unit testing framework.
 * [Grunt](https://gruntjs.com/) - Streaming building system/task runner in nodejs. Can't do anything without plugins, but there are many of them for all kinds of purposes.
 
 ## Reporting
+* [ReportPortal.io](http://ReportPortal.io) - powerfull results management and analytics for test automation reports. Powered with Machine Learning. Real-time integration and reports, visualization of trends and statistics, custom dashboards and widgets, gives you real visibility into the state of test automation. Integral part of CI/CD with TA and Continous Testing. Server-client application, can be used for any type of automated tests, with huge list of [available integrations](https://github.com/reportportal?utf8=✓&q=agent-). Free and OpenSourced, [GitHub link](https://github.com/reportportal).
 * [Istanbul](https://github.com/gotwarlost/istanbul) - JS coverage tool for unit tests, server side functional tests and browser tests.
 * [Blanket](http://blanketjs.org/) - JavaScript code coverage library that works both in-browser and with nodejs.
 * [Mochawesome](https://github.com/adamgruber/mochawesome) - reporter for Mocha that generates a full fledged HTML/CSS report that helps visualize your test suites
