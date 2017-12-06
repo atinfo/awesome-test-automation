@@ -33,9 +33,9 @@ Also:
 
 ## xUnit frameworks
 
-* [NUnit](http://www.nunit.org/) ― The most known, extensible and portable(yes, you can run your tests on Mono for Linux and Mac) unit-testing framework in the .Net world. It comes with descent test adapters for Visual Studio 2013 - ... as well as standalone GUI and command line runners
-* [MSTest** (Visual Studio Test)](http://en.wikipedia.org/wiki/Visual_Studio_Unit_Testing_Framework) ― the most conservative and slow evolving unit testing framework with only one good thing: it is built-in to the Visual Studio. So, you can always rely it is there.
-* [xUnit](http://xunit.github.io/) ― the "bleeding edge" unit testing framework, beloved by many developers, even from Microsoft. This is community based open source project, written by the original inventor of NUnit 2.0 
+* [NUnit](https://github.com/nunit/nunit) ― The most known, extensible and portable(yes, you can run your tests on Mono for Linux and Mac) unit-testing framework in the .Net world. It comes with descent test adapters for Visual Studio 2013 - ... as well as standalone GUI and command line runners
+* [MSTest (Visual Studio Test)](https://docs.microsoft.com/en-us/dotnet/core/testing/unit-testing-with-mstest) ― the most conservative and slow evolving unit testing framework with only one good thing: it is built-in to the Visual Studio. So, you can always rely it is there.
+* [xUnit](https://github.com/xunit/xunit) ― the "bleeding edge" unit testing framework, beloved by many developers, even from Microsoft. This is community based open source project, written by the original inventor of NUnit 2.0 
 * [Gallio Icarus and MbUnit](https://code.google.com/p/mb-unit/) ― the most feature reach Test Runner, Test Reporter and Unit testing framework. It is still popular in many .NET shops, especially for running Selenium WebDriver UI tests... Unfortunately, it is not being maintained since 2012. :skull:
 
 ## TDD \ ATDD \ BDD
@@ -44,13 +44,15 @@ Also:
 string actual = "ABCDEFGHI";
 actual.Should().StartWith("AB").And.EndWith("HI").And.Contain("EF").And.HaveLength(9);
 ```
-* [Specflow](http://www.specflow.org/) ― the most popular and feature reach "Cucumber for .NET": BDD and Keywork-driven testing Editor, Runner and Reporter.
-* [BDDfy](http://docs.teststack.net/bddfy/)  is the simplest BDD framework for .Net EVER! The name comes from the fact that it allows you to turn your tests into BDD behaviors simply.
+* [SpecFlow](http://www.specflow.org/) ―  A pragmatic BDD solution for .NET. It uses the Gherkin specification language and integrates to Visual Studio.
+* [SpecFlow.Selenium.Plugin](https://github.com/unickq/SpecFlow.Selenium.Plugin) ― SpecFlow plugin for Selenium instances generation over tags. Cucumber for dotnet
+* [BDDfy](http://docs.teststack.net/bddfy/) - The simplest BDD framework for .Net EVER! The name comes from the fact that it allows you to turn your tests into BDD behaviors simply. 
 
 ## Code analysis 
 
 * [NCover](https://www.ncover.com/) ― really good code coverage tool, but $$
 * [OpenCover](https://github.com/OpenCover/opencover) is a code coverage tool for .NET 2 and above, support for 32 and 64 processes with both branch and sequence points
+* [NCrunch](http://www.ncrunch.net/) - an automated concurrent testing tool for Visual Studio.
 * See also: [Code Coverage for C#/.NET](http://stackoverflow.com/questions/276829/code-coverage-for-c-net)
 
 ## Web UI test automation
@@ -77,10 +79,11 @@ technology on Windows Phone, iOS and Android
 * [Winium.Cruciatus](https://github.com/2gis/Winium.Cruciatus) is an open source C# Framework for automated testing of Windows application based on WinForms and WPF platforms.
 * [Teststack White](https://github.com/TestStack/White) is one of the most popular and stable open source UI test automation library 
   for Windows (WinAPI / WPF / Silverlight / Windows Forms).
-* Coded UI ($$$) does a pretty good job for Windows UI automation. Pricey... because it comes with Visual Studio Premium and Ultimate.  
+* Coded UI ($$$) does a pretty good job for Windows UI automation. Pricey... because it comes with Visual Studio Premium and Ultimate.
+* [Cutie](https://github.com/icnocop/cuite) - CUITe (Coded UI Test enhanced) Framework is a thin layer developed on top of Microsoft Visual Studio Team Test's Coded UI 
 * [AutoIt (COM bindings)](https://www.autoitscript.com/autoit3/docs/intro/ComRef.htm) ― since it implements COM+ interface, autoit can be available from any language on windows, including C#.
 * [WebAii Testing Framework](http://www.telerik.com/teststudio/testing-framework) - Framework for cross-browser testing with native support for Telerik UI for ASP.NET AJAX, Silverlight, WPF, HTML5 and XAML applications, etc.
-* [FlaUI](https://github.com/Roemer/FlaUI) UI automation library for .Net. Rewritten White with UIA3, UIA2, MSAA support
+* [FlaUI](https://github.com/Roemer/FlaUI) - UI automation library for .Net. Rewritten White with UIA3, UIA2, MSAA support
 * [Windows Application Driver](https://github.com/Microsoft/WinAppDriver) - Windows Application Driver is a service to support UI Test Automation of Windows Applications. The service design subscribes to the Mobile JSON Wire Protocol standard.
 
 
@@ -105,7 +108,7 @@ technology on Windows Phone, iOS and Android
     4. Use `msdeploy` from [Web Deploy Toolkit](http://www.iis.net/downloads/microsoft/web-deploy) in order to perform the remote 
        deployment and configuration tasks.
        
-* [Teamcity](https://www.jetbrains.com/teamcity/) is a free and simple Build and Continuous integration server. You can 
+* [TeamCity](https://www.jetbrains.com/teamcity/) is a free and simple Build and Continuous integration server. You can 
 run the C# tests just out of the box
 * [Team Foundation Server] ― well... the marketing guys say that it can also build something for you
 
@@ -113,10 +116,12 @@ run the C# tests just out of the box
 
 ## Reporting
 
+* [Allure](https://github.com/allure-framework/allure-csharp) - An open-source reporting library for test automation (NUnit 2 and MSTest adapters).
+* [Allure SpecFlow](https://github.com/allure-framework/allure-csharp/tree/master/Allure.SpecFlowPlugin) - Allure SpecFlow Plugin
+* [Allure NUnit](https://github.com/unickq/allure-nunit) - Allure NUnit plugin
+* [ReportPortal](http://reportportal.io/) - Full-featured result management tool for clients, managers & test automation engineers (NUnit 2, Nunit 3 and SpecFlow adapters).
 * [ExtentReports](http://extentreports.relevantcodes.com) - An open-source reporting library for test automation.
 * [GHPReporter](http://ghpreporter.github.io/) - An open-source .NET test reporting tool for several testing frameworks (supports NUnit 3, MSTest and SpecFlow).
-* [Allure](http://allure.qatools.ru) - An open-source reporting library for test automation (NUnit 2 and MSTest adapters).
-* [ReportPortal](http://reportportal.io/) - Full-featured result management tool for clients, managers & test automation engineers (NUnit 2, Nunit 3 and SpecFlow adapters).
 
 ## Documentation generation
 
