@@ -9,7 +9,7 @@ Table of content:
 - [Functional Testing](#functional-testing)
 - [Performance and load testing](#performance-and-load-testing)
 - [Security testing](#security-testing)
-- [REST API testing](#rest-api-testing)
+- [REST API testing](#api-testing)
 - [Test design](#test-design)
 
 Also:
@@ -39,6 +39,7 @@ Also:
 * [SoapUI](https://www.soapui.org/) - SoapUI is an open-source web service testing application for service-oriented architectures (SOA) and REST. Its functionality covers web service inspection, invoking, development, simulation and mocking, functional testing, load and compliance testing.
 * [Rapise](https://www.inflectra.com/Rapise/) - Rapise is GUI based tool. Rapise's unique Learn and Go testing method is much more time efficient than traditional record-and-playback processes. 
 * [Restlet Client](https://chrome.google.com/webstore/detail/restlet-client-rest-api-t/aejoelaoggembcahagimdiliamlcdmfm) - Restlet Client (formerly known as DHC) allows you to interact with REST services. It brings many different features that make your user experience better, save you precious time when debugging HTTP calls or sharing your requests with others.
+* [Beeceptor](https://beeceptor.com) - Beeceptor is an HTTP proxy for intercepting and mocking API calls selectively. E.g. assume api 'A' has a downstream api 'B', how do simulate B's responses for validating 'A'. Beeceptor also helps in performance testing 'A' by mocking all calls of 'B' and not impacting downstream services.
 
 ## Performance and load testing
 * [k6](https://github.com/loadimpact/k6) - Like unit testing, for performance. A modern load testing tool, using Go and JavaScript.
