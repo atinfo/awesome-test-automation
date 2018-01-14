@@ -62,11 +62,12 @@ Also:
 ## Code analysis
 
 * [Rubocop](https://github.com/bbatsov/rubocop) - A Ruby static code analyzer, based on the community Ruby style guide.
+* [Pronto](https://github.com/prontolabs/pronto) - Quick automated code review of your changes.
 
 ## Test data
 
 * [Fabrication](http://fabricationgem.org/) - A simple and powerful object generation library.
-* [factory_girl](https://github.com/thoughtbot/factory_girl) - A library for setting up Ruby objects as test data.
+* [factory_bot](https://github.com/thoughtbot/factory_bot) - A library for setting up Ruby objects as test data.
 * [Fake Person](https://github.com/adamcooke/fake-person) - Uses some of the most popular given & surnames in the US & UK.
 * [faker](https://github.com/stympy/faker) - A library for generating fake data such as names, addresses, and phone numbers.
 * [ffaker](https://github.com/EmmanuelOga/ffaker) - A faster Faker, generates dummy data, rewrite of faker.
@@ -117,7 +118,8 @@ Also:
 ## Virtual environments
 
 * [RVM](https://rvm.io/) - Ruby Version Manager (RVM) is a unix command-line tool which allows you to easily install, manage, and work with multiple ruby environments from interpreters to sets of gems.
-* [Pik](http://rubyinstaller.org/add-ons/pik/) - Multi-Ruby Manager for Windows
+* [Pik](http://rubyinstaller.org/add-ons/pik/) - Multi-Ruby Manager for Windows.
+* [rbenv](http://rbenv.org/) - Use rbenv to pick a Ruby version for your application and guarantee that your development environment matches production.
 
 ## Performance & stress & load
 
@@ -125,7 +127,8 @@ Also:
 
 ## Security checking
 
-[Contribute to this section](https://github.com/atinfo/awesome-test-automation/blob/master/CONTRIBUTING.md)
+* [Brakeman](https://brakemanscanner.org/) - Static analysis security scanner for Ruby on Rails.
+* [bundle-audit](https://github.com/rubysec/bundler-audit) - Patch-level verification for bundler. Checks for vulnerable gems.
 
 ## Continuous Integration
 
