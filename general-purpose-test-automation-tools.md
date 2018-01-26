@@ -40,9 +40,11 @@ Also:
 * [Rapise](https://www.inflectra.com/Rapise/) - Rapise is GUI based tool. Rapise's unique Learn and Go testing method is much more time efficient than traditional record-and-playback processes. 
 * [Restlet Client](https://chrome.google.com/webstore/detail/restlet-client-rest-api-t/aejoelaoggembcahagimdiliamlcdmfm) - Restlet Client (formerly known as DHC) allows you to interact with REST services. It brings many different features that make your user experience better, save you precious time when debugging HTTP calls or sharing your requests with others.
 * [Beeceptor](https://beeceptor.com) - Beeceptor is an HTTP proxy for intercepting and mocking API calls selectively. E.g. assume api 'A' has a downstream api 'B', how do simulate B's responses for validating 'A'. Beeceptor also helps in performance testing 'A' by mocking all calls of 'B' and not impacting downstream services.
+* [Swagger](https://swagger.io/) - Swagger is the open-source framework of API developer tools for the OpenAPI Specification(OAS), enabling development across the entire API lifecycle, from design and documentation, to test and deployment. 
 
 ## Performance and load testing
 * [k6](https://github.com/loadimpact/k6) - Like unit testing, for performance. A modern load testing tool, using Go and JavaScript.
+* [LoadComplete](https://smartbear.com/product/loadcomplete/overview/) - LoadComplete is a desktop tool for load, stress, scalability testing of websites and web applications. Designed from the ground-up to help you focus on the tasks at hand, it does not require advanced programming skills. It works with both traditional HTML web sites and with Rich Internet Applications using modern web technologies like AJAX, ASP.NET, Java, Flash, Flex and Silverlight. The licensing policy is based on the number of virtual users required for the load testing.
 
 ## Security testing
 
