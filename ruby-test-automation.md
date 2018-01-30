@@ -86,7 +86,7 @@ Also:
     * [PhantomJS](http://phantomjs.org/) - is a headless WebKit scriptable with a JavaScript API. It has fast and native support for various web standards: DOM handling, CSS selector, JSON, Canvas, and SVG.
     * [unobtainium](https://github.com/jfinkhaeuser/unobtainium) - configuration driven wrapper for Selenium WebDriver and [appium](http://appium.io/), with PhantomJS support.
 - frameworks
-    * [Capybara](http://jnicklas.github.io/capybara) - Acceptance test framework for web applications.
+    * [Capybara](https://github.com/teamcapybara/capybara) - Acceptance test framework for web applications.
     * [Konacha](https://github.com/jfirebaugh/konacha) - Test your Rails application's JavaScript with the mocha test framework and chai assertion library.
     * [chemistrykit](https://github.com/chemistrykit/chemistrykit) - Simple and opinionated web testing framework for Selenium WebDriver that follows convention over configuration and integrates with SauceLabs for cross-browser execution in the cloud.
     * [howitzer](https://github.com/strongqa/howitzer) - is a Ruby-based framework for acceptance testing. It was originally developed for testing web applications, but you can also use it for API testing and web service testing.The framework was built with modern patterns, techniques, and tools in automated testing.
