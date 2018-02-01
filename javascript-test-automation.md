@@ -8,6 +8,7 @@ Table of content:
 
 - [xUnit frameworks](#xunit-frameworks)
 - [TDD \ ATTD \ BDD](#tdd--atdd--bdd)
+- [Mock frameworks](#mock-frameworks)
 - [Code Analysis](#code-analysis)
 - [Web UI test automation](#web-ui-test-automation)
 - [Mobile test automation](#mobile-test-automation)
@@ -56,6 +57,7 @@ Also:
 No dependencies, works with any unit testing framework.
 * [JSMockito](http://jsmockito.org/) - JsMockito is a JavaScript stub/mock framework heavily inspired by java's Mockito.
 * [apimocker](https://github.com/gstroup/apimocker) - This is a node.js module to run a simple http server, which can serve up mock service responses. Responses can be JSON or XML to simulate REST or SOAP services.
+* [rewire](https://github.com/jhnns/rewire) - Easy monkey-patching lib for `node.js` unit tests, which allows to inject mocks for other modules or globals like `process`, inspect private variables, override variables within the module.
 
 ## Code analysis
 * [ESLint](http://eslint.org/) - Pluggable JavaScript linting tool. Custom rules can be added to extend the existing functionality.
