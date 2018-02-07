@@ -27,6 +27,7 @@ Table of content:
 - [Editors, IDE and consoles](#editors-ide-consoles)
 - [ORM frameworks and libraries](#orm-frameworks-and-libraries)
 - [Useful libs](#useful-libs)
+- [Test Data](#test-data)
 
 Also:
 
@@ -194,6 +195,9 @@ Also:
 * [XMLUnit](http://www.xmlunit.org/) - testing and comparing XML output for Java and .NET
 * [Awaitility](https://github.com/awaitility/awaitility) - Awaitility is a DSL that allows you to express expectations of an asynchronous system in a concise and easy to read manner.
 * [Beanmother](https://github.com/keepcosmos/beanmother) - A library for setting up Java Bean as test data.
+
+## Test Data
+* [Faker](https://github.com/DiUS/java-faker) - Java implementation of Faker, a library for generating fake data such as names, addresses, and phone numbers.
 
 # Resources
 * [Serenity BDD (Thucydides) libraries](http://thucydides.info/docs/thucydides-one-page/thucydides.html)
