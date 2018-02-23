@@ -172,6 +172,7 @@ Also:
 * [UISoup](https://pypi.python.org/pypi/UISoup/) - This library supports UI-related testing using Python on Windows and Mac OS. (Only Python x86 is supported)
 * [pywinauto](http://pywinauto.github.io/) - Very pythonic object-oriented Windows GUI automation library. Now it supports 64-bit Py2 and Py3.
 * [SikuliX](http://sikulix.com/) - OpenCV based GUI test framework that uses image recognision to locate item to interact with, script from python 2.7.
+* [AutoItDriverServer](https://github.com/daluu/AutoItDriverServer) - Selenium server to control/drive AutoIt via (Remote)WebDriver API.
 
 ## Unix \ Linux UI test automation
 
