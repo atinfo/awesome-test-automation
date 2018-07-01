@@ -11,6 +11,7 @@ Table of content:
 - [Mock frameworks](#mock-frameworks)
 - [Code Analysis](#code-analysis)
 - [Web UI test automation](#web-ui-test-automation)
+- [API automation](#api-automation)
 - [Mobile test automation](#mobile-test-automation)
 - [Windows UI test automation](#windows-ui-test-automation)
 - [Unix \ Linux UI test automation](#unix--linux-ui-test-automation)
@@ -89,6 +90,9 @@ No dependencies, works with any unit testing framework.
 * [Mailosaur](https://github.com/mailosaur/mailosaur-node) - Node.js client for email testing/automation via Mailosaur.
 * [Cypress.io](https://github.com/cypress-io/cypress) - Fast, easy and reliable testing for anything that runs in a browser. Runs on Mac, Linux, Windows and any CI.
 * [Differencify](https://github.com/NimaSoroush/differencify) - A library for visual regression testing using [Puppeteer](https://github.com/GoogleChrome/puppeteer).
+
+## API automation
+* [Just-API](https://github.com/kiranz/just-api) - Declarative testing framework for REST, GraphQL APIs.
 
 ## Mobile test automation
 * [WebdriverIO's Appium implementation](http://webdriver.io/api/appium/backgroundApp.html) - nodejs bindings implemeting Appium commands.
