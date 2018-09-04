@@ -52,6 +52,8 @@ Also:
     * [Jest](https://facebook.github.io/jest/) - Jest is used by Facebook to test all JavaScript code including React applications. One of Jest's philosophies is to provide an integrated "zero-configuration" experience. We observed that when engineers are provided with ready-to-use tools, they end up writing more tests, which in turn results in more stable and healthy code bases.
     * [GlaceJS](https://glacejs.github.io/glace-core) - quick-start functional testing framework based on [mocha](http://mochajs.org/) and extensible with [plugins](https://github.com/glacejs).
     * [Apickli](https://github.com/apickli/apickli) - REST API integration testing framework based on cucumber.js
+    * [Mocha Parallel Tests](https://github.com/mocha-parallel/mocha-parallel-tests) - mocha-parallel-tests is a test runner for tests written with mocha testing framework which allows you to run them in parallel.
+    
 
 ## Mock frameworks
 * [Sinon.JS](http://sinonjs.org/) - Standalone test spies, stubs and mocks for JavaScript.
