@@ -7,6 +7,7 @@ A comprehensive curated list of general purpose test automation tools (or 'unive
 Table of content:
 
 - [Functional Testing](#functional-testing)
+- [Website testing](#website-testing)
 - [Performance and load testing](#performance-and-load-testing)
 - [Security testing](#security-testing)
 - [REST API testing](#api-testing)
@@ -28,6 +29,9 @@ Also:
 * [Ranorex](http://www.ranorex.com/) - Ranorex is a GUI test automation framework for testing of desktop, web-based and mobile applications. Ranorex is provided by Ranorex GmbH, a software development company for innovative software test automation solutions.
 * [TestComplete](https://smartbear.com/product/testcomplete/overview/) - TestComplete is a functional automated testing platform developed by SmartBear Software. TestComplete gives testers the ability to create automated tests for Microsoft Windows, Web, Android (operating system), and iOS applications.
 * [HP Unified Functional Testing (UFT), formerly known as (QTP)](http://www8.hp.com/us/en/software-solutions/unified-functional-automated-testing/index.html) - HP Unified Functional Testing is automated testing software designed for testing various software applications and environments.
+
+## Website testing
+* [Checkbot](https://www.checkbot.io/) - Browser extension that tests if your website follows 50+ SEO, speed and security best practices. Crawls your site checking multiple pages at once.
 
 ## Web UI test automation
 * [Ggr](https://github.com/aandryashin/ggr) - active load balancer to create scalable and highly-available Selenium cluster.
@@ -63,6 +67,7 @@ Where to discover new libraries, information, tools, etc.
 
 * [automated-testing.info](http://automated-testing.info) - Test automation community
 * [atinfo.github.io/at.info-knowledge-base](http://atinfo.github.io/at.info-knowledge-base/)  - Knowledge base for test automation examples on different tools and technologies
+* [www.checkbot.io/guide/](https://www.checkbot.io/guide/) - Details 50+ SEO, speed and security web best practices
 
 # Other Awesome Test Automation Lists
 
