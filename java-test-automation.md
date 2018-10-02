@@ -53,6 +53,7 @@ Also:
     * [Robot Framework](http://robotframework.org/) - A generic test automation framework for acceptance testing and acceptance test-driven development (ATDD).
         * [awesome-robotframework](https://github.com/fkromer/awesome-robotframework) - A curated list of awesome Robot Framework resources and libraries
     * [Spectrum](https://github.com/greghaskins/spectrum) - A BDD-style test runner for Java 8. Inspired by Jasmine, RSpec, and Cucumber.
+    * [Spring Cloud Contract](https://cloud.spring.io/spring-cloud-contract/) - an umbrella project holding solutions that help users in successfully implementing the [Consumer Driven Contracts](https://martinfowler.com/articles/consumerDrivenContracts.html) approach.
 - extensions
     * [cucumber-report-db](https://github.com/porscheinformatik/cucumber-report-db) - Stores results of BDD tests with Cucumber-JVM in a database and provides reporting capabilities.
 
@@ -66,6 +67,7 @@ Also:
 * [Gradle Quality Plugin](https://github.com/xvik/gradle-quality-plugin) - Static code analysis for Java and Groovy projects using Checkstyle, PMD, FindBugs and CodeNarc. Plugin implements unified console output for all quality plugins which greatly simplifies developer workflow: only console is required for working with violations and makes it feel the same as java compiler errors.
 * [Qulice](https://github.com/teamed/qulice) - Qulice is a static analysis quality control instrument for Java projects. It combines all the best static analysis instruments and pre-configure them. You don't need to use and configure them individually any more.
 * [JaCoCo](https://github.com/jacoco/jacoco) - JaCoCo is a free code coverage library for Java, which has been created by the EclEmma team based on the lessons learned from using and integration existing libraries for many years.
+* [SonarLint](https://www.sonarlint.org/) - SonarLint is an IDE extension that helps to detect and fix quality issues as you write code.
 
 ## Web UI test automation
 
@@ -109,12 +111,13 @@ Also:
 ## API test automation
 
 * [Karate-DSL](https://github.com/intuit/karate) - Karate is a BDD javascript framework which enables you to script a sequence of calls to any kind of web-service and assert that the responses are as expected. It makes it really easy to build complex request payloads, traverse data within the responses, and chain data from responses into the next request. Karate's payload validation engine can perform a 'smart compare' of two JSON or XML documents without being affected by white-space or the order in which data-elements actually appear, and you can opt to ignore fields that you choose.
-
+* [REST-assured](http://rest-assured.io/) - REST Assured is a Java Domain Specific Language API for simplifying testing of RESTful web services. REST Assured API can be used to invoke REST web services and match response content to test them.
 
 ## Windows UI test automation
 
 * [SikuliX](http://www.sikulix.com/) - SikuliX automates anything you see on the screen of your desktop computer running Windows, Mac or some Linux/Unix. It uses image recognition powered by OpenCV to identify and control GUI components. This is handy in cases when there is no easy access to a GUI's internals or the source code of the application or web page you want to act on.
 * [Winium for Desktop](https://github.com/2gis/Winium.Desktop/) - Winium.Desktop is an open source test automation tool for automated testing of Windows application based on WinFroms and WPF platforms.
+* [AutoIt](https://www.autoitscript.com/site/) - AutoIt v3 is a freeware BASIC-like scripting language designed for automating the Windows GUI and general scripting. It uses a combination of simulated keystrokes, mouse movement and window/control manipulation in order to automate tasks.
 
 ## Unix \ Linux UI test automation
 
@@ -155,6 +158,7 @@ Also:
 
 * [Jenkins](http://jenkins-ci.org/) - Jenkins is an award-winning application that monitors executions of repeated jobs, such as building a software project or jobs run by cron.
 * [TeamCity](https://www.jetbrains.com/teamcity/) - Powerful and user-friendly Continuous Integration and Deployment server that works out of the box.
+* [Bamboo](https://www.atlassian.com/software/bamboo) - Bamboo is a continuous integration and continuous deployment server developed by Atlassian.
 
 ## Reporting
 
