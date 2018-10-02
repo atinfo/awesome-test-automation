@@ -59,7 +59,8 @@ Also:
     * [green](https://github.com/CleanCut/green) - Green is a clean, colorful test runner for Python unit tests. Compare it to nose or trial.
     * [ddt](https://github.com/txels/ddt) - Data-Driven tests with unittest
     * [pytractor](https://github.com/kpodl/pytractor) is an extension to the Selenium bindings for Python. Its goal is to make testing of angular.js applications easier with Python.
-
+    * [stestr](https://github.com/mtreinish/stestr) - A parallel Python test runner built around subunit.
+    
 
 ## TDD \ ATDD \ BDD
 
