@@ -155,6 +155,7 @@ Also:
     * [selenium-respectful](https://github.com/SerpentAI/selenium-respectful) - Minimalist Selenium WebDriver wrapper to work within rate limits of any amount of websites simultaneously. Parallel processing friendly.
     * [Mailosaur](https://github.com/mailosaur/mailosaur-python) - Python client for email testing/automation via Mailosaur.
     * [gauge](https://github.com/getgauge/gauge) - Gauge is a light weight cross-platform test automation tool. It provides the ability to author test cases in the business language, actually written in golang with [python language driver](https://github.com/getgauge/gauge-python).
+
 ## Mobile test automation
 
 * [appium](http://appium.io/) - An open source test automation framework for use with native, hybrid and mobile web apps. It drives iOS and Android apps using the WebDriver protocol.
@@ -288,6 +289,7 @@ Libraries that may help you to build better test automation.
 # Resources
 Where to discover new libraries, information, tools, etc.
 * [python books](https://github.com/Junnplus/awesome-python-books)
+* [pytest-tricks](https://github.com/hackebrot/pytest-tricks) - Tips and Tricks for the Python Testing Tool - http://hackebrot.github.io/pytest-tricks/
 
 ## Websites
 
