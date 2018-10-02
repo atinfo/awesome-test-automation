@@ -11,6 +11,8 @@ Table of content:
 - [Security testing](#security-testing)
 - [REST API testing](#api-testing)
 - [Test design](#test-design)
+- [Web UI test automation](#web-ui-test-automation)
+- [Windows GUI Automation](#windows-gui-automation)
 
 Also:
 
@@ -51,6 +53,10 @@ Also:
 ## Security testing
 
 * [OWASP Glue](https://github.com/OWASP/glue) - Glue is a framework for running a series of tools. Generally, it is intended as a backbone for automating a security analysis pipeline of tools.
+
+## Windows GUI Automation
+
+* [AutoIt](https://www.autoitscript.com/site/) - AutoIt v3 is a freeware BASIC-like scripting language designed for automating the Windows GUI and general scripting. It uses a combination of simulated keystrokes, mouse movement and window/control manipulation in order to automate tasks.
 
 ## Test design
 
