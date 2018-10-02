@@ -188,6 +188,7 @@ Also:
 * [SikuliX](http://sikulix.com/) - OpenCV based GUI test framework that uses image recognision to locate item to interact with, script from python 2.7.
 
 ## REST API Testing
+
 * [Rester](https://github.com/chitamoor/rester) - Framework for testing (RESTful) HTTP APIs
 * [pyresttest](https://github.com/svanoort/pyresttest) - A REST testing and API microbenchmarking tool
 * [siesta](http://scastillo.github.com/siesta) - Python REST Client
@@ -222,6 +223,7 @@ Also:
 * [OWASP ZAP](https://code.google.com/p/zaproxy/wiki/ApiPython) - An API for the usage of OWASP ZAP-features from a Python-script.
 * [pythem](https://github.com/m4n3dw0lf/PytheM) - pythem is a multi-purpose pentest framework written in Python. It has been developed to be used by security researchers and security professionals. The tool intended to be used only for acts within the law. I am not liable for any undue and unlawful act practiced by this tool, for more information, read the license. Only runs on GNU/Linux OS.
 * [SQLMap](https://github.com/sqlmapproject/sqlmap) - sqlmap is an open source penetration testing tool that automates the process of detecting and exploiting SQL injection flaws and taking over of database servers. It comes with a powerful detection engine, many niche features for the ultimate penetration tester and a broad range of switches lasting from database fingerprinting, over data fetching from the database, to accessing the underlying file system and executing commands on the operating system via out-of-band connections.
+* [mitmproxy](https://mitmproxy.org/) - mitmproxy is a free and open source interactive HTTPS proxy. 
 
 
 ## Continuous Integration
