@@ -59,7 +59,8 @@ Also:
     * [green](https://github.com/CleanCut/green) - Green is a clean, colorful test runner for Python unit tests. Compare it to nose or trial.
     * [ddt](https://github.com/txels/ddt) - Data-Driven tests with unittest
     * [pytractor](https://github.com/kpodl/pytractor) is an extension to the Selenium bindings for Python. Its goal is to make testing of angular.js applications easier with Python.
-
+    * [stestr](https://github.com/mtreinish/stestr) - A parallel Python test runner built around subunit.
+    
 
 ## TDD \ ATDD \ BDD
 
@@ -154,6 +155,7 @@ Also:
     * [selenium-respectful](https://github.com/SerpentAI/selenium-respectful) - Minimalist Selenium WebDriver wrapper to work within rate limits of any amount of websites simultaneously. Parallel processing friendly.
     * [Mailosaur](https://github.com/mailosaur/mailosaur-python) - Python client for email testing/automation via Mailosaur.
     * [gauge](https://github.com/getgauge/gauge) - Gauge is a light weight cross-platform test automation tool. It provides the ability to author test cases in the business language, actually written in golang with [python language driver](https://github.com/getgauge/gauge-python).
+
 ## Mobile test automation
 
 * [appium](http://appium.io/) - An open source test automation framework for use with native, hybrid and mobile web apps. It drives iOS and Android apps using the WebDriver protocol.
@@ -188,6 +190,7 @@ Also:
 * [SikuliX](http://sikulix.com/) - OpenCV based GUI test framework that uses image recognision to locate item to interact with, script from python 2.7.
 
 ## REST API Testing
+
 * [Rester](https://github.com/chitamoor/rester) - Framework for testing (RESTful) HTTP APIs
 * [pyresttest](https://github.com/svanoort/pyresttest) - A REST testing and API microbenchmarking tool
 * [siesta](http://scastillo.github.com/siesta) - Python REST Client
@@ -222,6 +225,7 @@ Also:
 * [OWASP ZAP](https://code.google.com/p/zaproxy/wiki/ApiPython) - An API for the usage of OWASP ZAP-features from a Python-script.
 * [pythem](https://github.com/m4n3dw0lf/PytheM) - pythem is a multi-purpose pentest framework written in Python. It has been developed to be used by security researchers and security professionals. The tool intended to be used only for acts within the law. I am not liable for any undue and unlawful act practiced by this tool, for more information, read the license. Only runs on GNU/Linux OS.
 * [SQLMap](https://github.com/sqlmapproject/sqlmap) - sqlmap is an open source penetration testing tool that automates the process of detecting and exploiting SQL injection flaws and taking over of database servers. It comes with a powerful detection engine, many niche features for the ultimate penetration tester and a broad range of switches lasting from database fingerprinting, over data fetching from the database, to accessing the underlying file system and executing commands on the operating system via out-of-band connections.
+* [fsociety](https://github.com/Manisso/fsociety) - A Penetration Testing Framework, you will have every script that a hacker needs.
 
 
 ## Continuous Integration
@@ -281,10 +285,13 @@ Libraries that may help you to build better test automation.
 * [Pexpect](https://pexpect.readthedocs.io/en/stable/) - Pexpect makes Python a better tool for controlling other applications.
 * [devtools-proxy](https://github.com/bayandin/devtools-proxy) - Proxy for Chrome DevTools. Fully compatible with Selenium and ChromeDriver
 * [extratools](https://www.chuancong.site/extratools/) - 145+ extra higher-level functional tools that go beyond standard library’s itertools, functools, etc. and popular third-party libraries like toolz, fancy, and more-itertools.
+* [retrying](https://github.com/rholder/retrying) - Retrying is an Apache 2.0 licensed general-purpose retrying library, written in Python, to simplify the task of adding retry behavior to just about anything. 
+* [mitmproxy](https://mitmproxy.org/) - mitmproxy is a free and open source interactive HTTPS proxy. 
 
 # Resources
 Where to discover new libraries, information, tools, etc.
 * [python books](https://github.com/Junnplus/awesome-python-books)
+* [pytest-tricks](https://github.com/hackebrot/pytest-tricks) - Tips and Tricks for the Python Testing Tool - http://hackebrot.github.io/pytest-tricks/
 
 ## Websites
 
