@@ -188,6 +188,7 @@ Also:
 * [SikuliX](http://sikulix.com/) - OpenCV based GUI test framework that uses image recognision to locate item to interact with, script from python 2.7.
 
 ## REST API Testing
+
 * [Rester](https://github.com/chitamoor/rester) - Framework for testing (RESTful) HTTP APIs
 * [pyresttest](https://github.com/svanoort/pyresttest) - A REST testing and API microbenchmarking tool
 * [siesta](http://scastillo.github.com/siesta) - Python REST Client
@@ -281,6 +282,7 @@ Libraries that may help you to build better test automation.
 * [Spyne](http://spyne.io/) - Spyne is a Python RPC toolkit that makes it easy to expose online services that have a well-defined API using multiple protocols and transports.
 * [Pexpect](https://pexpect.readthedocs.io/en/stable/) - Pexpect makes Python a better tool for controlling other applications.
 * [devtools-proxy](https://github.com/bayandin/devtools-proxy) - Proxy for Chrome DevTools. Fully compatible with Selenium and ChromeDriver
+* [mitmproxy](https://mitmproxy.org/) - mitmproxy is a free and open source interactive HTTPS proxy. 
 
 # Resources
 Where to discover new libraries, information, tools, etc.
