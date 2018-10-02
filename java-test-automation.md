@@ -20,6 +20,7 @@ Table of content:
 - [Virtual environments](#virtual-environments)
 - [Performance & stress & load](#performance--stress--load)
 - [Security checking](#security-checking)
+- [Email testing](#email-testing)
 - [Build Tools](#build-tools)
 - [Continuous Integration](#continuous-integration)
 - [Reporting](#reporting)
@@ -144,6 +145,10 @@ Also:
 ## Security checking
 
 [Contribute to this section](https://github.com/atinfo/awesome-test-automation/blob/master/CONTRIBUTING.md)
+
+## Email testing
+
+* [GreenMail](http://www.icegreen.com/greenmail/) - GreenMail is an open source, intuitive and easy-to-use test suite of email servers for testing purposes. Typical use cases include mail integration testing or a lightweight sand boxed mail server for development.
 
 ## Build Tools
 
