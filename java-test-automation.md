@@ -210,6 +210,7 @@ Also:
 * [automated-testing.info](http://automated-testing.info) - Test automation community
 * [atinfo.github.io/at.info-knowledge-base](http://atinfo.github.io/at.info-knowledge-base/)  - Knowledge base for test automation examples on different tools and technologies
 * [selenium-simplified](http://seleniumsimplified.com/) - AUTOMATED BROWSER TESTING WITH SELENIUM 2 WEBDRIVER – MADE SIMPLE
+* [guru99](https://www.guru99.com/automation-testing.html) - AUTOMATION TESTING Tutorial: Process, Planning & Tools
 
 # Other Awesome Test Automation Lists
 
