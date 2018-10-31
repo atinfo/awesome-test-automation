@@ -35,7 +35,7 @@ Also:
 
 * [Test::Unit](http://ruby-doc.org//stdlib-2.1.5//libdoc/test/unit/rdoc/Test/Unit.html) - is intended for unit testing and comes bundled with Ruby.
 * [MiniTest](https://github.com/CapnKernul/minitest-reporters#readme) - becomes available on attaching the minitest-reporters gem. The minitests are added to the Test::Unit framework.
-* [yard-doctest](https://github.com/p0deje/yard-doctest) - allows to use YARD examples as tests
+* [yard-doctest](https://github.com/p0deje/yard-doctest) - allows using YARD examples as tests
 
 ## TDD \ ATDD \ BDD
 - TDD
@@ -96,7 +96,7 @@ Also:
     * [widgeon](https://github.com/yashaka/widgeon) - Yet another 'page objects for Capybara' gem with ability to create custom loadable elements akka 'widgets'
     * [Site Prism](https://github.com/natritmeyer/site_prism) - A Page Object Model DSL for Capybara
 - extensions
-    * [Selenium-Grid-Extras](https://github.com/groupon/Selenium-Grid-Extras) - Simplify the managment of the Selenium Grid Nodes and stabilize said nodes by cleaning up the test environment after the build has been completed
+    * [Selenium-Grid-Extras](https://github.com/groupon/Selenium-Grid-Extras) - Simplify the management of the Selenium Grid Nodes and stabilize said nodes by cleaning up the test environment after the build has been completed
     * [Mailosaur](https://github.com/mailosaur/mailosaur-ruby) - Ruby client for email testing/automation via Mailosaur.
 
 ## Mobile test automation
@@ -136,7 +136,7 @@ Also:
 
 ## Reporting
 
-* [ReportPortal.io](http://ReportPortal.io) - [Ruby Cucumber + RSpec](https://github.com/reportportal?utf8=✓&q=agent-ruby&type=&language=) powerfull results management and analytics for test automation reports. Powered with Machine Learning. Real-time integration and reports, visualization of trends and statistics, custom dashboards and widgets, gives you real visibility into the state of test automation. Integral part of CI/CD with TA and Continous Testing. Server-client application, can be used for any type of automated tests. Free and OpenSourced, [GitHub link](https://github.com/reportportal).
+* [ReportPortal.io](http://ReportPortal.io) - [Ruby Cucumber + RSpec](https://github.com/reportportal?utf8=✓&q=agent-ruby&type=&language=) powerfull results management and analytics for test automation reports. Powered with Machine Learning. Real-time integration and reports, visualization of trends and statistics, custom dashboards and widgets, gives you real visibility into the state of test automation. Integral part of CI/CD with TA and Continuous Testing. Server-client application, can be used for any type of automated tests. Free and OpenSourced, [GitHub link](https://github.com/reportportal).
 
 ## Documentation generation
 
