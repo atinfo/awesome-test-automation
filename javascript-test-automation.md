@@ -91,10 +91,14 @@ No dependencies, works with any unit testing framework.
 * [Mailosaur](https://github.com/mailosaur/mailosaur-node) - Node.js client for email testing/automation via Mailosaur.
 * [Cypress.io](https://github.com/cypress-io/cypress) - Fast, easy and reliable testing for anything that runs in a browser. Runs on Mac, Linux, Windows and any CI.
 * [Differencify](https://github.com/NimaSoroush/differencify) - A library for visual regression testing using [Puppeteer](https://github.com/GoogleChrome/puppeteer).
+* [Serenity/JS](https://serenity-js.org/) - Serenity/JS makes acceptance and regression testing of modern web apps faster, more collaborative and easier to scale.
+* [Chimpy.js](https://thebrainfamily.github.io/chimpy/) - An awesome developer-centric experience to writing tests with realtime feedback using Mocha, Jasmine or Cucumber.js
 
 ## Mobile test automation
 * [WebdriverIO's Appium implementation](http://webdriver.io/api/appium/backgroundApp.html) - nodejs bindings implemeting Appium commands.
 * [Macaca](https://macacajs.com/) - Solution for Automation Test with Ease. Both Mobile, Desktop Platforms Supported, native, Hybrid, Mobile Web Multi-applications Supported, Command line tools & CI Solution provided.
+* [Detox](https://github.com/wix/Detox) - Gray Box End-to-End Testing and Automation Framework for Mobile Apps 
+* [Cavy](https://github.com/pixielabs/cavy) - Cavy is a cross-platform integration test framework for React Native, by Pixie Labs.
 
 ## Windows UI test automation
 * [RobotJS](https://robotjs.io/) - The Node.js Desktop Automation Library
@@ -134,6 +138,7 @@ No dependencies, works with any unit testing framework.
 * [Blanket](http://blanketjs.org/) - JavaScript code coverage library that works both in-browser and with nodejs.
 * [Mochawesome](https://github.com/adamgruber/mochawesome) - reporter for Mocha that generates a full fledged HTML/CSS report that helps visualize your test suites
 * [Allure](http://allure.qatools.ru/) - a universal reporter for any testing framework. Supports [Mocha](https://docs.qameta.io/allure/2.0/#_mocha) and [Jasmine (and Protractor)](https://docs.qameta.io/allure/2.0/#_jasmine)
+* [cucumber-html-reporter](https://www.npmjs.com/package/cucumber-html-reporter) - Provide Cucumber JSON report file created from your framework and this module will create pretty HTML reports. Choose your best suitable HTML theme and dashboard on your CI with available HTML reporter plugins.
 
 ## Documentation generation
 * [JSdoc3](http://usejsdoc.org/) - An API documentation generator for JavaScript
