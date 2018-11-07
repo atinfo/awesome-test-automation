@@ -87,6 +87,7 @@ Also:
     * [Selion](https://github.com/paypal/SeLion) - builds on top of TestNG and Selenium to provide a set of capabilities that get you up and running with WebDriver in a short time. It can be used for testing web and mobile applications.
     * [Frameworkium](https://frameworkium.github.io/) - automation framework for web, app, and API testing. Integrates: saucelabs, allure, rest-assured, jackson, gson. Published on Jitpack repository. 
     * [Carina](http://qaprosoft.github.io/carina/) - Carina is a Java-based test automation framework that unites all testing layers: Mobile applications (web, native, hybrid), WEB applications, REST services, Databases.
+    * [NoraUi](https://noraui.github.io/#) - NoraUi, for NOn-Regression Automation for User Interfaces, is a Java framework based on Selenium, Cucumber and Gherkin stack to create GUI testing projects that can be included in the continuous integration chain of single/multi applications web solution builds.
 - extensions
     * [BrowserMob Proxy](https://github.com/lightbody/browsermob-proxy) - Is a simple utility that makes it easy to capture performance data from browsers, typically written using automation toolkits such as Selenium and Watir.
     * [Selenoid](https://github.com/aerokube/selenoid) - Selenium Hub successor running browsers within containers. Scalable, immutable, self hosted Selenium-Grid on any platform with single binary.
