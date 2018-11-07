@@ -146,7 +146,7 @@ Also:
 
 ## Security checking
 
-[Contribute to this section](https://github.com/atinfo/awesome-test-automation/blob/master/CONTRIBUTING.md)
+* [BDD-Security](https://continuumsecurity.net/bdd-security/) - BDD-Security is a security testing framework that uses natural language in a Given, When, Then Gherkin syntax to describe security requirements as features. Those same requirements are also executable as standard unit/integration tests which means they can run as part of the build/test/deploy process.
 
 ## Build Tools
 
