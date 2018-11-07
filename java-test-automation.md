@@ -98,6 +98,7 @@ Also:
     * [Zalenium](https://github.com/zalando/zalenium) - Allows anyone to have a disposable and flexible Docker-based Selenium Grid infrastructure featuring video recording, live preview and online/offline dashboards.
     * [SikuliFactory](https://github.com/marcoslimaqa/sikuli-factory) - A based PageFactory model for SikuliX.
     * [Mailosaur](https://github.com/mailosaur/mailosaur-java) - Java client for email testing/automation via Mailosaur.
+    * [TrueAutomation.IO](https://trueautomation.io/) - One of the main tasks of TA is to solve problem of working with unstable locators.
 
 ## Mobile test automation
 
