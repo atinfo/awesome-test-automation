@@ -53,6 +53,7 @@ Also:
     * [Robot Framework](http://robotframework.org/) - A generic test automation framework for acceptance testing and acceptance test-driven development (ATDD).
         * [awesome-robotframework](https://github.com/fkromer/awesome-robotframework) - A curated list of awesome Robot Framework resources and libraries
     * [Spectrum](https://github.com/greghaskins/spectrum) - A BDD-style test runner for Java 8. Inspired by Jasmine, RSpec, and Cucumber.
+    * [Gauge](https://gauge.org/) - Gauge is a light-weight cross-platform test automation tool with the ability to author test cases in the business language.
 - extensions
     * [cucumber-report-db](https://github.com/porscheinformatik/cucumber-report-db) - Stores results of BDD tests with Cucumber-JVM in a database and provides reporting capabilities.
 
@@ -86,6 +87,9 @@ Also:
     * [FluentLenium](https://github.com/FluentLenium/FluentLenium) - FluentLenium helps you writing readable, reusable, reliable and resilient UI functional tests for the browser. FluentLenium provides a Java fluent interface to Selenium, and brings some magic to avoid common issues faced by Selenium users.
     * [Selion](https://github.com/paypal/SeLion) - builds on top of TestNG and Selenium to provide a set of capabilities that get you up and running with WebDriver in a short time. It can be used for testing web and mobile applications.
     * [Frameworkium](https://frameworkium.github.io/) - automation framework for web, app, and API testing. Integrates: saucelabs, allure, rest-assured, jackson, gson. Published on Jitpack repository. 
+    * [Carina](http://qaprosoft.github.io/carina/) - Carina is a Java-based test automation framework that unites all testing layers: Mobile applications (web, native, hybrid), WEB applications, REST services, Databases.
+    * [NoraUi](https://noraui.github.io/#) - NoraUi, for NOn-Regression Automation for User Interfaces, is a Java framework based on Selenium, Cucumber and Gherkin stack to create GUI testing projects that can be included in the continuous integration chain of single/multi applications web solution builds.
+    * [Cubano](https://concordion.org/cubano/framework) - Cubano is a test automation framework written in Java that provides a structure for developing acceptance and regression tests so your team can hit the ground running and not have to waste time needlessly building and maintaining your own framework.
 - extensions
     * [BrowserMob Proxy](https://github.com/lightbody/browsermob-proxy) - Is a simple utility that makes it easy to capture performance data from browsers, typically written using automation toolkits such as Selenium and Watir.
     * [Selenoid](https://github.com/aerokube/selenoid) - Selenium Hub successor running browsers within containers. Scalable, immutable, self hosted Selenium-Grid on any platform with single binary.
@@ -97,6 +101,7 @@ Also:
     * [Zalenium](https://github.com/zalando/zalenium) - Allows anyone to have a disposable and flexible Docker-based Selenium Grid infrastructure featuring video recording, live preview and online/offline dashboards.
     * [SikuliFactory](https://github.com/marcoslimaqa/sikuli-factory) - A based PageFactory model for SikuliX.
     * [Mailosaur](https://github.com/mailosaur/mailosaur-java) - Java client for email testing/automation via Mailosaur.
+    * [TrueAutomation.IO](https://trueautomation.io/) - One of the main tasks of TA is to solve problem of working with unstable locators.
 
 ## Mobile test automation
 
@@ -144,7 +149,7 @@ Also:
 
 ## Security checking
 
-[Contribute to this section](https://github.com/atinfo/awesome-test-automation/blob/master/CONTRIBUTING.md)
+* [BDD-Security](https://continuumsecurity.net/bdd-security/) - BDD-Security is a security testing framework that uses natural language in a Given, When, Then Gherkin syntax to describe security requirements as features. Those same requirements are also executable as standard unit/integration tests which means they can run as part of the build/test/deploy process.
 
 ## Build Tools
 
@@ -164,6 +169,9 @@ Also:
 * [Gradle Allure Plugin](https://github.com/d10xa/gradle-allure-plugin) - 3rd-party Gradle Allure Plugin allows you to integrate Allure into spock, testing and junit tests.
 * [ExtentReports](http://relevantcodes.com/extentreports-for-selenium/) - HTML reporting library for .NET and Java which is extremely easy to use and creates beautiful execution reports. It shows test and step summary, test steps and status in a toggle view for quick analysis.
 * [ReportNG](http://reportng.uncommons.org/) - ReportNG is a simple HTML reporting plug-in for the TestNG unit-testing framework.
+* [Zafira](http://qaprosoft.github.io/zafira/) - Zafira is central automation reporting system that is build on the top of Java Spring Framework. It dramatically increases the transparany of test automation results and provides better undestanding of product quality.
+* [Difido-reports](http://top-q.github.io/difido-reports/) - This project aims to provide a generic implementation for HTML test reports.
+* [cucumber-reporting](https://github.com/damianszczepanik/cucumber-reporting) - This is a Java report publisher primarily created to publish cucumber reports on the Jenkins build server. It publishes pretty html reports with charts showing the results of cucumber runs. It has been split out into a standalone package so it can be used for Jenkins and maven command line as well as any other packaging that might be useful. Generated report has no dependency so can be viewed offline.
 
 ## Documentation generation
 
