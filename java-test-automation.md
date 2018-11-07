@@ -170,6 +170,7 @@ Also:
 * [ReportNG](http://reportng.uncommons.org/) - ReportNG is a simple HTML reporting plug-in for the TestNG unit-testing framework.
 * [Zafira](http://qaprosoft.github.io/zafira/) - Zafira is central automation reporting system that is build on the top of Java Spring Framework. It dramatically increases the transparany of test automation results and provides better undestanding of product quality.
 * [Difido-reports](http://top-q.github.io/difido-reports/) - This project aims to provide a generic implementation for HTML test reports.
+* [cucumber-reporting](https://github.com/damianszczepanik/cucumber-reporting) - This is a Java report publisher primarily created to publish cucumber reports on the Jenkins build server. It publishes pretty html reports with charts showing the results of cucumber runs. It has been split out into a standalone package so it can be used for Jenkins and maven command line as well as any other packaging that might be useful. Generated report has no dependency so can be viewed offline.
 
 ## Documentation generation
 
