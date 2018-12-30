@@ -42,6 +42,8 @@ Also:
 * [JUnit](http://junit.org/) - Common testing framework.
 * [TestNG](http://testng.org/) - TestNG - Testing framework.
     * [Test Data Supplier](https://github.com/sskorol/test-data-supplier) - TestNG DataProvider wrapper which helps to supply test data in a more flexible way.
+    * [Sunshine](https://github.com/tatools/sunshine/) - Sunshine is a wrapper on Java xUnit test runners (such as TestNG, Junit...) which allows automatically find classes with tests within the jar file, passes them to desired test runner and reports an execution status.
+
 
 ## TDD \ ATDD \ BDD
 
