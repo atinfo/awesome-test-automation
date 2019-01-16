@@ -11,6 +11,8 @@ Table of content:
 - [Security testing](#security-testing)
 - [REST API testing](#api-testing)
 - [Test design](#test-design)
+- [Web UI test automation](#web-ui-test-automation)
+- [Windows GUI automation](#windows-gui-automation)
 
 Also:
 
@@ -28,6 +30,7 @@ Also:
 * [Ranorex](http://www.ranorex.com/) - Ranorex is a GUI test automation framework for testing of desktop, web-based and mobile applications. Ranorex is provided by Ranorex GmbH, a software development company for innovative software test automation solutions.
 * [TestComplete](https://smartbear.com/product/testcomplete/overview/) - TestComplete is a functional automated testing platform developed by SmartBear Software. TestComplete gives testers the ability to create automated tests for Microsoft Windows, Web, Android (operating system), and iOS applications.
 * [HP Unified Functional Testing (UFT), formerly known as (QTP)](http://www8.hp.com/us/en/software-solutions/unified-functional-automated-testing/index.html) - HP Unified Functional Testing is automated testing software designed for testing various software applications and environments.
+* [Puppetry](https://puppetry.app/) - Puppetry is an open-source scriptless test automation tool built on top of Google’s Puppeteer. It can be used by QA engineers with no programming background. Puppetry can also export the tests into a Jest.js project, so they can be  included into CI/CD pipeline.
 
 ## Web UI test automation
 * [Ggr](https://github.com/aandryashin/ggr) - active load balancer to create scalable and highly-available Selenium cluster.
@@ -37,6 +40,7 @@ Also:
 ## API testing
 
 * [Postman REST Client](https://www.npmjs.com/package/postman-bdd) - The Postman REST client allows you to write tests for your APIs, such as ensuring that your endpoints return the proper HTTP status codes, headers, and content. It even has has a built-in test runner that makes it easy to run all of your tests and immediately see the results. And you can use the Newman command-line tool to automate your tests and integrate them into your CI and deployment pipeline.
+* [StREST](https://github.com/eykrehbein/strest) - StREST is an open-source tool to set up tests for REST api's in seconds with YAML configuration files. StREST allows you to connect multiple requests by using values from previous requests in future requests. StREST also gives you a flexible validation framework for responses, allows using special headers, and can be configured to test APIs with random input or env vars.
 * [SoapUI](https://www.soapui.org/) - SoapUI is an open-source web service testing application for service-oriented architectures (SOA) and REST. Its functionality covers web service inspection, invoking, development, simulation and mocking, functional testing, load and compliance testing.
 * [Rapise](https://www.inflectra.com/Rapise/) - Rapise is GUI based tool. Rapise's unique Learn and Go testing method is much more time efficient than traditional record-and-playback processes. 
 * [Restlet Client](https://chrome.google.com/webstore/detail/restlet-client-rest-api-t/aejoelaoggembcahagimdiliamlcdmfm) - Restlet Client (formerly known as DHC) allows you to interact with REST services. It brings many different features that make your user experience better, save you precious time when debugging HTTP calls or sharing your requests with others.
@@ -51,6 +55,10 @@ Also:
 ## Security testing
 
 * [OWASP Glue](https://github.com/OWASP/glue) - Glue is a framework for running a series of tools. Generally, it is intended as a backbone for automating a security analysis pipeline of tools.
+
+## Windows GUI automation
+
+* [AutoIt](https://www.autoitscript.com/site/) - AutoIt v3 is a freeware BASIC-like scripting language designed for automating the Windows GUI and general scripting. It uses a combination of simulated keystrokes, mouse movement and window/control manipulation in order to automate tasks.
 
 ## Test design
 
