@@ -165,6 +165,7 @@ Also:
 * [robotframework-ioslibrary](https://github.com/lovelysystems/robotframework-ioslibrary) - A Robot Framework test library for all your iOS automation needs.
 * [uiautomator](https://github.com/xiaocong/uiautomator) - Python wrapper of Android uiautomator test tool, it works on Android 4.1+ simply with Android device attached via adb.
 * [ATX](https://github.com/NetEaseGame/ATX) - Smart phone automation tool. Support iOS, Android, WebApp and game.
+* [Airtest](https://github.com/AirtestProject/Airtest) - Airtest is a cross-platform automated testing framework focusing mainly on games, but can also be used for native apps.
 
 ## Windows UI test automation
 
