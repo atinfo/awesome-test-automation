@@ -8,6 +8,7 @@ Table of content:
 
 - [Web UI test automation](#web-ui-test-automation)
 - [TDD \ ATTD \ BDD](#tdd--atdd--bdd)
+- [API test automation](#api-test-automation)
 - [Editors, IDE and consoles](#editors-ide-consoles)
 - [Useful libs](#useful-libs)
 
@@ -31,6 +32,10 @@ Also:
 ## TDD \ ATTD \ BDD
 
 * [Kukumber](https://github.com/mlvandijk/kukumber-skeleton) - Getting started with Cucumber in Kotlin.
+
+## API test automation
+
+* [hikaku](https://github.com/codecentric/hikaku) - A library that tests if the implementation of a REST-API meets its specification.
 
 ## Editors, IDE, consoles
 

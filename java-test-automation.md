@@ -113,6 +113,7 @@ Also:
 
 ## API test automation
 
+* [hikaku](https://github.com/codecentric/hikaku) - A library that tests if the implementation of a REST-API meets its specification. 
 * [Karate-DSL](https://github.com/intuit/karate) - Karate is a BDD javascript framework which enables you to script a sequence of calls to any kind of web-service and assert that the responses are as expected. It makes it really easy to build complex request payloads, traverse data within the responses, and chain data from responses into the next request. Karate's payload validation engine can perform a 'smart compare' of two JSON or XML documents without being affected by white-space or the order in which data-elements actually appear, and you can opt to ignore fields that you choose.
 * [Retrofit](http://square.github.io/retrofit/) - A type-safe HTTP client for Android and Java.
 
