@@ -123,7 +123,7 @@ Also:
 - frameworks and wrappers
     * [py.saunter](https://github.com/element-34/py.saunter) - An opinionated automation framework for use with the Selenium RC and WebDriver libraries.
     * [moz-web-qa](https://github.com/mozilla/pytest-mozwebqa) - A plugin for py.test that provides additional features needed for Mozilla's WebQA projects.
-    * [testutils sst](http://testutils.org/sst) - A web test framework that uses Python to generate functional browser-based tests.
+    * [testutils sst](https://pypi.org/project/sst/) - A web test framework that uses Python to generate functional browser-based tests.
     * [wtframework](https://github.com/wiredrive/wtframework) - Framework for configurable Web Tests in Python.
     * [holmium.core](https://github.com/alisaifee/holmium.core) - Page objects & Utilities for writing selenium test cases.
     * [robotframework-selenium2library](https://github.com/rtomac/robotframework-selenium2library) - Web testing library for Robot Framework.
