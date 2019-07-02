@@ -221,6 +221,7 @@ Also:
 * [The Grinder](http://grinder.sourceforge.net/) - Load testing framework that makes it easy to run a distributed test using many load injector machines. This includes common cases such as HTTP web servers, SOAP and REST web services, and application servers (CORBA, RMI, JMS, EJBs), as well as custom protocols. Flexible Scripting Test scripts are written in the powerful Jython and Clojure languages.
 * [Tsung](http://tsung.erlang-projects.org/) - is an open-source multi-protocol distributed load testing tool. It can be used to stress HTTP, WebDAV, SOAP, PostgreSQL, MySQL, LDAP and Jabber/XMPP servers.
 * [taurus](http://gettaurus.org) - Automation-friendly framework for Continuous Testing
+* [molotov](https://github.com/loads/molotov) - Simple Python 3.5+ tool to write load tests.
 
 ## Security checking
 
