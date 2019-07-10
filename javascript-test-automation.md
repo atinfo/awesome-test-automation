@@ -20,6 +20,7 @@ Table of content:
 - [Security checking](#security-checking)
 - [Continuous Integration](#continuous-integration)
 - [Reporting](#reporting)
+- [Data-Driven Testing](#data-driven-testing)
 - [Documentation generation](#documentation-generation)
 - [Editors, IDE and consoles](#editors-ide-consoles)
 - [Useful libs](#useful-libs)
@@ -141,6 +142,9 @@ No dependencies, works with any unit testing framework.
 * [Allure](http://allure.qatools.ru/) - a universal reporter for any testing framework. Supports [Mocha](https://docs.qameta.io/allure/2.0/#_mocha) and [Jasmine (and Protractor)](https://docs.qameta.io/allure/2.0/#_jasmine)
 * [cucumber-html-reporter](https://www.npmjs.com/package/cucumber-html-reporter) - Provide Cucumber JSON report file created from your framework and this module will create pretty HTML reports. Choose your best suitable HTML theme and dashboard on your CI with available HTML reporter plugins.
 * [Coveralls GitHub Action](https://github.com/gavinhenderson/coveralls-action) - A GitHub Action that will automatically report your latest test results to coveralls
+
+## Data-Driven Testing
+* [test-each](https://github.com/ehmicky/test-each) - Repeat tests using different inputs.
 
 ## Documentation generation
 * [JSdoc3](http://usejsdoc.org/) - An API documentation generator for JavaScript
