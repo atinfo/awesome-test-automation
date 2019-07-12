@@ -40,7 +40,6 @@ Also:
 
 ## Performance and load testing
 * [Loader.io](https://loader.io/) - A FREE load testing service that allows you to stress test your web-apps & apis with thousands of concurrent connections.
-* [Blitz](https://www.blitz.io/) - Performance testing on websites, web apps and REST APIs.
 * [BlazeMeter](http://blazemeter.com/) - A self- service performance & load testing cloud, 100% JMeter-compatible. Easily run tests of 30k, 50k, 80k or more concurrent users, on-demand!
 * [Loadsophia](https://loadosophia.org/) - is the service for storing and analysing performance test results. It supports analyzing output from Apache JMeter, Apache Benchmark and Yandex.Tank performance testing tools.
 * [Load Impact](https://loadimpact.com/) - Nothing to install, easy config: instant and free load testing SaaS for developers and devops.
