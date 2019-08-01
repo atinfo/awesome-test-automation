@@ -140,10 +140,7 @@ Also:
     * [POM](https://github.com/schipiga/pom) - POM is Page-Object-Model microframework to develop web UI tests easy, quickly and with pleasure.
     * [websmith](https://github.com/omaciel/websmith) - A Domain Specific Language (DSL) for Web Testing.
     * [pages](https://github.com/Skyscanner/pages) -  lightweight page object and component Python library for UI tests.
-    * [widgetastic](https://github.com/nextQE/widgetastic.core) - RedHat UI widget components framework
-    * [navmazing](https://github.com/nextQE/navmazing) - PageObjects based navigation from RedHat
-    * [nightwatch](https://github.com/nextQE/nightwatch) - UI Automated Testing Framework using Python and Selenium. Influenced by nightwatch.js
-	* [seleniumbase](https://github.com/seleniumbase/SeleniumBase) - A simple Python framework for building test automation with Selenium WebDriver. It depends on pytest or noose modules to run. When used with noose a HTML report can be generated in the end of the test run.
+    * [seleniumbase](https://github.com/seleniumbase/SeleniumBase) - A simple Python framework for building test automation with Selenium WebDriver. It depends on pytest or noose modules to run. When used with noose a HTML report can be generated in the end of the test run.
 	* [Toolium](https://github.com/Telefonica/toolium) - Toolium is a Python wrapper tool of Selenium and Appium libraries to test web and mobile applications in a single project. It provides a way of choosing and configuring the driver through a configuration file, implements a Page Object pattern and includes a simple visual testing solution.
 - extensions
     * [webdriver_manager](https://github.com/SergeyPirogov/webdriver_manager) - The main idea is to simplify managemet of binary drivers for different browsers.
