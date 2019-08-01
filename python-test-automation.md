@@ -72,6 +72,7 @@ Also:
     * [mamba](http://nestorsalceda.github.io/mamba/) - The definitive testing tool for Python. Born under the banner of Behavior Driven Development.
     * [pyvows](http://heynemann.github.io/pyvows/) - Asynchronous behaviour driven development for Python.
     * [pytest-bdd](https://github.com/pytest-dev/pytest-bdd) - BDD library for the py.test runner
+    * [pytest-play](https://github.com/pytest-dev/pytest-play) - ATDD pytest plugin that let you automate actions, assertions and test metrics executing plain YAML files.
     * [robotframework](http://robotframework.org/) - A generic test automation framework for acceptance testing and acceptance test-driven development (ATDD)
         * [awesome-robotframework](https://github.com/fkromer/awesome-robotframework) - A curated list of awesome Robot Framework resources and libraries
     * [radish-bdd](https://github.com/radish-bdd/radish) - BDD testing tool with supplements
@@ -121,6 +122,7 @@ Also:
     * [splinter](https://github.com/cobrateam/splinter) - A tool for test web applications with a simple for find elements, form actions, and others browser actions.
     * [mechanize](https://pypi.python.org/pypi/mechanize/) - Stateful programmatic web browsing in Python.
 - frameworks and wrappers
+    * [play_selenium](https://github.com/davidemoro/play_selenium) - [pytest-play](https://github.com/pytest-dev/pytest-play) plugin that let you drive a browser with Selenium using plain YAML files
     * [py.saunter](https://github.com/element-34/py.saunter) - An opinionated automation framework for use with the Selenium RC and WebDriver libraries.
     * [moz-web-qa](https://github.com/mozilla/pytest-mozwebqa) - A plugin for py.test that provides additional features needed for Mozilla's WebQA projects.
     * [testutils sst](https://pypi.org/project/sst/) - A web test framework that uses Python to generate functional browser-based tests.
@@ -137,6 +139,7 @@ Also:
     * [hitch](http://hitchtest.com/) - A high level integration testing framework for service based applications.
     * [Needle](http://needle.readthedocs.org/en/latest/) - Needle is a tool for testing visuals with Selenium and nose. It checks that CSS renders correctly by taking screenshots of portions of a website and comparing them against known good screenshots. It also provides tools for testing calculated CSS values and the position of HTML elements.
     * [PyPOM](https://github.com/mozilla/PyPOM) - PyPOM is a Python Page Object Model library for Selenium and Splinter tests.
+    * [pypom_form](https://github.com/davidemoro/pypom_form) - PyPOM based page object model for schema based forms.
     * [POM](https://github.com/schipiga/pom) - POM is Page-Object-Model microframework to develop web UI tests easy, quickly and with pleasure.
     * [websmith](https://github.com/omaciel/websmith) - A Domain Specific Language (DSL) for Web Testing.
     * [pages](https://github.com/Skyscanner/pages) -  lightweight page object and component Python library for UI tests.
@@ -194,6 +197,7 @@ Also:
 * [Rester](https://github.com/chitamoor/rester) - Framework for testing (RESTful) HTTP APIs
 * [pyresttest](https://github.com/svanoort/pyresttest) - A REST testing and API microbenchmarking tool
 * [siesta](http://scastillo.github.com/siesta) - Python REST Client
+* [play_requests](https://github.com/davidemoro/play_requests) - [pytest-play](https://github.com/pytest-dev/pytest-play) plugin driving the famous python requests library for making HTTP calls using plain YAML files
 
 ## Virtual environments
 
