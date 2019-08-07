@@ -102,6 +102,7 @@ Also:
 * [hypothesis](https://github.com/DRMacIver/hypothesis) - Library for property based testing in Python, based on the Haskell library Quickcheck.
 * [factory_boy](https://github.com/FactoryBoy/factory_boy) - A fixtures replacement based on thoughtbot’s [factory_girl](https://github.com/thoughtbot/factory_girl).
 * [fauxfactory](https://github.com/omaciel/fauxfactory) - Random Data Generator
+* [mimesis](https://github.com/lk-geimfari/mimesis) - Mimesis is fast and extremely easy to use Python package, which helps generate big volumes of fake data for a variety of purposes in a variety of languages
 
 ## Code analysis
 
