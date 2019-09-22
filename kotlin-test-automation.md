@@ -28,6 +28,7 @@ Also:
     * [Balin](https://github.com/EPadronU/balin) - Balin is a browser automation library for Kotlin. It's basically a Selenium-WebDriver wrapper library inspired by Geb.
     * [SeleniumBuilder](https://github.com/qwertukg/SeleniumBuilder) - Kotlin DSL for Selenium 2.0. Provide a possibility to write tests in Kotlin type-safe builders style
     * [kirk](https://github.com/SergeyPirogov/kirk) - Kirk is a browser automation library for Kotlin. It's basically a Selenium-WebDriver wrapper library inspired by Selenide and Geb.
+    * [testmail.app](https://testmail.app) - Automate end-to-end email tests with unlimited mailboxes and a GraphQL API; works with any GraphQL client (e.g. [Apollo Android](https://github.com/apollographql/apollo-android))
 
 ## TDD \ ATTD \ BDD
 

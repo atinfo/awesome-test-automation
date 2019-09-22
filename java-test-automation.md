@@ -102,6 +102,7 @@ Also:
     * [SikuliFactory](https://github.com/marcoslimaqa/sikuli-factory) - A based PageFactory model for SikuliX.
     * [Mailosaur](https://github.com/mailosaur/mailosaur-java) - Java client for email testing/automation via Mailosaur.
     * [TrueAutomation.IO](https://trueautomation.io/) - One of the main tasks of TA is to solve problem of working with unstable locators.
+    * [testmail.app](https://testmail.app) - Automate end-to-end email tests with unlimited mailboxes and a GraphQL API; works with any GraphQL client (e.g. [Apollo Android](https://github.com/apollographql/apollo-android))
 
 ## Mobile test automation
 

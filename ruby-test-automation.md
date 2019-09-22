@@ -80,6 +80,7 @@ Also:
 - libraries
     * [Selenium WebDriver](http://selenium.googlecode.com/git/docs/api/rb/index.html) - This gem provides Ruby bindings for WebDriver.
     * [API Taster](https://github.com/fredwu/api_taster) - A quick and easy way to visually test your Rails application's API.
+    * [Airborne](https://github.com/brooklynDev/airborne) - RSpec driven API testing framework.
     * [Watir](https://github.com/watir/watir/) - Web application testing in Ruby.
     * [Watir-webdriver](http://watirwebdriver.com/) - The most elegant way to use WebDriver with ruby.
     * [Poltergeist](https://github.com/teampoltergeist/poltergeist) - Poltergeist is a driver for Capybara. It allows you to run your Capybara tests on a headless WebKit browser, provided by PhantomJS.
@@ -98,6 +99,7 @@ Also:
 - extensions
     * [Selenium-Grid-Extras](https://github.com/groupon/Selenium-Grid-Extras) - Simplify the management of the Selenium Grid Nodes and stabilize said nodes by cleaning up the test environment after the build has been completed
     * [Mailosaur](https://github.com/mailosaur/mailosaur-ruby) - Ruby client for email testing/automation via Mailosaur.
+    * [testmail.app](https://testmail.app) - Automate end-to-end email tests with unlimited mailboxes and a GraphQL API; works with any GraphQL client (e.g. [graphql-client](https://github.com/github/graphql-client))
 
 ## Mobile test automation
 

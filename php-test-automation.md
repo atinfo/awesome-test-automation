@@ -71,7 +71,8 @@ Also:
 * [BeHat's Mink](http://mink.behat.org/en/latest/) - An open source browser controller/emulator for web applications
 * [saunter.php](https://github.com/Element-34/saunter.php) - Selenium Page Objects implementation in PHP
 * [Mailosaur](https://github.com/mailosaur/mailosaur-php) - PHP client for email testing/automation via Mailosaur.
-   
+* [testmail.app](https://testmail.app) - Automate end-to-end email tests with unlimited mailboxes and a GraphQL API; works with any GraphQL client (e.g. [graphql-php](https://github.com/webonyx/graphql-php))
+
 ## Mobile test automation
 
 [Contribute to this section](https://github.com/atinfo/awesome-test-automation/blob/master/CONTRIBUTING.md)

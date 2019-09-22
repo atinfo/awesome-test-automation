@@ -158,6 +158,7 @@ Also:
     * [Mailosaur](https://github.com/mailosaur/mailosaur-python) - Python client for email testing/automation via Mailosaur.
     * [gauge](https://github.com/getgauge/gauge) - Gauge is a light weight cross-platform test automation tool. It provides the ability to author test cases in the business language, actually written in golang with [python language driver](https://github.com/getgauge/gauge-python).
     * [Golem](https://github.com/lucianopuccio/golem) - Golem is a complete test automation tool and framework for end-to-end testing. It creates powerful, robust and maintainable test suites, it's easy to learn even without a lot of programming knowledge. It is based on Selenium Webdriver and it can be extended using Python
+    * [testmail.app](https://testmail.app) - Automate end-to-end email tests with unlimited mailboxes and a GraphQL API; works with any GraphQL client (e.g. [graphql-python/gql](https://github.com/graphql-python/gql))
 
 ## Mobile test automation
 
@@ -238,7 +239,7 @@ Also:
 
 * [buildbot](https://pypi.python.org/pypi/buildbot/) - A system to automate the compile/test cycle required by most software projects to validate code changes.
 * [jenkins](http://jenkins-ci.org/) - An extensible open source continuous integration server.
-* [travis-ci](https://travis-ci.org) - Free Hosted Continuous Integration Platform.
+* [travis-ci](https://travis-ci.org) - Free (for open source) Hosted Continuous Integration Platform.
 
 ## Reporting
 
@@ -292,7 +293,8 @@ Libraries that may help you to build better test automation.
 * [devtools-proxy](https://github.com/bayandin/devtools-proxy) - Proxy for Chrome DevTools. Fully compatible with Selenium and ChromeDriver
 * [extratools](https://www.chuancong.site/extratools/) - 145+ extra higher-level functional tools that go beyond standard library’s itertools, functools, etc. and popular third-party libraries like toolz, fancy, and more-itertools.
 * [retrying](https://github.com/rholder/retrying) - Retrying is an Apache 2.0 licensed general-purpose retrying library, written in Python, to simplify the task of adding retry behavior to just about anything. 
-* [mitmproxy](https://mitmproxy.org/) - mitmproxy is a free and open source interactive HTTPS proxy. 
+* [mitmproxy](https://mitmproxy.org/) - mitmproxy is a free and open source interactive HTTPS proxy.
+* [prettyprinter](https://github.com/tommikaikkonen/prettyprinter) - Syntax-highlighting, declarative and composable pretty printer for Python 3.5+
 
 # Resources
 Where to discover new libraries, information, tools, etc.

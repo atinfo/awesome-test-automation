@@ -55,6 +55,8 @@ Also:
     * [Apickli](https://github.com/apickli/apickli) - REST API integration testing framework based on cucumber.js
     * [Mocha Parallel Tests](https://github.com/mocha-parallel/mocha-parallel-tests) - mocha-parallel-tests is a test runner for tests written with mocha testing framework which allows you to run them in parallel.
     * [Tupe](https://github.com/jl-/tupe) - A generic unit-testing runner for front-end built on puppeteer.
+    * [Ava](https://github.com/avajs/ava) - A test runner for Node.js with a concise API, detailed error output, embrace of new language features and process isolation.
+    * [Cabbie](https://cabbiejs.org) - A synchronous and asynchronous webdriver client for node.js
 
 ## Mock frameworks
 * [Sinon.JS](http://sinonjs.org/) - Standalone test spies, stubs and mocks for JavaScript.
@@ -96,6 +98,8 @@ No dependencies, works with any unit testing framework.
 * [Serenity/JS](https://serenity-js.org/) - Serenity/JS makes acceptance and regression testing of modern web apps faster, more collaborative and easier to scale.
 * [Chimpy.js](https://thebrainfamily.github.io/chimpy/) - An awesome developer-centric experience to writing tests with realtime feedback using Mocha, Jasmine or Cucumber.js
 * [Sakuli](https://sakuli.io) - An awesome Node.js based End-to-End (E2E) testing solution which combines Selenium based web testing with full desktop automation. It's custom DSL allows to write complex scenarios which seamlessly switch between the browser and your desktop. It's built-in monitoring support allows to measure performance data from a user perspective.
+* [BackstopJS](https://github.com/garris/BackstopJS) - BackstopJS automates visual regression testing of your responsive web UI by comparing DOM screenshots over time.
+* [testmail.app](https://testmail.app) - Automate end-to-end email tests with unlimited mailboxes and a GraphQL API; works with any GraphQL client (e.g. [graphql-request](https://github.com/prisma/graphql-request))
 
 ## Mobile test automation
 * [WebdriverIO's Appium implementation](http://webdriver.io/api/appium/backgroundApp.html) - nodejs bindings implemeting Appium commands.
