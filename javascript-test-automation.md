@@ -72,7 +72,7 @@ No dependencies, works with any unit testing framework.
 * [WebdriverJS](https://github.com/SeleniumHQ/selenium/wiki/WebDriverJs) - Nodejs webdriver language bindings official implementation from authors of selenium, includes only basic features and commands. Uses Control Flow to syncrhonize async actions.
 * [WebdriverIO](http://webdriver.io/) - Nodejs webdriver language bindings unofficial implementation developed by SauceLabs. Has own handling of async actions using FibersJS and rich set of features
 * [Protractor](http://www.protractortest.org/#/) - End-to-end test framework for Angular applications, comes with JasmineWD included, and built on top of WebdriverJS
-* [CodeceptJS](http://codecept.io/) - Modern era acceptance testing for NodeJS
+* [CodeceptJS](http://codecept.io/) - Supercharged end 2 end testing for NodeJS
 * [Nightwatch.js](http://nightwatchjs.org/) - Easy to use Node.js based End-to-End (E2E) testing solution for browser based apps and websites.
 * [Dalek.js](http://dalekjs.com/) - Automated cross browser testing with JavaScript.
 * [Nemo](http://nemo.js.org/) - Nemo provides a simple way to add selenium automation to your NodeJS web projects. With a powerful configuration ability provided by krakenjs/confit, and plugin architecture, Nemo is flexible enough to handle any browser/device automation need.
