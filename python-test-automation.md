@@ -293,6 +293,7 @@ Libraries that may help you to build better test automation.
 * [extratools](https://www.chuancong.site/extratools/) - 145+ extra higher-level functional tools that go beyond standard library’s itertools, functools, etc. and popular third-party libraries like toolz, fancy, and more-itertools.
 * [retrying](https://github.com/rholder/retrying) - Retrying is an Apache 2.0 licensed general-purpose retrying library, written in Python, to simplify the task of adding retry behavior to just about anything. 
 * [mitmproxy](https://mitmproxy.org/) - mitmproxy is a free and open source interactive HTTPS proxy. 
+* [Python MSS](https://github.com/BoboTiG/python-mss) - An ultra fast cross-platform multiple screenshots module in pure Python using ctypes. 
 
 # Resources
 Where to discover new libraries, information, tools, etc.
