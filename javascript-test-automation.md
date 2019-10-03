@@ -96,6 +96,7 @@ No dependencies, works with any unit testing framework.
 * [Serenity/JS](https://serenity-js.org/) - Serenity/JS makes acceptance and regression testing of modern web apps faster, more collaborative and easier to scale.
 * [Chimpy.js](https://thebrainfamily.github.io/chimpy/) - An awesome developer-centric experience to writing tests with realtime feedback using Mocha, Jasmine or Cucumber.js
 * [Sakuli](https://sakuli.io) - An awesome Node.js based End-to-End (E2E) testing solution which combines Selenium based web testing with full desktop automation. It's custom DSL allows to write complex scenarios which seamlessly switch between the browser and your desktop. It's built-in monitoring support allows to measure performance data from a user perspective.
+* [Buster.js](https://busterjs.readthedocs.io/en/latest) - A browser JavaScript/Node.js testing toolkit.
 
 ## Mobile test automation
 * [WebdriverIO's Appium implementation](http://webdriver.io/api/appium/backgroundApp.html) - nodejs bindings implemeting Appium commands.
