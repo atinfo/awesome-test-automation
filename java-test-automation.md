@@ -208,6 +208,7 @@ Also:
 * [Beanmother](https://github.com/keepcosmos/beanmother) - A library for setting up Java Bean as test data.
 * [PIT](http://pitest.org) - Pitest, a tool for mutation testing
 * [GreenMail](http://www.icegreen.com/greenmail/) - GreenMail is an open source, intuitive and easy-to-use test suite of email servers for testing purposes. Typical use cases include mail integration testing or a lightweight sandboxed mail server for development.
+* [image-comparison](https://romankh3.github.io/image-comparison/) - Java Library that compares 2 images with the same sizes and shows the differences visually by drawing rectangles. Some parts of the image can be excluded from the comparison. Can be used for automation qa tests. 
 
 ## Test Data
 * [Faker](https://github.com/DiUS/java-faker) - Java implementation of Faker, a library for generating fake data such as names, addresses, and phone numbers.
