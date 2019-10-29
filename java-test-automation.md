@@ -54,6 +54,7 @@ Also:
         * [awesome-robotframework](https://github.com/fkromer/awesome-robotframework) - A curated list of awesome Robot Framework resources and libraries
     * [Spectrum](https://github.com/greghaskins/spectrum) - A BDD-style test runner for Java 8. Inspired by Jasmine, RSpec, and Cucumber.
     * [Gauge](https://gauge.org/) - Gauge is a light-weight cross-platform test automation tool with the ability to author test cases in the business language.
+    * [Spock](http://spockframework.org/) - Specification testing framework for Java and Groovy.
 - extensions
     * [cucumber-report-db](https://github.com/porscheinformatik/cucumber-report-db) - Stores results of BDD tests with Cucumber-JVM in a database and provides reporting capabilities.
 
@@ -208,7 +209,9 @@ Also:
 * [Beanmother](https://github.com/keepcosmos/beanmother) - A library for setting up Java Bean as test data.
 * [PIT](http://pitest.org) - Pitest, a tool for mutation testing
 * [GreenMail](http://www.icegreen.com/greenmail/) - GreenMail is an open source, intuitive and easy-to-use test suite of email servers for testing purposes. Typical use cases include mail integration testing or a lightweight sandboxed mail server for development.
-* [image-comparison](https://romankh3.github.io/image-comparison/) - Java Library that compares 2 images with the same sizes and shows the differences visually by drawing rectangles. Some parts of the image can be excluded from the comparison. Can be used for automation qa tests. 
+* [image-comparison](https://romankh3.github.io/image-comparison/) - Java Library that compares 2 images with the same sizes and shows the differences visually by drawing rectangles. Some parts of the image can be excluded from the comparison. Can be used for automation qa tests.
+* [AssertJ](https://joel-costigliola.github.io/assertj/) - Powerful fluent assertion framework. Compatible with any xUnit framework.
+* [Truth](https://truth.dev/) - Fluent assertion framework for Java and Android from Google.
 
 ## Test Data
 * [Faker](https://github.com/DiUS/java-faker) - Java implementation of Faker, a library for generating fake data such as names, addresses, and phone numbers.
