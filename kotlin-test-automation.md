@@ -32,6 +32,7 @@ Also:
 ## TDD \ ATTD \ BDD
 
 * [Kukumber](https://github.com/mlvandijk/kukumber-skeleton) - Getting started with Cucumber in Kotlin.
+* [Spek](https://www.spekframework.org/) - Specification testing framework for Kotlin.
 
 ## API test automation
 
