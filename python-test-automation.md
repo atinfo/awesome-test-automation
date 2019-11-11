@@ -200,6 +200,7 @@ Also:
 * [pyresttest](https://github.com/svanoort/pyresttest) - A REST testing and API microbenchmarking tool
 * [siesta](http://scastillo.github.com/siesta) - Python REST Client
 * [play_requests](https://github.com/davidemoro/play_requests) - [pytest-play](https://github.com/pytest-dev/pytest-play) plugin driving the famous python requests library for making HTTP calls using plain YAML files
+* [gabbi](https://github.com/cdent/gabbi) - a tool for running HTTP tests where requests and responses are expressed as declarations in YAML files.
 
 ## Virtual environments
 
