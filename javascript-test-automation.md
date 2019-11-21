@@ -56,6 +56,7 @@ Also:
     * [Apickli](https://github.com/apickli/apickli) - REST API integration testing framework based on cucumber.js
     * [Mocha Parallel Tests](https://github.com/mocha-parallel/mocha-parallel-tests) - mocha-parallel-tests is a test runner for tests written with mocha testing framework which allows you to run them in parallel.
     * [Tupe](https://github.com/jl-/tupe) - A generic unit-testing runner for front-end built on puppeteer.
+    * [AVA](https://github.com/avajs/ava) - 🚀 A test runner which takes advantage of NodeJS's asynchronous nature to parallelize IO, and run tests concurrently.
 
 ## Mock frameworks
 * [Sinon.JS](http://sinonjs.org/) - Standalone test spies, stubs and mocks for JavaScript.
