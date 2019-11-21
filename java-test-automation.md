@@ -213,6 +213,7 @@ Also:
 * [image-comparison](https://romankh3.github.io/image-comparison/) - Java Library that compares 2 images with the same sizes and shows the differences visually by drawing rectangles. Some parts of the image can be excluded from the comparison. Can be used for automation qa tests.
 * [AssertJ](https://joel-costigliola.github.io/assertj/) - Powerful fluent assertion framework. Compatible with any xUnit framework.
 * [Truth](https://truth.dev/) - Fluent assertion framework for Java and Android from Google.
+* [JSONassert](https://github.com/skyscreamer/JSONassert) - JSON assertion library.
 
 ## Test Data
 * [Faker](https://github.com/DiUS/java-faker) - Java implementation of Faker, a library for generating fake data such as names, addresses, and phone numbers.
