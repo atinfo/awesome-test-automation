@@ -12,6 +12,7 @@ Table of content:
 - [Web UI test automation](#web-ui-test-automation)
 - [Mobile test automation](#mobile-test-automation)
 - [Windows UI test automation](#windows-ui-test-automation)
+- [API automation](#api-automation)
 - [Unix \ Linux UI test automation](#unix--linux-ui-test-automation)
 - [MacOS UI test automation](#macos-ui-test-automation)
 - [Virtual environments](#virtual-environments)
@@ -86,6 +87,9 @@ technology on Windows Phone, iOS and Android
 * [FlaUI](https://github.com/Roemer/FlaUI) - UI automation library for .Net. Rewritten White with UIA3, UIA2, MSAA support
 * [Windows Application Driver](https://github.com/Microsoft/WinAppDriver) - Windows Application Driver is a service to support UI Test Automation of Windows Applications. The service design subscribes to the Mobile JSON Wire Protocol standard.
 
+## API automtation
+
+* [ApprovalTests](https://github.com/approvals/ApprovalTests.Net) - an open source assertion/verification library to aid unit testing. It is compatible with most .Net unit testing frameworks (Nunit, MsTest, xUnit, MBUnit)
 
 ## Virtual environments
 
