@@ -93,6 +93,9 @@ Also:
     * [pretenders](https://github.com/pretenders/pretenders) - fake servers for testing.
     * [mock-server](https://github.com/tomashanacek/mock-server) - Simple mock server for REST and XML-RPC API with admin panel based on tornado.
     * [VCR.py](https://github.com/kevin1024/vcrpy) - Automatically mock your HTTP interactions to simplify and speed up testing.
+    * [model-mmomy](https://github.com/vandersonmota/model_mommy) - Offers a smart way to create fixtures for testing in Django. With a simple and powerful API you can create many objects with a single line of code.
+    * [django-test-plus](https://github.com/revsys/django-test-plus) - Useful additions to Django's default TestCase.
+
 
 ## Test Data manipulation
 
