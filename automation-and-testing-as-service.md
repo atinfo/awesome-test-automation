@@ -29,6 +29,8 @@ Also:
 * [TestAnywhere](https://testanywhere.co/) - Test Anywhere is a cloud service that helps test your website or web application continuously and catch bugs in the early stages
 * [Assertible](https://assertible.com/) - Assertible is an API and website testing service for teams and individuals. Create tests for your business logic, run them on a schedule or after deployments, and get alerted of failures as they occur.
 * [Mailosaur](https://mailosaur.com/) - Allows you to automate email testing. Perform end-to-end tests on password reset, email verification and any area where you send email.
+* [testim.io](https://www.testim.io/) - Automated functional testing platform with a GUI for authoring and machine learning based self-maintenance.
+* [cypress.io](https://github.com/cypress-io/cypress) - Fast, easy and reliable testing for anything that runs in a browser. Runs on Mac, Linux, Windows and any CI.
 
 ## API test automation and testing
 * [MockLab](http://get.mocklab.io?utm_source=awesome-test-automation&utm_medium=automation-and-testing-as-service) is a hosted API simulation tool built on WireMock (maintaining 100% API compatibility). It supports flexible request/response stubbing for any HTTP-based protocol, response templating with Handlebars, conditional proxying and fault injection.
