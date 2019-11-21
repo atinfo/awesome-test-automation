@@ -100,6 +100,7 @@ No dependencies, works with any unit testing framework.
 * [Sakuli](https://sakuli.io) - An awesome Node.js based End-to-End (E2E) testing solution which combines Selenium based web testing with full desktop automation. It's custom DSL allows to write complex scenarios which seamlessly switch between the browser and your desktop. It's built-in monitoring support allows to measure performance data from a user perspective.
 * [Buster.js](https://busterjs.readthedocs.io/en/latest) - A browser JavaScript/Node.js testing toolkit.
 * [page-object](https://github.com/vitalets/page-object) - A Page Object pattern implementation library for JavaScript.
+* [BackstopJS](https://github.com/garris/BackstopJS) - BackstopJS automates visual regression testing of your responsive web UI by comparing DOM screenshots over time.
 
 ## API automation
 * [Just-API](https://github.com/kiranz/just-api) - Declarative testing framework for REST, GraphQL APIs.
