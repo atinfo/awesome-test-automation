@@ -230,6 +230,9 @@ Also:
 * [atinfo.github.io/at.info-knowledge-base](http://atinfo.github.io/at.info-knowledge-base/)  - Knowledge base for test automation examples on different tools and technologies
 * [selenium-simplified](http://seleniumsimplified.com/) - AUTOMATED BROWSER TESTING WITH SELENIUM 2 WEBDRIVER – MADE SIMPLE
 
+## Books
+* [JUnit in Action, Third Edition](https://www.manning.com/books/junit-in-action-third-edition) - A guide to unit testing Java applications with the latest version of JUnit.
+
 # Other Awesome Test Automation Lists
 
 * [python test automation](https://github.com/atinfo/awesome-test-automation/blob/master/python-test-automation.md) 
