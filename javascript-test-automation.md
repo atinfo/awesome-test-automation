@@ -101,6 +101,8 @@ No dependencies, works with any unit testing framework.
 * [Buster.js](https://busterjs.readthedocs.io/en/latest) - A browser JavaScript/Node.js testing toolkit.
 * [page-object](https://github.com/vitalets/page-object) - A Page Object pattern implementation library for JavaScript.
 * [BackstopJS](https://github.com/garris/BackstopJS) - BackstopJS automates visual regression testing of your responsive web UI by comparing DOM screenshots over time.
+* [Taiko](https://github.com/getgauge/Taiko) - A Node.js library to test and automate chromium browsers.
+
 
 ## API automation
 * [Just-API](https://github.com/kiranz/just-api) - Declarative testing framework for REST, GraphQL APIs.
