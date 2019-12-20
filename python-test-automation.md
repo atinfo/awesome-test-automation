@@ -204,6 +204,7 @@ Also:
 * [siesta](http://scastillo.github.com/siesta) - Python REST Client
 * [play_requests](https://github.com/davidemoro/play_requests) - [pytest-play](https://github.com/pytest-dev/pytest-play) plugin driving the famous python requests library for making HTTP calls using plain YAML files
 * [gabbi](https://github.com/cdent/gabbi) - a tool for running HTTP tests where requests and responses are expressed as declarations in YAML files.
+* [Schemathesis](https://github.com/kiwicom/schemathesis) - Schemathesis is a tool for property-based testing of applications based on Open API & Swagger specs. It reads the application schema and generates test cases which will ensure that your application is compliant with its schema. Includes `pytest` & `unittest` integrations.
 
 ## Virtual environments
 
