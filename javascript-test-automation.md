@@ -73,7 +73,7 @@ No dependencies, works with any unit testing framework.
 
 ## Web UI test automation
 * [WebdriverJS](https://github.com/SeleniumHQ/selenium/wiki/WebDriverJs) - Nodejs webdriver language bindings official implementation from authors of selenium, includes only basic features and commands. Uses Control Flow to syncrhonize async actions.
-* [WebdriverIO](http://webdriver.io/) - Nodejs webdriver language bindings unofficial implementation developed by SauceLabs. Has own handling of async actions using FibersJS and rich set of features
+* [WebdriverIO](http://webdriver.io/) - Nodejs webdriver language bindings unofficial implementation. Has own handling of async actions using Fibers and rich set of features
 * [Protractor](http://www.protractortest.org/#/) - End-to-end test framework for Angular applications, comes with JasmineWD included, and built on top of WebdriverJS
 * [CodeceptJS](http://codecept.io/) - Supercharged end 2 end testing for NodeJS
 * [Nightwatch.js](http://nightwatchjs.org/) - Easy to use Node.js based End-to-End (E2E) testing solution for browser based apps and websites.
@@ -82,7 +82,7 @@ No dependencies, works with any unit testing framework.
 * [Frisby](http://frisbyjs.com/) - Is a REST API testing framework built on node.js and Jasmine that makes testing API endpoints easy, fast, and fun.
 * [TestCafe](https://devexpress.github.io/testcafe/) - Automated browser testing for the modern web development stack.
 * [Nightmare](http://www.nightmarejs.org/) - A high-level browser automation library.
-* [Gemini](https://gemini-testing.github.io) - Is an open-source utility for automating visual regression testing of web pages. Gemini takes a screenshot of elements on a page and compares it with baseline images of these elements. If the images don't match, the differences are shown in a report.
+* [Gemini](https://gemini-testing.github.io) - Is an open-source utility for automating visual regression testing of web pages. Gemini takes a screenshot of elements on a page and compares it with baseline images of these elements. If the images don't match, the differences are shown in a report. (Deperecated in favor of Hermione)
 * [Hermione](https://github.com/gemini-testing/hermione#hermione) - Is the utility for integration testing of web pages using [WebdriverIO](http://webdriver.io/) and [Mocha](https://mochajs.org).
 * [Gremlins.js](https://github.com/marmelab/gremlins.js) - gremlins.js is a monkey testing library written in JavaScript, for Node.js and the browser. Use it to check the robustness of web applications by unleashing a horde of undisciplined gremlins.
 * [Puppeteer](https://github.com/GoogleChrome/puppeteer) - Puppeteer is a Node library which provides a high-level API to control headless Chrome over the DevTools Protocol. It can also be configured to use full (non-headless) Chrome. Built with <3 by the Chrome team.
@@ -109,7 +109,7 @@ No dependencies, works with any unit testing framework.
 * [Just-API](https://github.com/kiranz/just-api) - Declarative testing framework for REST, GraphQL APIs.
 
 ## Mobile test automation
-* [WebdriverIO's Appium implementation](http://webdriver.io/api/appium/backgroundApp.html) - nodejs bindings implemeting Appium commands.
+* [WebdriverIO's Appium implementation](https://github.com/webdriverio/appium-boilerplate/) - nodejs bindings implemeting Appium commands.
 * [Macaca](https://macacajs.com/) - Solution for Automation Test with Ease. Both Mobile, Desktop Platforms Supported, native, Hybrid, Mobile Web Multi-applications Supported, Command line tools & CI Solution provided.
 * [Detox](https://github.com/wix/Detox) - Gray Box End-to-End Testing and Automation Framework for Mobile Apps 
 * [Cavy](https://github.com/pixielabs/cavy) - Cavy is a cross-platform integration test framework for React Native, by Pixie Labs.
