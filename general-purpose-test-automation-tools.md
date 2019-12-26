@@ -47,6 +47,7 @@ Also:
 * [Restlet Client](https://chrome.google.com/webstore/detail/restlet-client-rest-api-t/aejoelaoggembcahagimdiliamlcdmfm) - Restlet Client (formerly known as DHC) allows you to interact with REST services. It brings many different features that make your user experience better, save you precious time when debugging HTTP calls or sharing your requests with others.
 * [Beeceptor](https://beeceptor.com) - Beeceptor is an HTTP proxy for intercepting and mocking API calls selectively. E.g. assume api 'A' has a downstream api 'B', how do simulate B's responses for validating 'A'. Beeceptor also helps in performance testing 'A' by mocking all calls of 'B' and not impacting downstream services.
 * [Swagger](https://swagger.io/) - Swagger is the open-source framework of API developer tools for the OpenAPI Specification(OAS), enabling development across the entire API lifecycle, from design and documentation, to test and deployment. 
+* [Schemathesis](https://github.com/kiwicom/schemathesis) - Schemathesis is a tool for property-based testing of applications based on Open API & Swagger specs. It reads the application schema and generates test cases which will ensure that your application is compliant with its schema.
 * [GMeter](https://github.com/hexdigest/gmeter) - GMeter is an open-source standalone HTTP reverse-proxy server for recording and replaying HTTP requests. GMeter allows you to record multiple HTTP requests made within one test case to a "cassette" and to use this cassette to mock downstream service later on.
 
 ## Performance and load testing
