@@ -119,6 +119,7 @@ Also:
 * [Pylint](http://www.pylint.org/) - A source code analyzer.
 * [hacking](https://github.com/openstack-dev/hacking) - OpenStack Hacking Style Checks (`flake8` plugins).
 * [prospector](https://github.com/landscapeio/prospector) - A tool to analyse Python code and output information about errors, potential problems, convention violations and complexity.
+* [wemake-python-styleguide](https://github.com/wemake-services/wemake-python-styleguide) - The strictest and most opinionated python linter ever!
 
 ## Web UI test automation
 
