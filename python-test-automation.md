@@ -303,6 +303,8 @@ Libraries that may help you to build better test automation.
 * [Python MSS](https://github.com/BoboTiG/python-mss) - An ultra fast cross-platform multiple screenshots module in pure Python using ctypes. 
 * [Loguru](https://github.com/Delgan/loguru) - Loguru is a library which aims to bring enjoyable logging in Python.
 * [prettyprinter](https://github.com/tommikaikkonen/prettyprinter) - Syntax-highlighting, declarative and composable pretty printer for Python 3.5+
+* [jsonschema](https://github.com/Julian/jsonschema) - JSON Schema implementation
+for Python. Powerful tool for validating the structure of JSON data.
 
 # Resources
 Where to discover new libraries, information, tools, etc.
