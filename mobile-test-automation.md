@@ -9,6 +9,7 @@ Table of content:
 - [Cross-platform tools](#cross-platform-tools)
 - [Android](#android)
 - [iOS](#ios)
+- [Set-top boxes / media players](#set-top-boxes--media-players)
 - [Environment](#environment)
 
 Make a pull request to add new chapter
@@ -37,6 +38,9 @@ Also:
 ## iOS
 * [EarlGrey](https://github.com/google/EarlGrey) is a native iOS UI automation test framework that enables you to write clear, concise tests. With the EarlGrey framework, you have access to enhanced synchronization features. EarlGrey automatically synchronizes with the UI, network requests, and various queues; but still allows you to manually implement customized timings, if needed.
 * [bluepill](https://github.com/linkedin/bluepill) is a reliable iOS testing tool that runs UI tests using multiple simulators on a single machine.
+
+## Set-top boxes / media players
+* [Stb-tester](https://stb-tester.com) is an open source tool for testing set-top boxes and media players such as Apple TV, Roku, PlayStation, XBox, and cable/satellite TV receivers —any device with an HDMI output— by using video-capture hardware and image processing.
 
 ## Environment
 
