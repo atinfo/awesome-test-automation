@@ -181,6 +181,7 @@ No dependencies, works with any unit testing framework.
 * [Atom](https://atom.io) - Full-featured, right out of the box text editor that's modern, approachable, yet hackable to the core from Github
 
 ## Useful libs
+* [faker](https://www.npmjs.com/package/faker) - generate massive amounts of fake data in the browser and node.js
 
 [Contribute to this section](https://github.com/atinfo/awesome-test-automation/blob/master/CONTRIBUTING.md)
 
