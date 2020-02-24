@@ -173,7 +173,7 @@ Where to discover new libraries, information, tools, etc.
 
 * [automated-testing.info](http://automated-testing.info) - Test automation community
 * [atinfo.github.io/at.info-knowledge-base](http://atinfo.github.io/at.info-knowledge-base/)  - Knowledge base for test automation examples on different tools and technologies
-* [https://www.guru99.com/](https://www.guru99.com/) - A resource where the material on testing theory is described in accessible English.
+* [guru99.com](https://www.guru99.com/) - A resource where the material on testing theory is described in accessible English.
 
 # Other Awesome Test Automation Lists
 
