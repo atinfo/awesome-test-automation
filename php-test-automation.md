@@ -60,7 +60,7 @@ Also:
 * [PHP Code Sniffer](https://github.com/squizlabs/PHP_CodeSniffer) - Standard/convention violation checker
 * [PHP Dead Code Detector](https://github.com/sebastianbergmann/phpdcd) - Unused code locator
 * [PHP DocBlock Checker](https://github.com/Block8/php-docblock-checker) - Simple tool that checks focblock presence
-* [PHP Parallel Lint](https://github.com/JakubOnderka/PHP-Parallel-Lint) - Simple lint checker
+* [PHP Parallel Lint](https://github.com/php-parallel-lint/PHP-Parallel-Lint) - Simple lint checker
 * [PDepend](http://pdepend.org/) - Complex metrics analyzer
 * [PHP Lines Of Code](https://github.com/sebastianbergmann/phploc) - Project sizing analyzer
 
