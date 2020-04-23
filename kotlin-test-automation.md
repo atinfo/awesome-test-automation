@@ -33,7 +33,7 @@ Also:
 
 * [Kukumber](https://github.com/mlvandijk/kukumber-skeleton) - Getting started with Cucumber in Kotlin.
 * [Spek](https://www.spekframework.org/) - Specification testing framework for Kotlin.
-* [KotlinTest](https://github.com/kotlintest/kotlintest) - Powerful, elegant and flexible test framework for Kotlin.
+* [Kotest](https://github.com/kotest/kotest) - Kotest(previously known as kotlintest) is a powerful, elegant and flexible test framework for Kotlin.
 
 ## Build Tools
 * [Kobalt](http://beust.com/kobalt/home/index.html) - Kotlin-based build system for the JVM.
