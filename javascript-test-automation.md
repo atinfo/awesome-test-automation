@@ -107,6 +107,8 @@ No dependencies, works with any unit testing framework.
 
 
 ## API automation
+* [SuperTest](https://github.com/visionmedia/supertest) - Super-agent driven library for testing node.js HTTP servers using a fluent API.
+* [Frisby](https://github.com/vlucas/frisby) - Frisby is a REST API testing framework built on Jest that makes testing API endpoints easy, fast, and fun.
 * [Just-API](https://github.com/kiranz/just-api) - Declarative testing framework for REST, GraphQL APIs.
 
 ## Mobile test automation
@@ -182,6 +184,8 @@ No dependencies, works with any unit testing framework.
 
 ## Useful libs
 * [faker](https://www.npmjs.com/package/faker) - generate massive amounts of fake data in the browser and node.js
+* [interfake](https://github.com/basicallydan/interfake) -  Fake APIs for prototypes & automated tests.
+* [node-replay](https://github.com/assaf/node-replay) -  When API testing slows you down: record and replay HTTP responses like a boss 
 
 [Contribute to this section](https://github.com/atinfo/awesome-test-automation/blob/master/CONTRIBUTING.md)
 
@@ -193,6 +197,7 @@ Where to discover new libraries, information, tools, etc.
 
 * [automated-testing.info](http://automated-testing.info) - Test automation community
 * [atinfo.github.io/at.info-knowledge-base](http://atinfo.github.io/at.info-knowledge-base/)  - Knowledge base for test automation examples on different tools and technologies
+
 
 ## Articles
 * [js-testrunners-bench](https://github.com/vitalets/js-testrunners-bench) - Performance comparison of the most popular JavaScript test-runners. 
