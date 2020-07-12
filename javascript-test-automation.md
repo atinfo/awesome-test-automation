@@ -143,6 +143,7 @@ No dependencies, works with any unit testing framework.
 ## Performance & stress & load
 * [k6](https://github.com/loadimpact/k6) - Like unit testing, for performance. A modern load testing tool, using Go and JavaScript.
 * [artillery](https://artillery.io/) - Artillery is a modern, powerful & easy-to-use load testing toolkit. Use it to build scalable applications that stay performant & resilient under high load.
+* [predator](https://predator.dev) - Distributed performance testing platform for APIs, using [artillery](https://artillery.io/) as its load engine.
 
 ## Security checking
 * [npm vulnerability scanner](https://github.com/ellerbrock/travis-vulnerability-scanner) - Vulnerability Scanner for npm Modules with Travis CI and the Node Security Platform CLI Tool.
