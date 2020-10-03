@@ -35,6 +35,7 @@ Also:
 
 ## API test automation and testing
 * [MockLab](http://get.mocklab.io?utm_source=awesome-test-automation&utm_medium=automation-and-testing-as-service) is a hosted API simulation tool built on WireMock (maintaining 100% API compatibility). It supports flexible request/response stubbing for any HTTP-based protocol, response templating with Handlebars, conditional proxying and fault injection.
+* [vREST](https://vrest.io/) is a cloud based API testing solution covering various features like validation, integration and mock servers.  
 
 
 ## Mobile test automation
