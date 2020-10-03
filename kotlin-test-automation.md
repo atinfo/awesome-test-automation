@@ -52,7 +52,8 @@ Also:
 * [Hamkrest](https://github.com/npryce/hamkrest) - Kotlin implementation of popular Java library.
 * [MockK](https://mockk.io/) - Pure mocking library for Kotlin.
 * [mockito-kotlin](https://github.com/nhaarman/mockito-kotlin) - Mockito extension for Kotlin.
-* [Kakao](https://github.com/agoda-com/Kakao) Nice and simple DSL for Espresso in Kotlin
+* [Kakao](https://github.com/agoda-com/Kakao) Nice and simple DSL for Espresso in Kotlin.
+* [Strikt](https://strikt.io/) is an assertion library for Kotlin intended for use with a test runner such as JUnit or Spek.
 
 # Resources
 
