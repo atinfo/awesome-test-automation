@@ -37,6 +37,7 @@ Also:
 ## iOS
 * [EarlGrey](https://github.com/google/EarlGrey) is a native iOS UI automation test framework that enables you to write clear, concise tests. With the EarlGrey framework, you have access to enhanced synchronization features. EarlGrey automatically synchronizes with the UI, network requests, and various queues; but still allows you to manually implement customized timings, if needed.
 * [bluepill](https://github.com/linkedin/bluepill) is a reliable iOS testing tool that runs UI tests using multiple simulators on a single machine.
+* [XCUITest](https://developer.apple.com/library/archive/documentation/DeveloperTools/Conceptual/testing_with_xcode/chapters/09-ui_testing.html) is the automation framework that ships with Apple's XCode. The XCTest framework lets iOS app developers create and run unit tests, performance tests and UI tests for XCode projects.
 
 ## Environment
 
