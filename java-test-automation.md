@@ -168,6 +168,7 @@ Also:
 
 * [Jenkins](http://jenkins-ci.org/) - Jenkins is an award-winning application that monitors executions of repeated jobs, such as building a software project or jobs run by cron.
 * [TeamCity](https://www.jetbrains.com/teamcity/) - Powerful and user-friendly Continuous Integration and Deployment server that works out of the box.
+* [Drone](https://drone.io/) Drone is a self-service Continuous Integration platform for busy development teams.
 
 ## Reporting
 
@@ -191,6 +192,7 @@ Also:
 * [Eclipse](https://eclipse.org/ide/) - Eclipse is famous for our Java Integrated Development Environment (IDE), C/C++ IDE and PHP IDE.
     * [Genie plugin](https://sourceforge.net/adobe/genie/wiki2/FAQ/) - Functional Test Automation tool for pure AS 3.0 SWF and Flash Games.  
 * [NetBeans](https://netbeans.org/features/index.html) - NetBeans IDE is the official IDE for Java 8. With its editors, code analyzers, and converters, you can quickly and smoothly upgrade your applications to use new Java 8 language constructs, such as lambdas, functional operations, and method references.
+* [VSCode](https://code.visualstudio.com/) Code editing. Redefined.
 
 ## ORM frameworks and libraries
 
@@ -205,7 +207,6 @@ Also:
 * [Lombok](https://projectlombok.org) - Project Lombok makes Java a spicier language by adding 'handlers' that know how to build and compile simple, boilerplate-free, not-quite-java code.
 * [AspectJ](https://eclipse.org/aspectj) - Seamless aspect-oriented extension to the Java. AspectJ enables clean modularization of crosscutting concerns, such as error checking and handling, synchronization, context-sensitive behavior, performance optimizations, monitoring and logging, debugging support, and multi-object protocols.
 * [aShot](https://github.com/yandex-qatools/ashot) - WebDriver Screenshot utility. Take screenshots, crop, prettify, compare.
-* [rest-assured](https://code.google.com/p/rest-assured/) - Testing and validating REST services in Java is harder than in dynamic languages such as Ruby and Groovy. REST Assured brings the simplicity of using these languages into the Java domain.
 * [WireMock](http://wiremock.org/) is a flexible library for stubbing and mocking web services. Unlike general purpose mocking tools it works by creating an actual HTTP server that your code under test can connect to as it would a real web service.
 * [MockServer](http://www.mock-server.com/) can be used for mocking any system you integrate with via HTTP or HTTPS (i.e. services, web sites, etc).
 * [Mockito](http://site.mockito.org/) is a mocking framework that lets you write beautiful tests with a clean & simple API.
