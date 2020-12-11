@@ -11,6 +11,7 @@ Table of content:
 - [Security testing](#security-testing)
 - [REST API testing](#api-testing)
 - [Test design](#test-design)
+- [Test management](#test-management)
 - [Web UI test automation](#web-ui-test-automation)
 - [Windows GUI automation](#windows-gui-automation)
 
@@ -67,6 +68,10 @@ Also:
 ## Test design
 
 * [PICT (Pairwise Independent Combinatorial Testing)](https://github.com/Microsoft/pict) - PICT generates test cases and test configurations. With PICT, you can generate tests that are more effective than manually generated tests and in a fraction of the time required by hands-on test case design.
+
+## Test management
+
+* [Testomat.io](https://testomat.io/) - test management and reporting system for javascript automated tests
 
 # Resources
 Where to discover new libraries, information, tools, etc.
