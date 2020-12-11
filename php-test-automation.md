@@ -111,7 +111,7 @@ service](http://security.sensiolabs.org/) and the [Security Advisories Database]
 * [Sismo](https://sismo.symfony.com/) - Unlike more "advanced" Continuous Integration Servers (like Jenkins), Sismo does not try to do more than getting your code, running your tests, and send you notifications.
 
 ## Reporting
-* [Testomat.io](https://testomat.io/) - test management and reporting system for javascript automated tests
+* [Testomat.io](https://testomat.io/) - test management and reporting system for php automated tests
 * [ReportPortal.io](http://ReportPortal.io) - [BeHat](https://github.com/reportportal/agent-php-Behat) powerfull results management and analytics for test automation reports. Powered with Machine Learning. Real-time integration and reports, visualization of trends and statistics, custom dashboards and widgets, gives you real visibility into the state of test automation. Integral part of CI/CD with TA and Continous Testing. Server-client application, can be used for any type of automated tests. Free and OpenSourced, [GitHub link](https://github.com/reportportal).
 * [Allure Framework](http://allure.qatools.ru/) - Allure Framework is a framework that provides rich and
 beautiful reports with extended possibilities like screenshot capturing. Allure
@@ -142,7 +142,7 @@ Where to discover new libraries, information, tools, etc.
 * [automated-testing.info](http://automated-testing.info) - Test automation community
 * [atinfo.github.io/at.info-knowledge-base](http://atinfo.github.io/at.info-knowledge-base/)  - Knowledge base for test automation examples on different tools and technologies
 * [PHP QA Toolchain](http://phpqatools.org/) - website with reference of most frequently used QA tools
-* [Testomat.io](https://testomat.io/) - test management and reporting system for javascript automated tests
+* [Testomat.io](https://testomat.io/) - test management and reporting system for php automated tests
 
 # Other Awesome Test Automation Lists
 
