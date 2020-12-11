@@ -56,7 +56,7 @@ Also:
 * [Scan My Server](https://www.scanmyserver.com/) - Free tool for Web Security scanning.
 
 ## Reporting
-
+* [Testomat.io](https://testomat.io/) - test management and reporting system for automated tests
 * [Browsershots](http://browsershots.org/) -  Makes screenshots of your web design in different browsers. It is a free open-source online service created by Johann C. Rocholl. When you submit your web address, it will be added to the job queue. A number of distributed computers will open your website in their browser. Then they will make screenshots and upload them to the central server here.
 * [Perfomatic](https://wiki.mozilla.org/Perfomatic) - Mozilla graph server is used to understand how multiple performance metrics change over time. It is a web application for creating graphs of performance test results for a user-configurable combination of branch, operating system and machine. [Example](http://graphs.mozilla.org/graph.html).
 
