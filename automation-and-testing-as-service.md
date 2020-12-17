@@ -32,6 +32,7 @@ Also:
 * [testim.io](https://www.testim.io/) - Automated functional testing platform with a GUI for authoring and machine learning based self-maintenance.
 * [cypress.io](https://github.com/cypress-io/cypress) - Fast, easy and reliable testing for anything that runs in a browser. Runs on Mac, Linux, Windows and any CI.
 * [Rainforest QA](https://www.rainforestqa.com/) - No Code Mobile & Web Testing for everything. Mac, Linux, Windows, iOS & Android.
+* [BugBug.io](https//bugbug.io/) - Codeless, end-to-end testing tool which allows you to easily record&play tests in you own browser, schedule them in the cloud or connect with your CI/CD pipeline.
 
 ## API test automation and testing
 * [MockLab](http://get.mocklab.io?utm_source=awesome-test-automation&utm_medium=automation-and-testing-as-service) is a hosted API simulation tool built on WireMock (maintaining 100% API compatibility). It supports flexible request/response stubbing for any HTTP-based protocol, response templating with Handlebars, conditional proxying and fault injection.
