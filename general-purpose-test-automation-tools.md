@@ -60,6 +60,7 @@ Also:
 ## Security testing
 
 * [OWASP Glue](https://github.com/OWASP/glue) - Glue is a framework for running a series of tools. Generally, it is intended as a backbone for automating a security analysis pipeline of tools.
+* [Cloudquery](https://github.com/cloudquery/cloudquery) - Cloudquery transforms your cloud infrastructure to relational database. Giving you the power to run security and compliance checks with SQL statements. 
 
 ## Windows GUI automation
 
