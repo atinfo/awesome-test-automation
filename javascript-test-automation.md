@@ -111,6 +111,7 @@ No dependencies, works with any unit testing framework.
 * [SuperTest](https://github.com/visionmedia/supertest) - Super-agent driven library for testing node.js HTTP servers using a fluent API.
 * [Frisby](https://github.com/vlucas/frisby) - Frisby is a REST API testing framework built on Jest that makes testing API endpoints easy, fast, and fun.
 * [Just-API](https://github.com/kiranz/just-api) - Declarative testing framework for REST, GraphQL APIs.
+* [PactumJS](https://pactumjs.github.io) - REST API Testing Tool for all levels in a Test Pyramid.
 
 ## Mobile test automation
 * [WebdriverIO's Appium implementation](https://github.com/webdriverio/appium-boilerplate/) - nodejs bindings implemeting Appium commands.
