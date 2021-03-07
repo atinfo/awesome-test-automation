@@ -154,6 +154,7 @@ Also:
 * [Lightning](http://automatictester.github.io/lightning/) - Integrate JMeter non-functional tests with CI/CD server.
 * [Tsung](http://tsung.erlang-projects.org/) - Erlang based multi-protocol distributed load testing tool.
 * [Gatling](http://gatling.io/) - Gatling is an open-source load testing framework based on Scala, Akka and Netty. Is a highly capable load testing tool. It is designed for ease of use, maintainability and high performance. Based on an expressive DSL, the scenarios are self explanatory. They are easy to maintain and can be kept in a version control system. Gatling  architecture lets implement virtual users as messages instead of dedicated threads, making them very resource cheap. Thus, running thousands of concurrent virtual users is not an issue.
+* [CRUX](https://github.com/ObjectivityLtd/crux) - (pron. kruhks) is build around Kubernetes (AKS) and JMeter. It makes it easy to incorporate performance tests into your Azure CI/CD pipeline. Each performance build can create and destroy infrastructure necessary for the run, which makes it cost effective. CRUX deploys a distributed JMeter cluster on Kubernetes (AKS) with the size you need, runs tests, destroys infrastructure. If you do not have an AKS, be at ease, you can also run JMeter tests with CRUX directly on build agent with docker.
 
 ## Security checking
 
