@@ -230,7 +230,6 @@ Also:
 
 ## DataBase test automation
 * [DBTestCompare](https://github.com/ObjectivityLtd/DBTestCompare) - Application to compare results of two SQL queries. Supports all databases with JDBC drivers provided (tested with Microsoft SQL Server, Teradata, Snowflake, PostgreSQL and MySQL\MariaDB). [DBTestCompareGenerator](https://github.com/ObjectivityLtd/DBTestCompareGenerator) - Tool for generating database tests that can be run with DBTestCompare.
-* [NBi](https://github.com/Seddryck/NBi) - NBi is a testing framework (add-on to NUnit) for Business Intelligence. It supports most of the relational databases (SQL server, MySQL, postgreSQL ...) and OLAP platforms (Analysis Services, Mondrian ...) but also ETL and reporting components (Microsoft technologies).
 
 # Resources
 * [Serenity BDD (Thucydides) libraries](http://thucydides.info/docs/thucydides-one-page/thucydides.html)
