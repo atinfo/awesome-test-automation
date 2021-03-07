@@ -23,6 +23,7 @@ Table of content:
 - [Documentation generation](#documentation-generation)
 - [Editors, IDE and consoles](#editors-ide-consoles)
 - [Useful libs](#useful-libs)
+- [DataBase test automation](#database-test-automation)
 
 Also:
 
@@ -147,6 +148,10 @@ Visual Studio Professional is became free for small teams.
 * [Json.NET](https://www.nuget.org/packages/Newtonsoft.Json/) is a popular high-performance JSON framework for .NET
 * [RestSharp](https://www.nuget.org/packages/RestSharp/) ― simple REST and HTTP API Client
 * [XMLUnit](http://www.xmlunit.org/) - testing and comparing XML output for Java and .NET
+
+## DataBase test automation
+* [DBTestCompareGenerator](https://github.com/ObjectivityLtd/DBTestCompareGenerator) - Tool for generating database tests that can be run with [DBTestCompare](https://github.com/ObjectivityLtd/DBTestCompare).
+* [NBi](https://github.com/Seddryck/NBi) - NBi is a testing framework (add-on to NUnit) for Business Intelligence. It supports most of the relational databases (SQL server, MySQL, postgreSQL ...) and OLAP platforms (Analysis Services, Mondrian ...) but also ETL and reporting components (Microsoft technologies).
 
 # Resources
 Where to discover new libraries, information, tools, etc.
