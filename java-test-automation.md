@@ -86,7 +86,7 @@ Also:
     * [stevia](https://github.com/persado/stevia) - Open Source QA Automation Testing Framework by Persado
     * [darcy](https://github.com/darcy-framework) - An open source Java 8 framework for modeling user interfaces as page objects with a declarative, automation-library-agnostic DSL
     * [Satisfy](http://satisfy.tapack.io) - An open source Java framework based on Thucydides + Jbehave. Supports to work with WebUI, SOAP, REST, emails, files and generate random data out of the box.
-    * [JDI UI Test Automation Framework](https://github.com/epam/JDI/) - is the test Framework for UI test automation. It extends the Page Objects design pattern and introduces many additional elements along with implementation of its common usages.
+    * [JDI Light](https://github.com/jdi-testing/jdi-light) - is the test Framework for UI test automation that helps to makes your tests fast and sustainable and provide obvious and predictable test run result.
     * [Geb Framework](http://gebish.org/) - A groovy test automation framework designed for the use with the Webdriver Page Object model and the Spock Framework for (BDD).
     * [FluentLenium](https://github.com/FluentLenium/FluentLenium) - FluentLenium helps you writing readable, reusable, reliable and resilient UI functional tests for the browser. FluentLenium provides a Java fluent interface to Selenium, and brings some magic to avoid common issues faced by Selenium users.
     * [Selion](https://github.com/paypal/SeLion) - builds on top of TestNG and Selenium to provide a set of capabilities that get you up and running with WebDriver in a short time. It can be used for testing web and mobile applications.
