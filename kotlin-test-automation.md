@@ -43,6 +43,7 @@ Also:
 ## API test automation
 
 * [hikaku](https://github.com/codecentric/hikaku) - A library that tests if the implementation of a REST-API meets its specification.
+* [Fuel](https://github.com/kittinunf/fuel) - The easiest HTTP networking library for Kotlin/Android.
 
 ## Editors, IDE, consoles
 
