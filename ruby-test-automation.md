@@ -49,6 +49,7 @@ Also:
 - Assertions
     * [Shoulda](https://github.com/thoughtbot/shoulda) - is intended for unit testing, and becomes available in Ruby projects on attaching the shoulda gem. So doing, the Shoulda tests are added on to the Test::Unit framework.
     * [shoulda-matchers](https://github.com/thoughtbot/shoulda-matchers) - Provides Test::Unit- and RSpec-compatible one-liners that test common Rails functionality. These tests would otherwise be much longer, more complex, and error-prone.
+    * [Spectus](https://github.com/fixrb/spectus) - Expectation library with RFC 2119's requirement levels.
 - Mocking
     * [ActiveMocker](https://github.com/zeisler/active_mocker) - Generate mocks from ActiveRecord models for unit tests that run fast because they don’t need to load Rails or a database.
     * [TestXml](https://github.com/alovak/test_xml) - TestXml is a small extension for testing XML/HTML.
