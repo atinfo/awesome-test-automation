@@ -52,6 +52,7 @@ Also:
 * [Schemathesis](https://github.com/kiwicom/schemathesis) - Schemathesis is a tool for property-based testing of applications based on Open API & Swagger specs. It reads the application schema and generates test cases which will ensure that your application is compliant with its schema.
 * [GMeter](https://github.com/hexdigest/gmeter) - GMeter is an open-source standalone HTTP reverse-proxy server for recording and replaying HTTP requests. GMeter allows you to record multiple HTTP requests made within one test case to a "cassette" and to use this cassette to mock downstream service later on.
 * [Insomnia](https://insomnia.rest/) provides workflows and tools to make API Development Easier.
+* [Apitest](https://github.com/sigoden/apitest) - Apitest is declarative api testing tool with JSON-like DSL for easy testing of REST services.
 
 ## Performance and load testing
 * [k6](https://github.com/loadimpact/k6) - Like unit testing, for performance. A modern load testing tool, using Go and JavaScript.
