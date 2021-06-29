@@ -49,6 +49,7 @@ Also:
 - Assertions
     * [Shoulda](https://github.com/thoughtbot/shoulda) - is intended for unit testing, and becomes available in Ruby projects on attaching the shoulda gem. So doing, the Shoulda tests are added on to the Test::Unit framework.
     * [shoulda-matchers](https://github.com/thoughtbot/shoulda-matchers) - Provides Test::Unit- and RSpec-compatible one-liners that test common Rails functionality. These tests would otherwise be much longer, more complex, and error-prone.
+    * [Spectus](https://github.com/fixrb/spectus) - Expectation library with RFC 2119's requirement levels.
 - Mocking
     * [ActiveMocker](https://github.com/zeisler/active_mocker) - Generate mocks from ActiveRecord models for unit tests that run fast because they don’t need to load Rails or a database.
     * [TestXml](https://github.com/alovak/test_xml) - TestXml is a small extension for testing XML/HTML.
@@ -85,6 +86,7 @@ Also:
     * [Poltergeist](https://github.com/teampoltergeist/poltergeist) - Poltergeist is a driver for Capybara. It allows you to run your Capybara tests on a headless WebKit browser, provided by PhantomJS.
     * [PhantomJS](http://phantomjs.org/) - is a headless WebKit scriptable with a JavaScript API. It has fast and native support for various web standards: DOM handling, CSS selector, JSON, Canvas, and SVG.
     * [unobtainium](https://github.com/jfinkhaeuser/unobtainium) - configuration driven wrapper for Selenium WebDriver and [appium](http://appium.io/), with PhantomJS support.
+    * [Airborne](https://github.com/brooklynDev/airborne) - RSpec driven API testing framework.
 - frameworks
     * [Capybara](https://github.com/teamcapybara/capybara) - Acceptance test framework for web applications.
     * [Konacha](https://github.com/jfirebaugh/konacha) - Test your Rails application's JavaScript with the mocha test framework and chai assertion library.
@@ -101,7 +103,9 @@ Also:
 
 ## Mobile test automation
 
-* [Calabash](http://calaba.sh/) - Calabash enables you to write and execute automated acceptance tests on mobile apps. It's cross-platform, supporting Android and iOS native apps. 
+* [Calabash](https://github.com/calabash) - Calabash enables you to write and execute automated acceptance tests on mobile apps. It's cross-platform, supporting Android and iOS native apps.
+* [Appium](http://appium.io/) - Appium is an open source test automation framework for use with native, hybrid and mobile web apps. 
+                                It drives iOS, Android, and Windows apps using the WebDriver protocol.
 
 ## Windows UI test automation
 
@@ -120,10 +124,11 @@ Also:
 * [RVM](https://rvm.io/) - Ruby Version Manager (RVM) is a unix command-line tool which allows you to easily install, manage, and work with multiple ruby environments from interpreters to sets of gems.
 * [Pik](http://rubyinstaller.org/add-ons/pik/) - Multi-Ruby Manager for Windows.
 * [rbenv](http://rbenv.org/) - Use rbenv to pick a Ruby version for your application and guarantee that your development environment matches production.
+* [asdf-vm](https://asdf-vm.com/) - Manage multiple runtime versions with a single CLI tool, for Node.js, Ruby, Python, Elixir 
 
 ## Performance & stress & load
 
-[Contribute to this section](https://github.com/atinfo/awesome-test-automation/blob/master/CONTRIBUTING.md)
+* [Yandex.Tank](https://yandex.ru/dev/tank/) - Yandex.Tank is a tool for performing load testing and analyzing the performance of web services and applications
 
 ## Security checking
 
@@ -133,6 +138,9 @@ Also:
 ## Continuous Integration
 
 * [Knapsack](https://github.com/ArturT/knapsack) - Optimal test suite parallelisation across CI nodes for RSpec, Cucumber, Minitest, Spinach and Turnip.
+* [Teamcity](https://www.jetbrains.com/teamcity/) - Powerful Continuous Integration out of the box 
+* [Jenkins](https://jenkins.io/) - The leading open source automation server, Jenkins provides hundreds of plugins to support building, deploying and automating any project. 
+                                   As an extensible automation server, Jenkins can be used as a simple CI server or turned into the continuous delivery hub for any project. 
 
 ## Reporting
 
@@ -144,7 +152,12 @@ Also:
 
 ## Editors, IDE, consoles
 
-[Contribute to this section](https://github.com/grosser/parallel_tests)
+* [Rubymine](https://www.jetbrains.com/ruby/) - Paid version
+* [Visual Studio Code](https://code.visualstudio.com/) - Free version
+* [Sublime text](https://www.sublimetext.com/) - Paid version
+* [Atom](https://atom.io/) - Free version
+* [Vim](https://www.vim.org/) - Free version
+* [Emacs](https://www.gnu.org/software/emacs/) - Free version  
 
 ## Useful libs
 
@@ -161,6 +174,7 @@ Where to discover new libraries, information, tools, etc.
 
 * [automated-testing.info](http://automated-testing.info) - Test automation community
 * [atinfo.github.io/at.info-knowledge-base](http://atinfo.github.io/at.info-knowledge-base/)  - Knowledge base for test automation examples on different tools and technologies
+* [guru99.com](https://www.guru99.com/) - A resource where the material on testing theory is described in accessible English.
 
 # Other Awesome Test Automation Lists
 

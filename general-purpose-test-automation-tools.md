@@ -11,6 +11,7 @@ Table of content:
 - [Security testing](#security-testing)
 - [REST API testing](#api-testing)
 - [Test design](#test-design)
+- [Test management](#test-management)
 - [Web UI test automation](#web-ui-test-automation)
 - [Windows GUI automation](#windows-gui-automation)
 
@@ -25,6 +26,7 @@ Also:
 ## Functional testing
 * [gauge](http://getgauge.io) Light weight cross-platform test automation
 * [STAF](http://staf.sourceforge.net/) The Software Testing Automation Framework (STAF) is an open source, multi-platform, multi-language framework designed around the idea of reusable components, called services (such as process invocation, resource management, logging, and monitoring). STAF removes the tedium of building an automation infrastructure, thus enabling you to focus on building your automation solution. The STAF framework provides the foundation upon which to build higher level solutions, and provides a pluggable approach supported across a large variety of platforms and languages.
+* [Cerberus](https://github.com/cerberustesting/cerberus-source) is a low-code software testing automation enabling continuous testing at scale. The solution allows the collaboration of the teams from the use-cases definition to the test case execution on the variety of browsers, devices, apps and APIs. It supports various integrations for speed of implementation such as Jenkins, Bitbucket,  Slack, Kafka. It is available and maintained in open-source by various digital and retail players such as La Redoute, Decathlon, Adeo, Norauto.
 * [OpenTest](https://getopentest.org/) OpenTest is an open source functional test automation tool for web applications, mobile apps and REST APIs, maintained by McDonald's. OpenTest requires little to no coding skills but does provide the ability to seamlessly embed JavaScript code into the test logic to cater to complex scenarios.
 * [RobotFramework](http://robotframework.org/) Robot Framework is a generic test automation framework for acceptance testing and acceptance test-driven development (ATDD).
 * [Ranorex](http://www.ranorex.com/) - Ranorex is a GUI test automation framework for testing of desktop, web-based and mobile applications. Ranorex is provided by Ranorex GmbH, a software development company for innovative software test automation solutions.
@@ -47,7 +49,10 @@ Also:
 * [Restlet Client](https://chrome.google.com/webstore/detail/restlet-client-rest-api-t/aejoelaoggembcahagimdiliamlcdmfm) - Restlet Client (formerly known as DHC) allows you to interact with REST services. It brings many different features that make your user experience better, save you precious time when debugging HTTP calls or sharing your requests with others.
 * [Beeceptor](https://beeceptor.com) - Beeceptor is an HTTP proxy for intercepting and mocking API calls selectively. E.g. assume api 'A' has a downstream api 'B', how do simulate B's responses for validating 'A'. Beeceptor also helps in performance testing 'A' by mocking all calls of 'B' and not impacting downstream services.
 * [Swagger](https://swagger.io/) - Swagger is the open-source framework of API developer tools for the OpenAPI Specification(OAS), enabling development across the entire API lifecycle, from design and documentation, to test and deployment. 
+* [Schemathesis](https://github.com/kiwicom/schemathesis) - Schemathesis is a tool for property-based testing of applications based on Open API & Swagger specs. It reads the application schema and generates test cases which will ensure that your application is compliant with its schema.
 * [GMeter](https://github.com/hexdigest/gmeter) - GMeter is an open-source standalone HTTP reverse-proxy server for recording and replaying HTTP requests. GMeter allows you to record multiple HTTP requests made within one test case to a "cassette" and to use this cassette to mock downstream service later on.
+* [Insomnia](https://insomnia.rest/) provides workflows and tools to make API Development Easier.
+* [Apitest](https://github.com/sigoden/apitest) - Apitest is declarative api testing tool with JSON-like DSL for easy testing of REST services.
 
 ## Performance and load testing
 * [k6](https://github.com/loadimpact/k6) - Like unit testing, for performance. A modern load testing tool, using Go and JavaScript.
@@ -65,6 +70,10 @@ Also:
 
 * [PICT (Pairwise Independent Combinatorial Testing)](https://github.com/Microsoft/pict) - PICT generates test cases and test configurations. With PICT, you can generate tests that are more effective than manually generated tests and in a fraction of the time required by hands-on test case design.
 
+## Test management
+
+* [Testomat.io](https://testomat.io/) - test management and reporting system for javascript automated tests
+
 # Resources
 Where to discover new libraries, information, tools, etc.
 
@@ -72,6 +81,7 @@ Where to discover new libraries, information, tools, etc.
 
 * [automated-testing.info](http://automated-testing.info) - Test automation community
 * [atinfo.github.io/at.info-knowledge-base](http://atinfo.github.io/at.info-knowledge-base/)  - Knowledge base for test automation examples on different tools and technologies
+* [Testomat.io](https://testomat.io/) - test management and reporting system for automated tests
 
 # Other Awesome Test Automation Lists
 

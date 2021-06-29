@@ -29,22 +29,26 @@ Also:
 * [TestAnywhere](https://testanywhere.co/) - Test Anywhere is a cloud service that helps test your website or web application continuously and catch bugs in the early stages
 * [Assertible](https://assertible.com/) - Assertible is an API and website testing service for teams and individuals. Create tests for your business logic, run them on a schedule or after deployments, and get alerted of failures as they occur.
 * [Mailosaur](https://mailosaur.com/) - Allows you to automate email testing. Perform end-to-end tests on password reset, email verification and any area where you send email.
+* [testim.io](https://www.testim.io/) - Automated functional testing platform with a GUI for authoring and machine learning based self-maintenance.
+* [cypress.io](https://github.com/cypress-io/cypress) - Fast, easy and reliable testing for anything that runs in a browser. Runs on Mac, Linux, Windows and any CI.
+* [Rainforest QA](https://www.rainforestqa.com/) - No Code Mobile & Web Testing for everything. Mac, Linux, Windows, iOS & Android.
+* [BugBug.io](https://bugbug.io/) - A codeless, end-to-end testing tool which allows you to easily record&play tests in you own browser, schedule them in the cloud or connect with your CI/CD pipeline.
 
 ## API test automation and testing
 * [MockLab](http://get.mocklab.io?utm_source=awesome-test-automation&utm_medium=automation-and-testing-as-service) is a hosted API simulation tool built on WireMock (maintaining 100% API compatibility). It supports flexible request/response stubbing for any HTTP-based protocol, response templating with Handlebars, conditional proxying and fault injection.
+* [vREST](https://vrest.io/) is a cloud based API testing solution covering various features like validation, integration and mock servers.  
 
 
 ## Mobile test automation
 * [Hive CI](http://bbc.github.io/hive-ci/) is a CI system built around devices. Connect your physical devices to a hive and run your tests on the same platforms as your users
-* [Testmunk](https://testmunk.com/) automates mobile app testing
 
 ## Performance and load testing
 * [Loader.io](https://loader.io/) - A FREE load testing service that allows you to stress test your web-apps & apis with thousands of concurrent connections.
-* [Blitz](https://www.blitz.io/) - Performance testing on websites, web apps and REST APIs.
 * [BlazeMeter](http://blazemeter.com/) - A self- service performance & load testing cloud, 100% JMeter-compatible. Easily run tests of 30k, 50k, 80k or more concurrent users, on-demand!
 * [Loadsophia](https://loadosophia.org/) - is the service for storing and analysing performance test results. It supports analyzing output from Apache JMeter, Apache Benchmark and Yandex.Tank performance testing tools.
 * [Load Impact](https://loadimpact.com/) - Nothing to install, easy config: instant and free load testing SaaS for developers and devops.
 * [Sitespeed](https://www.sitespeed.io/) - Sitespeed.io is a set of Open Source tools that helps make your web pages faster. The coach gives you performance advice based on best practices for your site. Browsertime collects metrics and HAR files from your browser. Chrome-HAR creates a HAR file from Chrome Debugging Protocol data. PageXray converts a HAR file to a usable JSON structure that tells you more about your page. And finally sitespeed.io is the main tool that uses all the previously mentioned tools and add supports for testing multiple pages as well as adds the ability to report the metrics to a TSDB (Graphite and InfluxDB).
+* [Tsung](http://tsung.erlang-projects.org/) - The purpose of Tsung is to simulate users in order to test the scalability and performance of IP based client/server applications. You can use it to do load and stress testing of your servers. Many protocols have been implemented and tested, and it can be easily extended.
 
 ## Security testing
 * [Netcraft](http://www.netcraft.com/security-testing/web-application/) - Web Application Security testing by Netcraft.
@@ -53,7 +57,7 @@ Also:
 * [Scan My Server](https://www.scanmyserver.com/) - Free tool for Web Security scanning.
 
 ## Reporting
-
+* [Testomat.io](https://testomat.io/) - test management and reporting system for automated tests
 * [Browsershots](http://browsershots.org/) -  Makes screenshots of your web design in different browsers. It is a free open-source online service created by Johann C. Rocholl. When you submit your web address, it will be added to the job queue. A number of distributed computers will open your website in their browser. Then they will make screenshots and upload them to the central server here.
 * [Perfomatic](https://wiki.mozilla.org/Perfomatic) - Mozilla graph server is used to understand how multiple performance metrics change over time. It is a web application for creating graphs of performance test results for a user-configurable combination of branch, operating system and machine. [Example](http://graphs.mozilla.org/graph.html).
 

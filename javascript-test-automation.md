@@ -11,6 +11,7 @@ Table of content:
 - [Mock frameworks](#mock-frameworks)
 - [Code Analysis](#code-analysis)
 - [Web UI test automation](#web-ui-test-automation)
+- [API automation](#api-automation)
 - [Mobile test automation](#mobile-test-automation)
 - [Windows UI test automation](#windows-ui-test-automation)
 - [Unix \ Linux UI test automation](#unix--linux-ui-test-automation)
@@ -20,6 +21,7 @@ Table of content:
 - [Security checking](#security-checking)
 - [Continuous Integration](#continuous-integration)
 - [Reporting](#reporting)
+- [Data-Driven Testing](#data-driven-testing)
 - [Documentation generation](#documentation-generation)
 - [Editors, IDE and consoles](#editors-ide-consoles)
 - [Useful libs](#useful-libs)
@@ -54,6 +56,8 @@ Also:
     * [Apickli](https://github.com/apickli/apickli) - REST API integration testing framework based on cucumber.js
     * [Mocha Parallel Tests](https://github.com/mocha-parallel/mocha-parallel-tests) - mocha-parallel-tests is a test runner for tests written with mocha testing framework which allows you to run them in parallel.
     * [Tupe](https://github.com/jl-/tupe) - A generic unit-testing runner for front-end built on puppeteer.
+    * [AVA](https://github.com/avajs/ava) - 🚀 A test runner which takes advantage of NodeJS's asynchronous nature to parallelize IO, and run tests concurrently.
+    * [Gauge](https://github.com/getgauge/gauge) - A test runner for test specifications written in Markdown and implementations in JavaScript.
 
 ## Mock frameworks
 * [Sinon.JS](http://sinonjs.org/) - Standalone test spies, stubs and mocks for JavaScript.
@@ -69,19 +73,20 @@ No dependencies, works with any unit testing framework.
 
 ## Web UI test automation
 * [WebdriverJS](https://github.com/SeleniumHQ/selenium/wiki/WebDriverJs) - Nodejs webdriver language bindings official implementation from authors of selenium, includes only basic features and commands. Uses Control Flow to syncrhonize async actions.
-* [WebdriverIO](http://webdriver.io/) - Nodejs webdriver language bindings unofficial implementation developed by SauceLabs. Has own handling of async actions using FibersJS and rich set of features
+* [WebdriverIO](http://webdriver.io/) - Nodejs webdriver language bindings unofficial implementation. Has own handling of async actions using Fibers and rich set of features
 * [Protractor](http://www.protractortest.org/#/) - End-to-end test framework for Angular applications, comes with JasmineWD included, and built on top of WebdriverJS
-* [CodeceptJS](http://codecept.io/) - Modern era acceptance testing for NodeJS
+* [CodeceptJS](http://codecept.io/) - Supercharged end 2 end testing for NodeJS
 * [Nightwatch.js](http://nightwatchjs.org/) - Easy to use Node.js based End-to-End (E2E) testing solution for browser based apps and websites.
 * [Dalek.js](http://dalekjs.com/) - Automated cross browser testing with JavaScript.
 * [Nemo](http://nemo.js.org/) - Nemo provides a simple way to add selenium automation to your NodeJS web projects. With a powerful configuration ability provided by krakenjs/confit, and plugin architecture, Nemo is flexible enough to handle any browser/device automation need.
 * [Frisby](http://frisbyjs.com/) - Is a REST API testing framework built on node.js and Jasmine that makes testing API endpoints easy, fast, and fun.
 * [TestCafe](https://devexpress.github.io/testcafe/) - Automated browser testing for the modern web development stack.
 * [Nightmare](http://www.nightmarejs.org/) - A high-level browser automation library.
-* [Gemini](https://gemini-testing.github.io) - Is an open-source utility for automating visual regression testing of web pages. Gemini takes a screenshot of elements on a page and compares it with baseline images of these elements. If the images don't match, the differences are shown in a report.
+* [Gemini](https://gemini-testing.github.io) - Is an open-source utility for automating visual regression testing of web pages. Gemini takes a screenshot of elements on a page and compares it with baseline images of these elements. If the images don't match, the differences are shown in a report. (Deperecated in favor of Hermione)
 * [Hermione](https://github.com/gemini-testing/hermione#hermione) - Is the utility for integration testing of web pages using [WebdriverIO](http://webdriver.io/) and [Mocha](https://mochajs.org).
 * [Gremlins.js](https://github.com/marmelab/gremlins.js) - gremlins.js is a monkey testing library written in JavaScript, for Node.js and the browser. Use it to check the robustness of web applications by unleashing a horde of undisciplined gremlins.
 * [Puppeteer](https://github.com/GoogleChrome/puppeteer) - Puppeteer is a Node library which provides a high-level API to control headless Chrome over the DevTools Protocol. It can also be configured to use full (non-headless) Chrome. Built with <3 by the Chrome team.
+* [Playwright](https://github.com/microsoft/playwright) - Playwright is a Node library to automate the Chromium, WebKit and Firefox browsers with a single API. It enables cross-browser web automation that is ever-green, capable, reliable and fast.
 * [Chromeless](https://github.com/graphcool/chromeless) - Works with AWS Lambda to deploy parallel testing in a serverless setup. Compared to incumbents, API is basic for now but it’s trending like a rocket now. Contributors and maintainers can shape it into a great tool.
 * [Chrominator](https://github.com/jesg/chrominator) - Made by PhantomJS GhostDriver maintainer so the API is extensive. It covers many edge cases that users expect from mature headless browsers frameworks such as NightmareJS/Electron or CasperJS/PhantomJS.
 * [Chromy](https://github.com/OnetapInc/chromy) - Possibly the earliest that shipped to market, releasing in early May a thoughtful set of high-level API that works with headless Chrome. Rapid improvements since then and actively explored by BackstopJS maintainer.
@@ -94,9 +99,22 @@ No dependencies, works with any unit testing framework.
 * [Differencify](https://github.com/NimaSoroush/differencify) - A library for visual regression testing using [Puppeteer](https://github.com/GoogleChrome/puppeteer).
 * [Serenity/JS](https://serenity-js.org/) - Serenity/JS makes acceptance and regression testing of modern web apps faster, more collaborative and easier to scale.
 * [Chimpy.js](https://thebrainfamily.github.io/chimpy/) - An awesome developer-centric experience to writing tests with realtime feedback using Mocha, Jasmine or Cucumber.js
+* [Sakuli](https://sakuli.io) - An awesome Node.js based End-to-End (E2E) testing solution which combines Selenium based web testing with full desktop automation. It's custom DSL allows to write complex scenarios which seamlessly switch between the browser and your desktop. It's built-in monitoring support allows to measure performance data from a user perspective.
+* [Buster.js](https://busterjs.readthedocs.io/en/latest) - A browser JavaScript/Node.js testing toolkit.
+* [page-object](https://github.com/vitalets/page-object) - A Page Object pattern implementation library for JavaScript.
+* [BackstopJS](https://github.com/garris/BackstopJS) - BackstopJS automates visual regression testing of your responsive web UI by comparing DOM screenshots over time.
+* [Taiko](https://github.com/getgauge/Taiko) - A Node.js library to test and automate chromium browsers.
+* [QA Wolf](https://github.com/qawolf/qawolf) - A Node.js library to create browser tests 10x faster with Puppeteer and Jest.
+
+
+## API automation
+* [SuperTest](https://github.com/visionmedia/supertest) - Super-agent driven library for testing node.js HTTP servers using a fluent API.
+* [Frisby](https://github.com/vlucas/frisby) - Frisby is a REST API testing framework built on Jest that makes testing API endpoints easy, fast, and fun.
+* [Just-API](https://github.com/kiranz/just-api) - Declarative testing framework for REST, GraphQL APIs.
+* [PactumJS](https://pactumjs.github.io) - REST API Testing Tool for all levels in a Test Pyramid.
 
 ## Mobile test automation
-* [WebdriverIO's Appium implementation](http://webdriver.io/api/appium/backgroundApp.html) - nodejs bindings implemeting Appium commands.
+* [WebdriverIO's Appium implementation](https://github.com/webdriverio/appium-boilerplate/) - nodejs bindings implemeting Appium commands.
 * [Macaca](https://macacajs.com/) - Solution for Automation Test with Ease. Both Mobile, Desktop Platforms Supported, native, Hybrid, Mobile Web Multi-applications Supported, Command line tools & CI Solution provided.
 * [Detox](https://github.com/wix/Detox) - Gray Box End-to-End Testing and Automation Framework for Mobile Apps 
 * [Cavy](https://github.com/pixielabs/cavy) - Cavy is a cross-platform integration test framework for React Native, by Pixie Labs.
@@ -104,16 +122,19 @@ No dependencies, works with any unit testing framework.
 ## Windows UI test automation
 * [RobotJS](https://robotjs.io/) - The Node.js Desktop Automation Library
 * [SikuliX](http://www.sikulix.com/) - SikuliX automates anything you see on the screen of your desktop computer running Windows, Mac or some Linux/Unix. It uses image recognition powered by OpenCV to identify and control GUI components. This is handy in cases when there is no easy access to a GUI's internals or the source code of the application or web page you want to act on.
+* [Sakuli](https://sakuli.io) - An awesome Node.js based End-to-End (E2E) testing solution which combines Selenium based web testing with full desktop automation. It's custom DSL allows to write complex scenarios which seamlessly switch between the browser and your desktop. It's built-in monitoring support allows to measure performance data from a user perspective.
 
 [Contribute to this section](https://github.com/atinfo/awesome-test-automation/blob/master/CONTRIBUTING.md)
 
 ## Unix \ Linux UI test automation
 * [SikuliX](http://www.sikulix.com/) - SikuliX automates anything you see on the screen of your desktop computer running Windows, Mac or some Linux/Unix. It uses image recognition powered by OpenCV to identify and control GUI components. This is handy in cases when there is no easy access to a GUI's internals or the source code of the application or web page you want to act on.
+* [Sakuli](https://sakuli.io) - An awesome Node.js based End-to-End (E2E) testing solution which combines Selenium based web testing with full desktop automation. It's custom DSL allows to write complex scenarios which seamlessly switch between the browser and your desktop. It's built-in monitoring support allows to measure performance data from a user perspective.
 
 [Contribute to this section](https://github.com/atinfo/awesome-test-automation/blob/master/CONTRIBUTING.md)
 
 ## MacOS UI test automation
 * [SikuliX](http://www.sikulix.com/) - SikuliX automates anything you see on the screen of your desktop computer running Windows, Mac or some Linux/Unix. It uses image recognition powered by OpenCV to identify and control GUI components. This is handy in cases when there is no easy access to a GUI's internals or the source code of the application or web page you want to act on.
+* [Sakuli](https://sakuli.io) - An awesome Node.js based End-to-End (E2E) testing solution which combines Selenium based web testing with full desktop automation. It's custom DSL allows to write complex scenarios which seamlessly switch between the browser and your desktop. It's built-in monitoring support allows to measure performance data from a user perspective.
 
 [Contribute to this section](https://github.com/atinfo/awesome-test-automation/blob/master/CONTRIBUTING.md)
 
@@ -124,6 +145,7 @@ No dependencies, works with any unit testing framework.
 ## Performance & stress & load
 * [k6](https://github.com/loadimpact/k6) - Like unit testing, for performance. A modern load testing tool, using Go and JavaScript.
 * [artillery](https://artillery.io/) - Artillery is a modern, powerful & easy-to-use load testing toolkit. Use it to build scalable applications that stay performant & resilient under high load.
+* [predator](https://predator.dev) - Distributed performance testing platform for APIs, using [artillery](https://artillery.io/) as its load engine.
 
 ## Security checking
 * [npm vulnerability scanner](https://github.com/ellerbrock/travis-vulnerability-scanner) - Vulnerability Scanner for npm Modules with Travis CI and the Node Security Platform CLI Tool.
@@ -134,6 +156,7 @@ No dependencies, works with any unit testing framework.
 * [Grunt](https://gruntjs.com/) - Streaming building system/task runner in nodejs. Can't do anything without plugins, but there are many of them for all kinds of purposes.
 
 ## Reporting
+* [Testomat.io](https://testomat.io/) - test management and reporting system for javascript automated tests
 * [ReportPortal.io](http://ReportPortal.io) - powerfull results management and analytics for test automation reports. Powered with Machine Learning. Real-time integration and reports, visualization of trends and statistics, custom dashboards and widgets, gives you real visibility into the state of test automation. Integral part of CI/CD with TA and Continous Testing. Server-client application, can be used for any type of automated tests, with huge list of [available integrations](https://github.com/reportportal?utf8=✓&q=agent-). Free and OpenSourced, [GitHub link](https://github.com/reportportal).
 * [Istanbul](https://github.com/gotwarlost/istanbul) - JS coverage tool for unit tests, server side functional tests and browser tests.
 * [Blanket](http://blanketjs.org/) - JavaScript code coverage library that works both in-browser and with nodejs.
@@ -141,6 +164,11 @@ No dependencies, works with any unit testing framework.
 * [Allure](http://allure.qatools.ru/) - a universal reporter for any testing framework. Supports [Mocha](https://docs.qameta.io/allure/2.0/#_mocha) and [Jasmine (and Protractor)](https://docs.qameta.io/allure/2.0/#_jasmine)
 * [cucumber-html-reporter](https://www.npmjs.com/package/cucumber-html-reporter) - Provide Cucumber JSON report file created from your framework and this module will create pretty HTML reports. Choose your best suitable HTML theme and dashboard on your CI with available HTML reporter plugins.
 * [Coveralls GitHub Action](https://github.com/gavinhenderson/coveralls-action) - A GitHub Action that will automatically report your latest test results to coveralls
+
+
+
+## Data-Driven Testing
+* [test-each](https://github.com/ehmicky/test-each) - Repeat tests using different inputs.
 
 ## Documentation generation
 * [JSdoc3](http://usejsdoc.org/) - An API documentation generator for JavaScript
@@ -161,6 +189,9 @@ No dependencies, works with any unit testing framework.
 * [Atom](https://atom.io) - Full-featured, right out of the box text editor that's modern, approachable, yet hackable to the core from Github
 
 ## Useful libs
+* [faker](https://www.npmjs.com/package/faker) - generate massive amounts of fake data in the browser and node.js
+* [interfake](https://github.com/basicallydan/interfake) -  Fake APIs for prototypes & automated tests.
+* [node-replay](https://github.com/assaf/node-replay) -  When API testing slows you down: record and replay HTTP responses like a boss 
 
 [Contribute to this section](https://github.com/atinfo/awesome-test-automation/blob/master/CONTRIBUTING.md)
 
@@ -172,6 +203,8 @@ Where to discover new libraries, information, tools, etc.
 
 * [automated-testing.info](http://automated-testing.info) - Test automation community
 * [atinfo.github.io/at.info-knowledge-base](http://atinfo.github.io/at.info-knowledge-base/)  - Knowledge base for test automation examples on different tools and technologies
+* [Testomat.io](https://testomat.io/) - test management and reporting system for javascript automated tests
+
 
 ## Articles
 * [js-testrunners-bench](https://github.com/vitalets/js-testrunners-bench) - Performance comparison of the most popular JavaScript test-runners. 

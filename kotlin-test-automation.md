@@ -32,18 +32,29 @@ Also:
 ## TDD \ ATTD \ BDD
 
 * [Kukumber](https://github.com/mlvandijk/kukumber-skeleton) - Getting started with Cucumber in Kotlin.
+* [Spek](https://www.spekframework.org/) - Specification testing framework for Kotlin.
+* [Kotest](https://github.com/kotest/kotest) - Kotest(previously known as kotlintest) is a powerful, elegant and flexible test framework for Kotlin.
+
+## Build Tools
+* [Kobalt](http://beust.com/kobalt/home/index.html) - Kotlin-based build system for the JVM.
+* [Gradle](https://gradle.org/) - Gradle is an open source build automation system. Gradle can automate the building, testing, publishing, deployment and more of software packages or other types of projects such as generated static websites, generated documentation or indeed anything else.
+    - [gradle-kotlin-dsl](https://docs.gradle.org/current/userguide/kotlin_dsl.html) - Gradle’s Kotlin DSL provides an alternative way to write Gradle build scripts in Kotlin.
 
 ## API test automation
 
 * [hikaku](https://github.com/codecentric/hikaku) - A library that tests if the implementation of a REST-API meets its specification.
+* [Fuel](https://github.com/kittinunf/fuel) - The easiest HTTP networking library for Kotlin/Android.
 
 ## Editors, IDE, consoles
 
--
+* [IntelliJ IDEA](https://www.jetbrains.com/idea/) - A free and open-source IDE for Kotlin, Java, Groovy, Scala and Android development.
 
 ## Useful libs
-
--
+* [Hamkrest](https://github.com/npryce/hamkrest) - Kotlin implementation of popular Java library.
+* [MockK](https://mockk.io/) - Pure mocking library for Kotlin.
+* [mockito-kotlin](https://github.com/nhaarman/mockito-kotlin) - Mockito extension for Kotlin.
+* [Kakao](https://github.com/agoda-com/Kakao) Nice and simple DSL for Espresso in Kotlin.
+* [Strikt](https://strikt.io/) is an assertion library for Kotlin intended for use with a test runner such as JUnit or Spek.
 
 # Resources
 

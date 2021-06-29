@@ -42,6 +42,8 @@ Also:
 * [JUnit](http://junit.org/) - Common testing framework.
 * [TestNG](http://testng.org/) - TestNG - Testing framework.
     * [Test Data Supplier](https://github.com/sskorol/test-data-supplier) - TestNG DataProvider wrapper which helps to supply test data in a more flexible way.
+* [Sunshine](https://github.com/tatools/sunshine/) - Sunshine is a wrapper on Java xUnit test runners (such as TestNG, Junit...) which allows automatically find classes with tests within the jar file, passes them to desired test runner and reports an execution status.
+
 
 ## TDD \ ATDD \ BDD
 
@@ -54,6 +56,8 @@ Also:
         * [awesome-robotframework](https://github.com/fkromer/awesome-robotframework) - A curated list of awesome Robot Framework resources and libraries
     * [Spectrum](https://github.com/greghaskins/spectrum) - A BDD-style test runner for Java 8. Inspired by Jasmine, RSpec, and Cucumber.
     * [Gauge](https://gauge.org/) - Gauge is a light-weight cross-platform test automation tool with the ability to author test cases in the business language.
+    * [Spock](http://spockframework.org/) - Specification testing framework for Java and Groovy.
+    * [Concordion](https://concordion.org/) - Flexible, extensible BDD/SBE tool that creates beautiful living documentation using business language
 - extensions
     * [cucumber-report-db](https://github.com/porscheinformatik/cucumber-report-db) - Stores results of BDD tests with Cucumber-JVM in a database and provides reporting capabilities.
 
@@ -82,7 +86,7 @@ Also:
     * [stevia](https://github.com/persado/stevia) - Open Source QA Automation Testing Framework by Persado
     * [darcy](https://github.com/darcy-framework) - An open source Java 8 framework for modeling user interfaces as page objects with a declarative, automation-library-agnostic DSL
     * [Satisfy](http://satisfy.tapack.io) - An open source Java framework based on Thucydides + Jbehave. Supports to work with WebUI, SOAP, REST, emails, files and generate random data out of the box.
-    * [JDI UI Test Automation Framework](https://github.com/epam/JDI/) - is the test Framework for UI test automation. It extends the Page Objects design pattern and introduces many additional elements along with implementation of its common usages.
+    * [JDI Light](https://github.com/jdi-testing/jdi-light) - is the test Framework for UI test automation that helps to makes your tests fast and sustainable and provide obvious and predictable test run result.
     * [Geb Framework](http://gebish.org/) - A groovy test automation framework designed for the use with the Webdriver Page Object model and the Spock Framework for (BDD).
     * [FluentLenium](https://github.com/FluentLenium/FluentLenium) - FluentLenium helps you writing readable, reusable, reliable and resilient UI functional tests for the browser. FluentLenium provides a Java fluent interface to Selenium, and brings some magic to avoid common issues faced by Selenium users.
     * [Selion](https://github.com/paypal/SeLion) - builds on top of TestNG and Selenium to provide a set of capabilities that get you up and running with WebDriver in a short time. It can be used for testing web and mobile applications.
@@ -90,6 +94,7 @@ Also:
     * [Carina](http://qaprosoft.github.io/carina/) - Carina is a Java-based test automation framework that unites all testing layers: Mobile applications (web, native, hybrid), WEB applications, REST services, Databases.
     * [NoraUi](https://noraui.github.io/#) - NoraUi, for NOn-Regression Automation for User Interfaces, is a Java framework based on Selenium, Cucumber and Gherkin stack to create GUI testing projects that can be included in the continuous integration chain of single/multi applications web solution builds.
     * [Cubano](https://concordion.org/cubano/framework) - Cubano is a test automation framework written in Java that provides a structure for developing acceptance and regression tests so your team can hit the ground running and not have to waste time needlessly building and maintaining your own framework.
+    * [Jalenium](https://lkkushan.gitbook.io/jalenium/) - Jalenium is a Java Selenium API which can be easily integrated to any maven Selenium Java project which uses Selenium JAR files.
 - extensions
     * [BrowserMob Proxy](https://github.com/lightbody/browsermob-proxy) - Is a simple utility that makes it easy to capture performance data from browsers, typically written using automation toolkits such as Selenium and Watir.
     * [Selenoid](https://github.com/aerokube/selenoid) - Selenium Hub successor running browsers within containers. Scalable, immutable, self hosted Selenium-Grid on any platform with single binary.
@@ -116,12 +121,14 @@ Also:
 * [hikaku](https://github.com/codecentric/hikaku) - A library that tests if the implementation of a REST-API meets its specification. 
 * [Karate-DSL](https://github.com/intuit/karate) - Karate is a BDD javascript framework which enables you to script a sequence of calls to any kind of web-service and assert that the responses are as expected. It makes it really easy to build complex request payloads, traverse data within the responses, and chain data from responses into the next request. Karate's payload validation engine can perform a 'smart compare' of two JSON or XML documents without being affected by white-space or the order in which data-elements actually appear, and you can opt to ignore fields that you choose.
 * [Retrofit](http://square.github.io/retrofit/) - A type-safe HTTP client for Android and Java.
+* [REST-Assured](https://github.com/rest-assured/rest-assured) - A library for testing and validation of REST services in Java.
 
 
 ## Windows UI test automation
 
 * [SikuliX](http://www.sikulix.com/) - SikuliX automates anything you see on the screen of your desktop computer running Windows, Mac or some Linux/Unix. It uses image recognition powered by OpenCV to identify and control GUI components. This is handy in cases when there is no easy access to a GUI's internals or the source code of the application or web page you want to act on.
 * [Winium for Desktop](https://github.com/2gis/Winium.Desktop/) - Winium.Desktop is an open source test automation tool for automated testing of Windows application based on WinFroms and WPF platforms.
+* [WinAppDriver](https://github.com/microsoft/WinAppDriver) - Windows Application Driver (WinAppDriver) is a service to support Selenium-like UI Test Automation on Windows Applications. This service supports testing Universal Windows Platform (UWP), Windows Forms (WinForms), Windows Presentation Foundation (WPF), and Classic Windows (Win32) apps on Windows 10 PCs.
 
 ## Unix \ Linux UI test automation
 
@@ -162,6 +169,7 @@ Also:
 
 * [Jenkins](http://jenkins-ci.org/) - Jenkins is an award-winning application that monitors executions of repeated jobs, such as building a software project or jobs run by cron.
 * [TeamCity](https://www.jetbrains.com/teamcity/) - Powerful and user-friendly Continuous Integration and Deployment server that works out of the box.
+* [Drone](https://drone.io/) Drone is a self-service Continuous Integration platform for busy development teams.
 
 ## Reporting
 
@@ -185,6 +193,7 @@ Also:
 * [Eclipse](https://eclipse.org/ide/) - Eclipse is famous for our Java Integrated Development Environment (IDE), C/C++ IDE and PHP IDE.
     * [Genie plugin](https://sourceforge.net/adobe/genie/wiki2/FAQ/) - Functional Test Automation tool for pure AS 3.0 SWF and Flash Games.  
 * [NetBeans](https://netbeans.org/features/index.html) - NetBeans IDE is the official IDE for Java 8. With its editors, code analyzers, and converters, you can quickly and smoothly upgrade your applications to use new Java 8 language constructs, such as lambdas, functional operations, and method references.
+* [VSCode](https://code.visualstudio.com/) Code editing. Redefined.
 
 ## ORM frameworks and libraries
 
@@ -199,14 +208,20 @@ Also:
 * [Lombok](https://projectlombok.org) - Project Lombok makes Java a spicier language by adding 'handlers' that know how to build and compile simple, boilerplate-free, not-quite-java code.
 * [AspectJ](https://eclipse.org/aspectj) - Seamless aspect-oriented extension to the Java. AspectJ enables clean modularization of crosscutting concerns, such as error checking and handling, synchronization, context-sensitive behavior, performance optimizations, monitoring and logging, debugging support, and multi-object protocols.
 * [aShot](https://github.com/yandex-qatools/ashot) - WebDriver Screenshot utility. Take screenshots, crop, prettify, compare.
-* [rest-assured](https://code.google.com/p/rest-assured/) - Testing and validating REST services in Java is harder than in dynamic languages such as Ruby and Groovy. REST Assured brings the simplicity of using these languages into the Java domain.
 * [WireMock](http://wiremock.org/) is a flexible library for stubbing and mocking web services. Unlike general purpose mocking tools it works by creating an actual HTTP server that your code under test can connect to as it would a real web service.
 * [MockServer](http://www.mock-server.com/) can be used for mocking any system you integrate with via HTTP or HTTPS (i.e. services, web sites, etc).
 * [Mockito](http://site.mockito.org/) is a mocking framework that lets you write beautiful tests with a clean & simple API.
+* [PowerMock](https://github.com/powermock/powermock) is a Java framework that allows you to unit test code normally regarded as untestable.
 * [XMLUnit](http://www.xmlunit.org/) - testing and comparing XML output for Java and .NET
 * [Awaitility](https://github.com/awaitility/awaitility) - Awaitility is a DSL that allows you to express expectations of an asynchronous system in a concise and easy to read manner.
 * [Beanmother](https://github.com/keepcosmos/beanmother) - A library for setting up Java Bean as test data.
 * [PIT](http://pitest.org) - Pitest, a tool for mutation testing
+* [GreenMail](http://www.icegreen.com/greenmail/) - GreenMail is an open source, intuitive and easy-to-use test suite of email servers for testing purposes. Typical use cases include mail integration testing or a lightweight sandboxed mail server for development.
+* [image-comparison](https://romankh3.github.io/image-comparison/) - Java Library that compares 2 images with the same sizes and shows the differences visually by drawing rectangles. Some parts of the image can be excluded from the comparison. Can be used for automation qa tests.
+* [AssertJ](https://joel-costigliola.github.io/assertj/) - Powerful fluent assertion framework. Compatible with any xUnit framework.
+* [Truth](https://truth.dev/) - Fluent assertion framework for Java and Android from Google.
+* [JSONassert](https://github.com/skyscreamer/JSONassert) - JSON assertion library.
+* [selenium-to-restassured](https://github.com/mwinteringham/selenium-to-restassured) - Adapter to easily share Selenium WebDriver cookies with Rest Assured back and forth with this Java api.
 
 ## Test Data
 * [Faker](https://github.com/DiUS/java-faker) - Java implementation of Faker, a library for generating fake data such as names, addresses, and phone numbers.
