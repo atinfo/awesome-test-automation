@@ -107,6 +107,7 @@ Also:
     * [SikuliFactory](https://github.com/marcoslimaqa/sikuli-factory) - A based PageFactory model for SikuliX.
     * [Mailosaur](https://github.com/mailosaur/mailosaur-java) - Java client for email testing/automation via Mailosaur.
     * [TrueAutomation.IO](https://trueautomation.io/) - One of the main tasks of TA is to solve problem of working with unstable locators.
+    * [Lippia](https://lippia.io/) - Container-based testing automation framework for Web, Mobile, API and Desktop apps.
 
 ## Mobile test automation
 
