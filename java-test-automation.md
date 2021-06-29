@@ -222,6 +222,7 @@ Also:
 * [Truth](https://truth.dev/) - Fluent assertion framework for Java and Android from Google.
 * [JSONassert](https://github.com/skyscreamer/JSONassert) - JSON assertion library.
 * [selenium-to-restassured](https://github.com/mwinteringham/selenium-to-restassured) - Adapter to easily share Selenium WebDriver cookies with Rest Assured back and forth with this Java api.
+* [Owner](https://github.com/lviggiano/owner) - The OWNER API is a Java library with the goal of minimizing the code required to handle application configuration via Java properties files.
 
 ## Test Data
 * [Faker](https://github.com/DiUS/java-faker) - Java implementation of Faker, a library for generating fake data such as names, addresses, and phone numbers.
