@@ -23,6 +23,7 @@ Table of content:
 - [Documentation generation](#documentation-generation)
 - [Editors, IDE and consoles](#editors-ide-consoles)
 - [Useful libs](#useful-libs)
+- [DataBase test automation](#database-test-automation)
 
 Also:
 
@@ -64,6 +65,7 @@ actual.Should().StartWith("AB").And.EndWith("HI").And.Contain("EF").And.HaveLeng
 * [WatiN](http://watin.org/) ― Before the Selenium Webdriver appeared on the market, WatiN was one of the best Web UI automation frameworks for .NET.  Now it is not maintained. :skull:
 * [Golem](https://github.com/ProtoTest/ProtoTest.Golem) Object Oriented C# Automated Testing Framework. Golem was created to simplify the process of creating enterprise-scale automated testing suites. It wraps around Gallio/MbUnit and a number of automation tools (such as Selenium-WebDriver) to provide the tester with a simple process for creating automated tests no matter what the tool. The inclusion of advanced features, diagnostic information, easy configuration, and enhanced API's helps Golem make automating in code-based automation tools much more practical. A standard test structure is enforced throughout the Golem framework to make the code readable and easy to reuse. Company behind it (ProtoTest) is in the process of winding down. Last commit was done in May, 2015.
 * [Mailosaur](https://github.com/mailosaur/mailosaur-dotnet) - .NET client for email testing/automation via Mailosaur.
+* [Ocaramba](https://github.com/ObjectivityLtd/Ocaramba) - Cross-Platform C# framework to automate tests using Selenium WebDriver. [Ocaramba.templates](https://github.com/ObjectivityLtd/Ocaramba.templates) Ocaramba project extension for Visual Studio - a set of project and class templates for web automated testing using Ocaramba Framework.
 
 
 ## Mobile test automation
@@ -146,6 +148,10 @@ Visual Studio Professional is became free for small teams.
 * [Json.NET](https://www.nuget.org/packages/Newtonsoft.Json/) is a popular high-performance JSON framework for .NET
 * [RestSharp](https://www.nuget.org/packages/RestSharp/) ― simple REST and HTTP API Client
 * [XMLUnit](http://www.xmlunit.org/) - testing and comparing XML output for Java and .NET
+
+## DataBase test automation
+* [DBTestCompareGenerator](https://github.com/ObjectivityLtd/DBTestCompareGenerator) - Tool for generating database tests that can be run with [DBTestCompare](https://github.com/ObjectivityLtd/DBTestCompare).
+* [NBi](https://github.com/Seddryck/NBi) - NBi is a testing framework (add-on to NUnit) for Business Intelligence. It supports most of the relational databases (SQL server, MySQL, postgreSQL ...) and OLAP platforms (Analysis Services, Mondrian ...) but also ETL and reporting components (Microsoft technologies).
 
 # Resources
 Where to discover new libraries, information, tools, etc.
