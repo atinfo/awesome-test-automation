@@ -34,6 +34,8 @@ Also:
 * [HP Unified Functional Testing (UFT), formerly known as (QTP)](http://www8.hp.com/us/en/software-solutions/unified-functional-automated-testing/index.html) - HP Unified Functional Testing is automated testing software designed for testing various software applications and environments.
 * [Puppetry](https://puppetry.app/) - Puppetry is an open-source scriptless test automation tool built on top of Google’s Puppeteer. It can be used by QA engineers with no programming background. Puppetry can also export the tests into a Jest.js project, so they can be  included into CI/CD pipeline.
 * [Testsigma](https://testsigma.com/) - Testsigma is an AI-Driven Test Automation Ecosystem for Web, Mobile Web, Android & iOS Apps, and API automated testing on Microsoft Windows, Mac and Linux Operating Systems. No coding skills required.
+* [Ginger](https://github.com/Ginger-Automation/Ginger) - Same like many testing organizations we used a commercial tool for our testing, and added on top of it a framework to with our libraries and needs, it worked great for many years but had several limitations: like machine is locked for testing, one test at a time, slow execution, required VBScript knowledge. 
+
 
 ## Web UI test automation
 * [Ggr](https://github.com/aandryashin/ggr) - active load balancer to create scalable and highly-available Selenium cluster.
