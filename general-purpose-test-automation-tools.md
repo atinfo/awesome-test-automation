@@ -24,7 +24,7 @@ Also:
 ---
 
 ## Functional testing
-* [gauge](http://getgauge.io) Light weight cross-platform test automation
+* [gauge](https://gauge.org/) Lightweight cross-platform test automation.
 * [STAF](http://staf.sourceforge.net/) The Software Testing Automation Framework (STAF) is an open source, multi-platform, multi-language framework designed around the idea of reusable components, called services (such as process invocation, resource management, logging, and monitoring). STAF removes the tedium of building an automation infrastructure, thus enabling you to focus on building your automation solution. The STAF framework provides the foundation upon which to build higher level solutions, and provides a pluggable approach supported across a large variety of platforms and languages.
 * [Cerberus](https://github.com/cerberustesting/cerberus-source) is a low-code software testing automation enabling continuous testing at scale. The solution allows the collaboration of the teams from the use-cases definition to the test case execution on the variety of browsers, devices, apps and APIs. It supports various integrations for speed of implementation such as Jenkins, Bitbucket,  Slack, Kafka. It is available and maintained in open-source by various digital and retail players such as La Redoute, Decathlon, Adeo, Norauto.
 * [OpenTest](https://getopentest.org/) OpenTest is an open source functional test automation tool for web applications, mobile apps and REST APIs, maintained by McDonald's. OpenTest requires little to no coding skills but does provide the ability to seamlessly embed JavaScript code into the test logic to cater to complex scenarios.
@@ -52,6 +52,7 @@ Also:
 * [Schemathesis](https://github.com/kiwicom/schemathesis) - Schemathesis is a tool for property-based testing of applications based on Open API & Swagger specs. It reads the application schema and generates test cases which will ensure that your application is compliant with its schema.
 * [GMeter](https://github.com/hexdigest/gmeter) - GMeter is an open-source standalone HTTP reverse-proxy server for recording and replaying HTTP requests. GMeter allows you to record multiple HTTP requests made within one test case to a "cassette" and to use this cassette to mock downstream service later on.
 * [Insomnia](https://insomnia.rest/) provides workflows and tools to make API Development Easier.
+* [Apitest](https://github.com/sigoden/apitest) - Apitest is declarative api testing tool with JSON-like DSL for easy testing of REST services.
 
 ## Performance and load testing
 * [k6](https://github.com/loadimpact/k6) - Like unit testing, for performance. A modern load testing tool, using Go and JavaScript.
