@@ -222,6 +222,9 @@ Also:
 * [Truth](https://truth.dev/) - Fluent assertion framework for Java and Android from Google.
 * [JSONassert](https://github.com/skyscreamer/JSONassert) - JSON assertion library.
 * [selenium-to-restassured](https://github.com/mwinteringham/selenium-to-restassured) - Adapter to easily share Selenium WebDriver cookies with Rest Assured back and forth with this Java api.
+* [TestRail-JUnit](https://github.com/RSheremeta/TestRail-JUnit) - This Library helps you to integrate your JUnit-based tests with TestRail in an easily manner. 
+* [TestRail-TestNG](https://github.com/RSheremeta/TestRail-TestNG) - This Library helps you to integrate your TestNG-based tests with TestRail in an easily manner.
+* [Allure-Environment-Creator](https://github.com/RSheremeta/Allure-Environment-Creator) - This tiny Library helps you to serve and store environment data for Allure easily.
 * [Owner](https://github.com/lviggiano/owner) - The OWNER API is a Java library with the goal of minimizing the code required to handle application configuration via Java properties files.
 
 ## Test Data
