@@ -54,6 +54,7 @@ Also:
 * [GMeter](https://github.com/hexdigest/gmeter) - GMeter is an open-source standalone HTTP reverse-proxy server for recording and replaying HTTP requests. GMeter allows you to record multiple HTTP requests made within one test case to a "cassette" and to use this cassette to mock downstream service later on.
 * [Insomnia](https://insomnia.rest/) provides workflows and tools to make API Development Easier.
 * [Apitest](https://github.com/sigoden/apitest) - Apitest is declarative api testing tool with JSON-like DSL for easy testing of REST services.
+* [DeepfakeHTTP](https://github.com/xnbox/DeepfakeHTTP) - DeepfakeHTTP is a web server that uses HTTP dumps as a source for responses. This tool allows you to test clients against REST, GraphQL, and other APIs.
 
 ## Performance and load testing
 * [k6](https://github.com/loadimpact/k6) - Like unit testing, for performance. A modern load testing tool, using Go and JavaScript.
