@@ -172,6 +172,7 @@ Also:
 * [Jenkins](http://jenkins-ci.org/) - Jenkins is an award-winning application that monitors executions of repeated jobs, such as building a software project or jobs run by cron.
 * [TeamCity](https://www.jetbrains.com/teamcity/) - Powerful and user-friendly Continuous Integration and Deployment server that works out of the box.
 * [Drone](https://drone.io/) Drone is a self-service Continuous Integration platform for busy development teams.
+* [Thundra Foresight](https://www.thundra.io/foresight) Thundra Foresight is a CI observability tool that provides visibility into your test suites.
 
 ## Reporting
 
