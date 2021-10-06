@@ -61,7 +61,7 @@ actual.Should().StartWith("AB").And.EndWith("HI").And.Contain("EF").And.HaveLeng
 
 * [Selenium WebDriver](https://www.nuget.org/packages/Selenium.WebDriver) ― Yes! [WebDriver](http://www.seleniumhq.org/) is everywhere! This is the best and the most popular UI test automation library and infrastructure.
 * [Atata](https://atata-framework.github.io/) ― An open source C#/.NET test automation full featured framework based on Selenium WebDriver. It uses fluent page object pattern with built-in logging. Atata Framework is extensible and contains a set of components, triggers and much more.
-* Coded UI ($$$) (Internet Explorer only) ― Okay... it is integrated into the Visual Studio Premium+ and supports Record&Playback "automation". 
+* Coded UI (deprecated :skull:) ($$$) (Internet Explorer only) ― Okay... it is integrated into the Visual Studio Premium+ and supports Record&Playback "automation". 
 * [WatiN](http://watin.org/) ― Before the Selenium Webdriver appeared on the market, WatiN was one of the best Web UI automation frameworks for .NET.  Now it is not maintained. :skull:
 * [Golem](https://github.com/ProtoTest/ProtoTest.Golem) Object Oriented C# Automated Testing Framework. Golem was created to simplify the process of creating enterprise-scale automated testing suites. It wraps around Gallio/MbUnit and a number of automation tools (such as Selenium-WebDriver) to provide the tester with a simple process for creating automated tests no matter what the tool. The inclusion of advanced features, diagnostic information, easy configuration, and enhanced API's helps Golem make automating in code-based automation tools much more practical. A standard test structure is enforced throughout the Golem framework to make the code readable and easy to reuse. Company behind it (ProtoTest) is in the process of winding down. Last commit was done in May, 2015.
 * [Mailosaur](https://github.com/mailosaur/mailosaur-dotnet) - .NET client for email testing/automation via Mailosaur.
@@ -70,7 +70,7 @@ actual.Should().StartWith("AB").And.EndWith("HI").And.Contain("EF").And.HaveLeng
 
 ## Mobile test automation
 
-* [Coded UI](https://msdn.microsoft.com/en-us/library/dn747198.aspx) supports some level of the mobile test automation 
+* [Coded UI](https://msdn.microsoft.com/en-us/library/dn747198.aspx) (deprecated :skull:) supports some level of the mobile test automation 
 for Windows Phone
 * [Xamarin.UITest](http://developer.xamarin.com/guides/testcloud/uitest/) is a library that comes with Xamarin Forms and allows you to automate the applications built with Xamarin
 technology on Windows Phone, iOS and Android
@@ -82,7 +82,7 @@ technology on Windows Phone, iOS and Android
 * [Winium.Cruciatus](https://github.com/2gis/Winium.Cruciatus) is an open source C# Framework for automated testing of Windows application based on WinForms and WPF platforms.
 * [Teststack White](https://github.com/TestStack/White) is one of the most popular and stable open source UI test automation library 
   for Windows (WinAPI / WPF / Silverlight / Windows Forms).
-* Coded UI ($$$) does a pretty good job for Windows UI automation. Pricey... because it comes with Visual Studio Premium and Ultimate.
+* Coded UI (deprecated :skull:) ($$$) does a pretty good job for Windows UI automation. Pricey... because it comes with Visual Studio Premium and Ultimate.
 * [Cutie](https://github.com/icnocop/cuite) - CUITe (Coded UI Test enhanced) Framework is a thin layer developed on top of Microsoft Visual Studio Team Test's Coded UI 
 * [AutoIt (COM bindings)](https://www.autoitscript.com/autoit3/docs/intro/ComRef.htm) ― since it implements COM+ interface, autoit can be available from any language on windows, including C#.
 * [WebAii Testing Framework](http://www.telerik.com/teststudio/testing-framework) - Framework for cross-browser testing with native support for Telerik UI for ASP.NET AJAX, Silverlight, WPF, HTML5 and XAML applications, etc.
