@@ -229,6 +229,7 @@ Also:
 * [TestRail-TestNG](https://github.com/RSheremeta/TestRail-TestNG) - This Library helps you to integrate your TestNG-based tests with TestRail in an easily manner.
 * [Allure-Environment-Creator](https://github.com/RSheremeta/Allure-Environment-Creator) - This tiny Library helps you to serve and store environment data for Allure easily.
 * [Owner](https://github.com/lviggiano/owner) - The OWNER API is a Java library with the goal of minimizing the code required to handle application configuration via Java properties files.
+* [DeepfakeHTTP](https://github.com/xnbox/DeepfakeHTTP) - DeepfakeHTTP is a web server that uses HTTP dumps as a source for responses. This tool allows you to test clients against REST, GraphQL, and other APIs.
 
 ## Test Data
 * [Faker](https://github.com/DiUS/java-faker) - Java implementation of Faker, a library for generating fake data such as names, addresses, and phone numbers.
