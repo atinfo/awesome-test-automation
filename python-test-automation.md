@@ -30,12 +30,6 @@ Table of content:
 - [Other Awesome Test Automation Lists](#other-awesome-test-automation-lists)
 - [Contributing](#contributing)
 
-Also:
-
-- [Resources](#resources)
-- [Other Awesome Test Automation Lists](#other-awesome-test-automation-lists)
-- [Contributing](#contributing)
-
 ---
 
 ## xUnit frameworks
