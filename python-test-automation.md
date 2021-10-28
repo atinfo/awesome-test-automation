@@ -34,68 +34,66 @@ Table of content:
 
 ## xUnit frameworks
 
-- frameworks
-    * [unittest](https://docs.python.org/library/unittest.html) - is a library to make unit testing distributed with python out of the box.
-    * [unittest2](https://pypi.python.org/pypi/unittest2) - is a backport of the new features added to the unittest testing framework in Python 2.7 and onwards.
-    * [pytest](http://pytest.org/) - is a mature full-featured Python testing tool that helps you write better programs.
-        * [plugincompat](http://plugincompat.herokuapp.com/) - Test execution and compatibility checks for pytest plugins
-    * [test-junkie](https://github.com/ArturSpirin/test_junkie) - Highly configurable modern testing framework.
-    * [nosetests](https://nose.readthedocs.org/en/latest/) - is a nicer testing for python.
-    * [slash](https://github.com/slash-testing/slash) - is a testing framework written in Python.
-    * [lemoncheesecake](https://github.com/lemoncheesecake/lemoncheesecake) - is a Python framework intended to functional testing, it provides fixtures, matchers, test organization through test suites hierarchy and metadata (test/suite name, description, tags, properties, links), rich reporting features and various report formats (JSON, XML, HTML, Junit)
-- extensions
-    * [proboscis](https://pythonhosted.org/proboscis/) -  is a Python test framework that extends Python's built-in unittest module and Nose with features from TestNG.
-    * [grail](https://github.com/wgnet/grail) - is a library which allows test script creation based on steps.
-    * [testify](https://github.com/Yelp/Testify/) - unit test framework, provides Enhanced test fixture setup, Split test suites into buckets for easy parallelization, PEP8 naming conventions & Fancy color test runner with lots of logging / reporting option.
-    * [trial](http://twistedmatrix.com/trac/wiki/TwistedTrial) - Extension of unittest to support writing asynchronous unit tests using Deferreds and new result types ('skip' and 'todo'). Includes a command-line program that does test discovery and integrates with doctest and coverage.
-    * [subunit](https://launchpad.net/subunit) - Transparently adds support for running unittest test cases/suites in a separate process : prevents system wide changes by a test destabilising the test runner. It also allows reporting from tests in another process into the unittest framework, giving a single integrated test environment.
-    * [testresources](https://launchpad.net/testresources) - Provides a mechanism for managing 'resources' - expensive bits of infrastructure - that are needed by multiple tests. Resources are constructed and free on demand, but with an optional TestSuite?, the test run order is optimised to reduce the number of resource constructions and releases needed. Compatible with unittest.
-    * [testtools](https://launchpad.net/testtools) - Useful extensions to unittest derived from custom extensions by projects such as Twisted and Bazaar.
-    * [Sancho](https://www.mems-exchange.org/software/DurusWorks/) - Sancho 2.1 runs tests, and provides output for tests that fail; Sancho 2.1 does not count tests passed or failed; targets projects that do not maintain failing tests
-    * [zope.testing](https://pypi.python.org/pypi/zope.testing) - Powerful test runner that includes support for post-mortem debugging of test failures. Also includes profiling and coverage reporting. This is a standalone package that has no dependencies on Zope and works just fine with projects that don't use Zope.
-    * [pythoscope](http://pythoscope.org/) - Tool that will automatically, or semi-automatically, generate unit tests for legacy systems written in Python.
-    * [testlib](http://www.logilab.org/project/logilab-common/) - Gives more power to standard unittest. More assert* methods; support for module level setup/teardown; skip test feature...
-    * [dutest](https://pypi.python.org/pypi/dutest) - An object oriented interface to retrieve unittest test cases out of doctests. Hides initialization from doctests by allowing setUp and tearDown for each interactive example. Allows control over all the options provided by doctest. Specialized classes allow selective test discovery across a package hierarchy.
-    * [green](https://github.com/CleanCut/green) - Green is a clean, colorful test runner for Python unit tests. Compare it to nose or trial.
-    * [ddt](https://github.com/txels/ddt) - Data-Driven tests with unittest
-    * [pytractor](https://github.com/kpodl/pytractor) is an extension to the Selenium bindings for Python. Its goal is to make testing of angular.js applications easier with Python.
-    * [stestr](https://github.com/mtreinish/stestr) - A parallel Python test runner built around subunit.
-
+* frameworks
+    - [unittest](https://docs.python.org/library/unittest.html) - is a library to make unit testing distributed with python out of the box.
+    - [unittest2](https://pypi.python.org/pypi/unittest2) - is a backport of the new features added to the unittest testing framework in Python 2.7 and onwards.
+    - [pytest](http://pytest.org/) - is a mature full-featured Python testing tool that helps you write better programs.
+    - [plugincompat](http://plugincompat.herokuapp.com/) - Test execution and compatibility checks for pytest plugins
+    - [test-junkie](https://github.com/ArturSpirin/test_junkie) - Highly configurable modern testing framework.
+    - [nosetests](https://nose.readthedocs.org/en/latest/) - is a nicer testing for python.
+    - [slash](https://github.com/slash-testing/slash) - is a testing framework written in Python.
+    - [lemoncheesecake](https://github.com/lemoncheesecake/lemoncheesecake) - is a Python framework intended to functional testing, it provides fixtures, matchers, test organization through test suites hierarchy and metadata (test/suite name, description, tags, properties, links), rich reporting features and various report formats (JSON, XML, HTML, Junit)
+* extensions
+    - [proboscis](https://pythonhosted.org/proboscis/) -  is a Python test framework that extends Python's built-in unittest module and Nose with features from TestNG.
+    - [grail](https://github.com/wgnet/grail) - is a library which allows test script creation based on steps.
+    - [testify](https://github.com/Yelp/Testify/) - unit test framework, provides Enhanced test fixture setup, Split test suites into buckets for easy parallelization, PEP8 naming conventions & Fancy color test runner with lots of logging / reporting option.
+    - [trial](http://twistedmatrix.com/trac/wiki/TwistedTrial) - Extension of unittest to support writing asynchronous unit tests using Deferreds and new result types ('skip' and 'todo'). Includes a command-line program that does test discovery and integrates with doctest and coverage.
+    - [subunit](https://launchpad.net/subunit) - Transparently adds support for running unittest test cases/suites in a separate process : prevents system wide changes by a test destabilising the test runner. It also allows reporting from tests in another process into the unittest framework, giving a single integrated test environment.
+    - [testresources](https://launchpad.net/testresources) - Provides a mechanism for managing 'resources' - expensive bits of infrastructure - that are needed by multiple tests. Resources are constructed and free on demand, but with an optional TestSuite?, the test run order is optimised to reduce the number of resource constructions and releases needed. Compatible with unittest.
+    - [testtools](https://launchpad.net/testtools) - Useful extensions to unittest derived from custom extensions by projects such as Twisted and Bazaar.
+    - [Sancho](https://www.mems-exchange.org/software/DurusWorks/) - Sancho 2.1 runs tests, and provides output for tests that fail; Sancho 2.1 does not count tests passed or failed; targets projects that do not maintain failing tests
+    - [zope.testing](https://pypi.python.org/pypi/zope.testing) - Powerful test runner that includes support for post-mortem debugging of test failures. Also includes profiling and coverage reporting. This is a standalone package that has no dependencies on Zope and works just fine with projects that don't use Zope.
+    - [pythoscope](http://pythoscope.org/) - Tool that will automatically, or semi-automatically, generate unit tests for legacy systems written in Python.
+    - [testlib](http://www.logilab.org/project/logilab-common/) - Gives more power to standard unittest. More assert* methods; support for module level setup/teardown; skip test feature...
+    - [dutest](https://pypi.python.org/pypi/dutest) - An object oriented interface to retrieve unittest test cases out of doctests. Hides initialization from doctests by allowing setUp and tearDown for each interactive example. Allows control over all the options provided by doctest. Specialized classes allow selective test discovery across a package hierarchy.
+    - [green](https://github.com/CleanCut/green) - Green is a clean, colorful test runner for Python unit tests. Compare it to nose or trial.
+    - [ddt](https://github.com/txels/ddt) - Data-Driven tests with unittest
+    - [pytractor](https://github.com/kpodl/pytractor) is an extension to the Selenium bindings for Python. Its goal is to make testing of angular.js applications easier with Python.
+    - [stestr](https://github.com/mtreinish/stestr) - A parallel Python test runner built around subunit.
 
 ## TDD \ ATDD \ BDD
 
-- BDD
-    * [behave](https://pypi.python.org/pypi/behave) - BDD tool
-    * [lettuce](http://lettuce.it/) - BDD tool
-        * [lettuce-tools](https://github.com/telefonicaid/lettuce-tools) - Lettuce Tools are a set of tools and utilities that extend the lettuce out of the box features fill some of the gaps detected in the projects.
-    * [contexts](https://github.com/benjamin-hodgson/Contexts) - Descriptive testing for Python.
-    * [mamba](http://nestorsalceda.github.io/mamba/) - The definitive testing tool for Python. Born under the banner of Behavior Driven Development.
-    * [pyvows](http://heynemann.github.io/pyvows/) - Asynchronous behaviour driven development for Python.
-    * [pytest-bdd](https://github.com/pytest-dev/pytest-bdd) - BDD library for the py.test runner
-    * [pytest-play](https://github.com/pytest-dev/pytest-play) - ATDD pytest plugin that let you automate actions, assertions and test metrics executing plain YAML files.
-    * [robotframework](http://robotframework.org/) - A generic test automation framework for acceptance testing and acceptance test-driven development (ATDD)
-        * [awesome-robotframework](https://github.com/fkromer/awesome-robotframework) - A curated list of awesome Robot Framework resources and libraries
-    * [radish-bdd](https://github.com/radish-bdd/radish) - BDD testing tool with supplements
-- Assertions
-    * [pyshould](https://github.com/drslump/pyshould) - Should style asserts based on pyhamcrest.
-    * [pyhamcrest](https://github.com/hamcrest/PyHamcrest) - Hamcrest matchers for Python.
-    * [sure](https://github.com/gabrielfalcao/sure) - A testing library for python with powerful and flexible assertions.
-    * [assertpy](https://github.com/ActivisionGameScience/assertpy) - Dead simple assertions library for unit testing in Python with a nice fluent API. Supports both Python 2 and 3.
-- Mocking
-    * [mock](https://pypi.python.org/pypi/mock) - A Python Mocking and Patching Library for Testing.
-    * [Ludibrio](http://github.com/nsigustavo/ludibrio/) - Elegant test doubles framework in Python (mocks, stubs, spy, and dummies).
-    * [responses](https://github.com/dropbox/responses) - A utility library for mocking out the requests Python library.
-    * [doublex](https://pypi.python.org/pypi/doublex) - Powerful test doubles framework for Python.
-    * [freezegun](https://github.com/spulec/freezegun) - Travel through time by mocking the datetime module.
-    * [httpretty](http://falcao.it/HTTPretty/) - HTTP request mock tool for Python.
-    * [httmock](https://github.com/patrys/httmock) - A mocking library for requests for Python 2.6+ and 3.2+.
-    * [pretenders](https://github.com/pretenders/pretenders) - fake servers for testing.
-    * [mock-server](https://github.com/tomashanacek/mock-server) - Simple mock server for REST and XML-RPC API with admin panel based on tornado.
-    * [VCR.py](https://github.com/kevin1024/vcrpy) - Automatically mock your HTTP interactions to simplify and speed up testing.
-    * [model-mmomy](https://github.com/vandersonmota/model_mommy) - Offers a smart way to create fixtures for testing in Django. With a simple and powerful API you can create many objects with a single line of code.
-    * [django-test-plus](https://github.com/revsys/django-test-plus) - Useful additions to Django's default TestCase.
-    * [Mockintosh](https://mockintosh.io/) - A mock server generator that's capable to generate RESTful APIs and communicate with the message queues to mimick asynchronous tasks.
-
+* BDD
+    - [behave](https://pypi.python.org/pypi/behave) - BDD tool
+    - [lettuce](http://lettuce.it/) - BDD tool
+    - [lettuce-tools](https://github.com/telefonicaid/lettuce-tools) - Lettuce Tools are a set of tools and utilities that extend the lettuce out of the box features fill some of the gaps detected in the projects.
+    - [contexts](https://github.com/benjamin-hodgson/Contexts) - Descriptive testing for Python.
+    - [mamba](http://nestorsalceda.github.io/mamba/) - The definitive testing tool for Python. Born under the banner of Behavior Driven Development.
+    - [pyvows](http://heynemann.github.io/pyvows/) - Asynchronous behaviour driven development for Python.
+    - [pytest-bdd](https://github.com/pytest-dev/pytest-bdd) - BDD library for the py.test runner
+    - [pytest-play](https://github.com/pytest-dev/pytest-play) - ATDD pytest plugin that let you automate actions, assertions and test metrics executing plain YAML files.
+    - [robotframework](http://robotframework.org/) - A generic test automation framework for acceptance testing and acceptance test-driven development (ATDD)
+    - [awesome-robotframework](https://github.com/fkromer/awesome-robotframework) - A curated list of awesome Robot Framework resources and libraries
+    - [radish-bdd](https://github.com/radish-bdd/radish) - BDD testing tool with supplements
+* Assertions
+    - [pyshould](https://github.com/drslump/pyshould) - Should style asserts based on pyhamcrest.
+    - [pyhamcrest](https://github.com/hamcrest/PyHamcrest) - Hamcrest matchers for Python.
+    - [sure](https://github.com/gabrielfalcao/sure) - A testing library for python with powerful and flexible assertions.
+    - [assertpy](https://github.com/ActivisionGameScience/assertpy) - Dead simple assertions library for unit testing in Python with a nice fluent API. Supports both Python 2 and 3.
+* Mocking
+    - [mock](https://pypi.python.org/pypi/mock) - A Python Mocking and Patching Library for Testing.
+    - [Ludibrio](http://github.com/nsigustavo/ludibrio/) - Elegant test doubles framework in Python (mocks, stubs, spy, and dummies).
+    - [responses](https://github.com/dropbox/responses) - A utility library for mocking out the requests Python library.
+    - [doublex](https://pypi.python.org/pypi/doublex) - Powerful test doubles framework for Python.
+    - [freezegun](https://github.com/spulec/freezegun) - Travel through time by mocking the datetime module.
+    - [httpretty](http://falcao.it/HTTPretty/) - HTTP request mock tool for Python.
+    - [httmock](https://github.com/patrys/httmock) - A mocking library for requests for Python 2.6+ and 3.2+.
+    - [pretenders](https://github.com/pretenders/pretenders) - fake servers for testing.
+    - [mock-server](https://github.com/tomashanacek/mock-server) - Simple mock server for REST and XML-RPC API with admin panel based on tornado.
+    - [VCR.py](https://github.com/kevin1024/vcrpy) - Automatically mock your HTTP interactions to simplify and speed up testing.
+    - [model-mmomy](https://github.com/vandersonmota/model_mommy) - Offers a smart way to create fixtures for testing in Django. With a simple and powerful API you can create many objects with a single line of code.
+    - [django-test-plus](https://github.com/revsys/django-test-plus) - Useful additions to Django's default TestCase.
+    - [Mockintosh](https://mockintosh.io/) - A mock server generator that's capable to generate RESTful APIs and communicate with the message queues to mimick asynchronous tasks.
 
 ## Test Data manipulation
 
@@ -123,48 +121,48 @@ Table of content:
 
 ## Web UI test automation
 
-- libraries
-    * [selenium webdriver](https://pypi.python.org/pypi/selenium) - Browser automation tool.
-    * [splinter](https://github.com/cobrateam/splinter) - A tool for test web applications with a simple for find elements, form actions, and others browser actions.
-    * [mechanize](https://pypi.python.org/pypi/mechanize/) - Stateful programmatic web browsing in Python.
-- frameworks and wrappers
-    * [play_selenium](https://github.com/davidemoro/play_selenium) - [pytest-play](https://github.com/pytest-dev/pytest-play) plugin that let you drive a browser with Selenium using plain YAML files
-    * [py.saunter](https://github.com/element-34/py.saunter) - An opinionated automation framework for use with the Selenium RC and WebDriver libraries.
-    * [moz-web-qa](https://github.com/mozilla/pytest-mozwebqa) - A plugin for py.test that provides additional features needed for Mozilla's WebQA projects.
-    * [testutils sst](https://pypi.org/project/sst/) - A web test framework that uses Python to generate functional browser-based tests.
-    * [wtframework](https://github.com/wiredrive/wtframework) - Framework for configurable Web Tests in Python.
-    * [holmium.core](https://github.com/alisaifee/holmium.core) - Page objects & Utilities for writing selenium test cases.
-    * [robotframework-selenium2library](https://github.com/rtomac/robotframework-selenium2library) - Web testing library for Robot Framework.
-    * [gocept.selenium](https://pypi.python.org/pypi/gocept.selenium) - An API for the Selenium remote control that is suited for writing tests and integrates this with your test suite for any WSGI, Plone, Zope 2, ZTK, or Grok application.
-    * [webium](https://github.com/wgnet/webium) - A Page Object pattern implementation library for Python
-    * [robotframework-anywherelibrary](https://github.com/luisxiaomai/robotframework-anywherelibrary) - A cross platform(desktop browser,android,ios) testing library for Robot Framework that leverages the Selenium 2(WebDriver) libraries internally to control a web browser and appium as mobile test automation framework for use with native and hybrid app.
-    * [robotframework-pageobjects](https://github.com/ncbi/robotframework-pageobjects) - Nice implementation of the Page Object pattern with robotframework and selenium, that can work even outside of robotframework. More on this [blog post](http://kahunacohen.com/2014/12/03/new-testing-paradigm-robotframework-pageobjects/)
-    * [elementium](https://github.com/actmd/elementium) - jQuery-style syntactic sugar for highly reliable automated browser testing in Python
-    * [slickqa](http://www.slickqa.com/webdriver/python/) - The slick-webdriver-python project is a wrapper around the python webdriver client bindings.
-    * [selene](https://github.com/yashaka/selene/) - Concise UI tests in Python + Ajax support + PageObjects + Widgets
-    * [hitch](http://hitchtest.com/) - A high level integration testing framework for service based applications.
-    * [Needle](http://needle.readthedocs.org/en/latest/) - Needle is a tool for testing visuals with Selenium and nose. It checks that CSS renders correctly by taking screenshots of portions of a website and comparing them against known good screenshots. It also provides tools for testing calculated CSS values and the position of HTML elements.
-    * [PyPOM](https://github.com/mozilla/PyPOM) - PyPOM is a Python Page Object Model library for Selenium and Splinter tests.
-    * [pypom_form](https://github.com/davidemoro/pypom_form) - PyPOM based page object model for schema based forms.
-    * [POM](https://github.com/schipiga/pom) - POM is Page-Object-Model microframework to develop web UI tests easy, quickly and with pleasure.
-    * [websmith](https://github.com/omaciel/websmith) - A Domain Specific Language (DSL) for Web Testing.
-    * [pages](https://github.com/Skyscanner/pages) -  lightweight page object and component Python library for UI tests.
-    * [seleniumbase](https://github.com/seleniumbase/SeleniumBase) - A simple Python framework for building test automation with Selenium WebDriver. It depends on pytest or noose modules to run. When used with noose a HTML report can be generated in the end of the test run.
-    * [Toolium](https://github.com/Telefonica/toolium) - Toolium is a Python wrapper tool of Selenium and Appium libraries to test web and mobile applications in a single project. It provides a way of choosing and configuring the driver through a configuration file, implements a Page Object pattern and includes a simple visual testing solution.
-- extensions
-    * [webdriver_manager](https://github.com/SergeyPirogov/webdriver_manager) - The main idea is to simplify managemet of binary drivers for different browsers.
-    * [pytest_splinter](https://github.com/pytest-dev/pytest-splinter) - pytest spinter and selenium integration for anyone interested in browser interaction in tests.
-    * [lettuce_webdriver](https://github.com/bbangert/lettuce_webdriver) - Selenium webdriver for lettuce.
-    * [Browsermob Proxy](https://github.com/AutomatedTester/browsermob-proxy-py) - A python wrapper for Browsermob Proxy.
-    * [FireRobot](https://github.com/joao-carloto/FireRobot) - A Firefox extension that allows you to create Robot Framework/Selenium tests, in a more efficient way.
-    * [pytractor](https://github.com/kpodl/pytractor) - Python selenium extensions for testing angular.js apps
-    * [Selenium-Requests](https://github.com/cryzed/Selenium-Requests) - Extends Selenium WebDriver classes to include the request function from the Requests library, while doing all the needed cookie and request headers handling.
-    * [selenium-respectful](https://github.com/SerpentAI/selenium-respectful) - Minimalist Selenium WebDriver wrapper to work within rate limits of any amount of websites simultaneously. Parallel processing friendly.
-    * [Mailosaur](https://github.com/mailosaur/mailosaur-python) - Python client for email testing/automation via Mailosaur.
-    * [gauge](https://github.com/getgauge/gauge) - Gauge is a light weight cross-platform test automation tool. It provides the ability to author test cases in the business language, actually written in golang with [python language driver](https://github.com/getgauge/gauge-python).
-    * [Golem](https://github.com/lucianopuccio/golem) - Golem is a complete test automation tool and framework for end-to-end testing. It creates powerful, robust and maintainable test suites, it's easy to learn even without a lot of programming knowledge. It is based on Selenium Webdriver and it can be extended using Python
-    * [Pylenium.io](https://elsnoman.gitbook.io/pylenium/) - Pylenium brings the best of Selenium, Cypress and Python into one package.
-    * [Playwright](https://github.com/microsoft/playwright-python) - Playwright is a Python library to automate Chromium, Firefox and WebKit browsers with a single API. Playwright delivers automation that is ever-green, capable, reliable and fast.
+* libraries
+    - [selenium webdriver](https://pypi.python.org/pypi/selenium) - Browser automation tool.
+    - [splinter](https://github.com/cobrateam/splinter) - A tool for test web applications with a simple for find elements, form actions, and others browser actions.
+    - [mechanize](https://pypi.python.org/pypi/mechanize/) - Stateful programmatic web browsing in Python.
+* frameworks and wrappers
+    - [play_selenium](https://github.com/davidemoro/play_selenium) - [pytest-play](https://github.com/pytest-dev/pytest-play) plugin that let you drive a browser with Selenium using plain YAML files
+    - [py.saunter](https://github.com/element-34/py.saunter) - An opinionated automation framework for use with the Selenium RC and WebDriver libraries.
+    - [moz-web-qa](https://github.com/mozilla/pytest-mozwebqa) - A plugin for py.test that provides additional features needed for Mozilla's WebQA projects.
+    - [testutils sst](https://pypi.org/project/sst/) - A web test framework that uses Python to generate functional browser-based tests.
+    - [wtframework](https://github.com/wiredrive/wtframework) - Framework for configurable Web Tests in Python.
+    - [holmium.core](https://github.com/alisaifee/holmium.core) - Page objects & Utilities for writing selenium test cases.
+    - [robotframework-selenium2library](https://github.com/rtomac/robotframework-selenium2library) - Web testing library for Robot Framework.
+    - [gocept.selenium](https://pypi.python.org/pypi/gocept.selenium) - An API for the Selenium remote control that is suited for writing tests and integrates this with your test suite for any WSGI, Plone, Zope 2, ZTK, or Grok application.
+    - [webium](https://github.com/wgnet/webium) - A Page Object pattern implementation library for Python
+    - [robotframework-anywherelibrary](https://github.com/luisxiaomai/robotframework-anywherelibrary) - A cross platform(desktop browser,android,ios) testing library for Robot Framework that leverages the Selenium 2(WebDriver) libraries internally to control a web browser and appium as mobile test automation framework for use with native and hybrid app.
+    - [robotframework-pageobjects](https://github.com/ncbi/robotframework-pageobjects) - Nice implementation of the Page Object pattern with robotframework and selenium, that can work even outside of robotframework. More on this [blog post](http://kahunacohen.com/2014/12/03/new-testing-paradigm-robotframework-pageobjects/)
+    - [elementium](https://github.com/actmd/elementium) - jQuery-style syntactic sugar for highly reliable automated browser testing in Python
+    - [slickqa](http://www.slickqa.com/webdriver/python/) - The slick-webdriver-python project is a wrapper around the python webdriver client bindings.
+    - [selene](https://github.com/yashaka/selene/) - Concise UI tests in Python + Ajax support + PageObjects + Widgets
+    - [hitch](http://hitchtest.com/) - A high level integration testing framework for service based applications.
+    - [Needle](http://needle.readthedocs.org/en/latest/) - Needle is a tool for testing visuals with Selenium and nose. It checks that CSS renders correctly by taking screenshots of portions of a website and comparing them against known good screenshots. It also provides tools for testing calculated CSS values and the position of HTML elements.
+    - [PyPOM](https://github.com/mozilla/PyPOM) - PyPOM is a Python Page Object Model library for Selenium and Splinter tests.
+    - [pypom_form](https://github.com/davidemoro/pypom_form) - PyPOM based page object model for schema based forms.
+    - [POM](https://github.com/schipiga/pom) - POM is Page-Object-Model microframework to develop web UI tests easy, quickly and with pleasure.
+    - [websmith](https://github.com/omaciel/websmith) - A Domain Specific Language (DSL) for Web Testing.
+    - [pages](https://github.com/Skyscanner/pages) -  lightweight page object and component Python library for UI tests.
+    - [seleniumbase](https://github.com/seleniumbase/SeleniumBase) - A simple Python framework for building test automation with Selenium WebDriver. It depends on pytest or noose modules to run. When used with noose a HTML report can be generated in the end of the test run.
+    - [Toolium](https://github.com/Telefonica/toolium) - Toolium is a Python wrapper tool of Selenium and Appium libraries to test web and mobile applications in a single project. It provides a way of choosing and configuring the driver through a configuration file, implements a Page Object pattern and includes a simple visual testing solution.
+* extensions
+    - [webdriver_manager](https://github.com/SergeyPirogov/webdriver_manager) - The main idea is to simplify managemet of binary drivers for different browsers.
+    - [pytest_splinter](https://github.com/pytest-dev/pytest-splinter) - pytest spinter and selenium integration for anyone interested in browser interaction in tests.
+    - [lettuce_webdriver](https://github.com/bbangert/lettuce_webdriver) - Selenium webdriver for lettuce.
+    - [Browsermob Proxy](https://github.com/AutomatedTester/browsermob-proxy-py) - A python wrapper for Browsermob Proxy.
+    - [FireRobot](https://github.com/joao-carloto/FireRobot) - A Firefox extension that allows you to create Robot Framework/Selenium tests, in a more efficient way.
+    - [pytractor](https://github.com/kpodl/pytractor) - Python selenium extensions for testing angular.js apps
+    - [Selenium-Requests](https://github.com/cryzed/Selenium-Requests) - Extends Selenium WebDriver classes to include the request function from the Requests library, while doing all the needed cookie and request headers handling.
+    - [selenium-respectful](https://github.com/SerpentAI/selenium-respectful) - Minimalist Selenium WebDriver wrapper to work within rate limits of any amount of websites simultaneously. Parallel processing friendly.
+    - [Mailosaur](https://github.com/mailosaur/mailosaur-python) - Python client for email testing/automation via Mailosaur.
+    - [gauge](https://github.com/getgauge/gauge) - Gauge is a light weight cross-platform test automation tool. It provides the ability to author test cases in the business language, actually written in golang with [python language driver](https://github.com/getgauge/gauge-python).
+    - [Golem](https://github.com/lucianopuccio/golem) - Golem is a complete test automation tool and framework for end-to-end testing. It creates powerful, robust and maintainable test suites, it's easy to learn even without a lot of programming knowledge. It is based on Selenium Webdriver and it can be extended using Python
+    - [Pylenium.io](https://elsnoman.gitbook.io/pylenium/) - Pylenium brings the best of Selenium, Cypress and Python into one package.
+    - [Playwright](https://github.com/microsoft/playwright-python) - Playwright is a Python library to automate Chromium, Firefox and WebKit browsers with a single API. Playwright delivers automation that is ever-green, capable, reliable and fast.
 
 ## Mobile test automation
 
@@ -221,7 +219,6 @@ Table of content:
 * [pyenv](https://github.com/yyuu/pyenv) - Simple Python version management.
 * [Tapper](https://tapper.github.io/Tapper/) - all-embracing test infrastructure.
 
-
 ## Performance & stress & load
 
 * [Multi-Mechanize](https://multi-mechanize.readthedocs.io) - An open source framework for performance and load testing.
@@ -241,7 +238,6 @@ Table of content:
 * [pythem](https://github.com/m4n3dw0lf/PytheM) - pythem is a multi-purpose pentest framework written in Python. It has been developed to be used by security researchers and security professionals. The tool intended to be used only for acts within the law. I am not liable for any undue and unlawful act practiced by this tool, for more information, read the license. Only runs on GNU/Linux OS.
 * [SQLMap](https://github.com/sqlmapproject/sqlmap) - sqlmap is an open source penetration testing tool that automates the process of detecting and exploiting SQL injection flaws and taking over of database servers. It comes with a powerful detection engine, many niche features for the ultimate penetration tester and a broad range of switches lasting from database fingerprinting, over data fetching from the database, to accessing the underlying file system and executing commands on the operating system via out-of-band connections.
 * [fsociety](https://github.com/Manisso/fsociety) - A Penetration Testing Framework, you will have every script that a hacker needs.
-
 
 ## Continuous Integration
 
@@ -306,11 +302,12 @@ Libraries that may help you to build better test automation.
 * [Python MSS](https://github.com/BoboTiG/python-mss) - An ultra fast cross-platform multiple screenshots module in pure Python using ctypes.
 * [Loguru](https://github.com/Delgan/loguru) - Loguru is a library which aims to bring enjoyable logging in Python.
 * [prettyprinter](https://github.com/tommikaikkonen/prettyprinter) - Syntax-highlighting, declarative and composable pretty printer for Python 3.5+
-* [jsonschema](https://github.com/Julian/jsonschema) - JSON Schema implementation
-for Python. Powerful tool for validating the structure of JSON data.
+* [jsonschema](https://github.com/Julian/jsonschema) - JSON Schema implementation for Python. Powerful tool for validating the structure of JSON data.
 
 # Resources
+
 Where to discover new libraries, information, tools, etc.
+
 * [python books](https://github.com/Junnplus/awesome-python-books)
 * [pytest-tricks](https://github.com/hackebrot/pytest-tricks) - Tips and Tricks for the Python Testing Tool - http://hackebrot.github.io/pytest-tricks/
 
@@ -336,6 +333,6 @@ Also we are supporting and looking for contribution for project:
 
 * [practical test automation by examples](https://github.com/atinfo/at.info-knowledge-base)
 
-
 # [Contributing](https://github.com/atinfo/awesome-test-automation/blob/master/CONTRIBUTING.md)
+
 Your contributions are always welcome!
