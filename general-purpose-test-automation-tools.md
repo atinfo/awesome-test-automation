@@ -24,7 +24,7 @@ Also:
 ---
 
 ## Functional testing
-* [gauge](http://getgauge.io) Light weight cross-platform test automation
+* [gauge](https://gauge.org/) Lightweight cross-platform test automation.
 * [STAF](http://staf.sourceforge.net/) The Software Testing Automation Framework (STAF) is an open source, multi-platform, multi-language framework designed around the idea of reusable components, called services (such as process invocation, resource management, logging, and monitoring). STAF removes the tedium of building an automation infrastructure, thus enabling you to focus on building your automation solution. The STAF framework provides the foundation upon which to build higher level solutions, and provides a pluggable approach supported across a large variety of platforms and languages.
 * [Cerberus](https://github.com/cerberustesting/cerberus-source) is a low-code software testing automation enabling continuous testing at scale. The solution allows the collaboration of the teams from the use-cases definition to the test case execution on the variety of browsers, devices, apps and APIs. It supports various integrations for speed of implementation such as Jenkins, Bitbucket,  Slack, Kafka. It is available and maintained in open-source by various digital and retail players such as La Redoute, Decathlon, Adeo, Norauto.
 * [OpenTest](https://getopentest.org/) OpenTest is an open source functional test automation tool for web applications, mobile apps and REST APIs, maintained by McDonald's. OpenTest requires little to no coding skills but does provide the ability to seamlessly embed JavaScript code into the test logic to cater to complex scenarios.
@@ -34,6 +34,7 @@ Also:
 * [HP Unified Functional Testing (UFT), formerly known as (QTP)](http://www8.hp.com/us/en/software-solutions/unified-functional-automated-testing/index.html) - HP Unified Functional Testing is automated testing software designed for testing various software applications and environments.
 * [Puppetry](https://puppetry.app/) - Puppetry is an open-source scriptless test automation tool built on top of Google’s Puppeteer. It can be used by QA engineers with no programming background. Puppetry can also export the tests into a Jest.js project, so they can be  included into CI/CD pipeline.
 * [Testsigma](https://testsigma.com/) - Testsigma is an AI-Driven Test Automation Ecosystem for Web, Mobile Web, Android & iOS Apps, and API automated testing on Microsoft Windows, Mac and Linux Operating Systems. No coding skills required.
+* [VIVIDUS](https://docs.vividus.dev/) - a test automation tool that offers already implemented solution for testing of most popular application types. No coding skills are required.
 
 ## Web UI test automation
 * [Ggr](https://github.com/aandryashin/ggr) - active load balancer to create scalable and highly-available Selenium cluster.
@@ -61,6 +62,7 @@ Also:
 ## Security testing
 
 * [OWASP Glue](https://github.com/OWASP/glue) - Glue is a framework for running a series of tools. Generally, it is intended as a backbone for automating a security analysis pipeline of tools.
+* [Cloudquery](https://github.com/cloudquery/cloudquery) - Cloudquery transforms your cloud infrastructure to relational database. Giving you the power to run security and compliance checks with SQL statements.
 
 ## Windows GUI automation
 

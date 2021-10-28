@@ -28,6 +28,7 @@ Table of content:
 - [ORM frameworks and libraries](#orm-frameworks-and-libraries)
 - [Useful libs](#useful-libs)
 - [Test Data](#test-data)
+- [DataBase test automation](#database-test-automation)
 
 Also:
 
@@ -154,6 +155,7 @@ Also:
 * [Lightning](http://automatictester.github.io/lightning/) - Integrate JMeter non-functional tests with CI/CD server.
 * [Tsung](http://tsung.erlang-projects.org/) - Erlang based multi-protocol distributed load testing tool.
 * [Gatling](http://gatling.io/) - Gatling is an open-source load testing framework based on Scala, Akka and Netty. Is a highly capable load testing tool. It is designed for ease of use, maintainability and high performance. Based on an expressive DSL, the scenarios are self explanatory. They are easy to maintain and can be kept in a version control system. Gatling  architecture lets implement virtual users as messages instead of dedicated threads, making them very resource cheap. Thus, running thousands of concurrent virtual users is not an issue.
+* [CRUX](https://github.com/ObjectivityLtd/crux) - (pron. kruhks) is build around Kubernetes (AKS) and JMeter. It makes it easy to incorporate performance tests into your Azure CI/CD pipeline. Each performance build can create and destroy infrastructure necessary for the run, which makes it cost effective. CRUX deploys a distributed JMeter cluster on Kubernetes (AKS) with the size you need, runs tests, destroys infrastructure. If you do not have an AKS, be at ease, you can also run JMeter tests with CRUX directly on build agent with docker.
 
 ## Security checking
 
@@ -222,9 +224,16 @@ Also:
 * [Truth](https://truth.dev/) - Fluent assertion framework for Java and Android from Google.
 * [JSONassert](https://github.com/skyscreamer/JSONassert) - JSON assertion library.
 * [selenium-to-restassured](https://github.com/mwinteringham/selenium-to-restassured) - Adapter to easily share Selenium WebDriver cookies with Rest Assured back and forth with this Java api.
+* [TestRail-JUnit](https://github.com/RSheremeta/TestRail-JUnit) - This Library helps you to integrate your JUnit-based tests with TestRail in an easily manner. 
+* [TestRail-TestNG](https://github.com/RSheremeta/TestRail-TestNG) - This Library helps you to integrate your TestNG-based tests with TestRail in an easily manner.
+* [Allure-Environment-Creator](https://github.com/RSheremeta/Allure-Environment-Creator) - This tiny Library helps you to serve and store environment data for Allure easily.
+* [Owner](https://github.com/lviggiano/owner) - The OWNER API is a Java library with the goal of minimizing the code required to handle application configuration via Java properties files.
 
 ## Test Data
 * [Faker](https://github.com/DiUS/java-faker) - Java implementation of Faker, a library for generating fake data such as names, addresses, and phone numbers.
+
+## DataBase test automation
+* [DBTestCompare](https://github.com/ObjectivityLtd/DBTestCompare) - Application to compare results of two SQL queries. Supports all databases with JDBC drivers provided (tested with Microsoft SQL Server, Teradata, Snowflake, PostgreSQL and MySQL\MariaDB). [DBTestCompareGenerator](https://github.com/ObjectivityLtd/DBTestCompareGenerator) - Tool for generating database tests that can be run with DBTestCompare.
 
 # Resources
 * [Serenity BDD (Thucydides) libraries](http://thucydides.info/docs/thucydides-one-page/thucydides.html)
