@@ -46,10 +46,10 @@ Also:
 * [Postman REST Client](https://www.npmjs.com/package/postman-bdd) - The Postman REST client allows you to write tests for your APIs, such as ensuring that your endpoints return the proper HTTP status codes, headers, and content. It even has has a built-in test runner that makes it easy to run all of your tests and immediately see the results. And you can use the Newman command-line tool to automate your tests and integrate them into your CI and deployment pipeline.
 * [StREST](https://github.com/eykrehbein/strest) - StREST is an open-source tool to set up tests for REST api's in seconds with YAML configuration files. StREST allows you to connect multiple requests by using values from previous requests in future requests. StREST also gives you a flexible validation framework for responses, allows using special headers, and can be configured to test APIs with random input or env vars.
 * [SoapUI](https://www.soapui.org/) - SoapUI is an open-source web service testing application for service-oriented architectures (SOA) and REST. Its functionality covers web service inspection, invoking, development, simulation and mocking, functional testing, load and compliance testing.
-* [Rapise](https://www.inflectra.com/Rapise/) - Rapise is GUI based tool. Rapise's unique Learn and Go testing method is much more time efficient than traditional record-and-playback processes. 
+* [Rapise](https://www.inflectra.com/Rapise/) - Rapise is GUI based tool. Rapise's unique Learn and Go testing method is much more time efficient than traditional record-and-playback processes.
 * [Restlet Client](https://chrome.google.com/webstore/detail/restlet-client-rest-api-t/aejoelaoggembcahagimdiliamlcdmfm) - Restlet Client (formerly known as DHC) allows you to interact with REST services. It brings many different features that make your user experience better, save you precious time when debugging HTTP calls or sharing your requests with others.
 * [Beeceptor](https://beeceptor.com) - Beeceptor is an HTTP proxy for intercepting and mocking API calls selectively. E.g. assume api 'A' has a downstream api 'B', how do simulate B's responses for validating 'A'. Beeceptor also helps in performance testing 'A' by mocking all calls of 'B' and not impacting downstream services.
-* [Swagger](https://swagger.io/) - Swagger is the open-source framework of API developer tools for the OpenAPI Specification(OAS), enabling development across the entire API lifecycle, from design and documentation, to test and deployment. 
+* [Swagger](https://swagger.io/) - Swagger is the open-source framework of API developer tools for the OpenAPI Specification(OAS), enabling development across the entire API lifecycle, from design and documentation, to test and deployment.
 * [Schemathesis](https://github.com/kiwicom/schemathesis) - Schemathesis is a tool for property-based testing of applications based on Open API & Swagger specs. It reads the application schema and generates test cases which will ensure that your application is compliant with its schema.
 * [GMeter](https://github.com/hexdigest/gmeter) - GMeter is an open-source standalone HTTP reverse-proxy server for recording and replaying HTTP requests. GMeter allows you to record multiple HTTP requests made within one test case to a "cassette" and to use this cassette to mock downstream service later on.
 * [Insomnia](https://insomnia.rest/) provides workflows and tools to make API Development Easier.
@@ -63,6 +63,7 @@ Also:
 
 * [OWASP Glue](https://github.com/OWASP/glue) - Glue is a framework for running a series of tools. Generally, it is intended as a backbone for automating a security analysis pipeline of tools.
 * [Cloudquery](https://github.com/cloudquery/cloudquery) - Cloudquery transforms your cloud infrastructure to relational database. Giving you the power to run security and compliance checks with SQL statements.
+* [Burp Suite](https://portswigger.net/burp) it is a platform for performing web application security testing.
 
 ## Windows GUI automation
 
@@ -87,14 +88,14 @@ Where to discover new libraries, information, tools, etc.
 
 # Other Awesome Test Automation Lists
 
-* [python test automation](https://github.com/atinfo/awesome-test-automation/blob/master/python-test-automation.md) 
-* [java test automation](https://github.com/atinfo/awesome-test-automation/blob/master/java-test-automation.md) 
-* [ruby test automation](https://github.com/atinfo/awesome-test-automation/blob/master/ruby-test-automation.md) 
-* [c# test automation](https://github.com/atinfo/awesome-test-automation/blob/master/c%23-test-automation.md) 
-* [php test automation](https://github.com/atinfo/awesome-test-automation/blob/master/php-test-automation.md) 
-* [javascript test automation](https://github.com/atinfo/awesome-test-automation/blob/master/javascript-test-automation.md) 
-* [kotlin test automation](https://github.com/atinfo/awesome-test-automation/blob/master/kotlin-test-automation.md) 
-* [test automation and software testing as services](https://github.com/atinfo/awesome-test-automation/blob/master/automation-and-testing-as-service.md) 
+* [python test automation](https://github.com/atinfo/awesome-test-automation/blob/master/python-test-automation.md)
+* [java test automation](https://github.com/atinfo/awesome-test-automation/blob/master/java-test-automation.md)
+* [ruby test automation](https://github.com/atinfo/awesome-test-automation/blob/master/ruby-test-automation.md)
+* [c# test automation](https://github.com/atinfo/awesome-test-automation/blob/master/c%23-test-automation.md)
+* [php test automation](https://github.com/atinfo/awesome-test-automation/blob/master/php-test-automation.md)
+* [javascript test automation](https://github.com/atinfo/awesome-test-automation/blob/master/javascript-test-automation.md)
+* [kotlin test automation](https://github.com/atinfo/awesome-test-automation/blob/master/kotlin-test-automation.md)
+* [test automation and software testing as services](https://github.com/atinfo/awesome-test-automation/blob/master/automation-and-testing-as-service.md)
 * [mobile, tablet and tv test automation](https://github.com/atinfo/awesome-test-automation/blob/master/mobile-test-automation.md)
 * [general purpose test automation tools](https://github.com/atinfo/awesome-test-automation/blob/master/general-purpose-test-automation-tools.md)
 
