@@ -210,6 +210,7 @@ Also:
 * [gabbi](https://github.com/cdent/gabbi) - a tool for running HTTP tests where requests and responses are expressed as declarations in YAML files.
 * [Schemathesis](https://github.com/kiwicom/schemathesis) - Schemathesis is a tool for property-based testing of applications based on Open API & Swagger specs. It reads the application schema and generates test cases which will ensure that your application is compliant with its schema. Includes `pytest` & `unittest` integrations.
 * [httprunner](https://github.com/httprunner/httprunner) - A simple & elegant, yet powerful HTTP(S) testing framework. Support record and generate testcases with HAR support.
+* [tavern](https://github.com/taverntesting/tavern) - A command-line tool and Python library and Pytest plugin for automated testing of RESTful APIs, with a simple, concise and flexible YAML-based syntax
 
 ## Virtual environments
 
