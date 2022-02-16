@@ -40,6 +40,7 @@ Also:
     * [unittest2](https://pypi.python.org/pypi/unittest2) - is a backport of the new features added to the unittest testing framework in Python 2.7 and onwards.
     * [pytest](http://pytest.org/) - is a mature full-featured Python testing tool that helps you write better programs.
         * [plugincompat](http://plugincompat.herokuapp.com/) - Test execution and compatibility checks for pytest plugins
+    * [pytest-django](https://github.com/pytest-dev/pytest-django) - it allows you to test your Django project/applications with the pytest testing tool.
     * [test-junkie](https://github.com/ArturSpirin/test_junkie) - Highly configurable modern testing framework.
     * [nosetests](https://nose.readthedocs.org/en/latest/) - is a nicer testing for python.
     * [slash](https://github.com/slash-testing/slash) - is a testing framework written in Python.
@@ -93,9 +94,10 @@ Also:
     * [pretenders](https://github.com/pretenders/pretenders) - fake servers for testing.
     * [mock-server](https://github.com/tomashanacek/mock-server) - Simple mock server for REST and XML-RPC API with admin panel based on tornado.
     * [VCR.py](https://github.com/kevin1024/vcrpy) - Automatically mock your HTTP interactions to simplify and speed up testing.
-    * [model-mmomy](https://github.com/vandersonmota/model_mommy) - Offers a smart way to create fixtures for testing in Django. With a simple and powerful API you can create many objects with a single line of code.
+    * [model-mmomy](https://github.com/vandersonmota/model_mommy) - Offers a smart way to create fixtures for testing in. With a simple and powerful API you can create many objects with a single line of code.
     * [django-test-plus](https://github.com/revsys/django-test-plus) - Useful additions to Django's default TestCase.
     * [Mockintosh](https://mockintosh.io/) - A mock server generator that's capable to generate RESTful APIs and communicate with the message queues to mimick asynchronous tasks.
+    * [pytest-mock](https://github.com/pytest-dev/pytest-mock) - A pytest plugin that wraps around the standard `unittest.mock` package as a fixture.
 
 
 ## Test Data manipulation
@@ -121,6 +123,7 @@ Also:
 * [hacking](https://github.com/openstack-dev/hacking) - OpenStack Hacking Style Checks (`flake8` plugins).
 * [prospector](https://github.com/landscapeio/prospector) - A tool to analyse Python code and output information about errors, potential problems, convention violations and complexity.
 * [wemake-python-styleguide](https://github.com/wemake-services/wemake-python-styleguide) - The strictest and most opinionated python linter ever!
+* [pytest-cov](https://pytest-cov.readthedocs.io/en/latest/) - A pytest plugin which helps identify parts of code that have been executed by tests.
 
 ## Web UI test automation
 
