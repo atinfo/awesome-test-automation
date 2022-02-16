@@ -61,7 +61,8 @@ Also:
     * [ddt](https://github.com/txels/ddt) - Data-Driven tests with unittest
     * [pytractor](https://github.com/kpodl/pytractor) is an extension to the Selenium bindings for Python. Its goal is to make testing of angular.js applications easier with Python.
     * [stestr](https://github.com/mtreinish/stestr) - A parallel Python test runner built around subunit.
-    
+    * [pytest-django](https://github.com/pytest-dev/pytest-django) - It allows you to test your Django project/applications with the pytest testing tool.
+    * [pytest-asyncio](https://github.com/pytest-dev/pytest-asyncio) - It helps you to test asyncio code with pytest.
 
 ## TDD \ ATDD \ BDD
 
@@ -96,6 +97,7 @@ Also:
     * [model-mmomy](https://github.com/vandersonmota/model_mommy) - Offers a smart way to create fixtures for testing in Django. With a simple and powerful API you can create many objects with a single line of code.
     * [django-test-plus](https://github.com/revsys/django-test-plus) - Useful additions to Django's default TestCase.
     * [Mockintosh](https://mockintosh.io/) - A mock server generator that's capable to generate RESTful APIs and communicate with the message queues to mimick asynchronous tasks.
+    * [pytest-mock](https://github.com/pytest-dev/pytest-mock) - Pytest plugin that wraps around the standard `unittest.mock` package as a fixture.
 
 
 ## Test Data manipulation
@@ -121,6 +123,8 @@ Also:
 * [hacking](https://github.com/openstack-dev/hacking) - OpenStack Hacking Style Checks (`flake8` plugins).
 * [prospector](https://github.com/landscapeio/prospector) - A tool to analyse Python code and output information about errors, potential problems, convention violations and complexity.
 * [wemake-python-styleguide](https://github.com/wemake-services/wemake-python-styleguide) - The strictest and most opinionated python linter ever!
+* [pytest-cov](https://github.com/pytest-dev/pytest-cov) - Pytest plugin which helps you identify parts of code that have been executed by your tests.
+
 
 ## Web UI test automation
 
