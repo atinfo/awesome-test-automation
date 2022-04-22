@@ -36,6 +36,7 @@ Also:
 * [Checkly](https://checklyhq.com/) - Checkly is the API & E2E monitoring platform for the modern stack: programmable, flexible and loving JavaScript. API & Browser testing via Selenium, Playwright and Puppeteer.
 * [endtest.io](https://endtest.io/) - Endtest is the leading test automation vendor providing a complete software platform to help organizations efficiently build automated end-to-end tests for Web and Mobile Applications.
 * [testsigma.com] A powerful open source end-to-end test automation platform for web Apps, mobile apps, and APIs to build stable and reliable tests quickly @DevOps speed. 
+* [LambdaTest](https://lambdatest.com/) - LambdaTest's test execution platform allows businesses to run both manual and automated tests of web and mobile apps across 3000+ different browsers, browser versions, operating system environments, and real devices.
 
 ## API test automation and testing
 * [MockLab](http://get.mocklab.io?utm_source=awesome-test-automation&utm_medium=automation-and-testing-as-service) is a hosted API simulation tool built on WireMock (maintaining 100% API compatibility). It supports flexible request/response stubbing for any HTTP-based protocol, response templating with Handlebars, conditional proxying and fault injection.
