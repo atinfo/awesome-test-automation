@@ -112,7 +112,7 @@ No dependencies, works with any unit testing framework.
 * [Frisby](https://github.com/vlucas/frisby) - Frisby is a REST API testing framework built on Jest that makes testing API endpoints easy, fast, and fun.
 * [Just-API](https://github.com/kiranz/just-api) - Declarative testing framework for REST, GraphQL APIs.
 * [PactumJS](https://pactumjs.github.io) - REST API Testing Tool for all levels in a Test Pyramid.
-* [Got)(https://github.com/sindresorhus/got) - Human-friendly and powerful HTTP request library for Node.js
+* [Got](https://github.com/sindresorhus/got) - Human-friendly and powerful HTTP request library for Node.js
 * [Axios](https://github.com/axios/axios) - Promise based HTTP client for the browser and node.js
 
 ## Mobile test automation
