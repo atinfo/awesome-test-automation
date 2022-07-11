@@ -34,6 +34,7 @@ Also:
 * [HP Unified Functional Testing (UFT), formerly known as (QTP)](http://www8.hp.com/us/en/software-solutions/unified-functional-automated-testing/index.html) - HP Unified Functional Testing is automated testing software designed for testing various software applications and environments.
 * [Puppetry](https://puppetry.app/) - Puppetry is an open-source scriptless test automation tool built on top of Google’s Puppeteer. It can be used by QA engineers with no programming background. Puppetry can also export the tests into a Jest.js project, so they can be  included into CI/CD pipeline.
 * [Testsigma](https://testsigma.com/) - Testsigma is an AI-Driven Test Automation Ecosystem for Web, Mobile Web, Android & iOS Apps, and API automated testing on Microsoft Windows, Mac and Linux Operating Systems. No coding skills required.
+* [Touca.io](https://github.com/trytouca/trytouca) - Touca is an open source continuous regression testing system for engineering teams, especially useful for testing complex workflows with no web interface. Get feedback when you write code that could break your software.
 * [VIVIDUS](https://docs.vividus.dev/) - a test automation tool that offers already implemented solution for testing of most popular application types. No coding skills are required.
 
 ## Web UI test automation
