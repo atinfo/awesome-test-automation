@@ -227,6 +227,7 @@ Also:
 * [PyRun](https://www.egenix.com/products/python/PyRun/) - A one-file, no-installation-needed version of Python.
 * [pyenv](https://github.com/yyuu/pyenv) - Simple Python version management.
 * [Tapper](https://tapper.github.io/Tapper/) - all-embracing test infrastructure.
+* [Poetry](https://python-poetry.org/) - Easy dependency management in Python projects.
 
 
 ## Performance & stress & load
