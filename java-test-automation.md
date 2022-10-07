@@ -234,7 +234,7 @@ Also:
 * [DeepfakeHTTP](https://github.com/xnbox/DeepfakeHTTP) - DeepfakeHTTP is a web server that uses HTTP dumps as a source for responses. This tool allows you to test clients against REST, GraphQL, and other APIs.
 
 ## Test Data
-* [Faker](https://github.com/DiUS/java-faker) - Java implementation of Faker, a library for generating fake data such as names, addresses, and phone numbers.
+* [Faker](https://github.com/datafaker-net/datafaker) - Java implementation of Faker, a library for generating fake data such as names, addresses, and phone numbers.
 
 ## DataBase test automation
 * [DBTestCompare](https://github.com/ObjectivityLtd/DBTestCompare) - Application to compare results of two SQL queries. Supports all databases with JDBC drivers provided (tested with Microsoft SQL Server, Teradata, Snowflake, PostgreSQL and MySQL\MariaDB). [DBTestCompareGenerator](https://github.com/ObjectivityLtd/DBTestCompareGenerator) - Tool for generating database tests that can be run with DBTestCompare.
