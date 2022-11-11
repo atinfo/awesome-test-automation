@@ -194,6 +194,7 @@ No dependencies, works with any unit testing framework.
 * [faker](https://www.npmjs.com/package/faker) - generate massive amounts of fake data in the browser and node.js
 * [interfake](https://github.com/basicallydan/interfake) -  Fake APIs for prototypes & automated tests.
 * [node-replay](https://github.com/assaf/node-replay) -  When API testing slows you down: record and replay HTTP responses like a boss 
+* [javascript-testing-best-practices](https://kandi.openweaver.com/javascript/goldbergyoni/javascript-testing-best-practices) - Comprehensive and exhaustive JavaScript & Node.js testing best practices 
 
 [Contribute to this section](https://github.com/atinfo/awesome-test-automation/blob/master/CONTRIBUTING.md)
 
