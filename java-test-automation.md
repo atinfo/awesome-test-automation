@@ -235,6 +235,7 @@ Also:
 
 ## Test Data
 * [Faker](https://github.com/datafaker-net/datafaker) - Java implementation of Faker, a library for generating fake data such as names, addresses, and phone numbers.
+* [Instancio](https://github.com/instancio/instancio) - Creates fully-populated objects for your unit tests. Includes an extension for JUnit 5.
 
 ## DataBase test automation
 * [DBTestCompare](https://github.com/ObjectivityLtd/DBTestCompare) - Application to compare results of two SQL queries. Supports all databases with JDBC drivers provided (tested with Microsoft SQL Server, Teradata, Snowflake, PostgreSQL and MySQL\MariaDB). [DBTestCompareGenerator](https://github.com/ObjectivityLtd/DBTestCompareGenerator) - Tool for generating database tests that can be run with DBTestCompare.
