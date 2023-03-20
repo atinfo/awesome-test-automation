@@ -26,6 +26,7 @@ Also:
     * [Selenium](http://docs.seleniumhq.org/) - Portable software testing framework for web applications.
 - frameworks and wrappers
     * [Balin](https://github.com/EPadronU/balin) - Balin is a browser automation library for Kotlin. It's basically a Selenium-WebDriver wrapper library inspired by Geb.
+    * [Kebish](https://kebish.org/) - Keb Kebish - Tool for writing Web UI tests - Selenium based Page Object Pattern implementation in Kotlin. Allows you to modularize pages of your web application into logical units represented by Kotlin classes.
     * [SeleniumBuilder](https://github.com/qwertukg/SeleniumBuilder) - Kotlin DSL for Selenium 2.0. Provide a possibility to write tests in Kotlin type-safe builders style
     * [kirk](https://github.com/SergeyPirogov/kirk) - Kirk is a browser automation library for Kotlin. It's basically a Selenium-WebDriver wrapper library inspired by Selenide and Geb.
 
