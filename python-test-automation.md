@@ -114,6 +114,7 @@ Also:
 
 ## Code analysis
 
+* [ruff](https://github.com/charliermarsh/ruff) – An extremely fast Python linter, written in Rust.
 * [pysonar2](https://github.com/yinwang0/pysonar2) - A type inferencer and indexer for Python.
 * [coverage](https://pypi.python.org/pypi/coverage) - Code coverage measurement
 * [pycallgraph](https://github.com/gak/pycallgraph) - A library that visualises the flow (call graph) of your Python application.
