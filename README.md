@@ -1,6 +1,6 @@
 # Awesome Test Automation
 
-A curated list of awesome test automation frameworks, tools, libraries, and software for different programming languages to help software engineers easily bootstrap test automation upon necessity. Sponsored by http://sdclabs.com
+A curated list of awesome test automation frameworks, tools, libraries, and software for different programming languages to help software engineers easily bootstrap test automation upon necessity. Sponsored by https://zapple.tech
 
 [![Have questions\issues\problems, join the chat at https://gitter.im/atinfo/awesome-test-automation](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/atinfo/awesome-test-automation)
 
