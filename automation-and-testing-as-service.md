@@ -43,9 +43,9 @@ Also:
 * [Kesha](https://github.com/NUTtech/Kesha) - A web service with a user interface for testing http requests and web hooks. Allows you to create an http mock for http requests.
 * [Mockachino](https://www.mockachino.com/) [github repo](https://github.com/czhu12/mockachino) Create a Mock API in Seconds. No Accounts, Free Forever. Share Your Space with Teammates.
 
-
 ## Mobile test automation
 * [Hive CI](http://bbc.github.io/hive-ci/) is a CI system built around devices. Connect your physical devices to a hive and run your tests on the same platforms as your users
+* [HeadSpin](https://www.headspin.io) - An AI-based testing platform that focuses on data-driven testing and iteration to perfect the end-user experience by combining a global device infrastructure, test automation, and ML-driven performance and quality of experience analytics.
 
 ## Performance and load testing
 * [Loader.io](https://loader.io/) - A FREE load testing service that allows you to stress test your web-apps & apis with thousands of concurrent connections.
