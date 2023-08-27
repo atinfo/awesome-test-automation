@@ -43,7 +43,7 @@ Also:
 * [vREST](https://vrest.io/) is a cloud based API testing solution covering various features like validation, integration and mock servers.
 * [Kesha](https://github.com/NUTtech/Kesha) - A web service with a user interface for testing http requests and web hooks. Allows you to create an http mock for http requests.
 * [Mockachino](https://www.mockachino.com/) [github repo](https://github.com/czhu12/mockachino) Create a Mock API in Seconds. No Accounts, Free Forever. Share Your Space with Teammates.
-
+* [Step CI](https://stepci.com) [github repo](https://github.com/stepci/stepci) Open-source framework for API Quality Assurance.
 
 ## Mobile test automation
 * [Hive CI](http://bbc.github.io/hive-ci/) is a CI system built around devices. Connect your physical devices to a hive and run your tests on the same platforms as your users
@@ -55,6 +55,7 @@ Also:
 * [Load Impact](https://loadimpact.com/) - Nothing to install, easy config: instant and free load testing SaaS for developers and devops.
 * [Sitespeed](https://www.sitespeed.io/) - Sitespeed.io is a set of Open Source tools that helps make your web pages faster. The coach gives you performance advice based on best practices for your site. Browsertime collects metrics and HAR files from your browser. Chrome-HAR creates a HAR file from Chrome Debugging Protocol data. PageXray converts a HAR file to a usable JSON structure that tells you more about your page. And finally sitespeed.io is the main tool that uses all the previously mentioned tools and add supports for testing multiple pages as well as adds the ability to report the metrics to a TSDB (Graphite and InfluxDB).
 * [Tsung](http://tsung.erlang-projects.org/) - The purpose of Tsung is to simulate users in order to test the scalability and performance of IP based client/server applications. You can use it to do load and stress testing of your servers. Many protocols have been implemented and tested, and it can be easily extended.
+* [Step CI](https://stepci.com) [github repo](https://github.com/stepci/stepci) Open-source framework for API Quality Assurance.
 
 ## Security testing
 * [Netcraft](http://www.netcraft.com/security-testing/web-application/) - Web Application Security testing by Netcraft.
