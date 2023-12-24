@@ -58,6 +58,7 @@ Also:
 * [vREST NG](https://vrest.io) is a zero code API automation solution for functional and regression testing of your APIs. It will help you to efficiently develop your test suites using record/replay, excel sheets (data driven testing) and allow you to derive your API testing using Swagger or OpenAPI specs.
 
 ## Performance and load testing
+* [Apache Jmeter](https://jmeter.apache.org/) - The most popular Open Source tool for load testing for web and other protocols.
 * [k6](https://github.com/loadimpact/k6) - Like unit testing, for performance. A modern load testing tool, using Go and JavaScript.
 * [LoadComplete](https://smartbear.com/product/loadcomplete/overview/) - LoadComplete is a desktop tool for load, stress, scalability testing of websites and web applications. Designed from the ground-up to help you focus on the tasks at hand, it does not require advanced programming skills. It works with both traditional HTML web sites and with Rich Internet Applications using modern web technologies like AJAX, ASP.NET, Java, Flash, Flex and Silverlight. The licensing policy is based on the number of virtual users required for the load testing.
 
