@@ -12,6 +12,7 @@ Table of content:
 - [REST API testing](#api-testing)
 - [Test design](#test-design)
 - [Test management](#test-management)
+- [Test command-line applications](#test-command-line-applications)
 - [Web UI test automation](#web-ui-test-automation)
 - [Windows GUI automation](#windows-gui-automation)
 
@@ -79,6 +80,10 @@ Also:
 ## Test management
 
 * [Testomat.io](https://testomat.io/) - test management and reporting system for javascript automated tests
+
+## Test command-line applications
+
+* [assert](https://github.com/dhuan/assert) - automated tests utility for command-line applications. 
 
 # Resources
 Where to discover new libraries, information, tools, etc.
