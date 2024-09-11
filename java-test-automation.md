@@ -186,6 +186,7 @@ Also:
 * [Zafira](http://qaprosoft.github.io/zafira/) - Zafira is central automation reporting system that is build on the top of Java Spring Framework. It dramatically increases the transparany of test automation results and provides better undestanding of product quality.
 * [Difido-reports](http://top-q.github.io/difido-reports/) - This project aims to provide a generic implementation for HTML test reports.
 * [cucumber-reporting](https://github.com/damianszczepanik/cucumber-reporting) - This is a Java report publisher primarily created to publish cucumber reports on the Jenkins build server. It publishes pretty html reports with charts showing the results of cucumber runs. It has been split out into a standalone package so it can be used for Jenkins and maven command line as well as any other packaging that might be useful. Generated report has no dependency so can be viewed offline.
+* [Cluecumber](https://github.com/trivago/cluecumber) - This is reporting library for the Cucumber JSON format as it is produced by Cucumber and Karate. It provides clear and concise HTML reports and is highly customizable.
 
 ## Documentation generation
 
@@ -232,6 +233,7 @@ Also:
 * [Allure-Environment-Creator](https://github.com/RSheremeta/Allure-Environment-Creator) - This tiny Library helps you to serve and store environment data for Allure easily.
 * [Owner](https://github.com/lviggiano/owner) - The OWNER API is a Java library with the goal of minimizing the code required to handle application configuration via Java properties files.
 * [DeepfakeHTTP](https://github.com/xnbox/DeepfakeHTTP) - DeepfakeHTTP is a web server that uses HTTP dumps as a source for responses. This tool allows you to test clients against REST, GraphQL, and other APIs.
+* [Cucable](https://github.com/trivago/cucable-plugin) - Cucable is a Maven plugin that simplifies running Cucumber scenarios in parallel by slicing them into the smallest runnable feature files and runner classes.
 
 ## Test Data
 * [Faker](https://github.com/datafaker-net/datafaker) - Java implementation of Faker, a library for generating fake data such as names, addresses, and phone numbers.
