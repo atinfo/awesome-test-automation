@@ -125,6 +125,7 @@ Also:
 * [Karate-DSL](https://github.com/intuit/karate) - Karate is a BDD javascript framework which enables you to script a sequence of calls to any kind of web-service and assert that the responses are as expected. It makes it really easy to build complex request payloads, traverse data within the responses, and chain data from responses into the next request. Karate's payload validation engine can perform a 'smart compare' of two JSON or XML documents without being affected by white-space or the order in which data-elements actually appear, and you can opt to ignore fields that you choose.
 * [Retrofit](http://square.github.io/retrofit/) - A type-safe HTTP client for Android and Java.
 * [REST-Assured](https://github.com/rest-assured/rest-assured) - A library for testing and validation of REST services in Java.
+* [Chocotea](https://github.com/cleopatra27/chocotea) - A library that generates postman collection, environment and integration tests from java code for REST-API.
 
 
 ## Windows UI test automation
