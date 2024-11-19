@@ -99,7 +99,7 @@ technology on Windows Phone, iOS and Android
 
 ## Performance & stress & load
 
-[Contribute to this section](https://github.com/atinfo/awesome-test-automation/blob/master/CONTRIBUTING.md)
+[NBomber](https://github.com/PragmaticFlow/NBomber) – a modern and flexible load-testing framework for Pull and Push scenarios, designed to test any system regardless of a protocol (HTTP/WebSockets/AMQP, etc) or a semantic model (Pull/Push).
 
 ## Security checking
 
