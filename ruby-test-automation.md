@@ -42,7 +42,7 @@ Also:
     * [RR](https://github.com/rr/rr) - A test double framework that features a rich selection of double techniques and a terse syntax.
 - BDD
     * [RSpec](http://rspec.info/) - Behaviour Driven Development for Ruby. RSpec becomes available in Ruby projects on attaching the rspec gem. For the Rails applications, rspec-rails gem is also required.
-    * [Cucumber](http://cukes.info/) - This testing tool supports BDD, and enables using features and scenarios written in a human-readable language, either English or any other language specified in the # language: comment. Cucumber becomes available in project upon installing and activating the cucumber gem.
+    * [Cucumber](https://github.com/cucumber/cucumber-ruby) - This testing tool supports BDD, and enables using features and scenarios written in a human-readable language, either English or any other language specified in the # language: comment. Cucumber becomes available in project upon installing and activating the cucumber gem.
     * [Bacon](https://github.com/chneukirchen/bacon) - A small RSpec clone.
     * [minitest](https://github.com/seattlerb/minitest) - minitest provides a complete suite of testing facilities supporting TDD, BDD, mocking, and benchmarking.
     * [Spinach](https://github.com/codegram/spinach) - Spinach is a high-level BDD framework that leverages the expressive Gherkin language (used by Cucumber) to help you define executable specifications of your application or library's acceptance criteria.
@@ -79,7 +79,7 @@ Also:
 ## Web UI test automation
 
 - libraries
-    * [Selenium WebDriver](http://selenium.googlecode.com/git/docs/api/rb/index.html) - This gem provides Ruby bindings for WebDriver.
+    * [Selenium WebDriver](https://www.selenium.dev/documentation/) - This gem provides Ruby bindings for WebDriver.
     * [API Taster](https://github.com/fredwu/api_taster) - A quick and easy way to visually test your Rails application's API.
     * [Watir](https://github.com/watir/watir/) - Web application testing in Ruby.
     * [Watir-webdriver](http://watirwebdriver.com/) - The most elegant way to use WebDriver with ruby.
@@ -90,7 +90,7 @@ Also:
 - frameworks
     * [Capybara](https://github.com/teamcapybara/capybara) - Acceptance test framework for web applications.
     * [Konacha](https://github.com/jfirebaugh/konacha) - Test your Rails application's JavaScript with the mocha test framework and chai assertion library.
-    * [chemistrykit](https://github.com/chemistrykit/chemistrykit) - Simple and opinionated web testing framework for Selenium WebDriver that follows convention over configuration and integrates with SauceLabs for cross-browser execution in the cloud.
+    * [chemistrykit](https://www.rubydoc.info/gems/chemistrykit/3.10.1) - Simple and opinionated web testing framework for Selenium WebDriver that follows convention over configuration and integrates with SauceLabs for cross-browser execution in the cloud.
     * [howitzer](https://github.com/strongqa/howitzer) - is a Ruby-based framework for acceptance testing. It was originally developed for testing web applications, but you can also use it for API testing and web service testing.The framework was built with modern patterns, techniques, and tools in automated testing.
 - page objects
     * [page-object](https://github.com/cheezy/page-object) - Gem to implement PageObject pattern in watir-webdriver and selenium-webdriver.
@@ -122,13 +122,9 @@ Also:
 ## Virtual environments
 
 * [RVM](https://rvm.io/) - Ruby Version Manager (RVM) is a unix command-line tool which allows you to easily install, manage, and work with multiple ruby environments from interpreters to sets of gems.
-* [Pik](http://rubyinstaller.org/add-ons/pik/) - Multi-Ruby Manager for Windows.
+* [Pik](https://github.com/vertiginous/pik) - Multi-Ruby Manager for Windows.
 * [rbenv](http://rbenv.org/) - Use rbenv to pick a Ruby version for your application and guarantee that your development environment matches production.
-* [asdf-vm](https://asdf-vm.com/) - Manage multiple runtime versions with a single CLI tool, for Node.js, Ruby, Python, Elixir 
-
-## Performance & stress & load
-
-* [Yandex.Tank](https://yandex.ru/dev/tank/) - Yandex.Tank is a tool for performing load testing and analyzing the performance of web services and applications
+* [asdf-vm](https://asdf-vm.com/) - Manage multiple runtime versions with a single CLI tool, for Node.js, Ruby, Python, Elixir
 
 ## Security checking
 
