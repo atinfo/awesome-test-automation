@@ -39,7 +39,7 @@ Also:
 
 ## Mock frameworks
 
-* [php-vfs](http://thornag.github.io/php-vfs/) - Virtual filesystem provider
+* [php-vfs](https://github.com/adlawson/php-vfs) - Virtual filesystem provider
 * [adlawson/vfs](https://github.com/adlawson/php-vfs) - Another virtual filesystem provider
 * [vfsStream](https://github.com/mikey179/vfsStream) - A stream wrapper for a virtual file system that may be helpful in unit tests to mock the real file system. It can be used with any unit test framework, like PHPUnit or SimpleTest.
 * [Mockery](https://github.com/padraic/mockery) - Objects mocking and method call assertions framework
@@ -100,15 +100,13 @@ Also:
 ## Security checking
 
 * [SensioLabs Security Checker](https://github.com/sensiolabs/security-checker) - Command line tool that checks if 
-your application uses dependencies with known security vulnerabilities. It uses the [SensioLabs Security Check Web 
-service](http://security.sensiolabs.org/) and the [Security Advisories Database](https://github.com/FriendsOfPHP/security-advisories).
+your application uses dependencies with known security vulnerabilities. It uses the [Security Advisories Database](https://github.com/FriendsOfPHP/security-advisories).
 
 ## Continuous Integration
 
 * [PHPCI](https://www.phptesting.org/) - Free and open source continuous integration tool specifically designed for PHP.
 * [PHP Censor](https://github.com/php-censor/php-censor) - Open source self-hosted continuous integration server for PHP projects.
 * [Jenkins PHP project template](http://jenkins-php.org/) - The goal of this project is to provide a standard template for Jenkins jobs for PHP projects.
-* [Sismo](https://sismo.symfony.com/) - Unlike more "advanced" Continuous Integration Servers (like Jenkins), Sismo does not try to do more than getting your code, running your tests, and send you notifications.
 
 ## Reporting
 * [Testomat.io](https://testomat.io/) - test management and reporting system for php automated tests
@@ -131,7 +129,7 @@ and [PHPUnit](https://github.com/allure-framework/allure-phpunit).
 
 ## Useful libs
 
-* [PHP CS Fixer](http://cs.sensiolabs.org/) - tool for automatic convention violations correction
+* [PHP CS Fixer](https://cs.symfony.com/) - tool for automatic convention violations correction
 
 # Resources
 
