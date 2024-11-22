@@ -86,13 +86,13 @@ Also:
     * [atlassian-selenium](https://bitbucket.org/atlassian/atlassian-selenium) - An open-source (BSD) project that aims at facilitating development of functional tests in Selenium/WebDriver libraries.
     * [stevia](https://github.com/persado/stevia) - Open Source QA Automation Testing Framework by Persado
     * [darcy](https://github.com/darcy-framework) - An open source Java 8 framework for modeling user interfaces as page objects with a declarative, automation-library-agnostic DSL
-    * [Satisfy](http://satisfy.tapack.io) - An open source Java framework based on Thucydides + Jbehave. Supports to work with WebUI, SOAP, REST, emails, files and generate random data out of the box.
+    * [Satisfy](https://tapack.github.io/satisfy/) - An open source Java framework based on Thucydides + Jbehave. Supports to work with WebUI, SOAP, REST, emails, files and generate random data out of the box.
     * [JDI Light](https://github.com/jdi-testing/jdi-light) - is the test Framework for UI test automation that helps to makes your tests fast and sustainable and provide obvious and predictable test run result.
     * [Geb Framework](http://gebish.org/) - A groovy test automation framework designed for the use with the Webdriver Page Object model and the Spock Framework for (BDD).
     * [FluentLenium](https://github.com/FluentLenium/FluentLenium) - FluentLenium helps you writing readable, reusable, reliable and resilient UI functional tests for the browser. FluentLenium provides a Java fluent interface to Selenium, and brings some magic to avoid common issues faced by Selenium users.
     * [Selion](https://github.com/paypal/SeLion) - builds on top of TestNG and Selenium to provide a set of capabilities that get you up and running with WebDriver in a short time. It can be used for testing web and mobile applications.
     * [Frameworkium](https://frameworkium.github.io/) - automation framework for web, app, and API testing. Integrates: saucelabs, allure, rest-assured, jackson, gson. Published on Jitpack repository. 
-    * [Carina](http://qaprosoft.github.io/carina/) - Carina is a Java-based test automation framework that unites all testing layers: Mobile applications (web, native, hybrid), WEB applications, REST services, Databases.
+    * [Carina](https://carina-core.io) - Carina is a Java-based test automation framework that unites all testing layers: Mobile applications (web, native, hybrid), WEB applications, REST services, Databases.
     * [NoraUi](https://noraui.github.io/#) - NoraUi, for NOn-Regression Automation for User Interfaces, is a Java framework based on Selenium, Cucumber and Gherkin stack to create GUI testing projects that can be included in the continuous integration chain of single/multi applications web solution builds.
     * [Cubano](https://concordion.org/cubano/framework) - Cubano is a test automation framework written in Java that provides a structure for developing acceptance and regression tests so your team can hit the ground running and not have to waste time needlessly building and maintaining your own framework.
     * [Jalenium](https://lkkushan.gitbook.io/jalenium/) - Jalenium is a Java Selenium API which can be easily integrated to any maven Selenium Java project which uses Selenium JAR files.
@@ -161,7 +161,7 @@ Also:
 
 ## Security checking
 
-* [BDD-Security](https://continuumsecurity.net/bdd-security/) - BDD-Security is a security testing framework that uses natural language in a Given, When, Then Gherkin syntax to describe security requirements as features. Those same requirements are also executable as standard unit/integration tests which means they can run as part of the build/test/deploy process.
+* [BDD-Security](https://github.com/iriusrisk/bdd-security) - BDD-Security is a security testing framework that uses natural language in a Given, When, Then Gherkin syntax to describe security requirements as features. Those same requirements are also executable as standard unit/integration tests which means they can run as part of the build/test/deploy process.
 
 ## Build Tools
 
@@ -183,7 +183,7 @@ Also:
 * [Gradle Allure Plugin](https://github.com/d10xa/gradle-allure-plugin) - 3rd-party Gradle Allure Plugin allows you to integrate Allure into spock, testing and junit tests.
 * [ExtentReports](http://relevantcodes.com/extentreports-for-selenium/) - HTML reporting library for .NET and Java which is extremely easy to use and creates beautiful execution reports. It shows test and step summary, test steps and status in a toggle view for quick analysis.
 * [ReportNG](http://reportng.uncommons.org/) - ReportNG is a simple HTML reporting plug-in for the TestNG unit-testing framework.
-* [Zafira](http://qaprosoft.github.io/zafira/) - Zafira is central automation reporting system that is build on the top of Java Spring Framework. It dramatically increases the transparany of test automation results and provides better undestanding of product quality.
+* [Zebrunner Reporting](https://github.com/zebrunner/reporting) -Zebrunner Reporting is a test automation management tool that accumulates and represents test results. It is designed to increase the transparency of automation, providing detailed reports with test logs, screenshots and video recordings of test sessions.
 * [Difido-reports](http://top-q.github.io/difido-reports/) - This project aims to provide a generic implementation for HTML test reports.
 * [cucumber-reporting](https://github.com/damianszczepanik/cucumber-reporting) - This is a Java report publisher primarily created to publish cucumber reports on the Jenkins build server. It publishes pretty html reports with charts showing the results of cucumber runs. It has been split out into a standalone package so it can be used for Jenkins and maven command line as well as any other packaging that might be useful. Generated report has no dependency so can be viewed offline.
 * [Cluecumber](https://github.com/trivago/cluecumber) - This is reporting library for the Cucumber JSON format as it is produced by Cucumber and Karate. It provides clear and concise HTML reports and is highly customizable.
@@ -198,7 +198,7 @@ Also:
     * [IntelliJ IDEA Selenium plugin](http://perfect-test.com/index.php/ru/instruments-rus-menu/15-selenium-plugin-rus) - Plugin for IntelliJ Idea to simplify creation of web tests using selenium.
 * [Eclipse](https://eclipse.org/ide/) - Eclipse is famous for our Java Integrated Development Environment (IDE), C/C++ IDE and PHP IDE.
     * [Genie plugin](https://sourceforge.net/adobe/genie/wiki2/FAQ/) - Functional Test Automation tool for pure AS 3.0 SWF and Flash Games.  
-* [NetBeans](https://netbeans.org/features/index.html) - NetBeans IDE is the official IDE for Java 8. With its editors, code analyzers, and converters, you can quickly and smoothly upgrade your applications to use new Java 8 language constructs, such as lambdas, functional operations, and method references.
+* [NetBeans](https://netbeans.apache.org/front/main/index.html) - NetBeans IDE is the official IDE for Java 8. With its editors, code analyzers, and converters, you can quickly and smoothly upgrade your applications to use new Java 8 language constructs, such as lambdas, functional operations, and method references.
 * [VSCode](https://code.visualstudio.com/) Code editing. Redefined.
 
 ## ORM frameworks and libraries
@@ -222,7 +222,7 @@ Also:
 * [Awaitility](https://github.com/awaitility/awaitility) - Awaitility is a DSL that allows you to express expectations of an asynchronous system in a concise and easy to read manner.
 * [Beanmother](https://github.com/keepcosmos/beanmother) - A library for setting up Java Bean as test data.
 * [PIT](http://pitest.org) - Pitest, a tool for mutation testing
-* [GreenMail](http://www.icegreen.com/greenmail/) - GreenMail is an open source, intuitive and easy-to-use test suite of email servers for testing purposes. Typical use cases include mail integration testing or a lightweight sandboxed mail server for development.
+* [GreenMail](https://greenmail-mail-test.github.io/greenmail/) - GreenMail is an open source, intuitive and easy-to-use test suite of email servers for testing purposes. Typical use cases include mail integration testing or a lightweight sandboxed mail server for development.
 * [image-comparison](https://romankh3.github.io/image-comparison/) - Java Library that compares 2 images with the same sizes and shows the differences visually by drawing rectangles. Some parts of the image can be excluded from the comparison. Can be used for automation qa tests.
 * [AssertJ](https://joel-costigliola.github.io/assertj/) - Powerful fluent assertion framework. Compatible with any xUnit framework.
 * [Truth](https://truth.dev/) - Fluent assertion framework for Java and Android from Google.
@@ -243,7 +243,7 @@ Also:
 * [DBTestCompare](https://github.com/ObjectivityLtd/DBTestCompare) - Application to compare results of two SQL queries. Supports all databases with JDBC drivers provided (tested with Microsoft SQL Server, Teradata, Snowflake, PostgreSQL and MySQL\MariaDB). [DBTestCompareGenerator](https://github.com/ObjectivityLtd/DBTestCompareGenerator) - Tool for generating database tests that can be run with DBTestCompare.
 
 # Resources
-* [Serenity BDD (Thucydides) libraries](http://thucydides.info/docs/thucydides-one-page/thucydides.html)
+* [Serenity BDD (Thucydides) libraries](https://github.com/thucydides-webtests/thucydides)
 * [Automation tests structure](http://habrahabr.ru/post/168451/)
 
 ## Websites
