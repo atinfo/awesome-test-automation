@@ -156,7 +156,8 @@ Also:
     * [websmith](https://github.com/omaciel/websmith) - A Domain Specific Language (DSL) for Web Testing.
     * [pages](https://github.com/Skyscanner/pages) -  lightweight page object and component Python library for UI tests.
     * [seleniumbase](https://github.com/seleniumbase/SeleniumBase) - A simple Python framework for building test automation with Selenium WebDriver. It depends on pytest or noose modules to run. When used with noose a HTML report can be generated in the end of the test run.
-	* [Toolium](https://github.com/Telefonica/toolium) - Toolium is a Python wrapper tool of Selenium and Appium libraries to test web and mobile applications in a single project. It provides a way of choosing and configuring the driver through a configuration file, implements a Page Object pattern and includes a simple visual testing solution.
+    * [Toolium](https://github.com/Telefonica/toolium) - Toolium is a Python wrapper tool of Selenium and Appium libraries to test web and mobile applications in a single project. It provides a way of choosing and configuring the driver through a configuration file, implements a Page Object pattern and includes a simple visual testing solution.
+    * [Mops](https://github.com/CustomEnv/mops) - Mops is a Python wrapper that offers a user-friendly, unified API for Selenium, Appium, and Playwright, simplifying test automation across web applications. It reduces Selenium wait times, provides visual comparison support across all frameworks, and enhances the overall automation experience.
 - extensions
     * [webdriver_manager](https://github.com/SergeyPirogov/webdriver_manager) - The main idea is to simplify managemet of binary drivers for different browsers.
     * [pytest_splinter](https://github.com/pytest-dev/pytest-splinter) - pytest spinter and selenium integration for anyone interested in browser interaction in tests.
