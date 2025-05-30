@@ -56,6 +56,7 @@ Also:
 * [Insomnia](https://insomnia.rest/) provides workflows and tools to make API Development Easier.
 * [Apitest](https://github.com/sigoden/apitest) - Apitest is declarative api testing tool with JSON-like DSL for easy testing of REST services.
 * [vREST NG](https://vrest.io) is a zero code API automation solution for functional and regression testing of your APIs. It will help you to efficiently develop your test suites using record/replay, excel sheets (data driven testing) and allow you to derive your API testing using Swagger or OpenAPI specs.
+* [HttpMaster](https://www.httpmaster.net) - HttpMaster is a free tool for debugging and testing of RESTful web services and API applications. Its main features are dynamic data parameters, response data validations, flexible request chaining, command-line interface, cURL integration, and more.
 
 ## Performance and load testing
 * [Apache Jmeter](https://jmeter.apache.org/) - The most popular Open Source tool for load testing for web and other protocols.
