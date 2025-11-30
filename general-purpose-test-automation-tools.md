@@ -75,6 +75,8 @@ Also:
 ## Test design
 
 * [PICT (Pairwise Independent Combinatorial Testing)](https://github.com/Microsoft/pict) - PICT generates test cases and test configurations. With PICT, you can generate tests that are more effective than manually generated tests and in a fraction of the time required by hands-on test case design.
+* [Treeify](https://treeifyai.com) - Treeify is an AI test-case design copilot that turns long PRDs and specs into structured, traceable, high-coverage scenarios with a mind-map-native, multi-agent workflow, note-based regeneration, and clean exports to your TMS.
+* [Awesome-Test-Case-Design](https://github.com/Treeify-ai/Awesome-Test-Case-Design/tree/main) - Free, open-source templates & playbooks that turn long PRDs into structured, traceable, high-coverage test designs—design in structure, export later.
 
 ## Test management
 
