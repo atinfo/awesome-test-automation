@@ -26,6 +26,7 @@ Also:
 * [Browserstack](http://www.browserstack.com/) - Online tool which allows users to test their website from different browsers. The list of supported browsers includes Google Chrome, Internet Explorer, Opera and Safari. This even includes different browser versions as well including the beta versions as well. With Browserstack, you can test every aspect of your website like flash, CSS, Java and more.
 * [AppliTools](https://applitools.com/) Automating visual software testing
 * [CrossBrowserTesting](https://crossbrowsertesting.com/) Another one cloud platform for automated testing of web applications. Provides a wide range of browsers, systems and more.
+* * [Keploy](https://keploy.io/) - Open-source tool that generates end-to-end tests and service mocks from real traffic for backend and web applications to enable deterministic regression testing.
 * [TestAnywhere](https://testanywhere.co/) - Test Anywhere is a cloud service that helps test your website or web application continuously and catch bugs in the early stages
 * [Assertible](https://assertible.com/) - Assertible is an API and website testing service for teams and individuals. Create tests for your business logic, run them on a schedule or after deployments, and get alerted of failures as they occur.
 * [Mailosaur](https://mailosaur.com/) - Allows you to automate email testing. Perform end-to-end tests on password reset, email verification and any area where you send email.
