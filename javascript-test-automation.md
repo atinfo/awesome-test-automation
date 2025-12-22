@@ -105,7 +105,7 @@ No dependencies, works with any unit testing framework.
 * [BackstopJS](https://github.com/garris/BackstopJS) - BackstopJS automates visual regression testing of your responsive web UI by comparing DOM screenshots over time.
 * [Taiko](https://github.com/getgauge/Taiko) - A Node.js library to test and automate chromium browsers.
 * [QA Wolf](https://github.com/qawolf/qawolf) - A Node.js library to create browser tests 10x faster with Puppeteer and Jest.
-
+* [kogiQA](https://kogiqa.com/) - A UI automation tool that works without selectors.
 
 ## API automation
 * [SuperTest](https://github.com/visionmedia/supertest) - Super-agent driven library for testing node.js HTTP servers using a fluent API.
