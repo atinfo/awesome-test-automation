@@ -38,8 +38,9 @@ Also:
 * [VIVIDUS](https://docs.vividus.dev/) - a test automation tool that offers already implemented solution for testing of most popular application types. No coding skills are required.
 
 ## Web UI test automation
-* [Ggr](https://github.com/aandryashin/ggr) - active load balancer to create scalable and highly-available Selenium cluster.
-* [Selenoid](https://github.com/aandryashin/selenoid) - alternative Selenium Hub running browsers within containers.
+* [Ggr](https://github.com/aerokube/ggr) - active load balancer to create scalable and highly-available Selenium cluster.
+* [Selenoid](https://github.com/aerokube/selenoid) - alternative Selenium Hub running browsers within containers.
+* [Moon](https://github.com/aerokube/moon) - commercial closed-source enterprise solution for Kubernetes and Openshift to launch Selenium, Playwright, Puppeteer and Cypress tests in parallel.
 * [RedwoodHQ](https://github.com/dmolchanenko/RedwoodHQ) - RedwoodHQ is a free Open Source test automation framework that allows multiple users to develop automation code, create readable action/keyword driven test cases and execute them all under a single Web interface.
 
 ## API testing
@@ -56,6 +57,7 @@ Also:
 * [Insomnia](https://insomnia.rest/) provides workflows and tools to make API Development Easier.
 * [Apitest](https://github.com/sigoden/apitest) - Apitest is declarative api testing tool with JSON-like DSL for easy testing of REST services.
 * [vREST NG](https://vrest.io) is a zero code API automation solution for functional and regression testing of your APIs. It will help you to efficiently develop your test suites using record/replay, excel sheets (data driven testing) and allow you to derive your API testing using Swagger or OpenAPI specs.
+* [Boot](https://github.com/aerokube/boot/) - Solution to launch lightweight test and development virtual machines in Kubernetes.
 
 ## Performance and load testing
 * [Apache Jmeter](https://jmeter.apache.org/) - The most popular Open Source tool for load testing for web and other protocols.
