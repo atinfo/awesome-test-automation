@@ -159,6 +159,7 @@ Also:
     * [Toolium](https://github.com/Telefonica/toolium) - Toolium is a Python wrapper tool of Selenium and Appium libraries to test web and mobile applications in a single project. It provides a way of choosing and configuring the driver through a configuration file, implements a Page Object pattern and includes a simple visual testing solution.
     * [Mops](https://github.com/CustomEnv/mops) - Mops is a Python wrapper that offers a user-friendly, unified API for Selenium, Appium, and Playwright, simplifying test automation across web applications. It reduces Selenium wait times, provides visual comparison support across all frameworks, and enhances the overall automation experience.
     * [alumnium](https://github.com/alumnium-hq/alumnium) - Open-source AI-powered test automation library on top of Playwright/Selenium/Appium.
+    * [TesterBot](https://github.com/thisisismayill/testerbot) - Playwright crawler that walks a whole site by itself, clicks every control and submits forms with test data, then reports JS errors, broken links, axe-core accessibility violations, missing server-side validation and unescaped output in one HTML file.
 - extensions
     * [webdriver_manager](https://github.com/SergeyPirogov/webdriver_manager) - The main idea is to simplify managemet of binary drivers for different browsers.
     * [pytest_splinter](https://github.com/pytest-dev/pytest-splinter) - pytest spinter and selenium integration for anyone interested in browser interaction in tests.
