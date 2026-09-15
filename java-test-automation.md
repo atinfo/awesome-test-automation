@@ -42,6 +42,7 @@ Also:
 
 * [JUnit](http://junit.org/) - Common testing framework.
 * [TestNG](http://testng.org/) - TestNG - Testing framework.
+    * [Qualflare TestNG Reporter](https://github.com/Qualflare/qualflare-testng) - Native TestNG listener that records every retryAnalyzer attempt as its own result, reports timeouts and configuration failures as distinct statuses, and registers itself via ServiceLoader with no testng.xml changes.
     * [Test Data Supplier](https://github.com/sskorol/test-data-supplier) - TestNG DataProvider wrapper which helps to supply test data in a more flexible way.
 * [Sunshine](https://github.com/tatools/sunshine/) - Sunshine is a wrapper on Java xUnit test runners (such as TestNG, Junit...) which allows automatically find classes with tests within the jar file, passes them to desired test runner and reports an execution status.
 
