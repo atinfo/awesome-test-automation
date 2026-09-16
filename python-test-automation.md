@@ -125,6 +125,7 @@ Also:
 * [prospector](https://github.com/landscapeio/prospector) - A tool to analyse Python code and output information about errors, potential problems, convention violations and complexity.
 * [wemake-python-styleguide](https://github.com/wemake-services/wemake-python-styleguide) - The strictest and most opinionated python linter ever!
 * [pytest-cov](https://github.com/pytest-dev/pytest-cov) - Pytest plugin which helps you identify parts of code that have been executed by your tests.
+* [gatecheck](https://github.com/simin-yuan/self-auditing-agent) - A mutation-testing harness for validators and quality gates: it mutates the checker's input and reports which mutations the gate fails to reject.
 
 
 ## Web UI test automation
