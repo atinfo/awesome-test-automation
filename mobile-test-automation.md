@@ -63,6 +63,7 @@ Also:
 * [Bitrise](https://www.bitrise.io/) Build better mobile applications, faster
 * [CircleCI](https://circleci.com/) Code. Commit. Done.
 * [Jenkins](http://jenkins-ci.org/) - Jenkins is an award-winning application that monitors executions of repeated jobs, such as building a software project or jobs run by cron.
+* [Qualflare Maestro Reporter](https://github.com/Qualflare/qualflare-maestro) - Reporter for Maestro flows on Android and iOS. Wraps `maestro test` and reports a step for every command, the screenshots Maestro took, tags from the flow's YAML, and a result even when a run dies before Maestro writes one.
 
 # Resources
 Where to discover new libraries, information, tools, etc.
