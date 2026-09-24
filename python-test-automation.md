@@ -111,7 +111,7 @@ Also:
 * [factory_boy](https://github.com/FactoryBoy/factory_boy) - A fixtures replacement based on thoughtbot’s [factory_girl](https://github.com/thoughtbot/factory_girl).
 * [fauxfactory](https://github.com/omaciel/fauxfactory) - Random Data Generator
 * [mimesis](https://github.com/lk-geimfari/mimesis) - Mimesis is fast and extremely easy to use Python package, which helps generate big volumes of fake data for a variety of purposes in a variety of languages
-* [Mock Jutsu](https://github.com/altansayan/mock-jutsu-api) - Checksum-valid financial and identity test data generator (IBAN MOD-97, Luhn cards, TCKN, ISIN, BIC/SWIFT) - unlike format-only fakers, every value passes real validation.
+* [Mock Jutsu](https://github.com/altansayan/mock-jutsu-api) - Checksum-valid financial and identity test data generator (IBAN MOD-97, Luhn cards, TCKN, ISIN), plus real registered BIC/SWIFT codes - unlike format-only fakers, every value passes real validation.
 
 ## Code analysis
 

@@ -74,7 +74,7 @@ Also:
 * [ffaker](https://github.com/EmmanuelOga/ffaker) - A faster Faker, generates dummy data, rewrite of faker.
 * [Forgery](https://github.com/sevenwire/forgery) - Easy and customizable generation of forged data.
 * [Machinist](https://github.com/notahat/machinist) - Fixtures aren't fun. Machinist is.
-* [Mock Jutsu](https://github.com/altansayan/mock-jutsu-api) - Checksum-valid financial and identity test data generator (IBAN MOD-97, Luhn cards, TCKN, ISIN, BIC/SWIFT). No native Ruby gem, but usable from Ruby via its REST API.
+* [Mock Jutsu](https://github.com/altansayan/mock-jutsu-api) - Checksum-valid financial and identity test data generator (IBAN MOD-97, Luhn cards, TCKN, ISIN), plus real registered BIC/SWIFT codes. No native Ruby gem, but usable from Ruby via its REST API.
 
 
 ## Web UI test automation
