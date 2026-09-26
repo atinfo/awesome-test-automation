@@ -125,6 +125,7 @@ No dependencies, works with any unit testing framework.
 * [RobotJS](https://robotjs.io/) - The Node.js Desktop Automation Library
 * [SikuliX](http://www.sikulix.com/) - SikuliX automates anything you see on the screen of your desktop computer running Windows, Mac or some Linux/Unix. It uses image recognition powered by OpenCV to identify and control GUI components. This is handy in cases when there is no easy access to a GUI's internals or the source code of the application or web page you want to act on.
 * [Sakuli](https://sakuli.io) - An awesome Node.js based End-to-End (E2E) testing solution which combines Selenium based web testing with full desktop automation. It's custom DSL allows to write complex scenarios which seamlessly switch between the browser and your desktop. It's built-in monitoring support allows to measure performance data from a user perspective.
+* [offstage-windows](https://github.com/LippInc/offstage-windows) - Runs GUI test sessions (Electron, Playwright) on a hidden Windows desktop, so their windows never appear on screen or steal keyboard focus.
 
 [Contribute to this section](https://github.com/atinfo/awesome-test-automation/blob/master/CONTRIBUTING.md)
 
