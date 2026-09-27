@@ -51,7 +51,7 @@ Also:
 - Runners
     * [Karma](http://mochajs.org/) - test runner for making TDD much easier by pre-build test environments.
     * [Wallaby.js](https://wallabyjs.com/) - Wallaby.js runs your JavaScript tests immediately as you type and displays execution results in your code editor. It also provides live test execution and code coverage reports.
-    * [Jest](https://facebook.github.io/jest/) - Jest is used by Facebook to test all JavaScript code including React applications. One of Jest's philosophies is to provide an integrated "zero-configuration" experience. We observed that when engineers are provided with ready-to-use tools, they end up writing more tests, which in turn results in more stable and healthy code bases.
+    * [Jest](https://jestjs.io/) - Jest is used by Facebook to test all JavaScript code including React applications.
     * [GlaceJS](https://glacejs.github.io/glace-core) - quick-start functional testing framework based on [mocha](http://mochajs.org/) and extensible with [plugins](https://github.com/glacejs).
     * [Apickli](https://github.com/apickli/apickli) - REST API integration testing framework based on cucumber.js
     * [Mocha Parallel Tests](https://github.com/mocha-parallel/mocha-parallel-tests) - mocha-parallel-tests is a test runner for tests written with mocha testing framework which allows you to run them in parallel.
@@ -78,6 +78,7 @@ No dependencies, works with any unit testing framework.
 * [CodeceptJS](http://codecept.io/) - Supercharged end 2 end testing for NodeJS
 * [Nightwatch.js](http://nightwatchjs.org/) - Easy to use Node.js based End-to-End (E2E) testing solution for browser based apps and websites.
 * [Dalek.js](http://dalekjs.com/) - Automated cross browser testing with JavaScript.
+* [Selenium StaleElementReference Fix](https://thecodeforge.io/testing/selenium-staleelementreference/) - Reproduce, diagnose, and fix stale elements in Selenium with retry patterns.
 * [Nemo](http://nemo.js.org/) - Nemo provides a simple way to add selenium automation to your NodeJS web projects. With a powerful configuration ability provided by krakenjs/confit, and plugin architecture, Nemo is flexible enough to handle any browser/device automation need.
 * [Frisby](http://frisbyjs.com/) - Is a REST API testing framework built on node.js and Jasmine that makes testing API endpoints easy, fast, and fun.
 * [TestCafe](https://devexpress.github.io/testcafe/) - Automated browser testing for the modern web development stack.
@@ -185,7 +186,6 @@ No dependencies, works with any unit testing framework.
 ## Editors, IDE, consoles
 * [WebStorm](https://www.jetbrains.com/webstorm/) - PhpStorm without php support. One of thee most powerfull JS/HTML IDE.
 * [Brackets](http://brackets.io/) - Open source newly released IDE for JS/HTML from Adobe.
-* [Komodo](https://www.activestate.com/komodo-ide) - Cross platform IDE for multiple languages, strongly supporting JS.
 * [Cloud9](https://c9.io/) - Cloud based nodejs IDE supporting multiple features, eg. pair programming, preview in a new browser, built-in image editor, terminal and many others
 * [Visual Studio Code](https://code.visualstudio.com/) - Cross platform editor from Microsoft, with integrated Node.js debugger and hooks for taskrunners such as Gulp
 * [Atom](https://atom.io) - Full-featured, right out of the box text editor that's modern, approachable, yet hackable to the core from Github
@@ -206,6 +206,7 @@ Where to discover new libraries, information, tools, etc.
 * [automated-testing.info](http://automated-testing.info) - Test automation community
 * [atinfo.github.io/at.info-knowledge-base](http://atinfo.github.io/at.info-knowledge-base/)  - Knowledge base for test automation examples on different tools and technologies
 * [Testomat.io](https://testomat.io/) - test management and reporting system for javascript automated tests
+* [TheCodeForge Testing Track](https://thecodeforge.io/testing/) - Selenium, Cypress, and Playwright error-fix guides with reproduction steps.
 
 
 ## Articles
