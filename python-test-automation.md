@@ -39,7 +39,6 @@ Also:
     * [unittest](https://docs.python.org/library/unittest.html) - is a library to make unit testing distributed with python out of the box.
     * [unittest2](https://pypi.python.org/pypi/unittest2) - is a backport of the new features added to the unittest testing framework in Python 2.7 and onwards.
     * [pytest](http://pytest.org/) - is a mature full-featured Python testing tool that helps you write better programs.
-        * [plugincompat](http://plugincompat.herokuapp.com/) - Test execution and compatibility checks for pytest plugins
     * [test-junkie](https://github.com/ArturSpirin/test_junkie) - Highly configurable modern testing framework.
     * [nosetests](https://nose.readthedocs.org/en/latest/) - is a nicer testing for python.
     * [slash](https://github.com/slash-testing/slash) - is a testing framework written in Python.
@@ -146,7 +145,6 @@ Also:
     * [robotframework-anywherelibrary](https://github.com/luisxiaomai/robotframework-anywherelibrary) - A cross platform(desktop browser,android,ios) testing library for Robot Framework that leverages the Selenium 2(WebDriver) libraries internally to control a web browser and appium as mobile test automation framework for use with native and hybrid app.
     * [robotframework-pageobjects](https://github.com/ncbi/robotframework-pageobjects) - Nice implementation of the Page Object pattern with robotframework and selenium, that can work even outside of robotframework.
     * [elementium](https://github.com/actmd/elementium) - jQuery-style syntactic sugar for highly reliable automated browser testing in Python
-    * [slickqa](http://www.slickqa.com/webdriver/python/) - The slick-webdriver-python project is a wrapper around the python webdriver client bindings.
     * [selene](https://github.com/yashaka/selene/) - Concise UI tests in Python + Ajax support + PageObjects + Widgets
     * [hitch](http://hitchtest.com/) - A high level integration testing framework for service based applications.
     * [Needle](http://needle.readthedocs.org/en/latest/) - Needle is a tool for testing visuals with Selenium and nose. It checks that CSS renders correctly by taking screenshots of portions of a website and comparing them against known good screenshots. It also provides tools for testing calculated CSS values and the position of HTML elements.
@@ -265,7 +263,6 @@ Also:
 
 * [ReportPortal.io](http://ReportPortal.io) - [pytest, RobotFramework, etc.](https://github.com/reportportal?utf8=✓&q=agent-python) powerfull results management and analytics for test automation reports. Powered with Machine Learning. Real-time integration and reports, visualization of trends and statistics, custom dashboards and widgets, gives you real visibility into the state of test automation. Integral part of CI/CD with TA and Continous Testing. Server-client application, can be used for any type of automated tests. Free and OpenSourced, [GitHub link](https://github.com/reportportal).
 * [allure pytest](https://github.com/allure-framework/allure-python) - Allure adapter for PyTest framework.
-* [HTMLTestRunner](http://tungwaiyip.info/software/HTMLTestRunner.html) - An extension to the Python standard library's unittest module. It generates easy to use HTML test reports.
 * [unittest-xml-reporting](https://github.com/xmlrunner/unittest-xml-reporting) - A unittest test runner that can save test results to XML files that can be consumed by a wide range of tools, such as build systems, IDEs and continuous integration servers.
 * [PrettyTable](https://github.com/jazzband/prettytable) - Python library to generate nice table reports right in console.
 * [pytest-html](https://github.com/pytest-dev/pytest-html) - Plugin for generating HTML reports for PyTest results.
@@ -301,7 +298,6 @@ Libraries that may help you to build better test automation.
 * [dateutil](https://pypi.python.org/pypi/python-dateutil) - Extensions to the standard Python datetime module.
 * [python-tesseract](https://code.google.com/p/python-tesseract/) - Wrapper class for tesseract OCR (Linux & Mac & Windows)
 * [pywinrm](https://github.com/diyan/pywinrm/) - A Python client for Windows Remote Management (WinRM). This allows you to invoke commands on target Windows machines from any machine that can run Python. WinRM allows you to call native objects in Windows. These include, but are not limited to, running batch scripts, powershell scripts and fetching WMI variables. For more information on WinRM, please visit Microsoft's WinRM site.
-* [fig](http://www.fig.sh/) - Fast, isolated development environments using [Docker](https://www.docker.com/).
 * [gitpython](https://gitpython.readthedocs.io/en/stable/intro.html) - GitPython is a python library used to interact with git repositories, high-level like git-porcelain, or low-level like git-plumbing..
 * [Pyro4](https://github.com/irmen/Pyro4) - Pyro enables you to build applications in which objects can talk to each other over the network, with minimal programming effort.
 * [keyboard](https://github.com/boppreh/keyboard) - Hook and simulate global keyboard events on Windows and Linux.
