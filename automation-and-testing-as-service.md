@@ -45,6 +45,7 @@ Also:
 * [Mockachino](https://www.mockachino.com/) [github repo](https://github.com/czhu12/mockachino) Create a Mock API in Seconds. No Accounts, Free Forever. Share Your Space with Teammates.
 * [Step CI](https://stepci.com) [github repo](https://github.com/stepci/stepci) Open-source framework for API Quality Assurance.
 * [Keploy](https://www.keploy.io) [github repo](https://github.com/keploy/keploy) Keploy is a no-code testing platform that generates tests from API calls.
+* [Twinbay](https://twinbay.ai) - Hosted, stateful twins of 13 third-party APIs, including Shopify, Slack, GitHub and QuickBooks. You get a private environment per test run, force states like 429s or declined payments, and assert on the log of requests your code sent.
 
 ## Mobile test automation
 * [Hive CI](http://bbc.github.io/hive-ci/) is a CI system built around devices. Connect your physical devices to a hive and run your tests on the same platforms as your users
