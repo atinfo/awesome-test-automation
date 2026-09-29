@@ -39,7 +39,6 @@ Also:
     * [unittest](https://docs.python.org/library/unittest.html) - is a library to make unit testing distributed with python out of the box.
     * [unittest2](https://pypi.python.org/pypi/unittest2) - is a backport of the new features added to the unittest testing framework in Python 2.7 and onwards.
     * [pytest](http://pytest.org/) - is a mature full-featured Python testing tool that helps you write better programs.
-        * [plugincompat](http://plugincompat.herokuapp.com/) - Test execution and compatibility checks for pytest plugins
     * [test-junkie](https://github.com/ArturSpirin/test_junkie) - Highly configurable modern testing framework.
     * [nosetests](https://nose.readthedocs.org/en/latest/) - is a nicer testing for python.
     * [slash](https://github.com/slash-testing/slash) - is a testing framework written in Python.
@@ -76,7 +75,6 @@ Also:
     * [pytest-bdd](https://github.com/pytest-dev/pytest-bdd) - BDD library for the py.test runner
     * [pytest-play](https://github.com/pytest-dev/pytest-play) - ATDD pytest plugin that let you automate actions, assertions and test metrics executing plain YAML files.
     * [robotframework](http://robotframework.org/) - A generic test automation framework for acceptance testing and acceptance test-driven development (ATDD)
-        * [awesome-robotframework](https://github.com/fkromer/awesome-robotframework) - A curated list of awesome Robot Framework resources and libraries
     * [radish-bdd](https://github.com/radish-bdd/radish) - BDD testing tool with supplements
 - Assertions
     * [pyshould](https://github.com/drslump/pyshould) - Should style asserts based on pyhamcrest.
@@ -138,7 +136,6 @@ Also:
     * [py.saunter](https://github.com/element-34/py.saunter) - An opinionated automation framework for use with the Selenium RC and WebDriver libraries.
     * [moz-web-qa](https://github.com/mozilla/pytest-mozwebqa) - A plugin for py.test that provides additional features needed for Mozilla's WebQA projects.
     * [testutils sst](https://pypi.org/project/sst/) - A web test framework that uses Python to generate functional browser-based tests.
-    * [wtframework](https://github.com/wiredrive/wtframework) - Framework for configurable Web Tests in Python.
     * [holmium.core](https://github.com/alisaifee/holmium.core) - Page objects & Utilities for writing selenium test cases.
     * [robotframework-selenium2library](https://github.com/rtomac/robotframework-selenium2library) - Web testing library for Robot Framework.
     * [gocept.selenium](https://pypi.python.org/pypi/gocept.selenium) - An API for the Selenium remote control that is suited for writing tests and integrates this with your test suite for any WSGI, Plone, Zope 2, ZTK, or Grok application.
@@ -146,7 +143,6 @@ Also:
     * [robotframework-anywherelibrary](https://github.com/luisxiaomai/robotframework-anywherelibrary) - A cross platform(desktop browser,android,ios) testing library for Robot Framework that leverages the Selenium 2(WebDriver) libraries internally to control a web browser and appium as mobile test automation framework for use with native and hybrid app.
     * [robotframework-pageobjects](https://github.com/ncbi/robotframework-pageobjects) - Nice implementation of the Page Object pattern with robotframework and selenium, that can work even outside of robotframework.
     * [elementium](https://github.com/actmd/elementium) - jQuery-style syntactic sugar for highly reliable automated browser testing in Python
-    * [slickqa](http://www.slickqa.com/webdriver/python/) - The slick-webdriver-python project is a wrapper around the python webdriver client bindings.
     * [selene](https://github.com/yashaka/selene/) - Concise UI tests in Python + Ajax support + PageObjects + Widgets
     * [hitch](http://hitchtest.com/) - A high level integration testing framework for service based applications.
     * [Needle](http://needle.readthedocs.org/en/latest/) - Needle is a tool for testing visuals with Selenium and nose. It checks that CSS renders correctly by taking screenshots of portions of a website and comparing them against known good screenshots. It also provides tools for testing calculated CSS values and the position of HTML elements.
@@ -154,7 +150,6 @@ Also:
     * [pypom_form](https://github.com/davidemoro/pypom_form) - PyPOM based page object model for schema based forms.
     * [POM](https://github.com/schipiga/pom) - POM is Page-Object-Model microframework to develop web UI tests easy, quickly and with pleasure.
     * [websmith](https://github.com/omaciel/websmith) - A Domain Specific Language (DSL) for Web Testing.
-    * [pages](https://github.com/Skyscanner/pages) -  lightweight page object and component Python library for UI tests.
     * [seleniumbase](https://github.com/seleniumbase/SeleniumBase) - A simple Python framework for building test automation with Selenium WebDriver. It depends on pytest or noose modules to run. When used with noose a HTML report can be generated in the end of the test run.
     * [Toolium](https://github.com/Telefonica/toolium) - Toolium is a Python wrapper tool of Selenium and Appium libraries to test web and mobile applications in a single project. It provides a way of choosing and configuring the driver through a configuration file, implements a Page Object pattern and includes a simple visual testing solution.
     * [Mops](https://github.com/CustomEnv/mops) - Mops is a Python wrapper that offers a user-friendly, unified API for Selenium, Appium, and Playwright, simplifying test automation across web applications. It reduces Selenium wait times, provides visual comparison support across all frameworks, and enhances the overall automation experience.
@@ -265,7 +260,6 @@ Also:
 
 * [ReportPortal.io](http://ReportPortal.io) - [pytest, RobotFramework, etc.](https://github.com/reportportal?utf8=✓&q=agent-python) powerfull results management and analytics for test automation reports. Powered with Machine Learning. Real-time integration and reports, visualization of trends and statistics, custom dashboards and widgets, gives you real visibility into the state of test automation. Integral part of CI/CD with TA and Continous Testing. Server-client application, can be used for any type of automated tests. Free and OpenSourced, [GitHub link](https://github.com/reportportal).
 * [allure pytest](https://github.com/allure-framework/allure-python) - Allure adapter for PyTest framework.
-* [HTMLTestRunner](http://tungwaiyip.info/software/HTMLTestRunner.html) - An extension to the Python standard library's unittest module. It generates easy to use HTML test reports.
 * [unittest-xml-reporting](https://github.com/xmlrunner/unittest-xml-reporting) - A unittest test runner that can save test results to XML files that can be consumed by a wide range of tools, such as build systems, IDEs and continuous integration servers.
 * [PrettyTable](https://github.com/jazzband/prettytable) - Python library to generate nice table reports right in console.
 * [pytest-html](https://github.com/pytest-dev/pytest-html) - Plugin for generating HTML reports for PyTest results.
@@ -301,7 +295,6 @@ Libraries that may help you to build better test automation.
 * [dateutil](https://pypi.python.org/pypi/python-dateutil) - Extensions to the standard Python datetime module.
 * [python-tesseract](https://code.google.com/p/python-tesseract/) - Wrapper class for tesseract OCR (Linux & Mac & Windows)
 * [pywinrm](https://github.com/diyan/pywinrm/) - A Python client for Windows Remote Management (WinRM). This allows you to invoke commands on target Windows machines from any machine that can run Python. WinRM allows you to call native objects in Windows. These include, but are not limited to, running batch scripts, powershell scripts and fetching WMI variables. For more information on WinRM, please visit Microsoft's WinRM site.
-* [fig](http://www.fig.sh/) - Fast, isolated development environments using [Docker](https://www.docker.com/).
 * [gitpython](https://gitpython.readthedocs.io/en/stable/intro.html) - GitPython is a python library used to interact with git repositories, high-level like git-porcelain, or low-level like git-plumbing..
 * [Pyro4](https://github.com/irmen/Pyro4) - Pyro enables you to build applications in which objects can talk to each other over the network, with minimal programming effort.
 * [keyboard](https://github.com/boppreh/keyboard) - Hook and simulate global keyboard events on Windows and Linux.
