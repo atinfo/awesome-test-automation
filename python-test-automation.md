@@ -97,6 +97,7 @@ Also:
     * [model-mmomy](https://github.com/vandersonmota/model_mommy) - Offers a smart way to create fixtures for testing in Django. With a simple and powerful API you can create many objects with a single line of code.
     * [django-test-plus](https://github.com/revsys/django-test-plus) - Useful additions to Django's default TestCase.
     * [Mockintosh](https://mockintosh.io/) - A mock server generator that's capable to generate RESTful APIs and communicate with the message queues to mimick asynchronous tasks.
+    * [MockRelay](https://github.com/sswivell/mock-relay) - Local HTTP proxy that records real API traffic to plain JSON fixtures and replays them offline, ranking candidates by specificity so the most specific recorded response wins.
     * [pytest-mock](https://github.com/pytest-dev/pytest-mock) - Pytest plugin that wraps around the standard `unittest.mock` package as a fixture.
 
 
