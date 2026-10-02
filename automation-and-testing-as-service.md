@@ -37,6 +37,7 @@ Also:
 * [endtest.io](https://endtest.io/) - Endtest is the leading test automation vendor providing a complete software platform to help organizations efficiently build automated end-to-end tests for Web and Mobile Applications.
 * [testsigma.com](https://testsigma.com/) A powerful open source end-to-end test automation platform for web Apps, mobile apps, and APIs to build stable and reliable tests quickly @DevOps speed. 
 * [DoesQA](https://does.qa/) Codeless test automation with a simple, intuitive drag-and-drop user interface. Run your tests on multiple browsers, emulated devices and with full concurrency as standard.
+* [stateofpixel](https://stateofpixel.com) - Catch UI regressions before they merge. Your CI takes the screenshots with Playwright, Storybook or any tool that writes PNGs, and a person approves each change on the pull request. Open source and self-hostable.
 
 ## API test automation and testing
 * [MockLab](http://get.mocklab.io?utm_source=awesome-test-automation&utm_medium=automation-and-testing-as-service) is a hosted API simulation tool built on WireMock (maintaining 100% API compatibility). It supports flexible request/response stubbing for any HTTP-based protocol, response templating with Handlebars, conditional proxying and fault injection.
