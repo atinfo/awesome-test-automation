@@ -321,6 +321,7 @@ Libraries that may help you to build better test automation.
 * [prettyprinter](https://github.com/tommikaikkonen/prettyprinter) - Syntax-highlighting, declarative and composable pretty printer for Python 3.5+
 * [jsonschema](https://github.com/Julian/jsonschema) - JSON Schema implementation
 for Python. Powerful tool for validating the structure of JSON data.
+* [devin-qa-pack](https://github.com/Icaro0310/devin-qa-pack) - Verify AI coding agent claims against real session state: diffs, test runs, commits and pushes checked against tool-call evidence, not the agent narrative.
 
 # Resources
 Where to discover new libraries, information, tools, etc.
