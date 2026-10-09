@@ -29,6 +29,7 @@ Also:
 * [TestAnywhere](https://testanywhere.co/) - Test Anywhere is a cloud service that helps test your website or web application continuously and catch bugs in the early stages
 * [Assertible](https://assertible.com/) - Assertible is an API and website testing service for teams and individuals. Create tests for your business logic, run them on a schedule or after deployments, and get alerted of failures as they occur.
 * [Mailosaur](https://mailosaur.com/) - Allows you to automate email testing. Perform end-to-end tests on password reset, email verification and any area where you send email.
+* [mailsocket](https://mailsocket.app/) - Inbox API for email testing: create a throwaway inbox, then one call waits for the verification code or magic link and returns it as JSON.
 * [testim.io](https://www.testim.io/) - Automated functional testing platform with a GUI for authoring and machine learning based self-maintenance.
 * [cypress.io](https://github.com/cypress-io/cypress) - Fast, easy and reliable testing for anything that runs in a browser. Runs on Mac, Linux, Windows and any CI.
 * [Rainforest QA](https://www.rainforestqa.com/) - No Code Mobile & Web Testing for everything. Mac, Linux, Windows, iOS & Android.
