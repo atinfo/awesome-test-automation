@@ -39,6 +39,7 @@ Also:
     * [Composer](https://github.com/gojuno/composer) Composer is a modern reactive replacement for square/spoon
     * [Flank](https://github.com/Flank/flank) Flank is a massively parallel Android and iOS test runner for Firebase Test Lab.
     * [Kaspresso](https://github.com/KasperskyLab/Kaspresso) Kaspresso is a great framework for UI testing. Based on Espresso and UI Automator, Kaspresso provides a wide range of additional amazing features.
+* [Droidline](https://github.com/KnifeLemon/Droidline) - Drives real Android phones from Python, Node.js, C# or a CLI over Wi-Fi, with no ADB or root, and includes a pytest plugin and an Appium-compatible WebDriver bridge.
 
 ## iOS
 * [EarlGrey](https://github.com/google/EarlGrey) is a native iOS UI automation test framework that enables you to write clear, concise tests. With the EarlGrey framework, you have access to enhanced synchronization features. EarlGrey automatically synchronizes with the UI, network requests, and various queues; but still allows you to manually implement customized timings, if needed.
