@@ -130,6 +130,7 @@ and [PHPUnit](https://github.com/allure-framework/allure-phpunit).
 ## Useful libs
 
 * [PHP CS Fixer](https://cs.symfony.com/) - tool for automatic convention violations correction
+* [ccgenerator/test-cards](https://github.com/ccgeneratororg/ccgenerator-php) - synthetic, Luhn-valid test card numbers with Laravel validation rules, a Faker provider and Symfony constraints
 
 # Resources
 

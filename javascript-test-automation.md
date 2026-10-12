@@ -193,7 +193,8 @@ No dependencies, works with any unit testing framework.
 ## Useful libs
 * [faker](https://www.npmjs.com/package/faker) - generate massive amounts of fake data in the browser and node.js
 * [interfake](https://github.com/basicallydan/interfake) -  Fake APIs for prototypes & automated tests.
-* [node-replay](https://github.com/assaf/node-replay) -  When API testing slows you down: record and replay HTTP responses like a boss 
+* [node-replay](https://github.com/assaf/node-replay) -  When API testing slows you down: record and replay HTTP responses like a boss
+* [@ccgenerator/test-cards](https://www.npmjs.com/package/@ccgenerator/test-cards) - synthetic, Luhn-valid test card numbers for Node and the browser, zero dependencies
 
 [Contribute to this section](https://github.com/atinfo/awesome-test-automation/blob/master/CONTRIBUTING.md)
 
