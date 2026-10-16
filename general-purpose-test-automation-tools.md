@@ -56,6 +56,7 @@ Also:
 * [Insomnia](https://insomnia.rest/) provides workflows and tools to make API Development Easier.
 * [Apitest](https://github.com/sigoden/apitest) - Apitest is declarative api testing tool with JSON-like DSL for easy testing of REST services.
 * [vREST NG](https://vrest.io) is a zero code API automation solution for functional and regression testing of your APIs. It will help you to efficiently develop your test suites using record/replay, excel sheets (data driven testing) and allow you to derive your API testing using Swagger or OpenAPI specs.
+* [Openhook](https://github.com/openhook-dev/openhook-inbox) - Open-source callback inbox for testing webhook integrations, with REST and MCP interfaces to wait for events, inspect captured headers and bodies, and forward requests to local handlers.
 
 ## Performance and load testing
 * [Apache Jmeter](https://jmeter.apache.org/) - The most popular Open Source tool for load testing for web and other protocols.
