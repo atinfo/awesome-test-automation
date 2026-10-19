@@ -209,7 +209,8 @@ Where to discover new libraries, information, tools, etc.
 
 
 ## Articles
-* [js-testrunners-bench](https://github.com/vitalets/js-testrunners-bench) - Performance comparison of the most popular JavaScript test-runners. 
+* [js-testrunners-bench](https://github.com/vitalets/js-testrunners-bench) - Performance comparison of the most popular JavaScript test-runners.
+* [Playwright API Testing: A Complete Guide](https://keploy.io/blog/community/playwright-api-testing) - API testing with Playwright's request fixture and APIRequestContext, with authentication, mocking and CI examples.
 
 # Other Awesome Test Automation Lists
 
