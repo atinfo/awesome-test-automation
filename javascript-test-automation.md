@@ -114,6 +114,7 @@ No dependencies, works with any unit testing framework.
 * [PactumJS](https://pactumjs.github.io) - REST API Testing Tool for all levels in a Test Pyramid.
 * [Got](https://github.com/sindresorhus/got) - Human-friendly and powerful HTTP request library for Node.js
 * [Axios](https://github.com/axios/axios) - Promise based HTTP client for the browser and node.js
+* [Keploy](https://keploy.io/) - Open-source tool that records real API traffic and turns it into API tests and dependency mocks.
 
 ## Mobile test automation
 * [WebdriverIO's Appium implementation](https://github.com/webdriverio/appium-boilerplate/) - nodejs bindings implemeting Appium commands.
