@@ -28,6 +28,7 @@ Also:
 * [Macaca](https://macacajs.github.io/) - Solution for Automation Test with Ease. Both Mobile, Desktop Platforms Supported, native, Hybrid, Mobile Web Multi-applications Supported, Command line tools & CI Solution provided.
 * [Katalon](https://www.katalon.com/) - An all-in-one test automation solution
 * [Mocking Star](https://github.com/Trendyol/mockingstar) - Network mocking tool designed to simplify the process of HTTP request mocking, network debugging, and using UI tests.
+* [Optics Framework](https://optics-framework.org) - Open-source UI test automation for Android, iOS, Android TV, Tizen, webOS and the web, with CSV/YAML suites and locator fallback from XPath to text to OCR to image.
 
 ## Android
 * [Robotium](https://code.google.com/p/robotium/) - An Android test automation framework that fully supports native and hybrid applications. Robotium makes it easy to write powerful and robust automatic black-box UI tests for Android applications. With the support of Robotium, test case developers can write function, system and user acceptance test scenarios, spanning multiple Android activities.
