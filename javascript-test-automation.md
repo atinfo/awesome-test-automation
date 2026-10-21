@@ -114,6 +114,7 @@ No dependencies, works with any unit testing framework.
 * [PactumJS](https://pactumjs.github.io) - REST API Testing Tool for all levels in a Test Pyramid.
 * [Got](https://github.com/sindresorhus/got) - Human-friendly and powerful HTTP request library for Node.js
 * [Axios](https://github.com/axios/axios) - Promise based HTTP client for the browser and node.js
+* [OutageFence](https://github.com/jn6825rsr7-afk/outagefence) - Local HTTP fault-injection CLI by Slanta Cause for testing synthetic sensitive-data routing under dependency failures, with HTML, JSON, Markdown and JUnit reports.
 
 ## Mobile test automation
 * [WebdriverIO's Appium implementation](https://github.com/webdriverio/appium-boilerplate/) - nodejs bindings implemeting Appium commands.
