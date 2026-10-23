@@ -22,6 +22,8 @@ Also:
 
 ## Web test automation and testing
 
+* [ContextQA](https://contextqa.com/) - Create and run application tests in natural language, inspect failure evidence, and connect compatible AI assistants through [hosted MCP](https://mcp.contextqa.com/docs). [Self-service signup](https://ship.contextqa.com/).
+
 * [SauceLabs](https://saucelabs.com/) - Provides the world's largest automation cloud for testing web and native/hybrid mobile applications. Founded by the original creator of Selenium, Sauce Labs helps companies accelerate software development cycles, improve application quality and deploy with confidence across 450+ browser / OS platforms, including Windows, Linux, iOS, Android & Mac OS X.
 * [Browserstack](http://www.browserstack.com/) - Online tool which allows users to test their website from different browsers. The list of supported browsers includes Google Chrome, Internet Explorer, Opera and Safari. This even includes different browser versions as well including the beta versions as well. With Browserstack, you can test every aspect of your website like flash, CSS, Java and more.
 * [AppliTools](https://applitools.com/) Automating visual software testing
@@ -97,3 +99,4 @@ Also we are supporting and looking for contribution for project:
 
 # [Contributing](https://github.com/atinfo/awesome-test-automation/blob/master/CONTRIBUTING.md)
 Your contributions are always welcome! [Contribute](https://github.com/atinfo/awesome-test-automation/blob/master/CONTRIBUTING.md)
+
