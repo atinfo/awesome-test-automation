@@ -128,6 +128,7 @@ run the C# tests just out of the box
 * [ReportPortal](http://reportportal.io/) - Full-featured result management tool for clients, managers & test automation engineers (NUnit 2, Nunit 3 and SpecFlow adapters).
 * [ExtentReports](http://extentreports.relevantcodes.com) - An open-source reporting library for test automation.
 * [GHPReporter](http://ghpreporter.github.io/) - An open-source .NET test reporting tool for several testing frameworks (supports NUnit 3, MSTest and SpecFlow).
+* [Ace Reports](https://harshadlambate.github.io/AceReportsWebsite/) - .NET test reporting for NUnit, MSTest, xUnit, and Reqnroll, with a self-contained HTML report for logs, API traffic, failure screenshots, retries, and flaky tests. [Live demo](https://harshadlambate.github.io/AceReportsWebsite/demo.html).
 
 ## Documentation generation
 
