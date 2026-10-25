@@ -57,6 +57,7 @@ Also:
 * [Browserstack](http://www.browserstack.com/) - Online tool which allows users to test their website from different browsers. The list of supported browsers includes Google Chrome, Internet Explorer, Opera and Safari. This even includes different browser versions as well including the beta versions as well. With Browserstack, you can test every aspect of your website like flash, CSS, Java and more.
 * [Perfecto](https://www.perfecto.io/) Perfecto Is the Leading Testing Platform for Web & Mobile Apps
 * [Kobiton](https://kobiton.com/) The only AI-infused real device testing platform built to accelerate your app delivery timeline from development to release.
+* [Clousd](https://clousd.com/) - Cloud Android phones (150+ device models, Android 12-17) for testing in the browser, over ADB, or through a REST API, Python SDK and MCP server.
 
 ## Continuous Integration
 
