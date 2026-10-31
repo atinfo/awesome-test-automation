@@ -28,6 +28,7 @@ Also:
 * [Macaca](https://macacajs.github.io/) - Solution for Automation Test with Ease. Both Mobile, Desktop Platforms Supported, native, Hybrid, Mobile Web Multi-applications Supported, Command line tools & CI Solution provided.
 * [Katalon](https://www.katalon.com/) - An all-in-one test automation solution
 * [Mocking Star](https://github.com/Trendyol/mockingstar) - Network mocking tool designed to simplify the process of HTTP request mocking, network debugging, and using UI tests.
+* [Momentic](https://momentic.ai/docs/quickstart/ios) - End-to-end tests for iOS and Android apps written as natural-language steps in YAML, run on local or hosted iOS simulators and Android emulators from the same CLI as web tests.
 
 ## Android
 * [Robotium](https://code.google.com/p/robotium/) - An Android test automation framework that fully supports native and hybrid applications. Robotium makes it easy to write powerful and robust automatic black-box UI tests for Android applications. With the support of Robotium, test case developers can write function, system and user acceptance test scenarios, spanning multiple Android activities.
