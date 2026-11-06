@@ -205,6 +205,7 @@ Where to discover new libraries, information, tools, etc.
 
 * [automated-testing.info](http://automated-testing.info) - Test automation community
 * [atinfo.github.io/at.info-knowledge-base](http://atinfo.github.io/at.info-knowledge-base/)  - Knowledge base for test automation examples on different tools and technologies
+* [nexus-studioqa-examples](https://github.com/verdict-system-LLC/nexus-studioqa-examples) - Playwright and pytest examples, one per kind of test result (real bug, flaky, timeout, blocked, unreachable, crash), runnable offline.
 * [Testomat.io](https://testomat.io/) - test management and reporting system for javascript automated tests
 
 
