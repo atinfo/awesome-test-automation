@@ -36,6 +36,7 @@ Also:
 * [Testsigma](https://testsigma.com/) - Testsigma is an AI-Driven Test Automation Ecosystem for Web, Mobile Web, Android & iOS Apps, and API automated testing on Microsoft Windows, Mac and Linux Operating Systems. No coding skills required.
 * [Touca.io](https://github.com/trytouca/trytouca) - Touca is an open source continuous regression testing system for engineering teams, especially useful for testing complex workflows with no web interface. Get feedback when you write code that could break your software.
 * [VIVIDUS](https://docs.vividus.dev/) - a test automation tool that offers already implemented solution for testing of most popular application types. No coding skills are required.
+* [revdeps](https://github.com/hamarshehmhmd/revdeps) - Reverse-dependency regression testing for npm and PyPI libraries: runs your dependents' test suites against the released version and your unreleased change, and reports which ones it would break.
 
 ## Web UI test automation
 * [Ggr](https://github.com/aandryashin/ggr) - active load balancer to create scalable and highly-available Selenium cluster.
