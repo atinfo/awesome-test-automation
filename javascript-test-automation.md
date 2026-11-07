@@ -194,6 +194,7 @@ No dependencies, works with any unit testing framework.
 * [faker](https://www.npmjs.com/package/faker) - generate massive amounts of fake data in the browser and node.js
 * [interfake](https://github.com/basicallydan/interfake) -  Fake APIs for prototypes & automated tests.
 * [node-replay](https://github.com/assaf/node-replay) -  When API testing slows you down: record and replay HTTP responses like a boss 
+* [knobs](https://github.com/vinenastudio/knobs) - Dev-only panel that sets color scheme, reduced motion, locale, time zone, clock and viewport from inside the page, with a window.devknobs API that Playwright or Puppeteer tests can drive.
 
 [Contribute to this section](https://github.com/atinfo/awesome-test-automation/blob/master/CONTRIBUTING.md)
 
