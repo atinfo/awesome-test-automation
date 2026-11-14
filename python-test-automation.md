@@ -108,6 +108,7 @@ Also:
 * [radar](https://pypi.python.org/pypi/radar) - Generate random datetime / time.
 * [robotframework-faker](https://github.com/guykisel/robotframework-faker) - Robot Framework wrapper for faker.
 * [hypothesis](https://github.com/DRMacIver/hypothesis) - Library for property based testing in Python, based on the Haskell library Quickcheck.
+* [pbt-sentry](https://github.com/Sun-Wukhan/pbt-sentry) - CLI and GitHub Action that runs a property-based test command across deterministic seeds and deduplicates the failures into repro-ready reports.
 * [factory_boy](https://github.com/FactoryBoy/factory_boy) - A fixtures replacement based on thoughtbot’s [factory_girl](https://github.com/thoughtbot/factory_girl).
 * [fauxfactory](https://github.com/omaciel/fauxfactory) - Random Data Generator
 * [mimesis](https://github.com/lk-geimfari/mimesis) - Mimesis is fast and extremely easy to use Python package, which helps generate big volumes of fake data for a variety of purposes in a variety of languages
