@@ -24,6 +24,7 @@ Also:
 ## Cross-platform tools
 * [Appium](http://appium.io/) - An open source test automation framework for use with native, hybrid and mobile web apps. It drives iOS and Android apps using the WebDriver protocol.
     * [Appium Desktop](https://github.com/appium/appium-desktop) - Appium Desktop is an open source app for Mac, Windows, and Linux which gives you the power of the Appium automation server in a beautiful and flexible UI.
+    * [benchfleet-appium](https://github.com/benchfleet/benchfleet-appium) - CLI that runs an existing Appium suite once per real Android phone connected to a BenchFleet Hub and merges the JUnit reports.
 * [Winium.StoreApps](https://github.com/2gis/Winium.StoreApps/) - An open source test automation tool for Windows Store apps, tested on emulators. It is Selenium Remote WebDriver implementation.
 * [Macaca](https://macacajs.github.io/) - Solution for Automation Test with Ease. Both Mobile, Desktop Platforms Supported, native, Hybrid, Mobile Web Multi-applications Supported, Command line tools & CI Solution provided.
 * [Katalon](https://www.katalon.com/) - An all-in-one test automation solution
