@@ -105,6 +105,7 @@ No dependencies, works with any unit testing framework.
 * [BackstopJS](https://github.com/garris/BackstopJS) - BackstopJS automates visual regression testing of your responsive web UI by comparing DOM screenshots over time.
 * [Taiko](https://github.com/getgauge/Taiko) - A Node.js library to test and automate chromium browsers.
 * [QA Wolf](https://github.com/qawolf/qawolf) - A Node.js library to create browser tests 10x faster with Puppeteer and Jest.
+* [kadeep](https://github.com/kadeep-ai/kadeep-cli) - Open-source CLI that runs plain English end-to-end checks against any URL, localhost included, in a real Playwright browser and reports pass/fail with console and network errors.
 
 
 ## API automation
