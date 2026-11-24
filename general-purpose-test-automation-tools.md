@@ -37,6 +37,7 @@ Also:
 * [Touca.io](https://github.com/trytouca/trytouca) - Touca is an open source continuous regression testing system for engineering teams, especially useful for testing complex workflows with no web interface. Get feedback when you write code that could break your software.
 * [VIVIDUS](https://docs.vividus.dev/) - a test automation tool that offers already implemented solution for testing of most popular application types. No coding skills are required.
 
+* [testPike](https://github.com/6bean/testpike) Self-evolving AI test platform: requirement docs become reviewed test cases and executable scripts (Playwright executors, Gatling/k6/JMeter, API + contract mocks), with traceability, governance and a learning loop. Runs offline with a built-in mock LLM. Apache-2.0.
 ## Web UI test automation
 * [Ggr](https://github.com/aandryashin/ggr) - active load balancer to create scalable and highly-available Selenium cluster.
 * [Selenoid](https://github.com/aandryashin/selenoid) - alternative Selenium Hub running browsers within containers.
