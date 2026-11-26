@@ -57,6 +57,7 @@ Also:
 * [Browserstack](http://www.browserstack.com/) - Online tool which allows users to test their website from different browsers. The list of supported browsers includes Google Chrome, Internet Explorer, Opera and Safari. This even includes different browser versions as well including the beta versions as well. With Browserstack, you can test every aspect of your website like flash, CSS, Java and more.
 * [Perfecto](https://www.perfecto.io/) Perfecto Is the Leading Testing Platform for Web & Mobile Apps
 * [Kobiton](https://kobiton.com/) The only AI-infused real device testing platform built to accelerate your app delivery timeline from development to release.
+* [Chromium Builds](https://github.com/holtdroid/chromium-builds) - Unofficial Chromium browser and Android WebView APKs for every Chromium milestone since 83, built from release tags with H.264, AAC and HEVC enabled, for installing a specific browser or WebView version on Android emulators and test devices. The browser installs next to Chrome, the APKs are debuggable and never auto-update, and every APK is listed with its SHA-256 in a JSON index for CI.
 
 ## Continuous Integration
 
